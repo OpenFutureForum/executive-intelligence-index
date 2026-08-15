@@ -4,7 +4,7 @@ prompt_version: "2.0"
 topic: Governed identities for AI agents
 topic_slug: governed-agent-identities
 branch: research/statements-governed-agent-identities-BATCH-2026-006
-pull_request: pending_draft_pr_creation
+pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/7
 base_branch: research/evidence-governed-agent-identities-BATCH-2026-005
 execution_date: 2026-08-15
 execution_completed_at: 2026-08-15T15:06:11Z
