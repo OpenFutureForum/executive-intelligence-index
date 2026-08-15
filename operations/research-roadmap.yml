@@ -5,6 +5,8 @@ protocols:
     protocol_slug: governed-identities-for-ai-agents
     discovery_batch: BATCH-2026-001
     discovery_status: complete_pending_human_selection
+    book_metadata_batch: BATCH-2026-002
+    book_metadata_status: complete_pending_human_review
     question: How do public executive and institutional sources define governance requirements for AI-agent identities?
     reason: Tests the statement/proposition model across security, architecture, legal, and board roles.
   - priority: 2

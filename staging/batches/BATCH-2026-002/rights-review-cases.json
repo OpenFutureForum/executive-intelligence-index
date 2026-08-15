@@ -1,0 +1,86 @@
+{
+  "batch_id": "BATCH-2026-002",
+  "cases": [
+    {
+      "case_id": "rights-001",
+      "book_work_id": "book-work-BATCH-2026-002-001",
+      "status": "clear_for_analysis_under_license",
+      "access_basis": "full_text_lawfully_accessed",
+      "license": "CC BY 4.0",
+      "publication_permission": "License permits reuse with attribution; repository quotation policy still applies.",
+      "human_review_status": "pending"
+    },
+    {
+      "case_id": "rights-002",
+      "book_work_id": "book-work-BATCH-2026-002-005",
+      "status": "analysis_access_clear_republication_limited",
+      "access_basis": "full_text_lawfully_accessed",
+      "license": null,
+      "publication_permission": "Complete official text is publicly readable, but no open license was found; use metadata, links, original paraphrase, and brief necessary quotation only.",
+      "human_review_status": "pending"
+    },
+    {
+      "case_id": "rights-003",
+      "book_work_id": "book-work-BATCH-2026-002-002",
+      "status": "metadata_and_limited_preview_only",
+      "access_basis": "authorized_preview",
+      "license": null,
+      "publication_permission": "Metadata and links only unless a later rights review records lawful full-text access and quotation basis.",
+      "human_review_status": "pending"
+    },
+    {
+      "case_id": "rights-004",
+      "book_work_id": "book-work-BATCH-2026-002-003",
+      "status": "metadata_and_limited_preview_only",
+      "access_basis": "authorized_preview",
+      "license": null,
+      "publication_permission": "Metadata and links only unless a later rights review records lawful full-text access and quotation basis.",
+      "human_review_status": "pending"
+    },
+    {
+      "case_id": "rights-005",
+      "book_work_id": "book-work-BATCH-2026-002-004",
+      "status": "metadata_and_limited_preview_only",
+      "access_basis": "authorized_preview",
+      "license": null,
+      "publication_permission": "Metadata and links only unless a later rights review records lawful full-text access and quotation basis.",
+      "human_review_status": "pending"
+    },
+    {
+      "case_id": "rights-006",
+      "book_work_id": "book-work-BATCH-2026-002-006",
+      "status": "metadata_and_limited_preview_only",
+      "access_basis": "authorized_preview",
+      "license": null,
+      "publication_permission": "Metadata and links only unless a later rights review records lawful full-text access and quotation basis.",
+      "human_review_status": "pending"
+    },
+    {
+      "case_id": "rights-007",
+      "book_work_id": "book-work-BATCH-2026-002-007",
+      "status": "metadata_and_limited_preview_only",
+      "access_basis": "table_of_contents_only",
+      "license": null,
+      "publication_permission": "Metadata and links only unless a later rights review records lawful full-text access and quotation basis.",
+      "human_review_status": "pending"
+    },
+    {
+      "case_id": "rights-008",
+      "book_work_id": "book-work-BATCH-2026-002-008",
+      "status": "metadata_and_limited_preview_only",
+      "access_basis": "table_of_contents_only",
+      "license": null,
+      "publication_permission": "Metadata and links only unless a later rights review records lawful full-text access and quotation basis.",
+      "human_review_status": "pending"
+    },
+    {
+      "case_id": "rights-009",
+      "book_work_id": "book-work-BATCH-2026-002-009",
+      "status": "metadata_and_limited_preview_only",
+      "access_basis": "authorized_preview",
+      "license": null,
+      "publication_permission": "Metadata and links only unless a later rights review records lawful full-text access and quotation basis.",
+      "human_review_status": "pending"
+    }
+  ]
+}

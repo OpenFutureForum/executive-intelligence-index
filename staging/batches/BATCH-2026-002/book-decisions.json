@@ -1,0 +1,92 @@
+[
+  {
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "accepted_candidate_id": "candidate-BATCH-2026-001-095",
+    "decision": "deep_analysis_ready",
+    "analysis_basis": "full_text_lawfully_accessed",
+    "analysis_depth": "catalogued",
+    "complete_lawful_access": true,
+    "human_review_status": "pending",
+    "reason": "Exact edition and complete lawful access are documented; no deep analysis has yet been performed."
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-002",
+    "accepted_candidate_id": "candidate-BATCH-2026-001-096",
+    "decision": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "analysis_depth": "catalogued",
+    "complete_lawful_access": false,
+    "human_review_status": "pending",
+    "reason": "Bibliographic identity is sufficiently stable for cataloguing, but complete lawful access and whole-work review are absent."
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-003",
+    "accepted_candidate_id": "candidate-BATCH-2026-001-097",
+    "decision": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "analysis_depth": "catalogued",
+    "complete_lawful_access": false,
+    "human_review_status": "pending",
+    "reason": "Bibliographic identity is sufficiently stable for cataloguing, but complete lawful access and whole-work review are absent."
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-004",
+    "accepted_candidate_id": "candidate-BATCH-2026-001-098",
+    "decision": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "analysis_depth": "catalogued",
+    "complete_lawful_access": false,
+    "human_review_status": "pending",
+    "reason": "Bibliographic identity is sufficiently stable for cataloguing, but complete lawful access and whole-work review are absent."
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "accepted_candidate_id": "candidate-BATCH-2026-001-099",
+    "decision": "deep_analysis_ready",
+    "analysis_basis": "full_text_lawfully_accessed",
+    "analysis_depth": "catalogued",
+    "complete_lawful_access": true,
+    "human_review_status": "pending",
+    "reason": "Exact edition and complete lawful access are documented; no deep analysis has yet been performed."
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-006",
+    "accepted_candidate_id": "candidate-BATCH-2026-001-100",
+    "decision": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "analysis_depth": "catalogued",
+    "complete_lawful_access": false,
+    "human_review_status": "pending",
+    "reason": "Bibliographic identity is sufficiently stable for cataloguing, but complete lawful access and whole-work review are absent."
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-007",
+    "accepted_candidate_id": "candidate-BATCH-2026-001-101",
+    "decision": "catalogued",
+    "analysis_basis": "table_of_contents_only",
+    "analysis_depth": "catalogued",
+    "complete_lawful_access": false,
+    "human_review_status": "pending",
+    "reason": "Bibliographic identity is sufficiently stable for cataloguing, but complete lawful access and whole-work review are absent."
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-008",
+    "accepted_candidate_id": null,
+    "decision": "identity_review_required",
+    "analysis_basis": "table_of_contents_only",
+    "analysis_depth": "catalogued",
+    "complete_lawful_access": false,
+    "human_review_status": "pending",
+    "reason": "Material revision may constitute a separate intellectual work; human decision required."
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-009",
+    "accepted_candidate_id": "candidate-BATCH-2026-001-102",
+    "decision": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "analysis_depth": "catalogued",
+    "complete_lawful_access": false,
+    "human_review_status": "pending",
+    "reason": "Bibliographic identity is sufficiently stable for cataloguing, but complete lawful access and whole-work review are absent."
+  }
+]
