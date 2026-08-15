@@ -1,0 +1,81 @@
+batch_id: BATCH-2026-004
+prompt_id: OEII-MEDIA-RESEARCH
+prompt_version: "2.0"
+topic: governed identities for AI agents
+topic_slug: governed-agent-identities
+research_question: How do public executive and institutional sources define governance requirements for AI-agent identities?
+branch: research/media-governed-agent-identities-BATCH-2026-004
+base_branch: research/discovery-governed-agent-identities-BATCH-2026-001
+base_pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/2
+pull_request: pending
+executed_at: 2026-08-15
+agent_or_researcher: OpenAI Codex; machine-assisted media analysis; human review pending
+model_disclosure: AI-assisted source verification, transcript-aware analysis, and statement extraction; no publication approval occurred.
+accepted_media_candidate_ids:
+  - candidate-BATCH-2026-001-104
+  - candidate-BATCH-2026-001-106
+  - candidate-BATCH-2026-001-107
+  - candidate-BATCH-2026-001-109
+  - candidate-BATCH-2026-001-110
+source_counts:
+  considered: 5
+  accepted: 2
+  held: 3
+  rejected: 0
+  OFF_owned: 0
+  third_party: 5
+identified_people: 9
+accepted_source_speakers: 4
+ambiguous_statement_speakers: 0
+statement_candidates: 18
+company_reported_outcomes: 0
+full_transcripts_permitted_for_publication: 0
+transcript_rights_issues: 2
+duplicate_or_repost_groups: 2
+production_records_created: 0
+workflow_status: statements_extracted
+machine_review_status: ready_for_human_review
+human_review_status: pending
+reviewed_by: null
+reviewed_at: null
+output_files:
+  - manifest.yml
+  - media-decisions.json
+  - source-proposals.json
+  - held-source-identities.json
+  - person-candidates.json
+  - speaker-at-source-time.json
+  - organization-reference-proposals.json
+  - source-analyses.json
+  - chapter-records.json
+  - statement-candidates.json
+  - related-book-candidates.json
+  - related-report-candidates.json
+  - rights-review-records.json
+  - speaker-attribution-review.csv
+  - chapter-validation.csv
+  - statement-review.csv
+  - duplicate-reposts.json
+  - rights-review.md
+  - limitations.md
+  - validation-results.md
+validation_commands:
+  - node --import tsx scripts/cli.ts validate data
+  - node --import tsx scripts/cli.ts validate provenance
+  - node --import tsx scripts/cli.ts validate attributions
+  - node --import tsx scripts/cli.ts validate statements
+  - node --import tsx scripts/cli.ts validate rights
+  - node --import tsx scripts/cli.ts validate publication
+  - npm test
+  - git diff --check
+validation_results:
+  - PASS; 2 source, 9 person, 18 statement, and 12 organization-reference proposals conform to their canonical schemas.
+  - PASS; all 29 chapters are continuous, non-overlapping, speaker-referenced, and within verified recording durations.
+  - PASS; statement locators, source and person references, ownership, transcript rights, canonical URL uniqueness, duplicate groups, abstract separation, and staging isolation.
+  - PASS; repository data, provenance, attribution, statement, source-locator, rights, review-status, publication, and content gates.
+  - PASS; 24 unit tests, typecheck, lint, and whitespace validation.
+limitations:
+  - Three discovery-approved candidates had no publicly accessible recording and remain held without statements.
+  - Both accepted recordings are third-party and permit link-and-paraphrase treatment only; research transcripts are not publication assets.
+  - The accepted set contains one independent podcast and one vendor product webinar, with no OFF-owned media.
+next_action: Human reviewers should resolve transcript and statement review, then locate canonical recordings for the three held sources before any production promotion.
