@@ -7,5 +7,5 @@ export default defineConfig({
     port: 4173,
     reuseExistingServer: true
   },
-  use: { baseURL: 'http://127.0.0.1:4173/executive-intelligence-index', headless: true }
+  use: { baseURL: 'http://127.0.0.1:4173/executive-intelligence-index/', headless: true }
 });
