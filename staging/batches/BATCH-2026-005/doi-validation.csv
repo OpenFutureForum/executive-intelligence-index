@@ -1,0 +1,10 @@
+source_id,doi,validation_method,resolution_status,resolved_target,note
+source-BATCH-2026-005-001,not reported,canonical source metadata reviewed; no DOI asserted,not_applicable,not applicable,A plausible NIST-style DOI was not assigned because it resolved to a missing PDF and was absent from canonical metadata.
+source-BATCH-2026-005-002,10.6028/NIST.AI.600-1,HTTPS GET via doi.org on 2026-08-15,resolved_http_200,https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf,
+source-BATCH-2026-005-003,not reported,canonical source metadata reviewed; no DOI asserted,not_applicable,not applicable,
+source-BATCH-2026-005-004,not reported,canonical source metadata reviewed; no DOI asserted,not_applicable,not applicable,
+source-BATCH-2026-005-005,10.48550/arXiv.2510.25819,HTTPS GET via doi.org on 2026-08-15,resolved_http_200,https://arxiv.org/abs/2510.25819,
+source-BATCH-2026-005-006,10.48550/arXiv.2406.13352,HTTPS GET via doi.org on 2026-08-15,resolved_http_200,https://arxiv.org/abs/2406.13352,
+source-BATCH-2026-005-007,10.48550/arXiv.2410.02644,HTTPS GET via doi.org on 2026-08-15,resolved_http_200,https://arxiv.org/abs/2410.02644,
+source-BATCH-2026-005-008,10.48550/arXiv.2406.01637,HTTPS GET via doi.org on 2026-08-15,resolved_http_200,https://arxiv.org/abs/2406.01637,
+source-BATCH-2026-005-009,not reported,canonical source metadata reviewed; no DOI asserted,not_applicable,not applicable,

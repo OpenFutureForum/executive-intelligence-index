@@ -1,0 +1,110 @@
+[
+  {
+    "mapping_id": "mapping-BATCH-2026-005-001",
+    "source_id": "source-BATCH-2026-005-001",
+    "external_project_id": "executive-ai-research",
+    "external_snapshot_commit": "d205a6b2e6f4",
+    "match_status": "unmatched",
+    "external_record_id": null,
+    "ownership_status": "third_party",
+    "off_relationship": "none_identified",
+    "review_note": "Pinned snapshot manifest contains no production report records; no OFF-owned match can be asserted.",
+    "human_review_status": "pending"
+  },
+  {
+    "mapping_id": "mapping-BATCH-2026-005-002",
+    "source_id": "source-BATCH-2026-005-002",
+    "external_project_id": "executive-ai-research",
+    "external_snapshot_commit": "d205a6b2e6f4",
+    "match_status": "unmatched",
+    "external_record_id": null,
+    "ownership_status": "third_party",
+    "off_relationship": "none_identified",
+    "review_note": "Pinned snapshot manifest contains no production report records; no OFF-owned match can be asserted.",
+    "human_review_status": "pending"
+  },
+  {
+    "mapping_id": "mapping-BATCH-2026-005-003",
+    "source_id": "source-BATCH-2026-005-003",
+    "external_project_id": "executive-ai-research",
+    "external_snapshot_commit": "d205a6b2e6f4",
+    "match_status": "unmatched",
+    "external_record_id": null,
+    "ownership_status": "third_party",
+    "off_relationship": "none_identified",
+    "review_note": "Pinned snapshot manifest contains no production report records; no OFF-owned match can be asserted.",
+    "human_review_status": "pending"
+  },
+  {
+    "mapping_id": "mapping-BATCH-2026-005-004",
+    "source_id": "source-BATCH-2026-005-004",
+    "external_project_id": "executive-ai-research",
+    "external_snapshot_commit": "d205a6b2e6f4",
+    "match_status": "unmatched",
+    "external_record_id": null,
+    "ownership_status": "third_party",
+    "off_relationship": "none_identified",
+    "review_note": "Pinned snapshot manifest contains no production report records; no OFF-owned match can be asserted.",
+    "human_review_status": "pending"
+  },
+  {
+    "mapping_id": "mapping-BATCH-2026-005-005",
+    "source_id": "source-BATCH-2026-005-005",
+    "external_project_id": "executive-ai-research",
+    "external_snapshot_commit": "d205a6b2e6f4",
+    "match_status": "unmatched",
+    "external_record_id": null,
+    "ownership_status": "third_party",
+    "off_relationship": "none_identified",
+    "review_note": "Pinned snapshot manifest contains no production report records; no OFF-owned match can be asserted.",
+    "human_review_status": "pending"
+  },
+  {
+    "mapping_id": "mapping-BATCH-2026-005-006",
+    "source_id": "source-BATCH-2026-005-006",
+    "external_project_id": "executive-ai-research",
+    "external_snapshot_commit": "d205a6b2e6f4",
+    "match_status": "unmatched",
+    "external_record_id": null,
+    "ownership_status": "third_party",
+    "off_relationship": "none_identified",
+    "review_note": "Pinned snapshot manifest contains no production report records; no OFF-owned match can be asserted.",
+    "human_review_status": "pending"
+  },
+  {
+    "mapping_id": "mapping-BATCH-2026-005-007",
+    "source_id": "source-BATCH-2026-005-007",
+    "external_project_id": "executive-ai-research",
+    "external_snapshot_commit": "d205a6b2e6f4",
+    "match_status": "unmatched",
+    "external_record_id": null,
+    "ownership_status": "third_party",
+    "off_relationship": "none_identified",
+    "review_note": "Pinned snapshot manifest contains no production report records; no OFF-owned match can be asserted.",
+    "human_review_status": "pending"
+  },
+  {
+    "mapping_id": "mapping-BATCH-2026-005-008",
+    "source_id": "source-BATCH-2026-005-008",
+    "external_project_id": "executive-ai-research",
+    "external_snapshot_commit": "d205a6b2e6f4",
+    "match_status": "unmatched",
+    "external_record_id": null,
+    "ownership_status": "third_party",
+    "off_relationship": "none_identified",
+    "review_note": "Pinned snapshot manifest contains no production report records; no OFF-owned match can be asserted.",
+    "human_review_status": "pending"
+  },
+  {
+    "mapping_id": "mapping-BATCH-2026-005-009",
+    "source_id": "source-BATCH-2026-005-009",
+    "external_project_id": "executive-ai-research",
+    "external_snapshot_commit": "d205a6b2e6f4",
+    "match_status": "unmatched",
+    "external_record_id": null,
+    "ownership_status": "third_party",
+    "off_relationship": "none_identified",
+    "review_note": "Pinned snapshot manifest contains no production report records; no OFF-owned match can be asserted.",
+    "human_review_status": "pending"
+  }
+]
