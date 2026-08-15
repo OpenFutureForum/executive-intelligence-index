@@ -1,0 +1,193 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openfutureforum.github.io/executive-intelligence-index/schema/book-edition.schema.json",
+  "title": "Book Edition",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "book_edition_id",
+    "book_work_id",
+    "edition_title",
+    "language",
+    "source_used_for_analysis",
+    "access_basis",
+    "access_date",
+    "verification_status",
+    "provenance"
+  ],
+  "properties": {
+    "book_edition_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "book_work_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "edition_title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "publisher": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "imprint": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "publication_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "publication_country": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "language": {
+      "type": "string",
+      "minLength": 1
+    },
+    "translation_of": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "translator": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "format": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ISBN-10": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "ISBN-13": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "audiobook_identifier": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "audiobook_narrator": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "edition_statement": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "pagination": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "electronic_location_system": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_used_for_analysis": {
+      "type": "boolean"
+    },
+    "access_basis": {
+      "type": "string",
+      "minLength": 1
+    },
+    "access_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "metadata_sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "full_text_available_for_research": {
+      "type": [
+        "boolean",
+        "null"
+      ]
+    },
+    "publication_permission": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verification_status": {
+      "type": "string",
+      "minLength": 1
+    },
+    "workflow_status": {
+      "$ref": "common.schema.json#/$defs/workflowStatus"
+    },
+    "machine_review_status": {
+      "$ref": "common.schema.json#/$defs/machineReviewStatus"
+    },
+    "human_review_status": {
+      "$ref": "common.schema.json#/$defs/humanReviewStatus"
+    },
+    "reviewed_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reviewed_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "provenance": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "common.schema.json#/$defs/provenance"
+      }
+    },
+    "revision_history": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/revision"
+      }
+    }
+  }
+}

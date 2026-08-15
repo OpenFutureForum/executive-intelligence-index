@@ -1,0 +1,8 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import schemaIndex from '../../schema/schema-index.json';
+---
+<BaseLayout title="Data dictionary" type="Dataset" description="Canonical entity types, stable identifier fields, and JSON Schema links.">
+  <section class="page-hero compact"><p class="eyebrow">Machine-readable contracts</p><h1>Data dictionary</h1><p>Seventeen entity schemas keep source statements, propositions, synthesis, workflow, review, and release state distinct.</p></section>
+  <section class="section"><table><thead><tr><th>Entity</th><th>Stable ID field</th><th>Schema</th></tr></thead><tbody>{schemaIndex.schemas.map((schema) => <tr><td>{schema.entity}</td><td>{schema.id}</td><td><a href={`/executive-intelligence-index/data/schema/${schema.file}`}>{schema.file}</a></td></tr>)}</tbody></table></section>
+</BaseLayout>

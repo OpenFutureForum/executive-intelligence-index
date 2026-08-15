@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-08-14",
+  "schemas": [
+    {
+      "entity": "person",
+      "file": "person.schema.json",
+      "id": "person_id"
+    },
+    {
+      "entity": "organization-reference",
+      "file": "organization-reference.schema.json",
+      "id": "local_reference_id"
+    },
+    {
+      "entity": "book-work",
+      "file": "book-work.schema.json",
+      "id": "book_work_id"
+    },
+    {
+      "entity": "book-edition",
+      "file": "book-edition.schema.json",
+      "id": "book_edition_id"
+    },
+    {
+      "entity": "source",
+      "file": "source.schema.json",
+      "id": "source_id"
+    },
+    {
+      "entity": "statement",
+      "file": "statement.schema.json",
+      "id": "statement_id"
+    },
+    {
+      "entity": "proposition",
+      "file": "proposition.schema.json",
+      "id": "proposition_id"
+    },
+    {
+      "entity": "stance",
+      "file": "stance.schema.json",
+      "id": "stance_id"
+    },
+    {
+      "entity": "topic",
+      "file": "topic.schema.json",
+      "id": "topic_id"
+    },
+    {
+      "entity": "debate",
+      "file": "debate.schema.json",
+      "id": "debate_id"
+    },
+    {
+      "entity": "dossier",
+      "file": "dossier.schema.json",
+      "id": "dossier_id"
+    },
+    {
+      "entity": "trend-snapshot",
+      "file": "trend-snapshot.schema.json",
+      "id": "trend_snapshot_id"
+    },
+    {
+      "entity": "research-protocol",
+      "file": "research-protocol.schema.json",
+      "id": "protocol_id"
+    },
+    {
+      "entity": "research-batch",
+      "file": "research-batch.schema.json",
+      "id": "batch_id"
+    },
+    {
+      "entity": "review",
+      "file": "review.schema.json",
+      "id": "review_id"
+    },
+    {
+      "entity": "correction",
+      "file": "correction.schema.json",
+      "id": "correction_id"
+    },
+    {
+      "entity": "release",
+      "file": "release.schema.json",
+      "id": "release_id"
+    }
+  ]
+}

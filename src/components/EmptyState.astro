@@ -1,0 +1,11 @@
+---
+interface Props { noun: string; explanation: string; }
+const { noun, explanation } = Astro.props;
+---
+<section class="empty-state" aria-labelledby="empty-heading">
+  <p class="eyebrow">Research state</p>
+  <h2 id="empty-heading">No {noun} have passed publication review yet.</h2>
+  <p>{explanation}</p>
+  <p>Candidate records remain in local staging until source, rights, provenance, and review gates pass. Synthetic fixtures are never published.</p>
+  <a class="button secondary" href="/executive-intelligence-index/methodology/">Review the publication method</a>
+</section>

@@ -1,0 +1,10 @@
+# Verify that this observed account has repository write access before enabling branch protection.
+* @murraylovecode
+/schema/ @murraylovecode
+/METHODOLOGY.md @murraylovecode
+/EDITORIAL-INDEPENDENCE.md @murraylovecode
+/COPYRIGHT.md @murraylovecode
+/PRIVACY-AND-CONFIDENTIALITY.md @murraylovecode
+/data/ @murraylovecode
+/config/controlled-vocabularies.yml @murraylovecode
+/data/releases/ @murraylovecode

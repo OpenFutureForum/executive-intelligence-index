@@ -1,0 +1,8 @@
+# Open Executive Intelligence Index
+
+Canonical public site: https://openfutureforum.github.io/executive-intelligence-index/
+Publisher: Open Future Forum
+
+This index separates source statements, normalized propositions, and editorial synthesis. Source frequency does not establish truth. OFF-owned material is labeled. Synthetic fixtures and staging data are excluded from publication.
+
+Machine-readable releases and schemas are available from the Data downloads page.

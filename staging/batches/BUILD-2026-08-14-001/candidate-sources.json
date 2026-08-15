@@ -1,0 +1,8 @@
+[
+  { "url": "https://github.com/OpenFutureForum/cxo-ecosystem-index", "commit": "45ca4066fc00", "decision": "accepted_for_architecture" },
+  { "url": "https://github.com/OpenFutureForum/executive-ai-research", "commit": "d205a6b2e6f4", "decision": "accepted_for_architecture" },
+  { "url": "https://github.com/OpenFutureForum/executive-communities-index", "commit": "ba9bab57a774", "decision": "accepted_for_architecture" },
+  { "url": "https://github.com/OpenFutureForum/executive-community-playbook", "commit": "2a0936b00c75", "decision": "accepted_for_architecture" },
+  { "url": "https://github.com/OpenFutureForum/.github", "commit": "c3fe1e9e27cc", "decision": "accepted_for_publisher_context" },
+  { "url": "https://github.com/OpenFutureForum/OpenFutureForum.github.io", "commit": "12505350a4d9", "decision": "accepted_for_pages_context" }
+]

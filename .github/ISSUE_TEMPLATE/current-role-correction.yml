@@ -1,0 +1,45 @@
+name: "Current-role correction"
+description: "Submit one evidence-backed current-role correction for editorial review."
+title: "Current-role correction: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: "Submission does not guarantee inclusion. Do not include private source material, personal contact details, or copyrighted full text."
+  - type: textarea
+    id: field_1
+    attributes:
+      label: "Person record"
+    validations:
+      required: true
+  - type: textarea
+    id: field_2
+    attributes:
+      label: "Proposed current role"
+    validations:
+      required: true
+  - type: textarea
+    id: field_3
+    attributes:
+      label: "Official verification URL"
+    validations:
+      required: true
+  - type: textarea
+    id: field_4
+    attributes:
+      label: "Verified date"
+    validations:
+      required: true
+  - type: textarea
+    id: field_5
+    attributes:
+      label: "Historical role impact"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Submission confirmation
+      options:
+        - label: I have provided public evidence and disclosed relevant relationships.
+          required: true

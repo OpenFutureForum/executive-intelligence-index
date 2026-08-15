@@ -1,0 +1,16 @@
+queries:
+  - query: site:github.com/OpenFutureForum cxo-ecosystem-index
+    executed_at: 2026-08-14
+    outcome: General web search did not reliably surface the named repository; direct GitHub URL was used.
+  - query: site:github.com/OpenFutureForum executive-ai-research
+    executed_at: 2026-08-14
+    outcome: General web search results were insufficient; direct GitHub URL was used.
+  - query: site:github.com/OpenFutureForum executive-communities-index executive-community-playbook
+    executed_at: 2026-08-14
+    outcome: General results included unrelated content; direct named repositories were used.
+  - query: site:github.com/OpenFutureForum OpenFutureForum.github.io .github
+    executed_at: 2026-08-14
+    outcome: Direct named repositories were used.
+direct_inspection:
+  method: Public read-only shallow clones of the named official repositories.
+  verified_at: 2026-08-14

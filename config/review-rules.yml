@@ -1,0 +1,13 @@
+schema_version: 1.0.0
+automation:
+  permitted_human_statuses: [not_reviewed, pending]
+  prohibited_human_statuses: [approved, rejected]
+  permitted_machine_statuses: [not_started, machine_drafted, machine_checked, second_agent_checked, issues_found, ready_for_human_review]
+high_impact_sample:
+  independent_check_rate: 1.0
+  types: [deeply_analyzed_book, debate, dossier, trend_snapshot]
+publication:
+  staging_allowed: false
+  internal_review_notes_allowed: false
+  unresolved_rights_allowed: false
+  unresolved_privacy_allowed: false

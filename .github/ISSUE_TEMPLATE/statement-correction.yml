@@ -1,0 +1,45 @@
+name: "Statement correction"
+description: "Submit one evidence-backed statement correction for editorial review."
+title: "Statement correction: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: "Submission does not guarantee inclusion. Do not include private source material, personal contact details, or copyrighted full text."
+  - type: textarea
+    id: field_1
+    attributes:
+      label: "Statement ID"
+    validations:
+      required: true
+  - type: textarea
+    id: field_2
+    attributes:
+      label: "Proposed correction"
+    validations:
+      required: true
+  - type: textarea
+    id: field_3
+    attributes:
+      label: "Canonical source URL"
+    validations:
+      required: true
+  - type: textarea
+    id: field_4
+    attributes:
+      label: "Exact locator"
+    validations:
+      required: true
+  - type: textarea
+    id: field_5
+    attributes:
+      label: "Attribution or scope issue"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Submission confirmation
+      options:
+        - label: I have provided public evidence and disclosed relevant relationships.
+          required: true

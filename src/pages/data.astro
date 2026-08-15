@@ -1,0 +1,18 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Data downloads" description="Machine-readable schemas, exports, checksums, release manifests, citation files, and data dictionaries.">
+  <section class="page-hero compact"><p class="eyebrow">Open data infrastructure</p><h1>Data downloads</h1><p>Each published release includes deterministic JSON, CSV, NDJSON, GraphML, citations, checksums, and a fingerprint. Empty exports are explicit before approved research exists.</p></section>
+  <section class="section">
+    <table><thead><tr><th>Artifact</th><th>Purpose</th><th>Link</th></tr></thead><tbody>
+      <tr><td>JSON catalogue</td><td>Canonical public records by entity type</td><td><a data-event="data_download" data-event-value="catalog.json" href="/executive-intelligence-index/data/catalog.json">Download</a></td></tr>
+      <tr><td>NDJSON</td><td>One public record per line</td><td><a data-event="data_download" data-event-value="catalog.ndjson" href="/executive-intelligence-index/data/catalog.ndjson">Download</a></td></tr>
+      <tr><td>GraphML</td><td>Accessible relationship export companion</td><td><a data-event="data_download" data-event-value="graph.graphml" href="/executive-intelligence-index/data/graph.graphml">Download</a></td></tr>
+      <tr><td>Release manifest</td><td>Counts, checksums, versions, and fingerprint</td><td><a data-event="data_download" data-event-value="release-manifest.json" href="/executive-intelligence-index/data/release-manifest.json">Download</a></td></tr>
+      <tr><td>Schema index</td><td>JSON Schema 2020-12 contracts</td><td><a href="/executive-intelligence-index/data/schema-index.json">Inspect</a></td></tr>
+      <tr><td>Data dictionary</td><td>Entity purposes and stable ID fields</td><td><a href="/executive-intelligence-index/data-dictionary/">Read</a></td></tr>
+      <tr><td>Relationship view</td><td>Accessible statement-to-proposition table</td><td><a href="/executive-intelligence-index/relationships/">Explore</a></td></tr>
+      <tr><td>Citation</td><td>CFF citation metadata</td><td><a data-event="citation_copy" href="/executive-intelligence-index/CITATION.cff">Download</a></td></tr>
+    </tbody></table>
+  </section>
+</BaseLayout>
