@@ -4,9 +4,10 @@ prompt_version: "2.0"
 topic: Governed identities for AI agents
 topic_slug: governed-agent-identities
 branch: research/evidence-governed-agent-identities-BATCH-2026-005
-pull_request: null
+pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/6
 base_branch: research/discovery-governed-agent-identities-BATCH-2026-001
 execution_date: 2026-08-15
+execution_completed_at: 2026-08-15T13:31:00Z
 agent_or_researcher: OpenAI Codex; machine-assisted evidence review; human review pending
 model_disclosure: AI-assisted metadata verification, methodology coding, statistical-context review, PDF visual inspection, and statement drafting; no human approval or publication approval occurred.
 accepted_evidence_source_candidate_ids:
