@@ -1,0 +1,104 @@
+batch_id: BATCH-2026-006
+prompt_id: OEII-STATEMENT-CODING
+prompt_version: "2.0"
+topic: Governed identities for AI agents
+topic_slug: governed-agent-identities
+branch: research/statements-governed-agent-identities-BATCH-2026-006
+pull_request: pending_draft_pr_creation
+base_branch: research/evidence-governed-agent-identities-BATCH-2026-005
+execution_date: 2026-08-15
+execution_completed_at: 2026-08-15T15:06:11Z
+agent_or_researcher: OpenAI Codex; machine-assisted statement coding; named human review pending
+model_disclosure: AI-assisted eligibility review, close reading, neutral paraphrase drafting, attribution coding, locator checking, duplicate screening, and proposition-link suggestion; no human or publication approval occurred.
+source_ids:
+  - source-BATCH-2026-005-001
+  - source-BATCH-2026-005-002
+  - source-BATCH-2026-005-003
+  - source-BATCH-2026-005-004
+  - source-BATCH-2026-005-005
+  - source-BATCH-2026-005-006
+  - source-BATCH-2026-005-007
+  - source-BATCH-2026-005-008
+  - source-BATCH-2026-005-009
+sources_coded: 9
+sources_with_created_statements: 8
+duplicate_rendition_only_sources: 1
+statements_created: 46
+statements_held: 4
+ambiguous_attributions: 0
+disputed_claims: 0
+double_review_items_selected: 10
+unresolved_locators: 0
+required_report_counts:
+  factual_statements: 0
+  empirical_findings: 8
+  recommendations: 16
+  predictions: 0
+  company_reported_outcomes: 0
+statement_type_counts:
+  factual_assertion: 0
+  empirical_finding: 8
+  recommendation: 16
+  prediction: 0
+  opinion: 0
+  warning: 3
+  definition: 4
+  reported_experience: 0
+  case_study: 0
+  strategic_framework: 3
+  interpretation: 3
+  counterargument: 0
+  methodological_claim: 7
+  company_reported_outcome: 0
+  policy_position: 2
+required_review_status: human_review_pending
+workflow_status: statements_extracted
+machine_review_status: machine_checked
+human_review_status: pending
+output_files:
+  - statements.json
+  - source-eligibility.json
+  - source-statement-mappings.json
+  - person-statement-mappings.json
+  - book-statement-mappings.json
+  - ambiguous-attribution-queue.json
+  - manifest.yml
+  - statement-decisions.json
+  - attribution-review.csv
+  - locator-review.csv
+  - duplicate-statements.json
+  - double-review-sample.json
+  - proposition-link-candidates.json
+  - limitations.md
+  - validation-results.md
+validation_required:
+  - source eligibility
+  - statement schema
+  - locator reproducibility
+  - historical attribution and role separation
+  - exact and near-duplicate detection
+  - copied-language detection
+  - duration checks
+  - book-edition checks
+  - report-version checks
+  - factual-verification status
+  - provenance completeness
+  - staging leak isolation
+validation_commands:
+  - node work/statement-coding-2026-006/validate_batch.mjs
+  - node --import tsx scripts/cli.ts validate data
+  - node --import tsx scripts/cli.ts validate provenance
+  - node --import tsx scripts/cli.ts validate attributions
+  - node --import tsx scripts/cli.ts validate statements
+  - node --import tsx scripts/cli.ts validate propositions
+  - node --import tsx scripts/cli.ts validate book-editions
+  - node --import tsx scripts/cli.ts validate source-locators
+  - node --import tsx scripts/cli.ts validate rights
+  - node --import tsx scripts/cli.ts validate review-status
+  - node --import tsx scripts/cli.ts validate publication
+  - node --import tsx scripts/cli.ts validate content
+  - node --import tsx scripts/cli.ts audit duplicates
+  - node --import tsx scripts/cli.ts audit concentration
+  - node --import tsx scripts/cli.ts audit coverage
+  - npm test -- --run
+  - git diff --check
