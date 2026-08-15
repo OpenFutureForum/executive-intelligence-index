@@ -3,7 +3,7 @@ protocol_id: protocol-BATCH-2026-001
 prompt_id: OEII-TOPIC-DISCOVERY
 prompt_version: "2.0"
 branch: research/discovery-governed-agent-identities-BATCH-2026-001
-pull_request: null
+pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/2
 execution_started_at: 2026-08-15T10:34:21Z
 execution_completed_at: 2026-08-15T10:53:35Z
 agent_or_researcher: OpenAI Codex; machine-assisted discovery; human review pending
