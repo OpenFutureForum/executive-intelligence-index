@@ -1,0 +1,34 @@
+batch_id: BATCH-2026-001
+candidate_acceptance_is_publication_approval: false
+recommended_sequence:
+  - priority: 1
+    action: Resolve the 19-item hold queue with named human reviewers.
+    focus: dates, peer-review status, full-method access, episode identity, language, identity-specific relevance, and promotional dependence
+  - priority: 2
+    action: Select a balanced source subset for canonical source-record creation in a separate batch.
+    constraints: [no single vendor family dominance, sponsor disclosure retained, public-authority or independent corroboration for vendor claims, separate work and rendition identity]
+  - priority: 3
+    action: Run a legal and board-governance discovery batch.
+    queries: [agency and principal liability, delegated authority, evidentiary attribution, board oversight, audit committee controls, revocation and termination]
+  - priority: 4
+    action: Run sector-specific operator batches.
+    sectors: [healthcare and life sciences, financial services, critical infrastructure, public sector and defense, professional services]
+  - priority: 5
+    action: Extend geography and language coverage after controlled-vocabulary approval.
+    geographies: [India, Japan, South Korea, Brazil, Gulf states, continental Europe, Africa]
+  - priority: 6
+    action: Commission or locate independent empirical evidence.
+    measures: [agent inventory completeness, unique identity adoption, credential lifetime, privilege reduction, deprovisioning latency, human attribution, incident rates]
+  - priority: 7
+    action: Acquire primary OFF media only through a separately authorized interview or event workflow.
+    targets: [CISO operators, general counsel, board directors, regulators, standards authors, skeptical practitioners]
+selection_questions:
+  - Which candidates have stable canonical identity and sufficient access for full analysis?
+  - Which claims can be corroborated outside vendor-sponsored ecosystems?
+  - Which works provide genuine challenge rather than repeating the dominant identity-first thesis?
+  - Which sources can support role-, industry-, and geography-specific statements without overgeneralization?
+do_not_do:
+  - Do not treat candidate acceptance as source approval.
+  - Do not extract statements or create propositions in this batch.
+  - Do not copy full third-party text, transcripts, images, or book chapters.
+  - Do not suppress failed searches, sponsor relationships, draft status, or unresolved identity.

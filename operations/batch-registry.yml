@@ -7,3 +7,12 @@ batches:
     prompt_version: "2.0"
     human_review_status: pending
     publication_status: local_only
+  - batch_id: BATCH-2026-001
+    branch: research/discovery-governed-agent-identities-BATCH-2026-001
+    type: topic_discovery
+    protocol_id: protocol-BATCH-2026-001
+    prompt_id: OEII-TOPIC-DISCOVERY
+    prompt_version: "2.0"
+    candidate_counts: {considered: 120, accepted: 91, held: 19, rejected: 10}
+    human_review_status: pending
+    publication_status: staging_only

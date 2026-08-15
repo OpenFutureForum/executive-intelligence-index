@@ -1,0 +1,56 @@
+{
+  "batch_id": "BATCH-2026-001",
+  "generated_at": "2026-08-15",
+  "groups": [
+    {
+      "duplicate_group_id": "dup-001",
+      "normalized_work_identity": "NIST agent identity concept paper",
+      "retained_candidate_id": "candidate-BATCH-2026-001-001",
+      "rejected_candidate_ids": [
+        "candidate-BATCH-2026-001-111"
+      ],
+      "resolution": "Retain the most stable official landing page or distinct event identity; reject alternate rendition as a separate candidate.",
+      "human_review_status": "pending"
+    },
+    {
+      "duplicate_group_id": "dup-002",
+      "normalized_work_identity": "OWASP State of Agentic AI Security and Governance",
+      "retained_candidate_id": "candidate-BATCH-2026-001-022",
+      "rejected_candidate_ids": [
+        "candidate-BATCH-2026-001-112"
+      ],
+      "resolution": "Retain the most stable official landing page or distinct event identity; reject alternate rendition as a separate candidate.",
+      "human_review_status": "pending"
+    },
+    {
+      "duplicate_group_id": "dup-003",
+      "normalized_work_identity": "OWASP Multi-Agentic System Threat Modeling Guide",
+      "retained_candidate_id": "candidate-BATCH-2026-001-020",
+      "rejected_candidate_ids": [
+        "candidate-BATCH-2026-001-113"
+      ],
+      "resolution": "Retain the most stable official landing page or distinct event identity; reject alternate rendition as a separate candidate.",
+      "human_review_status": "pending"
+    },
+    {
+      "duplicate_group_id": "dup-004",
+      "normalized_work_identity": "Singapore Model AI Governance Framework for Agentic AI",
+      "retained_candidate_id": "candidate-BATCH-2026-001-031",
+      "rejected_candidate_ids": [
+        "candidate-BATCH-2026-001-114"
+      ],
+      "resolution": "Retain the most stable official landing page or distinct event identity; reject alternate rendition as a separate candidate.",
+      "human_review_status": "pending"
+    },
+    {
+      "duplicate_group_id": "dup-005",
+      "normalized_work_identity": "OpenID pre-IIW event artifact",
+      "retained_candidate_id": "candidate-BATCH-2026-001-106",
+      "rejected_candidate_ids": [
+        "candidate-BATCH-2026-001-115"
+      ],
+      "resolution": "Retain the most stable official landing page or distinct event identity; reject alternate rendition as a separate candidate.",
+      "human_review_status": "pending"
+    }
+  ]
+}

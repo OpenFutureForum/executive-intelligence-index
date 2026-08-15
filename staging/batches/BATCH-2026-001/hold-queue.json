@@ -1,0 +1,1182 @@
+[
+  {
+    "candidate_id": "candidate-BATCH-2026-001-003",
+    "title": "Announcing the AI Agent Standards Initiative",
+    "source_type": "essay",
+    "work_or_episode_identity": "Announcing the AI Agent Standards Initiative",
+    "author_or_speaker": "NIST",
+    "publisher": "NIST",
+    "publication_date": "2026-02",
+    "event_date": null,
+    "original_url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+    "canonical_url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "United States",
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel"
+    ],
+    "relevant_industries": [
+      "technology and cloud",
+      "critical infrastructure",
+      "regulated industries"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Official announcement overlaps the initiative page and may add little distinct evidence.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Official announcement overlaps the initiative page and may add little distinct evidence.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-008",
+    "title": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations",
+    "source_type": "research_report",
+    "work_or_episode_identity": "Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations",
+    "author_or_speaker": "NIST",
+    "publisher": "NIST",
+    "publication_date": "2025",
+    "event_date": null,
+    "original_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf",
+    "canonical_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "United States",
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel"
+    ],
+    "relevant_industries": [
+      "technology and cloud",
+      "critical infrastructure",
+      "regulated industries"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Strong security taxonomy but agent-identity contribution is indirect.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Strong security taxonomy but agent-identity contribution is indirect.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-018",
+    "title": "SPIFFE concepts overview",
+    "source_type": "other_approved",
+    "work_or_episode_identity": "SPIFFE concepts overview",
+    "author_or_speaker": "SPIFFE Project",
+    "publisher": "SPIFFE Project",
+    "publication_date": null,
+    "event_date": null,
+    "original_url": "https://spiffe.io/docs/latest/spiffe/concepts/",
+    "canonical_url": "https://spiffe.io/docs/latest/spiffe/concepts/",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cto",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "technology and cloud",
+      "critical infrastructure"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Useful orientation but largely duplicates individual specifications.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Useful orientation but largely duplicates individual specifications.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-023",
+    "title": "OWASP Cornucopia companion edition: Agentic AI",
+    "source_type": "other_approved",
+    "work_or_episode_identity": "OWASP Cornucopia companion edition: Agentic AI",
+    "author_or_speaker": "OWASP",
+    "publisher": "OWASP",
+    "publication_date": "2026",
+    "event_date": null,
+    "original_url": "https://cornucopia.owasp.org/cards/AAIJ",
+    "canonical_url": "https://cornucopia.owasp.org/cards/AAIJ",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cto"
+    ],
+    "relevant_industries": [
+      "technology and cloud",
+      "cross-industry enterprise"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Useful threat-elicitation tool, but evidentiary and identity depth are limited.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Useful threat-elicitation tool, but evidentiary and identity depth are limited.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-028",
+    "title": "EU AI Act Service Desk FAQ: applicability to AI agents",
+    "source_type": "public_policy_document",
+    "work_or_episode_identity": "EU AI Act Service Desk FAQ: applicability to AI agents",
+    "author_or_speaker": "European Commission",
+    "publisher": "European Commission",
+    "publication_date": "2026",
+    "event_date": null,
+    "original_url": "https://ai-act-service-desk.ec.europa.eu/en/faq?faq_category_id=69",
+    "canonical_url": "https://ai-act-service-desk.ec.europa.eu/en/faq?faq_category_id=69",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "European Union"
+    ],
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-ciso",
+      "role-cio",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "public sector and defense",
+      "regulated industries"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Authoritative legal context, but identity-specific guidance is limited.",
+    "diversity_contribution": [
+      "public-sector perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Authoritative legal context, but identity-specific guidance is limited.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-029",
+    "title": "Guidelines for general-purpose AI providers: FAQ",
+    "source_type": "public_policy_document",
+    "work_or_episode_identity": "Guidelines for general-purpose AI providers: FAQ",
+    "author_or_speaker": "European Commission",
+    "publisher": "European Commission",
+    "publication_date": "2025",
+    "event_date": null,
+    "original_url": "https://digital-strategy.ec.europa.eu/en/faqs/guidelines-obligations-general-purpose-ai-providers",
+    "canonical_url": "https://digital-strategy.ec.europa.eu/en/faqs/guidelines-obligations-general-purpose-ai-providers",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "European Union"
+    ],
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-ciso",
+      "role-cio",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "public sector and defense",
+      "regulated industries"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Useful provider-duty context with only indirect agent-identity relevance.",
+    "diversity_contribution": [
+      "public-sector perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Useful provider-duty context with only indirect agent-identity relevance.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-030",
+    "title": "Artificial Intelligence Act policy overview",
+    "source_type": "public_policy_document",
+    "work_or_episode_identity": "Artificial Intelligence Act policy overview",
+    "author_or_speaker": "Council of the European Union",
+    "publisher": "Council of the European Union",
+    "publication_date": "2024",
+    "event_date": null,
+    "original_url": "https://www.consilium.europa.eu/en/policies/artificial-intelligence-act/",
+    "canonical_url": "https://www.consilium.europa.eu/en/policies/artificial-intelligence-act/",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "European Union"
+    ],
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-ciso",
+      "role-cio",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "public sector and defense",
+      "regulated industries"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Authoritative but too general for identity-specific extraction without a legal mapping pass.",
+    "diversity_contribution": [
+      "public-sector perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Authoritative but too general for identity-specific extraction without a legal mapping pass.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-038",
+    "title": "Considerations in Autonomous Agents",
+    "source_type": "research_report",
+    "work_or_episode_identity": "Considerations in Autonomous Agents",
+    "author_or_speaker": "ENISA",
+    "publisher": "ENISA",
+    "publication_date": "2019",
+    "event_date": null,
+    "original_url": "https://www.enisa.europa.eu/publications/considerations-in-autonomous-agents",
+    "canonical_url": "https://www.enisa.europa.eu/publications/considerations-in-autonomous-agents",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "European Union"
+    ],
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-ciso",
+      "role-cio",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "public sector and defense",
+      "regulated industries"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Foundational European security view but outside the primary time window and predates current agent architectures.",
+    "diversity_contribution": [
+      "public-sector perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Foundational European security view but outside the primary time window and predates current agent architectures.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-039",
+    "title": "ENISA view on cybersecurity in the frontier AI era",
+    "source_type": "research_report",
+    "work_or_episode_identity": "ENISA view on cybersecurity in the frontier AI era",
+    "author_or_speaker": "ENISA",
+    "publisher": "ENISA",
+    "publication_date": "2026-07",
+    "event_date": null,
+    "original_url": "https://www.enisa.europa.eu/sites/default/files/2026-07/ENISA%20view%20on%20cybersecurity%20in%20the%20frontier%20AI%20era_en_0.pdf",
+    "canonical_url": "https://www.enisa.europa.eu/sites/default/files/2026-07/ENISA%20view%20on%20cybersecurity%20in%20the%20frontier%20AI%20era_en_0.pdf",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "European Union"
+    ],
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-ciso",
+      "role-cio",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "public sector and defense",
+      "regulated industries"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Current and authoritative, but agent identity requires targeted full-text review.",
+    "diversity_contribution": [
+      "public-sector perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Current and authoritative, but agent identity requires targeted full-text review.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-044",
+    "title": "AI governance discussion paper for social implementation",
+    "source_type": "public_policy_document",
+    "work_or_episode_identity": "AI governance discussion paper for social implementation",
+    "author_or_speaker": "METI Japan",
+    "publisher": "METI Japan",
+    "publication_date": "2026-03-31",
+    "event_date": null,
+    "original_url": "https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20260331_14.pdf",
+    "canonical_url": "https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20260331_14.pdf",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "Japan"
+    ],
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-ciso",
+      "role-cio",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "public sector and defense",
+      "regulated industries"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Geographically valuable official source; English-language and agent-identity coverage need human verification.",
+    "diversity_contribution": [
+      "public-sector perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Geographically valuable official source; English-language and agent-identity coverage need human verification.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-052",
+    "title": "AgentSecBench: Benchmarking Security of LLM Agents",
+    "source_type": "working_paper",
+    "work_or_episode_identity": "AgentSecBench: Benchmarking Security of LLM Agents",
+    "author_or_speaker": "Paper authors",
+    "publisher": "arXiv",
+    "publication_date": "2026-05",
+    "event_date": null,
+    "original_url": "https://arxiv.org/abs/2605.26269",
+    "canonical_url": "https://arxiv.org/abs/2605.26269",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-cto",
+      "role-ciso"
+    ],
+    "relevant_industries": [
+      "cross-industry research"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Potentially valuable new benchmark; peer-review and identity-specific results need verification.",
+    "diversity_contribution": [
+      "academic perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Potentially valuable new benchmark; peer-review and identity-specific results need verification.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q018",
+      "Q019",
+      "Q020",
+      "Q021",
+      "Q022",
+      "Q023",
+      "Q024"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-053",
+    "title": "The Layered Attack Surface of LLM-Based Agent Systems: A Survey",
+    "source_type": "working_paper",
+    "work_or_episode_identity": "The Layered Attack Surface of LLM-Based Agent Systems: A Survey",
+    "author_or_speaker": "Paper authors",
+    "publisher": "arXiv",
+    "publication_date": "2026-04",
+    "event_date": null,
+    "original_url": "https://arxiv.org/abs/2604.23338",
+    "canonical_url": "https://arxiv.org/abs/2604.23338",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-cto",
+      "role-ciso"
+    ],
+    "relevant_industries": [
+      "cross-industry research"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Current synthesis but very new and not specifically centered on identity.",
+    "diversity_contribution": [
+      "academic perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Current synthesis but very new and not specifically centered on identity.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q018",
+      "Q019",
+      "Q020",
+      "Q021",
+      "Q022",
+      "Q023",
+      "Q024"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-063",
+    "title": "LanG: A Capability-Based Authorization Model for LLM Agents",
+    "source_type": "working_paper",
+    "work_or_episode_identity": "LanG: A Capability-Based Authorization Model for LLM Agents",
+    "author_or_speaker": "Paper authors",
+    "publisher": "arXiv",
+    "publication_date": "2026-04",
+    "event_date": null,
+    "original_url": "https://arxiv.org/abs/2604.05440",
+    "canonical_url": "https://arxiv.org/abs/2604.05440",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-cto",
+      "role-ciso"
+    ],
+    "relevant_industries": [
+      "cross-industry research"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "documented_or_reviewable",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Promising capability model; recent preprint requires deeper technical review.",
+    "diversity_contribution": [
+      "academic perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Promising capability model; recent preprint requires deeper technical review.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q018",
+      "Q019",
+      "Q020",
+      "Q021",
+      "Q022",
+      "Q023",
+      "Q024"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-069",
+    "title": "The Rise and Risks of Agentic AI",
+    "source_type": "executive_survey",
+    "work_or_episode_identity": "The Rise and Risks of Agentic AI",
+    "author_or_speaker": "PwC",
+    "publisher": "PwC",
+    "publication_date": "2025-07-17",
+    "event_date": null,
+    "original_url": "https://www.pwc.com/us/en/industries/tmt/library/trust-and-safety-outlook/rise-and-risks-of-agentic-ai.html",
+    "canonical_url": "https://www.pwc.com/us/en/industries/tmt/library/trust-and-safety-outlook/rise-and-risks-of-agentic-ai.html",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-board-director",
+      "role-ceo"
+    ],
+    "relevant_industries": [
+      "cross-industry enterprise"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "partially_disclosed",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Useful executive trust data, but sample and methods require confirmation in the linked report.",
+    "diversity_contribution": [
+      "empirical evidence",
+      "sponsor-disclosed research"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Useful executive trust data, but sample and methods require confirmation in the linked report.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q036",
+      "Q037"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-090",
+    "title": "AI identity security compliance checklist",
+    "source_type": "other_approved",
+    "work_or_episode_identity": "AI identity security compliance checklist",
+    "author_or_speaker": "Okta",
+    "publisher": "Okta",
+    "publication_date": "2026-03",
+    "event_date": null,
+    "original_url": "https://www.okta.com/sites/default/files/2026-03/AI-identity-security-compliance-checklist.pdf",
+    "canonical_url": "https://www.okta.com/sites/default/files/2026-03/AI-identity-security-compliance-checklist.pdf",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto"
+    ],
+    "relevant_industries": [
+      "technology and cloud",
+      "cross-industry enterprise"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Potentially useful checklist but heavily product-adjacent and methodologically thin.",
+    "diversity_contribution": [
+      "vendor perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Potentially useful checklist but heavily product-adjacent and methodologically thin.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q025",
+      "Q026",
+      "Q027",
+      "Q028",
+      "Q029",
+      "Q030",
+      "Q031",
+      "Q032"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-093",
+    "title": "CyberArk Secure AI Agents",
+    "source_type": "other_approved",
+    "work_or_episode_identity": "CyberArk Secure AI Agents",
+    "author_or_speaker": "CyberArk",
+    "publisher": "CyberArk",
+    "publication_date": "2026",
+    "event_date": null,
+    "original_url": "https://www.cyberark.com/solutions/secure-agentic-ai/",
+    "canonical_url": "https://www.cyberark.com/solutions/secure-agentic-ai/",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto"
+    ],
+    "relevant_industries": [
+      "technology and cloud",
+      "cross-industry enterprise"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Relevant capabilities but solution page is promotional; retain for market-context review only.",
+    "diversity_contribution": [
+      "vendor perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Relevant capabilities but solution page is promotional; retain for market-context review only.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q025",
+      "Q026",
+      "Q027",
+      "Q028",
+      "Q029",
+      "Q030",
+      "Q031",
+      "Q032"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-103",
+    "title": "AI Engineering",
+    "source_type": "book",
+    "work_or_episode_identity": "AI Engineering",
+    "author_or_speaker": "Chip Huyen",
+    "publisher": "O’Reilly Media",
+    "publication_date": "2025",
+    "event_date": null,
+    "original_url": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+    "canonical_url": "https://www.oreilly.com/library/view/ai-engineering/9781098166298/",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cto",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "technology and cloud",
+      "cross-industry enterprise"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "official_metadata_only",
+    "rights_status": "metadata_and_link_only",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "not_applicable_metadata_only",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Important agent-building context, but identity contribution needs chapter-level access review.",
+    "diversity_contribution": [
+      "long-form perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Important agent-building context, but identity contribution needs chapter-level access review.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q033"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-105",
+    "title": "When the Client Is a Mind",
+    "source_type": "podcast_episode",
+    "work_or_episode_identity": "When the Client Is a Mind",
+    "author_or_speaker": "OpenID Foundation speakers",
+    "publisher": "OpenID Foundation",
+    "publication_date": "2025-10",
+    "event_date": null,
+    "original_url": "https://openid.net/cg/artificial-intelligence-identity-management-community-group/",
+    "canonical_url": "https://openid.net/cg/artificial-intelligence-identity-management-community-group/",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry enterprise"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_media_or_event_metadata",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Official listing confirms the episode, but a stable episode-level canonical URL remains unresolved.",
+    "diversity_contribution": [
+      "primary spoken perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Official listing confirms the episode, but a stable episode-level canonical URL remains unresolved.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q034",
+      "Q035"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-108",
+    "title": "Finding Shadow AI Agents — and the Identities Behind Them",
+    "source_type": "event_recording",
+    "work_or_episode_identity": "Finding Shadow AI Agents — and the Identities Behind Them",
+    "author_or_speaker": "Cloud Security Alliance webinar speakers",
+    "publisher": "Cloud Security Alliance",
+    "publication_date": "2025-07-24",
+    "event_date": "2025-07-24",
+    "original_url": "https://cloudsecurityalliance.org/events/webinars?event_topic=zero-trust&page=3",
+    "canonical_url": "https://cloudsecurityalliance.org/events/webinars?event_topic=zero-trust&page=3",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry enterprise"
+    ],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_media_or_event_metadata",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Official webinar listing is relevant, but the episode-level recording URL and speaker metadata need resolution.",
+    "diversity_contribution": [
+      "primary spoken perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "hold",
+    "reason": "Official webinar listing is relevant, but the episode-level recording URL and speaker metadata need resolution.",
+    "next_research_action": "Resolve the stated metadata, relevance, access, or methodological question before selection.",
+    "search_query_ids": [
+      "Q034",
+      "Q035"
+    ]
+  }
+]
