@@ -1,0 +1,706 @@
+[
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "statement_id": "statement-BATCH-2026-006-015",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "statement_id": "statement-BATCH-2026-006-015",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "statement_id": "statement-BATCH-2026-006-016",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "statement_id": "statement-BATCH-2026-006-016",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "statement_id": "statement-BATCH-2026-006-017",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "statement_id": "statement-BATCH-2026-006-017",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "statement_id": "statement-BATCH-2026-006-018",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "statement_id": "statement-BATCH-2026-006-018",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "statement_id": "statement-BATCH-2026-006-019",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "statement_id": "statement-BATCH-2026-006-019",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "statement_id": "statement-BATCH-2026-006-020",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "statement_id": "statement-BATCH-2026-006-020",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "statement_id": "statement-BATCH-2026-006-021",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "statement_id": "statement-BATCH-2026-006-021",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "statement_id": "statement-BATCH-2026-006-022",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "statement_id": "statement-BATCH-2026-006-022",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "statement_id": "statement-BATCH-2026-006-022",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "statement_id": "statement-BATCH-2026-006-022",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-marc-fischer",
+    "statement_id": "statement-BATCH-2026-006-022",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "statement_id": "statement-BATCH-2026-006-022",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "statement_id": "statement-BATCH-2026-006-023",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "statement_id": "statement-BATCH-2026-006-023",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "statement_id": "statement-BATCH-2026-006-023",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "statement_id": "statement-BATCH-2026-006-023",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-marc-fischer",
+    "statement_id": "statement-BATCH-2026-006-023",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "statement_id": "statement-BATCH-2026-006-023",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "statement_id": "statement-BATCH-2026-006-024",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "statement_id": "statement-BATCH-2026-006-024",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "statement_id": "statement-BATCH-2026-006-024",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "statement_id": "statement-BATCH-2026-006-024",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-marc-fischer",
+    "statement_id": "statement-BATCH-2026-006-024",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "statement_id": "statement-BATCH-2026-006-024",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "statement_id": "statement-BATCH-2026-006-025",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "statement_id": "statement-BATCH-2026-006-025",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "statement_id": "statement-BATCH-2026-006-025",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "statement_id": "statement-BATCH-2026-006-025",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-marc-fischer",
+    "statement_id": "statement-BATCH-2026-006-025",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "statement_id": "statement-BATCH-2026-006-025",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "statement_id": "statement-BATCH-2026-006-026",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "statement_id": "statement-BATCH-2026-006-026",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "statement_id": "statement-BATCH-2026-006-026",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "statement_id": "statement-BATCH-2026-006-026",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-marc-fischer",
+    "statement_id": "statement-BATCH-2026-006-026",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "statement_id": "statement-BATCH-2026-006-026",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "statement_id": "statement-BATCH-2026-006-027",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "statement_id": "statement-BATCH-2026-006-027",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "statement_id": "statement-BATCH-2026-006-027",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "statement_id": "statement-BATCH-2026-006-027",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-marc-fischer",
+    "statement_id": "statement-BATCH-2026-006-027",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "statement_id": "statement-BATCH-2026-006-027",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "statement_id": "statement-BATCH-2026-006-028",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "statement_id": "statement-BATCH-2026-006-028",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-kai-mei",
+    "statement_id": "statement-BATCH-2026-006-028",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "statement_id": "statement-BATCH-2026-006-028",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "statement_id": "statement-BATCH-2026-006-029",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "statement_id": "statement-BATCH-2026-006-029",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-kai-mei",
+    "statement_id": "statement-BATCH-2026-006-029",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "statement_id": "statement-BATCH-2026-006-029",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "statement_id": "statement-BATCH-2026-006-030",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "statement_id": "statement-BATCH-2026-006-030",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-kai-mei",
+    "statement_id": "statement-BATCH-2026-006-030",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "statement_id": "statement-BATCH-2026-006-030",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "statement_id": "statement-BATCH-2026-006-031",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "statement_id": "statement-BATCH-2026-006-031",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-kai-mei",
+    "statement_id": "statement-BATCH-2026-006-031",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "statement_id": "statement-BATCH-2026-006-031",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "statement_id": "statement-BATCH-2026-006-032",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "statement_id": "statement-BATCH-2026-006-032",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-kai-mei",
+    "statement_id": "statement-BATCH-2026-006-032",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "statement_id": "statement-BATCH-2026-006-032",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "statement_id": "statement-BATCH-2026-006-033",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "statement_id": "statement-BATCH-2026-006-033",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "statement_id": "statement-BATCH-2026-006-033",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "statement_id": "statement-BATCH-2026-006-034",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "statement_id": "statement-BATCH-2026-006-034",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "statement_id": "statement-BATCH-2026-006-034",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "statement_id": "statement-BATCH-2026-006-035",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "statement_id": "statement-BATCH-2026-006-035",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "statement_id": "statement-BATCH-2026-006-035",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "statement_id": "statement-BATCH-2026-006-036",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "statement_id": "statement-BATCH-2026-006-036",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "statement_id": "statement-BATCH-2026-006-036",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "statement_id": "statement-BATCH-2026-006-037",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "statement_id": "statement-BATCH-2026-006-037",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "statement_id": "statement-BATCH-2026-006-037",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "statement_id": "statement-BATCH-2026-006-038",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "statement_id": "statement-BATCH-2026-006-038",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "statement_id": "statement-BATCH-2026-006-038",
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "verification_basis": "Inherited BATCH-2026-006 joint-source-byline mapping; person identity verified in BATCH-2026-007.",
+    "human_review_status": "pending"
+  }
+]

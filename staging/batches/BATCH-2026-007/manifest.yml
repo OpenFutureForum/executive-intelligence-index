@@ -1,0 +1,71 @@
+batch_id: BATCH-2026-007
+prompt_id: OEII-PERSON-RESEARCH
+prompt_version: "2.0"
+topic: Governed identities for AI agents
+topic_slug: governed-agent-identities
+branch: research/people-BATCH-2026-007
+pull_request: pending
+base_branch: research/statements-governed-agent-identities-BATCH-2026-006
+execution_date: 2026-08-15
+execution_completed_at: 2026-08-15T22:30:00Z
+agent_or_researcher: OpenAI Codex; machine-assisted identity and professional-role research; named human review pending
+model_disclosure: AI-assisted author disambiguation, official-profile retrieval, current-role freshness checks, source-time role separation, relationship mapping, duplicate screening, and publication-threshold assessment; no human or publication approval occurred.
+people_targeted: 15
+people_verified: 15
+new_identities: 15
+merged_duplicates: 0
+unresolved_identities: 0
+current_roles_verified: 13
+current_roles_unresolved: 2
+historical_role_relationships_verified: 13
+historical_role_relationships_affiliation_unreported: 4
+public_profile_eligible: 0
+dataset_only: 15
+off_related: 0
+disclosure_issues: 0
+position_changes_requiring_review: 0
+workflow_status: metadata_verified
+machine_review_status: ready_for_human_review
+human_review_status: pending
+output_files:
+  - people.json
+  - person-decisions.json
+  - current-role-verification.csv
+  - historical-role-review.csv
+  - identity-conflicts.json
+  - public-profile-eligibility.csv
+  - off-disclosures.csv
+  - limitations.md
+  - person-aliases.json
+  - external-identifiers.json
+  - current-role-records.json
+  - role-at-source-time.json
+  - author-source-relationships.json
+  - person-statement-relationships.json
+  - intellectual-contribution-profiles.json
+  - position-changes.json
+  - validation-results.md
+validation_required:
+  - person schema
+  - duplicate names
+  - alias and external-ID collision
+  - current-role freshness
+  - historical role and source-time separation
+  - authorship and statement attribution
+  - OFF disclosure
+  - public-profile threshold
+  - privacy and confidentiality
+  - provenance completeness
+  - staging leak isolation
+validation_commands:
+  - node work/person-research-2026-007/build.mjs
+  - node work/person-research-2026-007/validate_batch.mjs
+  - node --import tsx scripts/cli.ts validate data
+  - node --import tsx scripts/cli.ts validate provenance
+  - node --import tsx scripts/cli.ts validate attributions
+  - node --import tsx scripts/cli.ts validate review-status
+  - node --import tsx scripts/cli.ts validate publication
+  - node --import tsx scripts/cli.ts validate content
+  - node --import tsx scripts/cli.ts audit duplicates
+  - npm test -- --run
+  - git diff --check

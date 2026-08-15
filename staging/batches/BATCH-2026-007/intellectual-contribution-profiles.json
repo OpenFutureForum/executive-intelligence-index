@@ -1,0 +1,349 @@
+[
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "canonical_name": "Edoardo Debenedetti",
+    "indexed_contribution_scope": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "canonical_name": "Jie Zhang",
+    "indexed_contribution_scope": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "canonical_name": "Mislav Balunović",
+    "indexed_contribution_scope": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "canonical_name": "Luca Beurer-Kellner",
+    "indexed_contribution_scope": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-marc-fischer",
+    "canonical_name": "Marc Fischer",
+    "indexed_contribution_scope": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "canonical_name": "Florian Tramèr",
+    "indexed_contribution_scope": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "canonical_name": "Hanrong Zhang",
+    "indexed_contribution_scope": [
+      "AI agent security benchmarking",
+      "agent attack and defense evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-031",
+      "statement-BATCH-2026-006-032"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "canonical_name": "Jingyuan Huang",
+    "indexed_contribution_scope": [
+      "AI agent security benchmarking",
+      "agent attack and defense evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-031",
+      "statement-BATCH-2026-006-032"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-kai-mei",
+    "canonical_name": "Kai Mei",
+    "indexed_contribution_scope": [
+      "AI agent security benchmarking",
+      "agent attack and defense evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-031",
+      "statement-BATCH-2026-006-032"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "canonical_name": "Yongfeng Zhang",
+    "indexed_contribution_scope": [
+      "AI agent security benchmarking",
+      "agent attack and defense evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-031",
+      "statement-BATCH-2026-006-032"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "canonical_name": "Yuxuan Zhu",
+    "indexed_contribution_scope": [
+      "AI red-teaming agents",
+      "zero-day vulnerability evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-008"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-033",
+      "statement-BATCH-2026-006-034",
+      "statement-BATCH-2026-006-035",
+      "statement-BATCH-2026-006-036",
+      "statement-BATCH-2026-006-037",
+      "statement-BATCH-2026-006-038"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "canonical_name": "Richard Fang",
+    "indexed_contribution_scope": [
+      "AI red-teaming agents",
+      "zero-day vulnerability evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-008"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-033",
+      "statement-BATCH-2026-006-034",
+      "statement-BATCH-2026-006-035",
+      "statement-BATCH-2026-006-036",
+      "statement-BATCH-2026-006-037",
+      "statement-BATCH-2026-006-038"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "canonical_name": "Daniel Kang",
+    "indexed_contribution_scope": [
+      "AI red-teaming agents",
+      "zero-day vulnerability evaluation"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-008"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-033",
+      "statement-BATCH-2026-006-034",
+      "statement-BATCH-2026-006-035",
+      "statement-BATCH-2026-006-036",
+      "statement-BATCH-2026-006-037",
+      "statement-BATCH-2026-006-038"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "canonical_name": "Tobin South",
+    "indexed_contribution_scope": [
+      "AI agent identity",
+      "authenticated delegation",
+      "AI-agent auditability"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-005"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-015",
+      "statement-BATCH-2026-006-016",
+      "statement-BATCH-2026-006-017",
+      "statement-BATCH-2026-006-018",
+      "statement-BATCH-2026-006-019",
+      "statement-BATCH-2026-006-020",
+      "statement-BATCH-2026-006-021"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "canonical_name": "Alex Pentland",
+    "indexed_contribution_scope": [
+      "AI agent identity",
+      "authenticated delegation",
+      "AI-agent auditability"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-005"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-015",
+      "statement-BATCH-2026-006-016",
+      "statement-BATCH-2026-006-017",
+      "statement-BATCH-2026-006-018",
+      "statement-BATCH-2026-006-019",
+      "statement-BATCH-2026-006-020",
+      "statement-BATCH-2026-006-021"
+    ],
+    "attribution_note": "The listed statements are joint-author mappings and must not be represented as individually authored claims.",
+    "profile_prose_generated": false,
+    "public_profile_eligibility": false,
+    "publication_status": "dataset_only_human_review_pending"
+  }
+]
