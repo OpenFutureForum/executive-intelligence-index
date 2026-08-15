@@ -1,0 +1,24 @@
+{
+  "batch_id": "BATCH-2026-004",
+  "groups": [
+    {
+      "duplicate_group_id": "media-dup-001",
+      "normalized_work_identity": "Identity at the Center episode 390 - Identity Management for Agentic AI with Tobin South",
+      "retained_source_id": "source-idac-390-agentic-ai-identity",
+      "canonical_work_url": "https://podcasts.apple.com/us/podcast/390-identity-management-for-agentic-ai-with-tobin-south/id1471899975?i=1000740200992",
+      "original_media_url": "https://anchor.fm/s/c5fefcc/podcast/play/111687080/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-25%2F01f889a3-6ebf-b82d-8d03-61c6114f10df.mp3",
+      "mirror_or_platform_urls": ["https://open.spotify.com/episode/6djrGPlNiIlJZmBpcsR2KY", "https://podfollow.com/identity-at-the-center-1/episode/e536a09c789954de12ec0ac798872a6c9933df2d/view", "https://podscan.fm/podcasts/identity-at-the-center/episodes/390-identity-management-for-agentic-ai-with-tobin-south"],
+      "resolution": "Treat as one episode. Apple is the stable canonical listening page, the Anchor/RSS URL is the original media asset, Spotify and Podfollow are platform renditions, and Podscan is a transcript/search service rather than the publisher.",
+      "review_status": "human_review_pending"
+    },
+    {
+      "duplicate_group_id": "media-dup-002",
+      "normalized_work_identity": "OpenID pre-IIW workshop event artifact",
+      "retained_source_id": "held-openid-pre-iiw-agentic-ai-2025",
+      "inherited_duplicate_group_id": "dup-005",
+      "duplicate_candidate_ids": ["candidate-BATCH-2026-001-106", "candidate-BATCH-2026-001-115"],
+      "resolution": "Preserve one held media identity for the scheduled talk and one related deck/report artifact; do not count the same PDF as a second media source.",
+      "review_status": "human_review_pending"
+    }
+  ]
+}
