@@ -3,7 +3,7 @@ protocol_id: protocol-BUILD-2026-08-14-001
 prompt_id: OEII-MASTER-BUILD
 prompt_version: "2.0"
 branch: build/foundation-2026-08-14
-pull_request: null
+pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/1
 execution_date: 2026-08-14
 model_disclosure: AI-assisted framework implementation by OpenAI Codex; no human review or approval occurred.
 tools_used: [Codex filesystem tools, git, GitHub public web pages, read-only git clones, Node.js, npm, TypeScript, Astro, AJV, Vitest, Playwright, Pagefind]
@@ -37,7 +37,6 @@ output_files:
   - JSON, CSV, NDJSON, GraphML, citation, and release-manifest exports
   - Local repository archive
 unresolved_questions:
-  - Whether @murraylovecode has write access and is eligible as CODEOWNER for the new repository.
   - Which named human reviewers will own methodology, schema, rights, production data, and release approvals.
 rights_concerns:
   - No third-party source text or code was copied from inspected repositories; only architectural conventions and public repository metadata were documented.
@@ -66,7 +65,8 @@ validation_outcomes:
     outcome: PASS; desktop and mobile layout, navigation, empty states, filters, structured data, Pagefind search, and console state inspected.
 human_review_status: pending
 limitations:
-  - GitHub token for the configured account is invalid, so repository creation, push, pull request, workflow execution, Pages configuration, and deployment could not be performed.
+  - The public repository, pushed branch, and draft pull request exist; deployment remains pending because the pull request is deliberately unmerged and Pages has not run from main.
+  - Repository-level write eligibility for @murraylovecode is verified; branch-protection and CODEOWNERS enforcement remain to be configured or verified.
   - No production research corpus or named human approval was supplied; the public site therefore uses truthful empty states.
   - The batch protocol file was materialized after initial repository inspection; the six targets were nevertheless fixed in advance by the master build prompt.
-next_recommended_action: Complete validation, obtain named human ownership assignments, re-authenticate GitHub, create the repository, push this branch, and open a draft pull request.
+next_recommended_action: Confirm GitHub Actions, obtain named human ownership assignments and approvals, configure required checks and CODEOWNERS enforcement, then merge and verify the Pages deployment.

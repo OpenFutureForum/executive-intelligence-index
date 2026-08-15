@@ -36,4 +36,4 @@ Human review status: pending. Publication recommendation: review the framework a
 
 ## Limitations
 
-No production corpus or named human approval was supplied. GitHub authentication was invalid, so this branch was built and committed locally only. See `FINAL-IMPLEMENTATION-REPORT.md` and the batch manifest for the complete record.
+No production corpus or named human approval was supplied. The repository and this draft pull request are published, but the branch is intentionally unmerged and Pages/live verification remain pending. Repository-level write eligibility for `@murraylovecode` is verified; branch-protection and CODEOWNERS enforcement still require confirmation. See `FINAL-IMPLEMENTATION-REPORT.md` and the batch manifest for the complete record.

@@ -81,26 +81,15 @@ Additional outcomes:
 
 ## Deployment status
 
-Not deployed. The configured GitHub account `murraylovecode` has an invalid token, so repository creation, remote push, draft pull request, Actions execution, Pages setup, CODEOWNER eligibility, and live verification were unavailable. No claim is made that those actions occurred.
+The public repository was created at <https://github.com/OpenFutureForum/executive-intelligence-index>. Branch `build/foundation-2026-08-14` was pushed and draft pull request <https://github.com/OpenFutureForum/executive-intelligence-index/pull/1> was opened against `main`. The authenticated `murraylovecode` account has repository admin, maintain, push, triage, and pull permissions, so the current CODEOWNER is eligible at the repository-permission level.
 
-After GitHub authentication is restored, run:
-
-```sh
-cd /path/to/executive-intelligence-index
-gh auth login -h github.com
-gh repo create OpenFutureForum/executive-intelligence-index --public --source=. --remote=origin
-git push -u origin build/foundation-2026-08-14
-gh pr create --draft --base main --head build/foundation-2026-08-14 --title "Build Open Executive Intelligence Index framework" --body-file operations/FOUNDATION-PR-BODY.md
-```
-
-Before merging, verify that `@murraylovecode` or a replacement named team has repository write access, configure Pages to use GitHub Actions, require the PR checks, and obtain named human review.
+Not deployed. The draft pull request remains deliberately unmerged, Pages has not run from `main`, and live verification therefore remains pending. Before merging, require the pull-request checks, obtain named human review, confirm branch-protection and CODEOWNERS enforcement, and configure Pages to use GitHub Actions if it is not already configured.
 
 ## Unresolved issues and limitations
 
-- GitHub authentication and repository existence remain unresolved.
-- CODEOWNER eligibility for the observed account is unverified.
 - No named human methodology, schema, rights, production-data, or release reviewer has approved the framework.
-- GitHub-hosted Playwright, Actions, Pages, Search Console, analytics-provider integration, and live endpoints have not run.
+- GitHub Actions has started on the draft pull request; its final results should be confirmed after this reporting update. Pages, Search Console, analytics-provider integration, and live endpoints have not run.
+- Repository-level `murraylovecode` write eligibility is verified, but branch-protection and CODEOWNERS enforcement are not yet configured or verified.
 - The production corpus is empty. Research quality, diversity, role coverage, regional coverage, source concentration, and rights behavior must be evaluated again with real batches.
 - Provisional topic IDs are machine-drafted and require human taxonomy review before canonical topic publication.
 
