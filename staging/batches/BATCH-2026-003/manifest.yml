@@ -10,7 +10,7 @@ created_at: 2026-08-15
 status: machine_complete_human_review_pending
 publication_status: staging_only
 human_approval_performed: false
-draft_pr: null
+draft_pr: https://github.com/OpenFutureForum/executive-intelligence-index/pull/4
 counts:
   books: 2
   editions: 2
