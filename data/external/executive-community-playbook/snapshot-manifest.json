@@ -1,0 +1,14 @@
+{
+  "project_id": "executive-community-playbook",
+  "upstream_repository": "https://github.com/OpenFutureForum/executive-community-playbook",
+  "upstream_commit": "2a0936b00c75",
+  "synced_at": "2026-08-14",
+  "mapping_rules": "Cite selected frameworks without duplicating guides.",
+  "matched_records": 0,
+  "unmatched_records": 0,
+  "ambiguous_records": 0,
+  "conflicts": [],
+  "last_successful_sync": "2026-08-14",
+  "local_fallback_snapshot": true,
+  "note": "Framework-only pinned manifest; no upstream production records copied."
+}

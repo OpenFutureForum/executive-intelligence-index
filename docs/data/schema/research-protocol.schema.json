@@ -1,0 +1,176 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openfutureforum.github.io/executive-intelligence-index/schema/research-protocol.schema.json",
+  "title": "Research Protocol",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "protocol_id",
+    "research_question",
+    "scope",
+    "time_period",
+    "inclusion_criteria",
+    "exclusion_criteria",
+    "planned_search_queries",
+    "created_at",
+    "created_by",
+    "prompt_id",
+    "prompt_version",
+    "provenance"
+  ],
+  "properties": {
+    "protocol_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "research_question": {
+      "type": "string",
+      "minLength": 1
+    },
+    "scope": {
+      "type": "string",
+      "minLength": 1
+    },
+    "time_period": {
+      "type": "string",
+      "minLength": 1
+    },
+    "target_roles": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "target_geographies": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "target_languages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "included_source_types": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "excluded_source_types": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "inclusion_criteria": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "exclusion_criteria": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "source_priority": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "diversity_objectives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "expected_limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "planned_search_queries": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "planned_batch_size": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "created_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "created_by": {
+      "type": "string",
+      "minLength": 1
+    },
+    "prompt_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "prompt_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "workflow_status": {
+      "$ref": "common.schema.json#/$defs/workflowStatus"
+    },
+    "machine_review_status": {
+      "$ref": "common.schema.json#/$defs/machineReviewStatus"
+    },
+    "human_review_status": {
+      "$ref": "common.schema.json#/$defs/humanReviewStatus"
+    },
+    "reviewed_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reviewed_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "provenance": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "common.schema.json#/$defs/provenance"
+      }
+    },
+    "revision_history": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/revision"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "project_id": "openfutureforum-pages-root",
+  "upstream_repository": "https://github.com/OpenFutureForum/OpenFutureForum.github.io",
+  "upstream_commit": "12505350a4d9",
+  "synced_at": "2026-08-14",
+  "mapping_rules": "Project discovery and shared deployment context.",
+  "matched_records": 0,
+  "unmatched_records": 0,
+  "ambiguous_records": 0,
+  "conflicts": [],
+  "last_successful_sync": "2026-08-14",
+  "local_fallback_snapshot": true,
+  "note": "Framework-only pinned manifest; no upstream production records copied."
+}

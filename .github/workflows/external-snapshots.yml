@@ -1,0 +1,22 @@
+name: External snapshot update proposal
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '43 8 1 * *'
+permissions:
+  contents: read
+jobs:
+  generate-proposal:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: npm run sync:external
+      - run: npm run validate:data
+      - uses: actions/upload-artifact@v4
+        with:
+          name: external-snapshot-proposal
+          path: data/external
+      - run: echo 'Review and commit this artifact through a dedicated crosswalk branch; production builds never fetch upstream data.'

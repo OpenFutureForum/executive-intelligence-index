@@ -1,0 +1,11 @@
+schema_version: 1.0.0
+method: frozen_release_comparison
+required_disclosures: [eligible_source_count, raw_component_values, weights, denominators, limitations]
+default_weights:
+  new_source_count: 0.25
+  independent_person_count: 0.20
+  independent_organization_count: 0.20
+  role_spread: 0.15
+  geographic_spread: 0.10
+  source_type_spread: 0.10
+warning: Momentum within the indexed corpus does not establish correctness or market prevalence.

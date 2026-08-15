@@ -1,0 +1,9 @@
+prompt_id: OEII-MASTER-BUILD
+version: "2.0"
+effective_date: 2026-08-14
+source_filename: MASTER BUILD PROMPT OPEN EXECUTIVE INTELLIGENCE INDEX VERSION 2.0
+source_sha256: 492cd2e9a5d384059e5cbe3c94c163b2a039c8080a9be8bd1618e362d51ee3ff
+contract_prompt_id: OEII-UNIVERSAL-CONTRACT
+recording_note: The checksum identifies the exact supplied prompt. The complete prompt remains in the originating task record; this repository stores its immutable catalogue metadata and applied requirements.
+permitted_status_changes: [machine_drafted, machine_checked, second_agent_checked, issues_found, ready_for_human_review]
+prohibited_actions: [human_verified, human_approved, editorially_approved, fabricated_sources, public_staging]

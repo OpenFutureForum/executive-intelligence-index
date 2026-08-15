@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-08-14",
+  "batches": [
+    {
+      "batch": "BUILD-2026-08-14-001",
+      "manifest": "staging/batches/BUILD-2026-08-14-001/manifest.yml"
+    }
+  ],
+  "fields": [
+    "proposed record",
+    "canonical source",
+    "exact locator",
+    "previous version",
+    "proposed change",
+    "statement type",
+    "confidence",
+    "rights status",
+    "duplication warnings",
+    "source concentration",
+    "AI-generated prose",
+    "reviewer decision"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "project_id": "executive-ai-research",
+  "upstream_repository": "https://github.com/OpenFutureForum/executive-ai-research",
+  "upstream_commit": "d205a6b2e6f4",
+  "synced_at": "2026-08-14",
+  "mapping_rules": "Canonical report references and contextual links.",
+  "matched_records": 0,
+  "unmatched_records": 0,
+  "ambiguous_records": 0,
+  "conflicts": [],
+  "last_successful_sync": "2026-08-14",
+  "local_fallback_snapshot": true,
+  "note": "Framework-only pinned manifest; no upstream production records copied."
+}

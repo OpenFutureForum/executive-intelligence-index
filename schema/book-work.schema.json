@@ -1,0 +1,259 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openfutureforum.github.io/executive-intelligence-index/schema/book-work.schema.json",
+  "title": "Book Work",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "book_work_id",
+    "title",
+    "authors",
+    "analysis_depth",
+    "analysis_basis",
+    "provenance"
+  ],
+  "properties": {
+    "book_work_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subtitle": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "alternate_titles": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "authors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "contributors": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "original_language": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "first_publication_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "work_type": {
+      "type": "string",
+      "minLength": 1
+    },
+    "topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "central_subjects": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "inclusion_rationale": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "analysis_depth": {
+      "$ref": "common.schema.json#/$defs/bookDepth"
+    },
+    "analysis_basis": {
+      "type": "string",
+      "minLength": 1
+    },
+    "central_thesis": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "principal_propositions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "frameworks": {
+      "type": "array",
+      "items": {}
+    },
+    "evidence_base": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "executive_role_implications": {
+      "type": "object"
+    },
+    "strongest_documented_arguments": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "counterpoints": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "later_author_interview_source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "related_book_work_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "related_report_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "changes_in_later_statements": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "edition_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "related_source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "related_statement_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "related_proposition_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "related_dossier_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "rights_notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "review_status": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "publication_status": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "workflow_status": {
+      "$ref": "common.schema.json#/$defs/workflowStatus"
+    },
+    "machine_review_status": {
+      "$ref": "common.schema.json#/$defs/machineReviewStatus"
+    },
+    "human_review_status": {
+      "$ref": "common.schema.json#/$defs/humanReviewStatus"
+    },
+    "reviewed_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reviewed_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "provenance": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "common.schema.json#/$defs/provenance"
+      }
+    },
+    "revision_history": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/revision"
+      }
+    }
+  }
+}

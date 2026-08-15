@@ -1,0 +1,18 @@
+schema_version: 1.0.0
+person_public_page:
+  any_of:
+    - independently_checked_sources: 3
+    - authored_books: 1
+      additional_substantive_sources: 1
+    - major_research_contributions: 1
+      additional_substantive_sources: 2
+book_catalogue_page: { verified_work: true, verified_editions: 1, authorship_verified: true, publication_date_verified: true, analysis_basis_required: true }
+book_reviewed_page: { lawful_access: true, original_analysis: true, independent_metadata_verification: true }
+book_deeply_analyzed_page: { complete_lawful_edition_access: true, substantive_statements: 8, independent_verification: true, rights_review: true, named_human_approval: true }
+standard_topic_page: { checked_sources: 10, people: 5, organizations: 3, source_types: 2, concentration_warning: 0.40 }
+full_topic_dossier: { verified_sources: 30, people: 15, organizations: 5, source_types: 3, independent_verification: true, human_approval: true }
+debate_map: { relevant_statements: 12, materially_distinct_positions: 2, comparable_scope_required: true }
+regional_briefing: { people: 2, organizations: 2, region_specific_sources_required: true }
+production:
+  human_approval_required_for: [deeply_analyzed_book, full_topic_dossier, production_release]
+  exclude_workflow_statuses: [candidate, protocol_approved, metadata_verified, source_access_verified, content_reviewed, statements_extracted, propositions_mapped, independently_checked, publication_recommended, withdrawn]

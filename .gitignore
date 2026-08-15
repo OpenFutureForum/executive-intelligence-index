@@ -1,0 +1,10 @@
+node_modules/
+.astro/
+playwright-report/
+test-results/
+.DS_Store
+.env
+.env.*
+!.env.example
+staging/batches/*/accepted-records/*
+!staging/batches/.gitkeep

@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { idOf, labelOf, loadCatalog, publicRecords, type RecordMap } from '../../lib/catalog';
+
+export function getStaticPaths() {
+  const catalog = loadCatalog();
+  const routeConfig: Record<string, { directory: string; schemaType: string; sourceTypes?: string[] }> = {
+    people: { directory: 'people', schemaType: 'Person' }, books: { directory: 'book-works', schemaType: 'Book' },
+    media: { directory: 'sources', schemaType: 'CreativeWork', sourceTypes: ['video','podcast_episode','keynote','panel','interview','conference_talk','event_recording','OFF_interview','OFF_video'] },
+    research: { directory: 'sources', schemaType: 'Report', sourceTypes: ['research_report','academic_paper','working_paper','executive_survey','OFF_research','public_policy_document'] },
+    statements: { directory: 'statements', schemaType: 'CreativeWork' },
+    topics: { directory: 'topics', schemaType: 'DefinedTerm' }, propositions: { directory: 'propositions', schemaType: 'DefinedTerm' },
+    debates: { directory: 'debates', schemaType: 'Article' }, dossiers: { directory: 'dossiers', schemaType: 'Article' }, signal: { directory: 'trends', schemaType: 'Dataset' }
+  };
+  return Object.entries(routeConfig).flatMap(([collection, config]) => publicRecords(catalog[config.directory] ?? []).filter((record) => !config.sourceTypes || config.sourceTypes.includes(String(record.source_type))).map((record) => ({ params: { collection, id: idOf(record) }, props: { record, collection, schemaType: config.schemaType } })));
+}
+interface Props { record: RecordMap; collection: string; schemaType: string; }
+const { record, collection, schemaType } = Astro.props;
+const title = labelOf(record);
+const id = idOf(record);
+const description = String(record.original_abstract ?? record.definition ?? record.neutral_paraphrase ?? record.inclusion_rationale ?? `A reviewed ${collection} record in the Open Executive Intelligence Index.`);
+const relations = Object.entries(record).filter(([key, value]) => (key.endsWith('_ids') || key.endsWith('_references')) && Array.isArray(value) && value.length);
+const display = (value: unknown) => Array.isArray(value) ? value.join(', ') : value && typeof value === 'object' ? JSON.stringify(value) : String(value ?? 'Unknown');
+---
+<BaseLayout title={title} description={description} type={schemaType}>
+  <article class="section" data-pagefind-body>
+    <p class="eyebrow">{collection.replaceAll('-', ' ')} · {id}</p><h1>{title}</h1><p>{description}</p>
+    {typeof record.embed_url === 'string' && <div class="media-embed"><iframe src={record.embed_url} title={`Embedded source: ${title}`} loading="lazy" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>}
+    {typeof record.original_url === 'string' && <p><a href={record.original_url} data-event={String(record.original_url).includes('youtube.com') || String(record.original_url).includes('youtu.be') ? 'youtube_outbound_click' : 'original_source_click'}>Open the canonical original source</a></p>}
+    <p><a class="button secondary" href={`/executive-intelligence-index/data/catalog.json`} data-event="citation_copy">Open machine-readable record</a></p>
+    <h2>Record and evidence context</h2>
+    <dl>{Object.entries(record).filter(([key]) => !['provenance','revision_history'].includes(key)).map(([key, value]) => <><dt>{key.replaceAll('_', ' ')}</dt><dd>{display(value)}</dd></>)}</dl>
+    <h2>Evidence lineage and relationships</h2>
+    {relations.length ? <table><thead><tr><th>Relationship field</th><th>Linked identifiers</th></tr></thead><tbody>{relations.map(([key, value]) => <tr><td>{key}</td><td>{display(value)}</td></tr>)}</tbody></table> : <p>No published relationship records are attached.</p>}
+    <h2>Editorial record</h2><p>Machine review: {display(record.machine_review_status)}. Human review: {display(record.human_review_status)}. Workflow: {display(record.workflow_status ?? record.publication_status)}.</p>
+    <details><summary>Provenance and revision history</summary><pre>{JSON.stringify({ provenance: record.provenance, revision_history: record.revision_history }, null, 2)}</pre></details>
+  </article>
+</BaseLayout>

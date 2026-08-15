@@ -1,0 +1,14 @@
+{
+  "project_id": "cxo-ecosystem-index",
+  "upstream_repository": "https://github.com/OpenFutureForum/cxo-ecosystem-index",
+  "upstream_commit": "45ca4066fc00",
+  "synced_at": "2026-08-14",
+  "mapping_rules": "Versioned organization-reference crosswalk only.",
+  "matched_records": 0,
+  "unmatched_records": 0,
+  "ambiguous_records": 0,
+  "conflicts": [],
+  "last_successful_sync": "2026-08-14",
+  "local_fallback_snapshot": true,
+  "note": "Framework-only pinned manifest; no upstream production records copied."
+}

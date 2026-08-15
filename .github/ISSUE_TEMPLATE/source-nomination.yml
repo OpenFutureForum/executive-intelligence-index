@@ -1,0 +1,45 @@
+name: "Source nomination"
+description: "Submit one evidence-backed source nomination for editorial review."
+title: "Source nomination: "
+labels: [source]
+body:
+  - type: markdown
+    attributes:
+      value: "Submission does not guarantee inclusion. Do not include private source material, personal contact details, or copyrighted full text."
+  - type: textarea
+    id: field_1
+    attributes:
+      label: "Canonical source URL"
+    validations:
+      required: true
+  - type: textarea
+    id: field_2
+    attributes:
+      label: "Why this source belongs"
+    validations:
+      required: true
+  - type: textarea
+    id: field_3
+    attributes:
+      label: "Facts or statements it supports"
+    validations:
+      required: true
+  - type: textarea
+    id: field_4
+    attributes:
+      label: "Access and rights basis"
+    validations:
+      required: true
+  - type: textarea
+    id: field_5
+    attributes:
+      label: "Conflicts or OFF relationship"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Submission confirmation
+      options:
+        - label: I have provided public evidence and disclosed relevant relationships.
+          required: true

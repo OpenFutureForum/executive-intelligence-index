@@ -1,0 +1,215 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openfutureforum.github.io/executive-intelligence-index/schema/common.schema.json",
+  "$defs": {
+    "workflowStatus": {
+      "enum": [
+        "candidate",
+        "protocol_approved",
+        "metadata_verified",
+        "source_access_verified",
+        "content_reviewed",
+        "statements_extracted",
+        "propositions_mapped",
+        "independently_checked",
+        "publication_recommended",
+        "publication_approved",
+        "published",
+        "revised",
+        "withdrawn"
+      ]
+    },
+    "machineReviewStatus": {
+      "enum": [
+        "not_started",
+        "machine_drafted",
+        "machine_checked",
+        "second_agent_checked",
+        "issues_found",
+        "ready_for_human_review"
+      ]
+    },
+    "humanReviewStatus": {
+      "enum": [
+        "not_reviewed",
+        "pending",
+        "changes_requested",
+        "approved",
+        "rejected"
+      ]
+    },
+    "bookDepth": {
+      "enum": [
+        "catalogued",
+        "reviewed",
+        "deeply_analyzed"
+      ]
+    },
+    "sourceType": {
+      "enum": [
+        "book",
+        "audiobook",
+        "video",
+        "podcast_episode",
+        "keynote",
+        "panel",
+        "interview",
+        "conference_talk",
+        "essay",
+        "newsletter",
+        "public_letter",
+        "research_report",
+        "academic_paper",
+        "working_paper",
+        "executive_survey",
+        "earnings_commentary",
+        "event_recording",
+        "OFF_research",
+        "OFF_interview",
+        "OFF_video",
+        "public_policy_document",
+        "other_approved"
+      ]
+    },
+    "statementType": {
+      "enum": [
+        "factual_assertion",
+        "empirical_finding",
+        "recommendation",
+        "prediction",
+        "opinion",
+        "warning",
+        "definition",
+        "reported_experience",
+        "case_study",
+        "strategic_framework",
+        "interpretation",
+        "counterargument",
+        "methodological_claim",
+        "company_reported_outcome",
+        "policy_position"
+      ]
+    },
+    "stanceType": {
+      "enum": [
+        "supports",
+        "challenges",
+        "qualifies",
+        "narrows",
+        "broadens",
+        "refines",
+        "supersedes",
+        "provides_example",
+        "provides_evidence",
+        "disputes_evidence",
+        "unrelated_after_review"
+      ]
+    },
+    "rightsStatus": {
+      "enum": [
+        "unknown",
+        "metadata_only",
+        "link_and_paraphrase",
+        "openly_licensed",
+        "public_domain",
+        "permission_documented",
+        "OFF_owned",
+        "restricted",
+        "disputed"
+      ]
+    },
+    "ownershipStatus": {
+      "enum": [
+        "third_party",
+        "OFF_owned",
+        "co_published",
+        "unknown"
+      ]
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source_url",
+        "accessed_at",
+        "retrieval_method",
+        "batch_id",
+        "prompt_id",
+        "prompt_version"
+      ],
+      "properties": {
+        "source_url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "accessed_at": {
+          "type": "string",
+          "format": "date"
+        },
+        "retrieval_method": {
+          "type": "string",
+          "minLength": 1
+        },
+        "exact_locator": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "content_hash": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "batch_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "prompt_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "prompt_version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "revision": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "changed_at",
+        "changed_by",
+        "summary"
+      ],
+      "properties": {
+        "changed_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "changed_by": {
+          "type": "string",
+          "minLength": 1
+        },
+        "summary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "batch_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { loadCatalog, publicRecords } from '../lib/catalog';
+const catalog = loadCatalog(); const stances = publicRecords(catalog.stances ?? []);
+---
+<BaseLayout title="Evidence relationships" description="Accessible statement-to-proposition and corpus relationship views.">
+  <section class="page-hero compact"><p class="eyebrow">Accessible graph alternative</p><h1>Evidence relationships</h1><p>Relationships are presented as a readable table and downloadable GraphML. The graph is never the only navigation surface.</p></section>
+  <section class="section">{stances.length ? <table><thead><tr><th>Statement</th><th>Relationship</th><th>Proposition</th><th>Rationale</th></tr></thead><tbody>{stances.map((stance) => <tr><td>{stance.statement_id}</td><td>{stance.relationship_type}</td><td>{stance.proposition_id}</td><td>{stance.rationale}</td></tr>)}</tbody></table> : <p>No stance relationships have passed publication review. <a href="/executive-intelligence-index/data/graph.graphml">Download the current empty GraphML release</a>.</p>}</section>
+</BaseLayout>

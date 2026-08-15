@@ -1,0 +1,63 @@
+---
+import EmptyState from './EmptyState.astro';
+import { idOf, labelOf, type RecordMap } from '../lib/catalog';
+interface Props { eyebrow: string; title: string; description: string; records: RecordMap[]; noun: string; filters: readonly string[]; path: string; }
+const { eyebrow, title, description, records, noun, filters, path } = Astro.props;
+const items = records.map((record) => ({ id: idOf(record), label: labelOf(record), record }));
+const filterKeys: Record<string, string[]> = {
+  Role: ['current_role','executive_roles','relevant_role_ids','applicable_roles'], Organization: ['current_organization_reference','organization_references','organization_at_source_time'],
+  Geography: ['professional_geographies','relevant_geographies','geographic_context','geography_discussed','study_geography'], Language: ['languages','language'], Topic: ['topics','topic_ids'],
+  'Review depth': ['person_depth','source_depth','analysis_depth'], Author: ['authors','author_ids'], 'Publication period': ['published_at','publication_date','first_publication_date','source_date'],
+  'Analysis depth': ['analysis_depth','source_depth'], 'Rights status': ['rights_status'], 'Source type': ['source_type','statement_type'], Speaker: ['speaker_ids','person_id'], Ownership: ['ownership_status'],
+  'Methodology quality': ['methodology_quality'], Funding: ['funding'], 'Peer review': ['peer_review_status'], 'Parent topic': ['parent_topic_id'], 'Applicable role': ['applicable_roles'],
+  'Publication state': ['publication_status','workflow_status'], 'Time period': ['time_period'], Stance: ['relationship_type'], 'Ownership concentration': ['ownership_concentration_warning'],
+  Region: ['relevant_geographies','geographic_context'], Country: ['publication_country'], Industry: ['industry_context'], 'Role coverage': ['role_coverage'],
+  'Publication date': ['publication_date'], Proposition: ['proposition_id','topic_or_proposition_id'], 'Date range': ['start_date','end_date'], 'Role spread': ['role_spread'], 'Geographic spread': ['geographic_spread'],
+  CEO: ['relevant_role_ids','executive_roles'], CFO: ['relevant_role_ids','executive_roles'], CISO: ['relevant_role_ids','executive_roles'], CMO: ['relevant_role_ids','executive_roles'], CIO: ['relevant_role_ids','executive_roles'],
+  'General counsel': ['relevant_role_ids','executive_roles'], Investor: ['relevant_role_ids','executive_roles'], 'Board director': ['relevant_role_ids','executive_roles']
+};
+const values = (record: RecordMap, keys: string[]) => keys.flatMap((key) => {
+  const value = record[key];
+  if (Array.isArray(value)) return value.map(String);
+  if (value && typeof value === 'object') return Object.keys(value);
+  return value === null || value === undefined ? [] : [String(value)];
+});
+const filterOptions = Object.fromEntries(filters.map((filter) => [filter, [...new Set(items.flatMap(({ record }) => values(record, filterKeys[filter] ?? [])))].sort()]));
+const optionsFor = (filter: string): string[] => filterOptions[filter] ?? [];
+---
+<section class="page-hero compact">
+  <p class="eyebrow">{eyebrow}</p><h1>{title}</h1><p>{description}</p>
+</section>
+<section class="explorer" data-pagefind-ignore>
+  <label for="collection-search">Search this collection</label>
+  <input id="collection-search" type="search" placeholder={`Search ${noun}`} data-event="internal_search" />
+  <div class="filter-controls" aria-label="Collection filters">{filters.map((filter) => (
+    <label class="filter-control">{filter}<select data-filter data-keys={JSON.stringify(filterKeys[filter] ?? [])} disabled={optionsFor(filter).length === 0} data-event="filter_use">
+      <option value="">All</option>{optionsFor(filter).map((option) => <option value={option.toLowerCase()}>{option}</option>)}
+    </select></label>
+  ))}</div>
+</section>
+{items.length === 0 ? <EmptyState noun={noun} explanation={description} /> : (
+  <section class="record-grid" id="record-results" data-pagefind-body>
+    {items.map(({ id, label, record }) => <article data-record={JSON.stringify(record)} data-search={JSON.stringify(record).toLowerCase()}><h2><a href={`/executive-intelligence-index/${path}/${id}/`}>{label}</a></h2><p>Open the record for evidence lineage, review state, and citation details.</p></article>)}
+  </section>
+)}
+<script is:inline>
+  const input = document.querySelector('#collection-search');
+  const selects = [...document.querySelectorAll('[data-filter]')];
+  const flatten = (value) => Array.isArray(value) ? value.flatMap(flatten) : value && typeof value === 'object' ? Object.keys(value) : value === null || value === undefined ? [] : [String(value)];
+  const update = () => {
+    const query = input.value.toLowerCase().trim();
+    document.querySelectorAll('#record-results > article').forEach((card) => {
+      const record = JSON.parse(card.dataset.record || '{}');
+      const filterMatch = selects.every((select) => {
+        if (!select.value) return true;
+        const keys = JSON.parse(select.dataset.keys || '[]');
+        return keys.flatMap((key) => flatten(record[key])).map((value) => value.toLowerCase()).includes(select.value);
+      });
+      card.hidden = (query !== '' && !card.dataset.search.includes(query)) || !filterMatch;
+    });
+  };
+  input?.addEventListener('input', update);
+  selects.forEach((select) => select.addEventListener('change', update));
+</script>
