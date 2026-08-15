@@ -1,0 +1,1044 @@
+[
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-001",
+    "neutral_formulation": "Stable logical workload identities should replace network location as the primary basis for service authentication.",
+    "aliases": [],
+    "definition": "A workload identity describes a logical service purpose under an issuing authority and remains meaningful as deployment location changes.",
+    "scope": "Distributed service and agent runtimes; authentication only",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-001",
+      "statement-BATCH-2026-003-003",
+      "statement-BATCH-2026-003-005"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-001"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-001, statement-BATCH-2026-003-003, statement-BATCH-2026-003-005",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-002",
+    "neutral_formulation": "Workload identity issuance should begin with out-of-band attestation rather than a pre-positioned long-lived bootstrap secret.",
+    "aliases": [],
+    "definition": "Node and workload evidence are evaluated before an issuer grants an identity, reducing circular dependence on an already trusted secret.",
+    "scope": "Identity bootstrap in supported attestation environments",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-002",
+      "statement-BATCH-2026-003-006",
+      "statement-BATCH-2026-003-007"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-001"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-002, statement-BATCH-2026-003-006, statement-BATCH-2026-003-007",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-003",
+    "neutral_formulation": "Machine credentials should be short-lived and automatically renewed when the operating environment can support safe rotation.",
+    "aliases": [],
+    "definition": "Credential lifetime is minimized and renewal is automated to constrain the useful life of copied material.",
+    "scope": "Machine-to-machine credentials; subject to availability and revocation design",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-004",
+      "statement-BATCH-2026-003-012"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-001"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-004, statement-BATCH-2026-003-012",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-004",
+    "neutral_formulation": "Authentication of an agent or workload should remain distinct from authorization for a requested action.",
+    "aliases": [],
+    "definition": "A valid identity establishes a principal but permission is decided by policy using role, attributes, action, and context.",
+    "scope": "Agent and workload access control",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-016"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-001"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-016",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-005",
+    "neutral_formulation": "Trust domains should be explicit compartments for issuance authority and compromise impact.",
+    "aliases": [],
+    "definition": "Administrative boundaries define which issuer can name workloads and how federation crosses those boundaries.",
+    "scope": "Federated enterprise infrastructure",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-007",
+      "statement-BATCH-2026-003-012"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-001"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-007, statement-BATCH-2026-003-012",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-006",
+    "neutral_formulation": "Authorization roles and attributes should be governed outside the identity naming scheme when they are expected to change independently.",
+    "aliases": [],
+    "definition": "Stable identities are mapped to externally governed permission data rather than embedding all mutable authorization state in names.",
+    "scope": "Evolving enterprise policy",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-016"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-001"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-016",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-007",
+    "neutral_formulation": "Enterprise workload-identity migration should be phased, measurable, and reversible.",
+    "aliases": [],
+    "definition": "Inventory, transitional integrations, dual operation, telemetry, and rollback reduce the risk of a one-time identity cutover.",
+    "scope": "Existing heterogeneous estates",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-008",
+      "statement-BATCH-2026-003-009",
+      "statement-BATCH-2026-003-010",
+      "statement-BATCH-2026-003-014"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-001"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-008, statement-BATCH-2026-003-009, statement-BATCH-2026-003-010, statement-BATCH-2026-003-014",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-008",
+    "neutral_formulation": "Governed AI-agent identity requires authority and provenance semantics beyond workload authentication.",
+    "aliases": [],
+    "definition": "Workload identity is necessary infrastructure, but governance also needs sponsor, delegation, task, session, model or runtime, tool purpose, and decision provenance where relevant.",
+    "scope": "OEII editorial adaptation to AI agents; not a direct book claim",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-003",
+      "statement-BATCH-2026-003-015",
+      "statement-BATCH-2026-003-016"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-001"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "This is an OEII editorial synthesis about AI agents, explicitly not attributed to the book authors.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-003, statement-BATCH-2026-003-015, statement-BATCH-2026-003-016",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-009",
+    "neutral_formulation": "Security and reliability should be governed jointly throughout the system lifecycle.",
+    "aliases": [],
+    "definition": "Architecture, implementation, deployment, operations, and recovery treat both properties as shared design constraints.",
+    "scope": "Software-intensive organizations",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-019",
+      "statement-BATCH-2026-003-020",
+      "statement-BATCH-2026-003-022"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-002"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-019, statement-BATCH-2026-003-020, statement-BATCH-2026-003-022",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-010",
+    "neutral_formulation": "Least privilege should be defined per task for humans, automation, and machines.",
+    "aliases": [],
+    "definition": "Each principal receives the smallest functional capability needed for the current responsibility and duration.",
+    "scope": "Administrative, service, and agent actions",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-023",
+      "statement-BATCH-2026-003-025"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-002"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-023, statement-BATCH-2026-003-025",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-011",
+    "neutral_formulation": "High-risk authorization should evaluate action and context, not credential possession alone.",
+    "aliases": [],
+    "definition": "Policy considers the operation, arguments, source, principal metadata, and server-side context.",
+    "scope": "Context-aware authorization",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-024",
+      "statement-BATCH-2026-003-026"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-002"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-024, statement-BATCH-2026-003-026",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-012",
+    "neutral_formulation": "High-impact actions should support multi-party and time-bounded control patterns.",
+    "aliases": [],
+    "definition": "Approval by more than one principal, temporary grants, documented justification, and monitored emergency access reduce unilateral risk.",
+    "scope": "High-impact administrative or agent actions",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-027"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-002"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-027",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-013",
+    "neutral_formulation": "Deployment gates should verify artifact provenance rather than trust only the submitting person.",
+    "aliases": [],
+    "definition": "A controlled deployment point verifies what artifact was built, by which process, and under which inputs before execution.",
+    "scope": "Software and model artifacts",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-031"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-002"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-031",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-014",
+    "neutral_formulation": "Audit logs should be tamper-resistant and privacy-governed.",
+    "aliases": [],
+    "definition": "Logs preserve investigation value while limiting collection, access, retention, and secondary use.",
+    "scope": "Security, agent-action, and operational logging",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-032"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-002"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-032",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-015",
+    "neutral_formulation": "Recovery controls should be explicit, independent, and rehearsed.",
+    "aliases": [],
+    "definition": "Revocation, intended state, restoration, incident roles, and exercises are designed before crisis conditions.",
+    "scope": "Compromise and disaster recovery",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-030",
+      "statement-BATCH-2026-003-033",
+      "statement-BATCH-2026-003-034"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-002"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-030, statement-BATCH-2026-003-033, statement-BATCH-2026-003-034",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "proposition_id": "proposition-candidate-BATCH-2026-003-016",
+    "neutral_formulation": "Security and reliability require distributed ownership backed by executive incentives and specialist support.",
+    "aliases": [],
+    "definition": "Everyone who changes the system has responsibilities, while leaders establish ownership, expertise, learning incentives, and durable resources.",
+    "scope": "Organizational governance",
+    "time_period": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "relevant_role_ids": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "relevant_geographies": [
+      "Global; implementation is jurisdiction-specific"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-003-035",
+      "statement-BATCH-2026-003-036"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-003-002"
+    ],
+    "proposition_status": "candidate_for_human_editorial_review",
+    "ambiguity_notes": "Single-book support only; requires cross-source review before production promotion.",
+    "source_diversity_metrics": {
+      "independent_sources": 1,
+      "source_owners": 1,
+      "warning": "Single-source candidate"
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "statement-BATCH-2026-003-035, statement-BATCH-2026-003-036",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Staging candidate only; not a canonical proposition"
+      }
+    ],
+    "revision_history": []
+  }
+]

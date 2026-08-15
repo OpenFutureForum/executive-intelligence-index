@@ -1,0 +1,99 @@
+[
+  {
+    "id": "counter-source-BATCH-2026-003-001",
+    "applies_to": [
+      "book-work-BATCH-2026-002-001",
+      "book-work-BATCH-2026-002-005"
+    ],
+    "title": "Accelerating the Adoption of Software and AI Agent Identity and Authorization",
+    "publisher": "NIST NCCoE",
+    "date": "2026-02",
+    "url": "https://www.nccoe.nist.gov/sites/default/files/2026-02/accelerating-the-adoption-of-software-and-ai-agent-identity-and-authorization-concept-paper.pdf",
+    "stance": "extends",
+    "relevance": "Treats software-agent identification, authorization, and authority as a current problem that is broader than authenticating the hosting workload."
+  },
+  {
+    "id": "counter-source-BATCH-2026-003-002",
+    "applies_to": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "title": "Zero Trust Architecture (SP 800-207)",
+    "publisher": "NIST",
+    "date": "2020-08",
+    "url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+    "stance": "qualifies",
+    "relevance": "Requires dynamic per-request policy using identity plus resource, device, and contextual data, qualifying identity-centric interpretations."
+  },
+  {
+    "id": "counter-source-BATCH-2026-003-003",
+    "applies_to": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "title": "A Zero Trust Architecture Model for Access Control in Cloud-Native Applications in Multi-Cloud Environments (SP 800-207A)",
+    "publisher": "NIST",
+    "date": "2023-09",
+    "url": "https://csrc.nist.gov/pubs/sp/800/207/a/final",
+    "stance": "qualifies",
+    "relevance": "Names SPIFFE as identity infrastructure while also requiring identity-tier and network-tier policies and telemetry."
+  },
+  {
+    "id": "counter-source-BATCH-2026-003-004",
+    "applies_to": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "title": "SLSA v1.2 Provenance",
+    "publisher": "OpenSSF SLSA",
+    "date": "2025",
+    "url": "https://slsa.dev/spec/v1.2/provenance",
+    "stance": "formalizes",
+    "relevance": "Formalizes software artifact provenance beyond the book's practitioner treatment."
+  },
+  {
+    "id": "counter-source-BATCH-2026-003-005",
+    "applies_to": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "title": "SLSA v1.2 Verifying Artifacts",
+    "publisher": "OpenSSF SLSA",
+    "date": "2025",
+    "url": "https://slsa.dev/spec/v1.2/verifying-artifacts",
+    "stance": "qualifies",
+    "relevance": "Emphasizes that provenance has limited value unless consumers verify it against policy."
+  },
+  {
+    "id": "counter-source-BATCH-2026-003-006",
+    "applies_to": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "title": "Principles and Approaches for Secure by Design Software",
+    "publisher": "CISA and international partners",
+    "date": "2023-06",
+    "url": "https://www.cisa.gov/sites/default/files/2023-06/principles_approaches_for_security-by-design-default_508c.pdf",
+    "stance": "broadens",
+    "relevance": "Moves responsibility toward manufacturers and executive leadership, broadening the book's internal engineering model."
+  },
+  {
+    "id": "counter-source-BATCH-2026-003-007",
+    "applies_to": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "title": "SPIFFE Workload Endpoint Specification",
+    "publisher": "SPIFFE Project",
+    "date": "current as accessed",
+    "url": "https://spiffe.io/docs/latest/spiffe-specs/spiffe_workload_endpoint/",
+    "stance": "updates",
+    "relevance": "Current specification details post-2020 endpoint and token behavior; it supersedes the book for normative implementation details."
+  },
+  {
+    "id": "counter-source-BATCH-2026-003-008",
+    "applies_to": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "title": "Guidelines for Secure AI System Development",
+    "publisher": "CISA and UK NCSC",
+    "date": "2023-11-26",
+    "url": "https://www.cisa.gov/news-events/alerts/2023/11/26/cisa-and-uk-ncsc-unveil-joint-guidelines-secure-ai-system-development",
+    "stance": "extends",
+    "relevance": "Adds AI-specific lifecycle, supply-chain, accountability, monitoring, and secure-operation expectations absent from the 2020 book."
+  }
+]

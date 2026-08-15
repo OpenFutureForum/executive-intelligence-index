@@ -1,0 +1,68 @@
+[
+  {
+    "id": "later-author-source-BATCH-2026-003-001",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "author": "Agustín Martínez Fayó",
+    "date": "2021-12-20",
+    "type": "author technical article",
+    "title": "Enabling Authenticated Communication for Serverless Workloads with SPIRE",
+    "url": "https://spiffe.io/blog/2021-12-20-enabling-authenticated-communication-for-serverless-workloads-with-spire/",
+    "relationship": "narrows_and_extends",
+    "finding": "Explains an external SVIDStore pattern when serverless platforms cannot colocate the ordinary SPIRE Agent, narrowing the book's deployment assumption."
+  },
+  {
+    "id": "later-author-source-BATCH-2026-003-002",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "author": "Agustín Martínez Fayó",
+    "date": "2022-05-18",
+    "type": "author technical article",
+    "title": "SPIRE Now Runs on Windows",
+    "url": "https://www.cncf.io/blog/2022/05/18/spire-now-runs-on-windows/",
+    "relationship": "updates",
+    "finding": "Documents Windows support that postdates and updates the first edition's platform coverage."
+  },
+  {
+    "id": "later-author-source-BATCH-2026-003-003",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "author": "Evan Gilman",
+    "date": "2022-09-20",
+    "type": "project announcement with author statement",
+    "title": "SPIFFE and SPIRE Projects Graduate from CNCF Incubator",
+    "url": "https://www.cncf.io/announcements/2022/09/20/spiffe-and-spire-projects-graduate-from-cloud-native-computing-foundation-incubator/",
+    "relationship": "broadens",
+    "finding": "Reports later ecosystem adoption and maturity; useful as a change claim but still a project-governance source."
+  },
+  {
+    "id": "later-author-source-BATCH-2026-003-004",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "author": "Heather Adkins",
+    "date": "2021-02-01",
+    "type": "interview",
+    "title": "Q&A: Heather Adkins, Director of Information Security, Google",
+    "url": "https://securityconversations.com/qa-heather-adkins-director-of-information-security-google/",
+    "relationship": "broadens",
+    "finding": "Extends zero-trust discussion toward data-layer controls, peer review, MFA, justifications, and activity metadata; treats machine learning as analyst assistance rather than an autonomous replacement."
+  },
+  {
+    "id": "later-author-source-BATCH-2026-003-005",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "author": "Heather Adkins and Phil Venables",
+    "date": "2021-06-15",
+    "type": "author article",
+    "title": "How we're helping reshape the software supply chain ecosystem securely",
+    "url": "https://cloud.google.com/blog/products/identity-security/how-were-helping-reshape-software-supply-chain-ecosystem-securely",
+    "relationship": "strengthens",
+    "finding": "After SolarWinds, elevates artifact integrity and provenance from internal deployment practice to an ecosystem supply-chain priority."
+  },
+  {
+    "id": "later-author-source-BATCH-2026-003-006",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "author": "Betsy Beyer",
+    "date": "2022-04-05",
+    "type": "author retrospective",
+    "title": "The Site Reliability Engineering book turns 6",
+    "url": "https://cloud.google.com/blog/products/devops-sre/the-sre-book-turns-6",
+    "relationship": "qualifies",
+    "finding": "Describes core ideas as durable while emphasizing that the field evolves and pointing to continuing material, qualifying any frozen 2020 reading."
+  }
+]
