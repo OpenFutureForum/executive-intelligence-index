@@ -4,7 +4,7 @@ topic: governed identities for AI agents
 prompt_id: OEII-BOOK-METADATA
 prompt_version: "2.0"
 branch: research/books-governed-agent-identities-BATCH-2026-002
-pull_request: null
+pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/3
 execution_started_at: 2026-08-15T11:02:00Z
 execution_completed_at: 2026-08-15T11:19:05Z
 agent_or_researcher: OpenAI Codex; machine-assisted bibliographic research; human review pending
