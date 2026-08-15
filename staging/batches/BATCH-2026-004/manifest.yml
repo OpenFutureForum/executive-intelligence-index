@@ -7,7 +7,7 @@ research_question: How do public executive and institutional sources define gove
 branch: research/media-governed-agent-identities-BATCH-2026-004
 base_branch: research/discovery-governed-agent-identities-BATCH-2026-001
 base_pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/2
-pull_request: pending
+pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/5
 executed_at: 2026-08-15
 agent_or_researcher: OpenAI Codex; machine-assisted media analysis; human review pending
 model_disclosure: AI-assisted source verification, transcript-aware analysis, and statement extraction; no publication approval occurred.
