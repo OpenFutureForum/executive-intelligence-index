@@ -25,14 +25,14 @@
 - [ ] Named human methodology review
 - [ ] Named human schema review
 - [ ] Named human rights-policy review
-- [ ] GitHub Actions browser tests
+- [x] GitHub Actions browser tests
 - [ ] Pages deployment and live verification
 
 Human review status: pending. Publication recommendation: review the framework as a draft; do not publish research records or merge until the required owners approve.
 
 ## Validation
 
-`npm run check` passed. Type checking reported 0 diagnostics; 24 unit tests passed; 28 pages built; artifact checksums and fixture/staging exclusion passed. The local Playwright HTTP test passed and two process-launch tests were sandbox-skipped; the equivalent interactions passed in the in-app browser and remain mandatory in GitHub Actions. `npm audit` found 0 vulnerabilities. Deterministic build verification passed. Live verification was skipped because no deployment occurred.
+`npm run check` passed. Type checking reported 0 diagnostics; 24 unit tests passed; 28 pages built; artifact checksums and fixture/staging exclusion passed. The local Playwright HTTP test passed and two process-launch tests were sandbox-skipped; the equivalent interactions passed in the in-app browser. GitHub Actions then passed all three hosted Playwright checks plus the schema/data, rights/privacy/content, unit, build, and artifact jobs. `npm audit` found 0 vulnerabilities. Deterministic build verification passed. Live verification was skipped because no deployment occurred.
 
 ## Limitations
 

@@ -63,6 +63,8 @@ validation_outcomes:
     outcome: SKIP; BASE_URL absent because no deployment occurred.
   - command: In-app browser QA
     outcome: PASS; desktop and mobile layout, navigation, empty states, filters, structured data, Pagefind search, and console state inspected.
+  - command: GitHub Actions pull-request validation
+    outcome: PASS at commit 36801c1; schema-and-data, rights-privacy-content, and build-and-test passed, including three hosted Playwright checks.
 human_review_status: pending
 limitations:
   - The public repository, pushed branch, and draft pull request exist; deployment remains pending because the pull request is deliberately unmerged and Pages has not run from main.

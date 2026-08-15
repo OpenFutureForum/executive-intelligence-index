@@ -77,6 +77,7 @@ Additional outcomes:
 - `npm run verify:determinism`: passed; final `docs/` fingerprint `3d5b0c93f26e57687010987a0a4097fc54430acdfafae23dec58afcedb7abf17`.
 - Release fingerprint: `3527bda659346bd2f07569f394d14bc43f2065ef4e5dc800d6c10ca7ea747d3b`.
 - In-app browser QA: desktop at 1280px and mobile at 390px had no document overflow; landmarks, navigation, empty states, six collection filter controls, structured Dataset metadata, and Pagefind search were inspected. Search returned four relevant results for “attribution,” and no browser console warnings or errors were observed.
+- GitHub Actions pull-request validation at commit `36801c1`: `schema-and-data`, `rights-privacy-content`, and `build-and-test` passed. Hosted Chromium ran all three Playwright checks; 24 unit tests passed, 28 pages built, and all 22 artifact checksums matched. An initial CI run exposed leading-slash test URLs that bypassed the GitHub Pages subpath; the tests were corrected to use subpath-relative URLs before this successful run.
 - `npm run verify:live`: skipped because `BASE_URL` was absent and no deployment occurred.
 
 ## Deployment status
@@ -88,7 +89,7 @@ Not deployed. The draft pull request remains deliberately unmerged, Pages has no
 ## Unresolved issues and limitations
 
 - No named human methodology, schema, rights, production-data, or release reviewer has approved the framework.
-- GitHub Actions has started on the draft pull request; its final results should be confirmed after this reporting update. Pages, Search Console, analytics-provider integration, and live endpoints have not run.
+- GitHub-hosted pull-request validation passes. Pages, Search Console, analytics-provider integration, and live endpoints have not run.
 - Repository-level `murraylovecode` write eligibility is verified, but branch-protection and CODEOWNERS enforcement are not yet configured or verified.
 - The production corpus is empty. Research quality, diversity, role coverage, regional coverage, source concentration, and rights behavior must be evaluated again with real batches.
 - Provisional topic IDs are machine-drafted and require human taxonomy review before canonical topic publication.
