@@ -1,0 +1,351 @@
+{
+  "comparison_id": "role-comparison-BATCH-2026-010-001",
+  "batch_id": "BATCH-2026-010",
+  "topic": "Governed identities for AI agents",
+  "roles": [
+    "role-ciso",
+    "role-cio",
+    "role-cto"
+  ],
+  "time_period": "2020-08-15 through 2026-08-15, with pre-2020 foundations only when directly applicable",
+  "status": "role_evidence_gap_only",
+  "role_metrics": {
+    "role-ciso": {
+      "people": 0,
+      "sources": 0,
+      "statements": 0,
+      "organizations": 0,
+      "source_types": [],
+      "regions": [],
+      "industries": [],
+      "date_range": null,
+      "off_owned_source_share": null,
+      "vendor_source_share": null,
+      "consulting_source_share": null,
+      "role_at_source_time_evidence": 0,
+      "staging_relevance_tag_mentions": 46
+    },
+    "role-cio": {
+      "people": 0,
+      "sources": 0,
+      "statements": 0,
+      "organizations": 0,
+      "source_types": [],
+      "regions": [],
+      "industries": [],
+      "date_range": null,
+      "off_owned_source_share": null,
+      "vendor_source_share": null,
+      "consulting_source_share": null,
+      "role_at_source_time_evidence": 0,
+      "staging_relevance_tag_mentions": 46
+    },
+    "role-cto": {
+      "people": 0,
+      "sources": 0,
+      "statements": 0,
+      "organizations": 0,
+      "source_types": [],
+      "regions": [],
+      "industries": [],
+      "date_range": null,
+      "off_owned_source_share": null,
+      "vendor_source_share": null,
+      "consulting_source_share": null,
+      "role_at_source_time_evidence": 0,
+      "staging_relevance_tag_mentions": 46
+    }
+  },
+  "analysis_dimensions": {
+    "problem_definition": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "strategic_priority": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "desired_outcomes": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "risk_concerns": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "control_concerns": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "measurement_approach": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "budget_and_economic_framing": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "time_horizon": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "governance_model": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "implementation_ownership": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "technology_assumptions": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "legal_assumptions": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "data_assumptions": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "talent_assumptions": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "evidence_used": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "common_vocabulary": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "common_frameworks": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "missing_issues": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    },
+    "internal_disagreement": {
+      "role-ciso": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cio": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      },
+      "role-cto": {
+        "finding": null,
+        "status": "insufficient_role_at_source_time_evidence"
+      }
+    }
+  },
+  "comparison_findings": {
+    "genuine_alignment": null,
+    "genuine_disagreement": null,
+    "different_emphasis": null,
+    "different_responsibility": null,
+    "different_time_horizon": null,
+    "different_evidence_standard": null,
+    "different_risk_tolerance": null,
+    "different_organizational_incentives": null,
+    "overlooked_issues": null,
+    "scope_corrected_apparent_disagreement": "No comparison was attempted. Shared relevance tags and current job titles were excluded from role attribution."
+  },
+  "included_source_ids": [],
+  "included_statement_ids": [],
+  "included_proposition_ids": [],
+  "strongest_alignment": "not_determinable",
+  "strongest_disagreement": "not_determinable",
+  "largest_scope_mismatch": "Forty-six staging statements are tagged as relevant to each selected role, but zero are attributed to a CISO, CIO, or CTO speaking in that role at source time.",
+  "largest_evidence_gap": "No production operator evidence connects executive role responsibility to agent identity, authorization, budget, implementation, measurement, or accountability decisions.",
+  "workflow_status": "candidate",
+  "machine_review_status": "ready_for_human_review",
+  "human_review_status": "pending",
+  "reviewed_by": null,
+  "reviewed_at": null
+}

@@ -1,0 +1,8 @@
+"review_id","record_or_claim","apparent_role","actual_scope","decision","false_comparison_prevented","human_review_status"
+"SM-001","All 46 BATCH-2026-006 statements carry role-ciso, role-cio, and role-cto relevance tags","CISO/CIO/CTO","Executive relevance only; author roles are institutional, research, standards, editor, contributor, or author","Exclude from role-attributed evidence","yes","pending"
+"SM-002","person-BATCH-2026-005-luca-beurer-kellner current role is Chief Technology Officer","CTO","Role at indexed AgentDojo source time is Author; current role cannot be backfilled","Exclude from CTO sample","yes","pending"
+"SM-003","NIST and standards recommendations concern security, technology, and information functions","CISO/CIO/CTO","Institutional-author positions, not executive-role testimony","Retain only as future topic evidence after review","yes","pending"
+"SM-004","Academic authors evaluate agent attacks and defenses","CTO or CISO","Research evidence; author role does not establish executive responsibility or priorities","Exclude from role comparison","yes","pending"
+"SM-005","OFF CISO report describes a mixed security room and a smaller security-leader cut","CISO","External OFF content not ingested; mixed-room results cannot be assigned wholesale to CISOs","Future verification must use role-tagged respondent denominators","yes","pending"
+"SM-006","OFF buyer results combine CIO or CTO","CIO versus CTO","Combined response category cannot distinguish the two roles","Do not use for CIO–CTO comparison","yes","pending"
+"SM-007","OFF CTO community page lists identity, authorization, and audit topics","CTO","Community agenda and marketing description, not a verified statement sample","Overlap only; not role evidence","yes","pending"

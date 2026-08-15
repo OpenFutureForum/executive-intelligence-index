@@ -1,0 +1,54 @@
+batch_id: BATCH-2026-010
+prompt_id: OEII-ROLE-COMPARISON
+prompt_version: "2.0"
+topic: Governed identities for AI agents
+topic_slug: governed-agent-identities
+roles: [role-ciso, role-cio, role-cto]
+time_period: 2020-08-15 through 2026-08-15, with pre-2020 foundations only when directly applicable
+branch: analysis/role-comparison-governed-agent-identities-BATCH-2026-010
+base_branch: research/people-BATCH-2026-007
+execution_date: 2026-08-15
+execution_completed_at: 2026-08-15T17:30:00-07:00
+agent_or_researcher: OpenAI Codex; machine-assisted role eligibility, source-time attribution, scope correction, and research-gap design; named human review pending
+model_disclosure: AI-assisted canonical inventory, role-at-source-time audit, gap briefing, matrix and question drafting, OFF overlap search, and validation; no role finding or human approval was inferred.
+comparison_status: INELIGIBLE_ROLE_EVIDENCE_GAP_BRIEFING_ONLY
+roles_meeting_floor: 0
+roles_below_floor: 3
+ciso_people: 0
+ciso_sources: 0
+ciso_statements: 0
+cio_people: 0
+cio_sources: 0
+cio_statements: 0
+cto_people: 0
+cto_sources: 0
+cto_statements: 0
+shared_staging_relevance_tags_per_role: 46
+eligible_role_at_source_time_statements_per_role: 0
+scope_mismatches_corrected: 7
+human_review_status: pending
+output_files:
+  - manifest.yml
+  - eligibility-check.json
+  - role-evidence-gap-briefing.md
+  - role-comparison.json
+  - role-evidence-table.csv
+  - role-source-distribution.csv
+  - role-proposition-matrix.csv
+  - risk-framing-matrix.csv
+  - measurement-matrix.csv
+  - scope-mismatch-review.csv
+  - evidence-gap-table.csv
+  - evidence-gaps.md
+  - interview-questions.md
+  - roundtable-questions.md
+  - existing-content-overlap.md
+  - limitations.md
+  - validation-results.md
+validation_required:
+  - role at source time and role eligibility
+  - sample-size and concentration disclosure
+  - scope mismatch and unsupported generalization
+  - proposition and statement lineage
+  - existing content overlap
+  - structured data, staging isolation, public build

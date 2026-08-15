@@ -1,0 +1,4 @@
+"role_id","production_evidence","what_can_be_said","what_cannot_be_said","minimum_missing_sample"
+"role-ciso","none","The indexed production corpus cannot determine CISO framing.","Problem, risk, control, budget, ownership, measurement, or board-reporting emphasis.","3 independent sources; 2 people; 2 organizations; 5 role-attributed statements"
+"role-cio","none","The indexed production corpus cannot determine CIO framing.","Platform ownership, integration, lifecycle operations, procurement, service reliability, or inventory emphasis.","3 independent sources; 2 people; 2 organizations; 5 role-attributed statements"
+"role-cto","none","The indexed production corpus cannot determine CTO framing.","Architecture, developer controls, protocol choices, deployment tradeoffs, interoperability, or shutdown design emphasis.","3 independent sources; 2 people; 2 organizations; 5 role-attributed statements"
