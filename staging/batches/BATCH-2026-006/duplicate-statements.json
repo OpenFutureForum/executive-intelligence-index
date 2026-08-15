@@ -1,0 +1,58 @@
+{
+  "exact_duplicate_statement_ids": [],
+  "near_duplicate_statement_pairs": [],
+  "held_rendition_candidates": [
+    {
+      "candidate_id": "held-BATCH-2026-006-001",
+      "source_id": "source-BATCH-2026-005-005",
+      "neutral_paraphrase": "A subagent should receive a narrowed subset of its parent agent's authority.",
+      "decision": "held",
+      "reason_code": "duplicate_rendition",
+      "overlaps_statement_id": "statement-BATCH-2026-006-020",
+      "decision_note": "Same intellectual work as the official OpenID rendition; retained only for rendition provenance.",
+      "human_review_status": "pending"
+    },
+    {
+      "candidate_id": "held-BATCH-2026-006-002",
+      "source_id": "source-BATCH-2026-005-005",
+      "neutral_paraphrase": "Delegated authorization should identify the user and the agent separately.",
+      "decision": "held",
+      "reason_code": "duplicate_rendition",
+      "overlaps_statement_id": "statement-BATCH-2026-006-016",
+      "decision_note": "Same intellectual work as the official OpenID rendition; retained only for rendition provenance.",
+      "human_review_status": "pending"
+    },
+    {
+      "candidate_id": "held-BATCH-2026-006-003",
+      "source_id": "source-BATCH-2026-005-005",
+      "neutral_paraphrase": "Audit trails should preserve both principal and agent identity.",
+      "decision": "held",
+      "reason_code": "duplicate_rendition",
+      "overlaps_statement_id": "statement-BATCH-2026-006-018",
+      "decision_note": "Same intellectual work as the official OpenID rendition; retained only for rendition provenance.",
+      "human_review_status": "pending"
+    },
+    {
+      "candidate_id": "held-BATCH-2026-006-004",
+      "source_id": "source-BATCH-2026-005-005",
+      "neutral_paraphrase": "Agent lifecycle management should cover provisioning and de-provisioning.",
+      "decision": "held",
+      "reason_code": "duplicate_rendition",
+      "overlaps_statement_id": "statement-BATCH-2026-006-019",
+      "decision_note": "Same intellectual work as the official OpenID rendition; retained only for rendition provenance.",
+      "human_review_status": "pending"
+    }
+  ],
+  "source_work_overlap": [
+    {
+      "source_ids": [
+        "source-BATCH-2026-005-004",
+        "source-BATCH-2026-005-005"
+      ],
+      "relationship": "same_intellectual_work_different_renditions",
+      "canonical_coding_source_id": "source-BATCH-2026-005-004",
+      "decision": "Do not create parallel statement records from the arXiv rendition; preserve its held candidates for provenance and human review."
+    }
+  ],
+  "human_review_status": "pending"
+}

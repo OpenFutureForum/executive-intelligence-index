@@ -1,0 +1,101 @@
+{
+  "sampling_method": "Deterministic risk-stratified sample: at least 20% of high-impact statements and at least 10% of other statements.",
+  "population": {
+    "total": 46,
+    "high_impact": 16,
+    "normal": 30,
+    "disputed_or_reputational_or_change_claims": 0
+  },
+  "sample_counts": {
+    "total": 10,
+    "high_impact": 6,
+    "normal": 4
+  },
+  "sampling_rates": {
+    "high_impact": 0.375,
+    "normal": 0.1333
+  },
+  "items": [
+    {
+      "statement_id": "statement-BATCH-2026-006-001",
+      "source_id": "source-BATCH-2026-005-001",
+      "risk_class": "normal",
+      "selection_reason": "Routine quality-control sample.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-007",
+      "source_id": "source-BATCH-2026-005-002",
+      "risk_class": "normal",
+      "selection_reason": "Routine quality-control sample.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-010",
+      "source_id": "source-BATCH-2026-005-003",
+      "risk_class": "high_impact",
+      "selection_reason": "Governance, security, accountability, or empirical claim with material decision impact.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-016",
+      "source_id": "source-BATCH-2026-005-004",
+      "risk_class": "high_impact",
+      "selection_reason": "Governance, security, accountability, or empirical claim with material decision impact.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-023",
+      "source_id": "source-BATCH-2026-005-006",
+      "risk_class": "normal",
+      "selection_reason": "Routine quality-control sample.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-025",
+      "source_id": "source-BATCH-2026-005-006",
+      "risk_class": "high_impact",
+      "selection_reason": "Governance, security, accountability, or empirical claim with material decision impact.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-029",
+      "source_id": "source-BATCH-2026-005-007",
+      "risk_class": "high_impact",
+      "selection_reason": "Governance, security, accountability, or empirical claim with material decision impact.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-031",
+      "source_id": "source-BATCH-2026-005-007",
+      "risk_class": "normal",
+      "selection_reason": "Routine quality-control sample.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-034",
+      "source_id": "source-BATCH-2026-005-008",
+      "risk_class": "high_impact",
+      "selection_reason": "Governance, security, accountability, or empirical claim with material decision impact.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-041",
+      "source_id": "source-BATCH-2026-005-009",
+      "risk_class": "high_impact",
+      "selection_reason": "Governance, security, accountability, or empirical claim with material decision impact.",
+      "second_review_status": "pending_independent_human_or_agent_review",
+      "human_review_status": "pending"
+    }
+  ],
+  "note": "The extraction agent did not mark any independent review as complete. This file selects the required review sample without implying human approval."
+}

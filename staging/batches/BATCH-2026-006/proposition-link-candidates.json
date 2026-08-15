@@ -1,0 +1,656 @@
+{
+  "candidates": [
+    {
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "neutral_text": "Agents should have stable identities distinct from the principals they represent.",
+      "status": "candidate_only_not_a_canonical_proposition",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-002",
+      "neutral_text": "Delegated authority should preserve both principal and agent context.",
+      "status": "candidate_only_not_a_canonical_proposition",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-003",
+      "neutral_text": "Agent permissions should be bounded by least privilege and attenuated across delegation.",
+      "status": "candidate_only_not_a_canonical_proposition",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-004",
+      "neutral_text": "Agent identity governance should include provisioning, rotation, revocation, and de-provisioning.",
+      "status": "candidate_only_not_a_canonical_proposition",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-005",
+      "neutral_text": "Auditability depends on traceable identity and authorization context.",
+      "status": "candidate_only_not_a_canonical_proposition",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "neutral_text": "Agent systems need layered evaluation, authorization controls, and monitoring.",
+      "status": "candidate_only_not_a_canonical_proposition",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-007",
+      "neutral_text": "Users and deployers need reliable mechanisms to interrupt agents and their subagents.",
+      "status": "candidate_only_not_a_canonical_proposition",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "neutral_text": "Synthetic security benchmarks demonstrate capabilities but do not estimate production prevalence.",
+      "status": "candidate_only_not_a_canonical_proposition",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-009",
+      "neutral_text": "Multi-agent coordination can increase cybersecurity capability and associated governance risk.",
+      "status": "candidate_only_not_a_canonical_proposition",
+      "human_review_status": "pending"
+    }
+  ],
+  "links": [
+    {
+      "statement_id": "statement-BATCH-2026-006-001",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-002",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-003",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-004",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-005",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-006",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-003",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-006",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-007",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-007",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-008",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-009",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-010",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-011",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-011",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-003",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-011",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-004",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-012",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-012",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-004",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-012",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-013",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-002",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-013",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-005",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-014",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-015",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-016",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-016",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-002",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-017",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-017",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-003",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-017",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-004",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-018",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-018",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-002",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-018",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-005",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-019",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-019",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-004",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-020",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-020",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-002",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-020",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-003",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-020",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-004",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-021",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-003",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-021",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-007",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-022",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-022",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-023",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-023",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-024",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-024",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-025",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-025",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-026",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-026",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-027",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-005",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-028",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-028",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-029",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-029",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-030",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-031",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-031",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-032",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-003",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-032",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-033",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-034",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-034",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-009",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-035",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-035",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-009",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-036",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-036",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-009",
+      "relationship": "provides_evidence",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-037",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-009",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-038",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-039",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-040",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-040",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-005",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-041",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-041",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-002",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-041",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-005",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-042",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-043",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-003",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-043",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-043",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-007",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-044",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-005",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-044",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-045",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-045",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-002",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-045",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-005",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-046",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-046",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-004",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    },
+    {
+      "statement_id": "statement-BATCH-2026-006-046",
+      "proposition_candidate_id": "proposition-candidate-BATCH-2026-006-007",
+      "relationship": "supports",
+      "status": "proposed_only",
+      "human_review_status": "pending"
+    }
+  ],
+  "note": "These are proposed links to neutral candidate ideas. No canonical proposition or stance record is created by this batch."
+}
