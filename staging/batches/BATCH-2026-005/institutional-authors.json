@@ -1,0 +1,46 @@
+[
+  {
+    "institutional_author_id": "institution-BATCH-2026-005-nist-caisi",
+    "canonical_name": "NIST Center for AI Standards and Innovation",
+    "organization": "National Institute of Standards and Technology",
+    "source_ids": [
+      "source-BATCH-2026-005-001"
+    ],
+    "author_role": "institutional research unit",
+    "identity_status": "verified",
+    "human_review_status": "pending"
+  },
+  {
+    "institutional_author_id": "institution-BATCH-2026-005-nist",
+    "canonical_name": "National Institute of Standards and Technology",
+    "organization": "U.S. Department of Commerce",
+    "source_ids": [
+      "source-BATCH-2026-005-002"
+    ],
+    "author_role": "institutional author and publisher",
+    "identity_status": "verified",
+    "human_review_status": "pending"
+  },
+  {
+    "institutional_author_id": "institution-BATCH-2026-005-ietf-draft-authors",
+    "canonical_name": "IETF Internet-Draft authors",
+    "organization": "Internet Engineering Task Force",
+    "source_ids": [
+      "source-BATCH-2026-005-003"
+    ],
+    "author_role": "collective technical authorship",
+    "identity_status": "verified",
+    "human_review_status": "pending"
+  },
+  {
+    "institutional_author_id": "institution-BATCH-2026-005-openid",
+    "canonical_name": "OpenID Foundation",
+    "organization": "OpenID Foundation",
+    "source_ids": [
+      "source-BATCH-2026-005-004"
+    ],
+    "author_role": "publisher context",
+    "identity_status": "verified",
+    "human_review_status": "pending"
+  }
+]

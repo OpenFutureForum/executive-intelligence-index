@@ -1,0 +1,137 @@
+[
+  {
+    "assessment_id": "quality-BATCH-2026-005-001",
+    "source_id": "source-BATCH-2026-005-001",
+    "dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "low_for_accessible_version",
+      "independence": "government_publisher",
+      "bibliographic_stability": "high",
+      "evidence_strength": "moderate_for_describing_commenter_themes_not_population_prevalence",
+      "unresolved": "Full report body and response-level method were not available from the canonical page."
+    },
+    "composite_score_used": false,
+    "reviewer_note": "Dimensions remain separate; no composite score or publication approval.",
+    "human_review_status": "pending"
+  },
+  {
+    "assessment_id": "quality-BATCH-2026-005-002",
+    "source_id": "source-BATCH-2026-005-002",
+    "dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "moderate_for_consensus_process",
+      "independence": "government_publisher",
+      "bibliographic_stability": "high_doi_resolved",
+      "evidence_strength": "strong_normative_reference_not_empirical_outcome_evidence",
+      "unresolved": "PDF metadata shows a 2025 modification date without a visible new edition statement."
+    },
+    "composite_score_used": false,
+    "reviewer_note": "Dimensions remain separate; no composite score or publication approval.",
+    "human_review_status": "pending"
+  },
+  {
+    "assessment_id": "quality-BATCH-2026-005-003",
+    "source_id": "source-BATCH-2026-005-003",
+    "dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "not_applicable_non_empirical",
+      "independence": "multi_vendor_author_group",
+      "bibliographic_stability": "medium_due_to_expiring_draft",
+      "evidence_strength": "strong_for_current_proposal_weak_for_interoperability_outcomes",
+      "unresolved": "Future revisions may change normative language or identifier choices."
+    },
+    "composite_score_used": false,
+    "reviewer_note": "Dimensions remain separate; no composite score or publication approval.",
+    "human_review_status": "pending"
+  },
+  {
+    "assessment_id": "quality-BATCH-2026-005-004",
+    "source_id": "source-BATCH-2026-005-004",
+    "dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "appropriate_for_white_paper_but_source_selection_not_reported",
+      "independence": "standards_community_publisher",
+      "bibliographic_stability": "high_official_pdf",
+      "evidence_strength": "moderate_normative_synthesis_not_empirical",
+      "unresolved": "Substantially the same intellectual work appears as arXiv:2510.25819v1."
+    },
+    "composite_score_used": false,
+    "reviewer_note": "Dimensions remain separate; no composite score or publication approval.",
+    "human_review_status": "pending"
+  },
+  {
+    "assessment_id": "quality-BATCH-2026-005-005",
+    "source_id": "source-BATCH-2026-005-005",
+    "dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "appropriate_for_preprint_synthesis",
+      "independence": "multi_author_preprint",
+      "bibliographic_stability": "high_arxiv_doi_resolved",
+      "evidence_strength": "moderate_normative_synthesis_not_empirical",
+      "unresolved": "Treat as a related rendition, not an independent evidentiary replication of the OpenID report."
+    },
+    "composite_score_used": false,
+    "reviewer_note": "Dimensions remain separate; no composite score or publication approval.",
+    "human_review_status": "pending"
+  },
+  {
+    "assessment_id": "quality-BATCH-2026-005-006",
+    "source_id": "source-BATCH-2026-005-006",
+    "dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "high",
+      "independence": "academic_with_disclosed_industry_affiliations",
+      "bibliographic_stability": "high_arxiv_and_neurips_records",
+      "evidence_strength": "strong_for_benchmark_conditions_not_real_world_incidence",
+      "unresolved": "Confidence-interval construction and raw row numerators are not stated in the reviewed tables."
+    },
+    "composite_score_used": false,
+    "reviewer_note": "Dimensions remain separate; no composite score or publication approval.",
+    "human_review_status": "pending"
+  },
+  {
+    "assessment_id": "quality-BATCH-2026-005-007",
+    "source_id": "source-BATCH-2026-005-007",
+    "dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "high_for_benchmark_structure",
+      "independence": "academic",
+      "bibliographic_stability": "high_arxiv_doi_resolved",
+      "evidence_strength": "moderate_to_strong_for_benchmark_conditions",
+      "unresolved": "Venue acceptance is author/arXiv-reported; OpenReview verification was unavailable in this run. Headline average lacks uncertainty and a compact denominator statement."
+    },
+    "composite_score_used": false,
+    "reviewer_note": "Dimensions remain separate; no composite score or publication approval.",
+    "human_review_status": "pending"
+  },
+  {
+    "assessment_id": "quality-BATCH-2026-005-008",
+    "source_id": "source-BATCH-2026-005-008",
+    "dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "moderate",
+      "independence": "academic_with_platform_coordination_disclosed",
+      "bibliographic_stability": "high_arxiv_doi_resolved",
+      "evidence_strength": "moderate_for_selected_sandbox_cases",
+      "unresolved": "Nonrelease of code/prompts limits replication; funding and conflict disclosures are absent."
+    },
+    "composite_score_used": false,
+    "reviewer_note": "Dimensions remain separate; no composite score or publication approval.",
+    "human_review_status": "pending"
+  },
+  {
+    "assessment_id": "quality-BATCH-2026-005-009",
+    "source_id": "source-BATCH-2026-005-009",
+    "dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "appropriate_for_policy_analysis",
+      "independence": "company_published",
+      "bibliographic_stability": "high_official_pdf",
+      "evidence_strength": "moderate_normative_policy_analysis_not_empirical",
+      "unresolved": "Publication day, funding, affiliations, conflicts, and external review status are not reported in the PDF."
+    },
+    "composite_score_used": false,
+    "reviewer_note": "Dimensions remain separate; no composite score or publication approval.",
+    "human_review_status": "pending"
+  }
+]

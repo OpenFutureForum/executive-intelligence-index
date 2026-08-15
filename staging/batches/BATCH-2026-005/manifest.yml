@@ -1,0 +1,116 @@
+batch_id: BATCH-2026-005
+prompt_id: OEII-EVIDENCE-RESEARCH
+prompt_version: "2.0"
+topic: Governed identities for AI agents
+topic_slug: governed-agent-identities
+branch: research/evidence-governed-agent-identities-BATCH-2026-005
+pull_request: null
+base_branch: research/discovery-governed-agent-identities-BATCH-2026-001
+execution_date: 2026-08-15
+agent_or_researcher: OpenAI Codex; machine-assisted evidence review; human review pending
+model_disclosure: AI-assisted metadata verification, methodology coding, statistical-context review, PDF visual inspection, and statement drafting; no human approval or publication approval occurred.
+accepted_evidence_source_candidate_ids:
+  - candidate-BATCH-2026-001-005
+  - candidate-BATCH-2026-001-007
+  - candidate-BATCH-2026-001-009
+  - candidate-BATCH-2026-001-027
+  - candidate-BATCH-2026-001-045
+  - candidate-BATCH-2026-001-050
+  - candidate-BATCH-2026-001-054
+  - candidate-BATCH-2026-001-058
+  - candidate-BATCH-2026-001-085
+selected_source_count: 9
+source_classification_counts:
+  government_reports: 1
+  government_standards_profiles: 1
+  standards_working_documents: 1
+  nonprofit_or_company_white_papers: 2
+  preprints: 2
+  verified_peer_reviewed_conference_papers: 1
+  conference_papers_with_qualified_venue_verification: 1
+  consulting_reports: 0
+  vendor_sponsored_reports: 0
+  off_owned_reports: 0
+statement_count: 22
+statistical_claim_count: 7
+institutional_author_record_count: 4
+person_author_relationship_count: 90
+funding_disclosure_count: 1
+explicit_conflict_disclosure_count: 0
+sample_size_undisclosed_for_empirical_or_response_based_source_count: 1
+weak_methodology_count: 1
+correction_or_version_issue_count: 2
+retraction_count: 0
+production_records_created: 0
+workflow_status: statements_extracted
+machine_review_status: machine_checked
+human_review_status: pending
+output_files:
+  - source-proposals.json
+  - institutional-authors.json
+  - person-author-relationships.json
+  - methodology-records.json
+  - source-analyses.json
+  - evidence-quality-assessments.json
+  - evidence-statements.json
+  - methodology-matrix.csv
+  - statistics-review.csv
+  - funding-and-conflicts.csv
+  - correction-retraction-review.json
+  - duplicate-report-review.json
+  - cross-project-mappings.json
+  - rights-review-records.json
+  - rights-review.md
+  - doi-validation.csv
+  - source-version-review.csv
+  - locator-review.csv
+  - limitations.md
+  - validation-results.md
+validation_required:
+  - DOI validation
+  - source version validation
+  - duplicate report detection
+  - methodology-field validation
+  - sample-context validation
+  - statistics completeness checks
+  - page and table locator checks
+  - funding disclosure checks
+  - correction and retraction checks
+  - OFF crosswalk checks
+  - rights checks
+  - statement validation
+  - staging-leak checks
+validation_commands:
+  - node work/evidence-research-2026-005/validate_batch.mjs
+  - node --import tsx scripts/cli.ts validate data
+  - node --import tsx scripts/cli.ts validate provenance
+  - node --import tsx scripts/cli.ts validate attributions
+  - node --import tsx scripts/cli.ts validate statements
+  - node --import tsx scripts/cli.ts validate propositions
+  - node --import tsx scripts/cli.ts validate book-editions
+  - node --import tsx scripts/cli.ts validate source-locators
+  - node --import tsx scripts/cli.ts validate rights
+  - node --import tsx scripts/cli.ts validate review-status
+  - node --import tsx scripts/cli.ts validate publication
+  - node --import tsx scripts/cli.ts validate content
+  - node --import tsx scripts/cli.ts audit duplicates
+  - node --import tsx scripts/cli.ts audit concentration
+  - node --import tsx scripts/cli.ts audit coverage
+  - npm test -- --run
+  - git diff --check
+  - staging isolation search across data docs exports and public
+validation_results:
+  - PASS; 9 source proposals and 22 evidence statements conform to canonical schemas.
+  - PASS; methodology, sample context, statistics, funding, version, correction/retraction, duplicate, OFF crosswalk, rights, and locator checks.
+  - PASS; five asserted DOIs resolved by HTTPS GET; no guessed DOI retained for NIST AI 800-5.
+  - PASS; relevant PDF tables, figures, axes, labels, footnotes, and page numbers visually reviewed.
+  - PASS; canonical repository validators and audits.
+  - PASS; 24 tests across four test files.
+  - PASS; staging isolation and whitespace checks.
+limitations:
+  - Two initially considered nonprofit reports were excluded because their full downloads required login or returned a permission-blocked page; they were not silently treated as reviewed.
+  - BATCH-2026-001 discovery acceptance did not constitute source approval; this batch narrows to exact, reproducibly reviewable versions.
+  - Four selected sources are non-empirical normative documents and must not be counted as outcome evidence.
+  - One response-synthesis source lacks sample and coding details on its accessible canonical page.
+  - Academic benchmarks use synthetic or purposively selected cases and do not estimate production incident prevalence.
+  - All records remain staging-only pending named human review.
