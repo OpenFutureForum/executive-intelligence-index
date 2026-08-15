@@ -1,0 +1,33 @@
+{
+  "batch_id": "BATCH-2026-002",
+  "work_aliases": [
+    {
+      "alias": "Solving the Bottom Turtle — a SPIFFE Way to Establish Trust in Your Infrastructure via Universal Identity",
+      "canonical_id": "book-work-BATCH-2026-002-001"
+    },
+    {
+      "alias": "Zero Trust Networks, 2nd Edition",
+      "canonical_id": "book-work-BATCH-2026-002-002"
+    },
+    {
+      "alias": "Solving Identity Management in Modern Applications, First Edition",
+      "canonical_id": "book-work-BATCH-2026-002-007"
+    },
+    {
+      "alias": "Solving Identity Management in Modern Applications, Second Edition",
+      "canonical_id": "book-work-BATCH-2026-002-008"
+    }
+  ],
+  "person_aliases": [
+    {
+      "alias": "Agustin Martinez Fayo",
+      "canonical_id": "person-BATCH-2026-002-009"
+    },
+    {
+      "alias": "Andres Vega",
+      "canonical_id": "person-BATCH-2026-002-011"
+    }
+  ],
+  "unresolved": [],
+  "human_review_status": "pending"
+}

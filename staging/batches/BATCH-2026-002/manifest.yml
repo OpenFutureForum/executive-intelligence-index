@@ -1,0 +1,82 @@
+batch_id: BATCH-2026-002
+parent_discovery_batch: BATCH-2026-001
+topic: governed identities for AI agents
+prompt_id: OEII-BOOK-METADATA
+prompt_version: "2.0"
+branch: research/books-governed-agent-identities-BATCH-2026-002
+pull_request: null
+execution_started_at: 2026-08-15T11:02:00Z
+execution_completed_at: 2026-08-15T11:19:05Z
+agent_or_researcher: OpenAI Codex; machine-assisted bibliographic research; human review pending
+model_disclosure: AI-assisted metadata verification and reconciliation; no human approval and no production publication occurred.
+scope_note: The parent discovery batch contained eight accepted books, below the template target of approximately 15–25. Only those eight were advanced; one materially revised related work was staged separately during edition reconciliation.
+accepted_book_candidate_ids:
+  - candidate-BATCH-2026-001-095
+  - candidate-BATCH-2026-001-096
+  - candidate-BATCH-2026-001-097
+  - candidate-BATCH-2026-001-098
+  - candidate-BATCH-2026-001-099
+  - candidate-BATCH-2026-001-100
+  - candidate-BATCH-2026-001-101
+  - candidate-BATCH-2026-001-102
+counts:
+  accepted_input_books: 8
+  book_work_records: 9
+  related_materially_revised_work_candidates: 1
+  book_edition_records: 14
+  author_person_candidates: 30
+  related_source_candidates: 10
+  catalogued: 6
+  reviewed_candidate: 0
+  deep_analysis_ready: 2
+  identity_review_required: 1
+  rights_review_required: 0
+  held: 0
+  rejected: 0
+  unresolved_edition_conflicts: 1
+  author_identity_reviews_pending: 30
+analysis_depth_note: Every work remains catalogued; deep_analysis_ready describes access readiness only and does not mean the book has been deeply analyzed.
+production_records_created: 0
+human_review_status: pending
+human_approved_records: 0
+output_files:
+  - manifest.yml
+  - book-works.json
+  - book-editions.json
+  - author-person-candidates.json
+  - related-source-candidates.json
+  - aliases.json
+  - work-edition-relationships.json
+  - duplicate-review.json
+  - rights-review-cases.json
+  - book-decisions.json
+  - book-review-queue.csv
+  - edition-conflicts.json
+  - author-identity-review.json
+  - metadata-sources.md
+  - rights-review.md
+  - limitations.md
+  - next-batch-recommendations.yml
+  - validation-results.md
+validation_commands:
+  - node --import tsx scripts/validate-book-metadata-batch.ts BATCH-2026-002
+  - node --import tsx scripts/cli.ts validate data
+  - node --import tsx scripts/cli.ts validate provenance
+  - node --import tsx scripts/cli.ts validate publication
+  - node --import tsx scripts/cli.ts validate rights
+  - node --import tsx scripts/cli.ts audit duplicates
+  - node --import tsx scripts/cli.ts audit coverage
+  - npm run lint
+  - npm run test
+  - git diff --check
+validation_results:
+  - PASS; nine work, fourteen edition, thirty person, and ten related-source candidates conform to their canonical schemas.
+  - PASS; all ISBN-10, ISBN-13, and audiobook check digits; no duplicate ISBN assignments.
+  - PASS; duplicate title/author, work-edition relationships, reciprocal author links, provenance, access basis, rights status, analysis depth, human-review status, and staging isolation.
+  - PASS; six metadata discrepancies recorded; one materially revised work-identity conflict remains explicitly unresolved.
+  - WARN; only eight accepted input books existed, below the template target; no held or rejected book was promoted.
+  - WARN; verified Italian edition requires a future lang-it vocabulary change and translator resolution.
+  - WARN; thirty individual author profiles and current roles remain pending human identity research.
+  - PASS; repository data, provenance, attribution, statement, proposition, book-edition, locator, rights, review, publication, content, duplicate, concentration, and coverage gates.
+  - PASS; TypeScript, targeted ESLint, twenty-four unit tests, and git diff whitespace checks.
+next_action: Named human should resolve the revised-work identity and Italian translator/language-vocabulary issues, confirm author identities, and authorize separate deep-analysis batches for exact editions with complete lawful access.

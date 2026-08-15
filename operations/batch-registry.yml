@@ -16,3 +16,12 @@ batches:
     candidate_counts: {considered: 120, accepted: 91, held: 19, rejected: 10}
     human_review_status: pending
     publication_status: staging_only
+  - batch_id: BATCH-2026-002
+    branch: research/books-governed-agent-identities-BATCH-2026-002
+    type: book_metadata
+    parent_batch_id: BATCH-2026-001
+    prompt_id: OEII-BOOK-METADATA
+    prompt_version: "2.0"
+    record_counts: {accepted_input_books: 8, book_works: 9, book_editions: 14, author_candidates: 30, related_sources: 10}
+    human_review_status: pending
+    publication_status: staging_only

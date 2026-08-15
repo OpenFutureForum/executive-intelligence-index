@@ -1,0 +1,681 @@
+[
+  {
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "title": "Solving the Bottom Turtle",
+    "subtitle": "A SPIFFE Way to Establish Trust in Your Infrastructure via Universal Identity",
+    "alternate_titles": [
+      "Solving the Bottom Turtle — a SPIFFE Way to Establish Trust in Your Infrastructure via Universal Identity"
+    ],
+    "authors": [
+      "person-BATCH-2026-002-001",
+      "person-BATCH-2026-002-002",
+      "person-BATCH-2026-002-003",
+      "person-BATCH-2026-002-004",
+      "person-BATCH-2026-002-005",
+      "person-BATCH-2026-002-006",
+      "person-BATCH-2026-002-007",
+      "person-BATCH-2026-002-008",
+      "person-BATCH-2026-002-009",
+      "person-BATCH-2026-002-010",
+      "person-BATCH-2026-002-011",
+      "person-BATCH-2026-002-012"
+    ],
+    "contributors": [],
+    "original_language": "lang-en",
+    "first_publication_date": null,
+    "work_type": "collaborative_technical_book",
+    "topics": [
+      "governed-agent-identities",
+      "identity-and-access-management"
+    ],
+    "central_subjects": [
+      "SPIFFE and SPIRE",
+      "workload identity",
+      "universal service identity",
+      "infrastructure trust"
+    ],
+    "inclusion_rationale": "Officially published, openly licensed treatment of workload identity and trust establishment that can inform—but must not be assumed identical to—AI-agent identity design.",
+    "analysis_depth": "catalogued",
+    "analysis_basis": "full_text_lawfully_accessed",
+    "central_thesis": null,
+    "principal_propositions": [],
+    "frameworks": [],
+    "evidence_base": "Bibliographic and access verification only; no whole-book argument synthesis performed in this batch.",
+    "executive_role_implications": {},
+    "strongest_documented_arguments": [],
+    "limitations": [
+      "No unsupported chapter summary or full-argument claim created.",
+      "Agent-specific contribution remains a question for a later complete-review batch."
+    ],
+    "counterpoints": [],
+    "later_author_interview_source_ids": [],
+    "related_book_work_ids": [],
+    "related_report_ids": [],
+    "changes_in_later_statements": [],
+    "edition_ids": [
+      "book-edition-BATCH-2026-002-001"
+    ],
+    "related_source_ids": [],
+    "related_statement_ids": [],
+    "related_proposition_ids": [],
+    "related_dossier_ids": [],
+    "rights_notes": "Official PDF states CC BY 4.0; complete public text may be analyzed under that license.",
+    "review_status": "deep_analysis_ready",
+    "publication_status": "staging_only",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page and bibliographic metadata",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Accepted discovery candidate candidate-BATCH-2026-001-095."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-002",
+    "title": "Zero Trust Networks",
+    "subtitle": "Building Secure Systems in Untrusted Networks",
+    "alternate_titles": [
+      "Zero Trust Networks, 2nd Edition"
+    ],
+    "authors": [
+      "person-BATCH-2026-002-013",
+      "person-BATCH-2026-002-014",
+      "person-BATCH-2026-002-003",
+      "person-BATCH-2026-002-015"
+    ],
+    "contributors": [],
+    "original_language": "lang-en",
+    "first_publication_date": null,
+    "work_type": "materially_revised_second_edition_work",
+    "topics": [
+      "governed-agent-identities",
+      "identity-and-access-management"
+    ],
+    "central_subjects": [
+      "zero trust",
+      "authentication",
+      "authorization",
+      "policy enforcement",
+      "network and workload identity"
+    ],
+    "inclusion_rationale": "The revised four-author work provides foundational architecture for identity-first, least-privilege agent access; the agent-specific applicability requires complete review.",
+    "analysis_depth": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "central_thesis": null,
+    "principal_propositions": [],
+    "frameworks": [],
+    "evidence_base": "Bibliographic and access verification only; no whole-book argument synthesis performed in this batch.",
+    "executive_role_implications": {},
+    "strongest_documented_arguments": [],
+    "limitations": [
+      "No unsupported chapter summary or full-argument claim created.",
+      "Agent-specific contribution remains a question for a later complete-review batch."
+    ],
+    "counterpoints": [],
+    "later_author_interview_source_ids": [],
+    "related_book_work_ids": [],
+    "related_report_ids": [],
+    "changes_in_later_statements": [],
+    "edition_ids": [
+      "book-edition-BATCH-2026-002-002",
+      "book-edition-BATCH-2026-002-003",
+      "book-edition-BATCH-2026-002-004"
+    ],
+    "related_source_ids": [],
+    "related_statement_ids": [],
+    "related_proposition_ids": [],
+    "related_dossier_ids": [],
+    "rights_notes": "Metadata, table of contents, and authorized preview only; no complete text was stored or claimed as reviewed.",
+    "review_status": "catalogued",
+    "publication_status": "staging_only",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/zero-trust-networks/9781492096580/titlepage01.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page and bibliographic metadata",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Accepted discovery candidate candidate-BATCH-2026-001-096."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-003",
+    "title": "OAuth 2 in Action",
+    "subtitle": null,
+    "alternate_titles": [],
+    "authors": [
+      "person-BATCH-2026-002-016",
+      "person-BATCH-2026-002-017"
+    ],
+    "contributors": [
+      "Ian Glazer"
+    ],
+    "original_language": "lang-en",
+    "first_publication_date": null,
+    "work_type": "technical_book",
+    "topics": [
+      "governed-agent-identities",
+      "identity-and-access-management"
+    ],
+    "central_subjects": [
+      "OAuth 2.0",
+      "delegated authorization",
+      "tokens",
+      "client and resource-server security"
+    ],
+    "inclusion_rationale": "Foundational treatment of delegated authorization that may inform agents acting on behalf of users; agent-specific conclusions require full review.",
+    "analysis_depth": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "central_thesis": null,
+    "principal_propositions": [],
+    "frameworks": [],
+    "evidence_base": "Bibliographic and access verification only; no whole-book argument synthesis performed in this batch.",
+    "executive_role_implications": {},
+    "strongest_documented_arguments": [],
+    "limitations": [
+      "No unsupported chapter summary or full-argument claim created.",
+      "Agent-specific contribution remains a question for a later complete-review batch."
+    ],
+    "counterpoints": [],
+    "later_author_interview_source_ids": [],
+    "related_book_work_ids": [],
+    "related_report_ids": [],
+    "changes_in_later_statements": [],
+    "edition_ids": [
+      "book-edition-BATCH-2026-002-005"
+    ],
+    "related_source_ids": [],
+    "related_statement_ids": [],
+    "related_proposition_ids": [],
+    "related_dossier_ids": [],
+    "rights_notes": "Publisher metadata and authorized preview only; metadata and link use are permitted, quotation rights not established.",
+    "review_status": "catalogued",
+    "publication_status": "staging_only",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.manning.com/books/oauth-2-in-action",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page and bibliographic metadata",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Accepted discovery candidate candidate-BATCH-2026-001-097."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-004",
+    "title": "API Security in Action",
+    "subtitle": null,
+    "alternate_titles": [],
+    "authors": [
+      "person-BATCH-2026-002-018"
+    ],
+    "contributors": [],
+    "original_language": "lang-en",
+    "first_publication_date": null,
+    "work_type": "technical_book",
+    "topics": [
+      "governed-agent-identities",
+      "identity-and-access-management"
+    ],
+    "central_subjects": [
+      "API security",
+      "authentication",
+      "authorization",
+      "audit logging",
+      "capability-based security"
+    ],
+    "inclusion_rationale": "Addresses the security boundary through which many agents invoke tools; relevance is architectural and does not establish agent-governance claims by itself.",
+    "analysis_depth": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "central_thesis": null,
+    "principal_propositions": [],
+    "frameworks": [],
+    "evidence_base": "Bibliographic and access verification only; no whole-book argument synthesis performed in this batch.",
+    "executive_role_implications": {},
+    "strongest_documented_arguments": [],
+    "limitations": [
+      "No unsupported chapter summary or full-argument claim created.",
+      "Agent-specific contribution remains a question for a later complete-review batch."
+    ],
+    "counterpoints": [],
+    "later_author_interview_source_ids": [],
+    "related_book_work_ids": [],
+    "related_report_ids": [],
+    "changes_in_later_statements": [],
+    "edition_ids": [
+      "book-edition-BATCH-2026-002-006"
+    ],
+    "related_source_ids": [],
+    "related_statement_ids": [],
+    "related_proposition_ids": [],
+    "related_dossier_ids": [],
+    "rights_notes": "Publisher metadata, contents, and authorized preview only; no full-book access or quotation permission recorded.",
+    "review_status": "catalogued",
+    "publication_status": "staging_only",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.manning.com/books/api-security-in-action",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page and bibliographic metadata",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Accepted discovery candidate candidate-BATCH-2026-001-098."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "title": "Building Secure and Reliable Systems",
+    "subtitle": "Best Practices for Designing, Implementing, and Maintaining Systems",
+    "alternate_titles": [],
+    "authors": [
+      "person-BATCH-2026-002-019",
+      "person-BATCH-2026-002-020",
+      "person-BATCH-2026-002-021",
+      "person-BATCH-2026-002-022",
+      "person-BATCH-2026-002-023",
+      "person-BATCH-2026-002-024"
+    ],
+    "contributors": [],
+    "original_language": "lang-en",
+    "first_publication_date": "2020-04-08",
+    "work_type": "collaborative_technical_book",
+    "topics": [
+      "governed-agent-identities",
+      "identity-and-access-management"
+    ],
+    "central_subjects": [
+      "least privilege",
+      "secure and reliable system design",
+      "authorization policy",
+      "audit and incident response"
+    ],
+    "inclusion_rationale": "Official complete text covers least privilege, policy, access, audit, and responsibility; these are directly useful foundations for governed agents.",
+    "analysis_depth": "catalogued",
+    "analysis_basis": "full_text_lawfully_accessed",
+    "central_thesis": null,
+    "principal_propositions": [],
+    "frameworks": [],
+    "evidence_base": "Bibliographic and access verification only; no whole-book argument synthesis performed in this batch.",
+    "executive_role_implications": {},
+    "strongest_documented_arguments": [],
+    "limitations": [
+      "No unsupported chapter summary or full-argument claim created.",
+      "Agent-specific contribution remains a question for a later complete-review batch."
+    ],
+    "counterpoints": [],
+    "later_author_interview_source_ids": [],
+    "related_book_work_ids": [],
+    "related_report_ids": [],
+    "changes_in_later_statements": [],
+    "edition_ids": [
+      "book-edition-BATCH-2026-002-007",
+      "book-edition-BATCH-2026-002-008",
+      "book-edition-BATCH-2026-002-009"
+    ],
+    "related_source_ids": [],
+    "related_statement_ids": [],
+    "related_proposition_ids": [],
+    "related_dossier_ids": [],
+    "rights_notes": "Complete official HTML is lawfully accessible for research, but no open reuse license was identified; publication remains limited to metadata, links, original paraphrase, and brief necessary quotation.",
+    "review_status": "deep_analysis_ready",
+    "publication_status": "staging_only",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page and bibliographic metadata",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Accepted discovery candidate candidate-BATCH-2026-001-099."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-006",
+    "title": "Identity in Modern Applications",
+    "subtitle": null,
+    "alternate_titles": [],
+    "authors": [
+      "person-BATCH-2026-002-025"
+    ],
+    "contributors": [],
+    "original_language": "lang-en",
+    "first_publication_date": null,
+    "work_type": "short_technical_report",
+    "topics": [
+      "governed-agent-identities",
+      "identity-and-access-management"
+    ],
+    "central_subjects": [
+      "application identity",
+      "authentication",
+      "authorization",
+      "nonhuman identity",
+      "trust systems"
+    ],
+    "inclusion_rationale": "The official contents explicitly include nonhuman identities and trust systems, making the short work relevant to agent identity; complete argument review has not occurred.",
+    "analysis_depth": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "central_thesis": null,
+    "principal_propositions": [],
+    "frameworks": [],
+    "evidence_base": "Bibliographic and access verification only; no whole-book argument synthesis performed in this batch.",
+    "executive_role_implications": {},
+    "strongest_documented_arguments": [],
+    "limitations": [
+      "No unsupported chapter summary or full-argument claim created.",
+      "Agent-specific contribution remains a question for a later complete-review batch."
+    ],
+    "counterpoints": [],
+    "later_author_interview_source_ids": [],
+    "related_book_work_ids": [],
+    "related_report_ids": [],
+    "changes_in_later_statements": [],
+    "edition_ids": [
+      "book-edition-BATCH-2026-002-010"
+    ],
+    "related_source_ids": [],
+    "related_statement_ids": [],
+    "related_proposition_ids": [],
+    "related_dossier_ids": [],
+    "rights_notes": "Publisher metadata, contents, and authorized preview only; no complete text or republication permission recorded.",
+    "review_status": "catalogued",
+    "publication_status": "staging_only",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/identity-in-modern/9781098107789/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page and bibliographic metadata",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Accepted discovery candidate candidate-BATCH-2026-001-100."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-007",
+    "title": "Solving Identity Management in Modern Applications",
+    "subtitle": "Demystifying OAuth 2.0, OpenID Connect, and SAML 2.0",
+    "alternate_titles": [],
+    "authors": [
+      "person-BATCH-2026-002-026",
+      "person-BATCH-2026-002-027"
+    ],
+    "contributors": [],
+    "original_language": "lang-en",
+    "first_publication_date": "2019-12-18",
+    "work_type": "technical_book_first_edition_work",
+    "topics": [
+      "governed-agent-identities",
+      "identity-and-access-management"
+    ],
+    "central_subjects": [
+      "identity lifecycle",
+      "authentication",
+      "authorization",
+      "OAuth 2.0",
+      "OpenID Connect",
+      "SAML 2.0"
+    ],
+    "inclusion_rationale": "Provides identity-lifecycle and protocol foundations applicable to provisioning and deprovisioning agent identities; the accepted candidate resolves to the first edition.",
+    "analysis_depth": "catalogued",
+    "analysis_basis": "table_of_contents_only",
+    "central_thesis": null,
+    "principal_propositions": [],
+    "frameworks": [],
+    "evidence_base": "Bibliographic and access verification only; no whole-book argument synthesis performed in this batch.",
+    "executive_role_implications": {},
+    "strongest_documented_arguments": [],
+    "limitations": [
+      "No unsupported chapter summary or full-argument claim created.",
+      "Agent-specific contribution remains a question for a later complete-review batch."
+    ],
+    "counterpoints": [],
+    "later_author_interview_source_ids": [],
+    "related_book_work_ids": [
+      "book-work-BATCH-2026-002-008"
+    ],
+    "related_report_ids": [],
+    "changes_in_later_statements": [],
+    "edition_ids": [
+      "book-edition-BATCH-2026-002-011"
+    ],
+    "related_source_ids": [],
+    "related_statement_ids": [],
+    "related_proposition_ids": [],
+    "related_dossier_ids": [],
+    "rights_notes": "Official publisher metadata and table of contents only; no complete lawful access or quotation permission recorded.",
+    "review_status": "catalogued",
+    "publication_status": "staging_only",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://link.springer.com/book/10.1007/978-1-4842-5095-2",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page and bibliographic metadata",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Accepted discovery candidate candidate-BATCH-2026-001-101."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-008",
+    "title": "Solving Identity Management in Modern Applications",
+    "subtitle": "Demystifying OAuth 2, OpenID Connect, and SAML 2",
+    "alternate_titles": [
+      "Solving Identity Management in Modern Applications, Second Edition"
+    ],
+    "authors": [
+      "person-BATCH-2026-002-026",
+      "person-BATCH-2026-002-027"
+    ],
+    "contributors": [],
+    "original_language": "lang-en",
+    "first_publication_date": "2022-11-17",
+    "work_type": "materially_revised_second_edition_work_candidate",
+    "topics": [
+      "governed-agent-identities",
+      "identity-and-access-management"
+    ],
+    "central_subjects": [
+      "identity lifecycle",
+      "OAuth 2.1",
+      "device authorization",
+      "identity proofing",
+      "consent",
+      "rich authorization requests"
+    ],
+    "inclusion_rationale": "Publisher describes an expanded and revised edition with new protocol and device-authorization material. It is staged as a related work candidate rather than silently merged with the accepted 2019 work.",
+    "analysis_depth": "catalogued",
+    "analysis_basis": "table_of_contents_only",
+    "central_thesis": null,
+    "principal_propositions": [],
+    "frameworks": [],
+    "evidence_base": "Bibliographic and access verification only; no whole-book argument synthesis performed in this batch.",
+    "executive_role_implications": {},
+    "strongest_documented_arguments": [],
+    "limitations": [
+      "No unsupported chapter summary or full-argument claim created.",
+      "Agent-specific contribution remains a question for a later complete-review batch."
+    ],
+    "counterpoints": [],
+    "later_author_interview_source_ids": [],
+    "related_book_work_ids": [
+      "book-work-BATCH-2026-002-007"
+    ],
+    "related_report_ids": [],
+    "changes_in_later_statements": [],
+    "edition_ids": [
+      "book-edition-BATCH-2026-002-012",
+      "book-edition-BATCH-2026-002-013"
+    ],
+    "related_source_ids": [],
+    "related_statement_ids": [],
+    "related_proposition_ids": [],
+    "related_dossier_ids": [],
+    "rights_notes": "Official publisher metadata and table of contents only; work-versus-edition relationship requires human identity review.",
+    "review_status": "identity_review_required",
+    "publication_status": "staging_only",
+    "workflow_status": "candidate",
+    "machine_review_status": "issues_found",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://link.springer.com/book/10.1007/978-1-4842-8261-8",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page and bibliographic metadata",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Related materially revised work found during required edition reconciliation."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "book_work_id": "book-work-BATCH-2026-002-009",
+    "title": "Identity-Native Infrastructure Access Management",
+    "subtitle": null,
+    "alternate_titles": [],
+    "authors": [
+      "person-BATCH-2026-002-028",
+      "person-BATCH-2026-002-029",
+      "person-BATCH-2026-002-030"
+    ],
+    "contributors": [],
+    "original_language": "lang-en",
+    "first_publication_date": null,
+    "work_type": "technical_book",
+    "topics": [
+      "governed-agent-identities",
+      "identity-and-access-management"
+    ],
+    "central_subjects": [
+      "identity-native access",
+      "ephemeral credentials",
+      "identity attestation",
+      "authorization",
+      "audit"
+    ],
+    "inclusion_rationale": "Directly addresses ephemeral identities, machine access, authorization, and audit; agent-specific applicability requires complete review and vendor-context disclosure.",
+    "analysis_depth": "catalogued",
+    "analysis_basis": "authorized_preview",
+    "central_thesis": null,
+    "principal_propositions": [],
+    "frameworks": [],
+    "evidence_base": "Bibliographic and access verification only; no whole-book argument synthesis performed in this batch.",
+    "executive_role_implications": {},
+    "strongest_documented_arguments": [],
+    "limitations": [
+      "No unsupported chapter summary or full-argument claim created.",
+      "Agent-specific contribution remains a question for a later complete-review batch."
+    ],
+    "counterpoints": [],
+    "later_author_interview_source_ids": [],
+    "related_book_work_ids": [],
+    "related_report_ids": [],
+    "changes_in_later_statements": [],
+    "edition_ids": [
+      "book-edition-BATCH-2026-002-014"
+    ],
+    "related_source_ids": [],
+    "related_statement_ids": [],
+    "related_proposition_ids": [],
+    "related_dossier_ids": [],
+    "rights_notes": "Publisher metadata, contents, author biographies, and authorized preview only; no complete text or quotation permission recorded.",
+    "review_status": "catalogued",
+    "publication_status": "staging_only",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/identity-native-infrastructure-access/9781098131883/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page and bibliographic metadata",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Accepted discovery candidate candidate-BATCH-2026-001-102."
+      }
+    ],
+    "revision_history": []
+  }
+]

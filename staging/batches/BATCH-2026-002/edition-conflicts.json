@@ -1,0 +1,100 @@
+{
+  "batch_id": "BATCH-2026-002",
+  "conflicts": [
+    {
+      "conflict_id": "edition-conflict-001",
+      "candidate_id": "candidate-BATCH-2026-001-095",
+      "field": "authors",
+      "discovery_value": "Evan Gilman and Doug Barth",
+      "verified_value": [
+        "Daniel Feldman",
+        "Emily Fox",
+        "Evan Gilman",
+        "Ian Haken",
+        "Frederick Kautz",
+        "Umair Khan",
+        "Max Lambrecht",
+        "Brandon Lum",
+        "Agustín Martínez Fayó",
+        "Eli Nesterov",
+        "Andrés Vega",
+        "Michael Wardrop"
+      ],
+      "status": "resolved_machine_pending_human",
+      "reason": "Official SPIFFE page and CC-licensed first-edition PDF name twelve authors; Doug Barth is not among them."
+    },
+    {
+      "conflict_id": "edition-conflict-002",
+      "candidate_id": "candidate-BATCH-2026-001-096",
+      "field": "authors_and_date",
+      "discovery_value": {
+        "authors": "Evan Gilman and Doug Barth",
+        "date": "2021"
+      },
+      "verified_value": {
+        "authors": [
+          "Razi Rais",
+          "Christina Morillo",
+          "Evan Gilman",
+          "Doug Barth"
+        ],
+        "date": "February 2024"
+      },
+      "status": "resolved_machine_pending_human",
+      "reason": "Official O’Reilly second-edition page supplies four authors and a February 2024 publication month."
+    },
+    {
+      "conflict_id": "edition-conflict-003",
+      "candidate_id": "candidate-BATCH-2026-001-099",
+      "field": "authors",
+      "discovery_value": "Heather Adkins et al.",
+      "verified_value": [
+        "Heather Adkins",
+        "Betsy Beyer",
+        "Paul Blankinship",
+        "Piotr Lewandowski",
+        "Ana Oprea",
+        "Adam Stubblefield"
+      ],
+      "status": "resolved_machine_pending_human",
+      "reason": "Official O’Reilly and Google pages enumerate six principal authors."
+    },
+    {
+      "conflict_id": "edition-conflict-004",
+      "candidate_id": "candidate-BATCH-2026-001-100",
+      "field": "author_and_date",
+      "discovery_value": {
+        "author": "Phillip J. Windley",
+        "date": "2022"
+      },
+      "verified_value": {
+        "author": "Lee Atchison",
+        "date": "July 2021"
+      },
+      "status": "resolved_machine_pending_human",
+      "reason": "Official O’Reilly page identifies Lee Atchison and July 2021."
+    },
+    {
+      "conflict_id": "edition-conflict-005",
+      "candidate_id": "candidate-BATCH-2026-001-101",
+      "field": "revised_work_identity",
+      "discovery_value": "2019 first edition only",
+      "verified_value": "Apress also publishes a materially expanded second edition with OAuth 2.1 and device-authorization additions.",
+      "status": "unresolved_human_work_identity",
+      "reason": "Do not silently merge a materially revised work; determine whether the 2023-labelled second edition is a new work or revised manifestation."
+    },
+    {
+      "conflict_id": "edition-conflict-006",
+      "candidate_id": "candidate-BATCH-2026-001-102",
+      "field": "authors",
+      "discovery_value": "Ev Kontsevoy and Sakshyam Shah",
+      "verified_value": [
+        "Ev Kontsevoy",
+        "Sakshyam Shah",
+        "Peter Conrad"
+      ],
+      "status": "resolved_machine_pending_human",
+      "reason": "Official O’Reilly page names Peter Conrad as a third author."
+    }
+  ]
+}
