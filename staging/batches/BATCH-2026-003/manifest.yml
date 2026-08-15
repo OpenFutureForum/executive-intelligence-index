@@ -1,0 +1,52 @@
+batch_id: BATCH-2026-003
+prompt_id: OEII-BOOK-DEEP-ANALYSIS
+prompt_version: "2.0"
+topic: governed identities for AI agents
+topic_slug: governed-agent-identities
+research_question: How do public executive and institutional sources define governance requirements for AI-agent identities?
+branch: analysis/books-governed-agent-identities-BATCH-2026-003
+base_branch: research/books-governed-agent-identities-BATCH-2026-002
+created_at: 2026-08-15
+status: machine_complete_human_review_pending
+publication_status: staging_only
+human_approval_performed: false
+draft_pr: null
+counts:
+  books: 2
+  editions: 2
+  canonical_sources: 2
+  source_statements: 36
+  proposition_candidates: 16
+  later_author_sources: 6
+  counterargument_or_qualifying_sources: 8
+  independent_review_sample: 15
+  direct_quotes: 0
+exact_pairs:
+  - book_work_id: book-work-BATCH-2026-002-001
+    book_edition_id: book-edition-BATCH-2026-002-001
+    source_id: source-BATCH-2026-003-001
+  - book_work_id: book-work-BATCH-2026-002-005
+    book_edition_id: book-edition-BATCH-2026-002-007
+    source_id: source-BATCH-2026-003-002
+access_gate:
+  result: pass
+  checked: [title, authors, publisher, publication_date, format, pagination_or_locator_system, lawful_access_basis, access_date, rights, citation_reproducibility]
+artifacts:
+  - book-works.json
+  - book-editions.json
+  - sources.json
+  - source-statements.json
+  - analyses/solving-the-bottom-turtle.md
+  - analyses/building-secure-and-reliable-systems.md
+  - chapter-map.md
+  - argument-map.json
+  - statement-review.csv
+  - double-review-sample.json
+  - proposition-candidates.json
+  - author-relationships.json
+  - related-source-relationships.json
+  - counterargument-sources.json
+  - later-author-sources.json
+  - rights-review.md
+  - limitations.md
+  - validation-results.md

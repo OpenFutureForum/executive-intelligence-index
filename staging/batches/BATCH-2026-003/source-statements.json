@@ -1,0 +1,2478 @@
+[
+  {
+    "statement_id": "statement-BATCH-2026-003-001",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "factual_assertion",
+    "neutral_paraphrase": "Dynamic scheduling, ephemeral workloads, and heterogeneous infrastructure make network location and manually managed secrets unreliable foundations for service identity.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 9–20",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Historical examples and architecture reasoning",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Distributed infrastructure rather than every identity environment",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=9",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 9–20",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-002",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "The bottom-turtle problem is the need to establish an initial root of trust without assuming a long-lived secret that itself requires prior protection.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 17–19",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Conceptual threat-model argument",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Trust bootstrap for workloads",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=17",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 17–19",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-003",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "definition",
+    "neutral_paraphrase": "A useful workload identity combines the workload's logical purpose with the authority that issued and vouches for that identity, rather than describing only its network address.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 38–41",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Normative technical definition",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "SPIFFE-style workload identity",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=38",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 38–41",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-004",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Automatically renewed, short-lived identity documents reduce exposure from copied credentials and reduce dependence on conventional revocation distribution.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 45–48",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Cryptographic lifecycle reasoning",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Credential management; does not eliminate revocation needs in every system",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=45",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 45–48",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-005",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "SPIFFE specifies interoperable workload identity documents and APIs, while SPIRE implements attestation, registration, issuance, and federation as an identity control plane.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 52–59",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Specification and reference-implementation description",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "SPIFFE and SPIRE architecture in the first edition",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=52",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 52–59",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-006",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "Node attestation establishes the hosting agent's platform identity, workload attestation inspects process attributes, and registration entries bind accepted conditions to the identity that may be issued.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 65–70",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Architecture description and examples",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "SPIRE issuance flow",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=65",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 65–70",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-007",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "warning",
+    "neutral_paraphrase": "The threat model assumes a hostile network but places trust in specified hardware, platform, operator, and plugin boundaries; compromise of a SPIRE server can enable arbitrary identity issuance inside its trust domain.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 71–77",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Explicit threat model and compromise analysis",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Specified first-edition deployment assumptions",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=71",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 71–77",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-008",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "A production identity deployment should involve security, platform, application, networking, and operational stakeholders because identity semantics and availability cross team boundaries.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 78–80",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Practitioner implementation guidance",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Organizational adoption",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=78",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 78–80",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-009",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "warning",
+    "neutral_paraphrase": "Bridges and proxies can accelerate migration from existing identity islands, but intermediaries may hide or replace the original authenticated workload context.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 81–87",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Migration-pattern tradeoff analysis",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Transitional integrations",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=81",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 81–87",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-010",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Migration should be staged through inventory, target-state design, dual operation, measurement, and rollback rather than requiring a single cutover.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 90–99",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Practitioner rollout guidance",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Enterprise adoption",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=90",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 90–99",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-011",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Operators should test identity-control-plane failure modes and protect log integrity and custody because issuance and access records may be needed for investigation.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 99–103",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Operational guidance",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "SPIRE operations and audit evidence",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=99",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 99–103",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-012",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "Trust-domain boundaries, SPIFFE ID naming, federation relationships, and credential lifetimes jointly determine administrative scope, interoperability, and compromise impact.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 104–117",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Deployment design framework",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "SPIFFE deployment design",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=104",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 104–117",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-013",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "warning",
+    "neutral_paraphrase": "Automated registration reduces manual burden, but the registration API and data store become security-sensitive dependencies that require protected access, auditing, and reliable storage.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 123–131",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Control tradeoff analysis",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Automated registration systems",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "Pass after independent-review correction",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=123",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 123–131",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T00:00:00Z",
+        "changed_by": "independent machine review response",
+        "summary": "Narrowed the claim to registration API and data-store dependencies supported by pages 123–131.",
+        "batch_id": "BATCH-2026-003"
+      }
+    ]
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-014",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Native workload API integration provides the clearest identity context, while sidecars, proxies, and helper libraries trade application change against operational complexity and context loss.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 133–138",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Integration-pattern comparison",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Application integration",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=133",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 133–138",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-015",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "interpretation",
+    "neutral_paraphrase": "Identity issuance and access logs can supply provenance about which workload received and used an identity, provided logs are protected and correlated across boundaries.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 139–141",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Operational inference grounded in logging guidance",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Security investigations; provenance is limited to recorded events",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=139",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 139–141",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-016",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "Authentication establishes identity but does not determine permission; authorization should map identities to external roles or carefully governed attributes and evaluate the requested action.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 146–153",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Authorization framework and caution",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Workload access control",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=146",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 146–153",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-017",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "opinion",
+    "neutral_paraphrase": "The book characterizes SPIFFE and SPIRE as the only complete solution covering the full workload-identity problem at the time of writing.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 159–166",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Comparative project-authored assessment",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Ecosystem state asserted in 2020; sweeping and time-bound",
+    "uncertainty": "Claim is time-bound, selected, or self-reported and should not be treated as independent causal evidence.",
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.86,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=159",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 159–166",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-018",
+    "source_id": "source-BATCH-2026-003-001",
+    "person_id": null,
+    "institutional_author": "The 12 named authors of Solving the Bottom Turtle",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "company_reported_outcome",
+    "neutral_paraphrase": "Five organization stories report that adopting SPIFFE or SPIRE simplified credential operations, strengthened service authentication, or enabled multi-platform trust.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "pages 168–178",
+    "locator_type": "page",
+    "source_date": "2020-11-17",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Self-reported case stories",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Five selected adopters; not a controlled comparison",
+    "uncertainty": "Claim is time-bound, selected, or self-reported and should not be treated as independent causal evidence.",
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.86,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf#page=168",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "pages 168–178",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-019",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "The named book authors of Building Secure and Reliable Systems",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "Security and reliability should be designed and operated together across the system lifecycle because late-stage controls cannot reliably compensate for unsafe architecture and operations.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Preface > Why We Wrote This Book",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Practitioner synthesis and stated thesis",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Software and infrastructure lifecycle",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/pr01.html#why_we_wrote_this_book",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Preface > Why We Wrote This Book",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-020",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Adam Stubblefield, Massimiliano Poletto, and Piotr Lewandowski, with David Huska and Betsy Beyer",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "interpretation",
+    "neutral_paraphrase": "Security and reliability are emergent system properties with common needs for prevention, detection, containment, and recovery, even though adversarial intent changes the threat model.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 1 > Reliability and Security Commonalities",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Cross-domain conceptual analysis",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Large-scale systems",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html#reliability_and_security_commonalities",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 1 > Reliability and Security Commonalities",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-021",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Heather Adkins and David Huska, with Jen Barnason",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Risk assessment should model capable adversaries, valued assets, likely attack paths, and the consequences of successful attacks.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 2 > Risk Assessment Considerations",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Threat-model method and examples",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Adversarial system risk assessment",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "Pass after independent-review correction",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch02.html#risk_assessment_considerations",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 2 > Risk Assessment Considerations",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T00:00:00Z",
+        "changed_by": "independent machine review response",
+        "summary": "Removed benign-failure language not supported by the Chapter 2 locator.",
+        "batch_id": "BATCH-2026-003"
+      }
+    ]
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-022",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Christoph Kern, with Brian Gustafson, Paul Blankinship, and Felix Gröbert",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "Design decisions should make security, reliability, usability, cost, and other nonfunctional requirements explicit so tradeoffs are evaluated rather than hidden.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 4 > Design Objectives and Requirements",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Design framework",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "System design",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch04.html#design_objectives_and_requirements",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 4 > Design Objectives and Requirements",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-023",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Oliver Barrett, Aaron Joyner, and Rory Ward, with Guy Fischman and Betsy Beyer",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Least privilege applies to people, automated jobs, and machines: each principal should receive only the access needed for the current responsibility.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 5 > Least Privilege",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Security principle with operational examples",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Human and machine access",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch05.html#least_privilege",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 5 > Least Privilege",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-024",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Oliver Barrett, Aaron Joyner, and Rory Ward, with Guy Fischman and Betsy Beyer",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "Organizations should classify access by the potential impact of misuse and apply controls proportionate to the resulting risk tier.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 5 > Classifying Access Based on Risk",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Risk-tiering framework",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Privileged operations",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "Pass after independent-review correction",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch05.html#classifying_access_based_on_risk",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 5 > Classifying Access Based on Risk",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T00:00:00Z",
+        "changed_by": "independent machine review response",
+        "summary": "Removed a specific control list not established by the access-classification section.",
+        "batch_id": "BATCH-2026-003"
+      }
+    ]
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-025",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Oliver Barrett, Aaron Joyner, and Rory Ward, with Guy Fischman and Betsy Beyer",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Sensitive operations should be exposed through narrow functional APIs and recorded in action-oriented audit logs rather than granted as broad administrative access.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 5 > Small Functional APIs; Auditing",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Design guidance and examples",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Administrative and automated access",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch05.html#small_functional_apis",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 5 > Small Functional APIs; Auditing",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-026",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Oliver Barrett, Aaron Joyner, and Rory Ward, with Guy Fischman and Betsy Beyer",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "Authorization policy can evaluate the action, arguments, request source, principal metadata, and server-side context rather than treating a credential as sufficient permission.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 5 > A Policy Framework for Authentication and Authorization",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Contextual authorization model",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Risk-aware access decisions",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch05.html#a_policy_framework_for_authentication_a",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 5 > A Policy Framework for Authentication and Authorization",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-027",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Oliver Barrett, Aaron Joyner, and Rory Ward, with Guy Fischman and Betsy Beyer",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "High-impact access should use controls such as multi-party approval, temporary grants, structured business justification, and monitored breakglass procedures.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 5 > Advanced Controls",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Control recommendations",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "High-risk administrative access",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch05.html#advanced_controls",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 5 > Advanced Controls",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-028",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Julien Boeuf, Christoph Kern, and John Reese, with Guy Fischman, Paul Blankinship, Aleksandra Culver, Sergey Simakov, Peter Valchev, and Douglas Colish",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Identities, authentication flows, interfaces, trusted computing bases, and security boundaries should be understandable enough for operators to reason about normal and failure behavior.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 6 > Understandable Identities, Authentication, and Authorization",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Human-factors and architecture reasoning",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Security-critical systems",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch06.html#understandable_identitiescomma_authenti",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 6 > Understandable Identities, Authentication, and Authorization",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-029",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Vitaliy Shipitsyn, Mitch Adler, Zoltan Egyed, and Paul Blankinship, with Jesus Climent, Jessie Yang, Douglas Colish, and Christoph Kern",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "Automation should be layered with independent checks, bounded failure domains, progressive rollout, and retained human intervention so a flawed action cannot spread without limit.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 8 > Automate Responsibly; Controlling the Blast Radius",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Resilience framework and examples",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Automated production systems",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch08.html#automate_responsibly",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 8 > Automate Responsibly; Controlling the Blast Radius",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-030",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Aaron Joyner, Jon McCune, and Vitaliy Shipitsyn, with Constantinos Neophytou, Jessie Yang, and Kristina Bennett",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Recovery requires explicit revocation, knowledge of intended state, tested restoration paths, and mechanisms that do not depend on the component already known to be compromised.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 9 > Use an Explicit Revocation Mechanism; Know Your Intended State, Down to the Bytes",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Recovery guidance",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Compromise recovery",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch09.html#use_an_explicit_revocation_mechanism",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 9 > Use an Explicit Revocation Mechanism; Know Your Intended State, Down to the Bytes",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-031",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Jeremiah Spradlin and Mark Lodato, with Sergey Simakov and Roxana Loza",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Deployment systems should verify artifacts and their provenance at controlled choke points instead of relying only on the identity of developers or on earlier review events.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 14 > Verify Artifacts, Not Just People; Binary Provenance",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Supply-chain design guidance and experience",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Software build and deployment",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch14.html#verify_artifactscomma_not_just_people",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 14 > Verify Artifacts, Not Just People; Binary Provenance",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-032",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Pete Nuttall, Matt Linton, and David Seidman, with Vera Haas, Julie Saracino, and Amaya Booker",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "warning",
+    "neutral_paraphrase": "Security logs should resist alteration while their collection, access, retention, and content are governed to avoid creating unnecessary privacy exposure.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 15 > Design Your Logging to Be Immutable; Take Privacy into Consideration",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Investigation and privacy tradeoff",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Operational logging",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch15.html#design_your_logging_to_be_immutable",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 15 > Design Your Logging to Be Immutable; Take Privacy into Consideration",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-033",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Michael Robinson and Sean Noonan, with Alex Bramley and Kavita Guliani",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Disaster response should be rehearsed through structured exercises and, where safe, production tests because an untested recovery plan is only an assumption.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 16 > Disaster Planning",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Operational guidance and exercise examples",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Business continuity and technical recovery",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch16.html#disaster_planning",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 16 > Disaster Planning",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-034",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Matt Linton, with Nick Soda and Gary O’Connor",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "strategic_framework",
+    "neutral_paraphrase": "Major incidents benefit from an explicit incident commander and separate coordination, mitigation, investigation, and communication responsibilities.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 17 > Crisis Management",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Incident-management operating model",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Major incidents",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch17.html#crisis_management",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 17 > Crisis Management",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-035",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Heather Adkins, Cyrus Vesuna, Hunter King, Felix Gröbert, and David Challoner, with Susanne Landers, Steven Roddis, Sergey Simakov, Shylaja Nukala, Janet Vong, Douglas Colish, Betsy Beyer, and Paul Blankinship",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "policy_position",
+    "neutral_paraphrase": "Security and reliability are responsibilities of everyone who changes or operates the system, supported by specialists, embedded champions, clear ownership, and executive and board stakeholders.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 20 > Who Is Responsible for Security and Reliability?",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Organizational design argument",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Technology organizations",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "See statement-review.csv and double-review-sample.json",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch20.html#who_is_responsible_for_security_and_rel",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 20 > Who Is Responsible for Security and Reliability?",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-003-036",
+    "source_id": "source-BATCH-2026-003-002",
+    "person_id": null,
+    "institutional_author": "Heather Adkins, with Peter Valchev, Felix Gröbert, Ana Oprea, Sergey Simakov, Douglas Colish, and Betsy Beyer",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "speaker_role_at_source_time": "Named book author or chapter contributor",
+    "organization_at_source_time": null,
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Leaders should deliberately shape incentives, treat failure as inevitable, reward learning and reporting, and provide sustainable resources for security and reliability work.",
+    "direct_quote": null,
+    "direct_quote_rights_note": "No direct quotation used; original OEII paraphrase only.",
+    "exact_locator": "Chapter 21 > Culture of Inevitability; Culture of Sustainability; Align Project Goals and Participant Incentives",
+    "locator_type": "chapter_section",
+    "source_date": "2020-04-08",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_role_context": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "industry_context": [
+      "Technology",
+      "Financial services",
+      "Healthcare",
+      "Public sector",
+      "Critical infrastructure"
+    ],
+    "geographic_context": [
+      "Primarily United States and global technology operations"
+    ],
+    "evidence_character": "Culture and governance guidance",
+    "factual_verification_status": "Verified against the exact locator in the complete edition",
+    "statement_scope": "Organizational leadership",
+    "uncertainty": null,
+    "extraction_method": "Manual semantic extraction after complete-edition reading, followed by locator replay and separate review pass",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "Pass after independent-review correction",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch21.html#twoone_building_a_culture_of_security_a",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Chapter 21 > Culture of Inevitability; Culture of Sustainability; Align Project Goals and Participant Incentives",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Locator replayed; paraphrase checked for attribution and scope"
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T00:00:00Z",
+        "changed_by": "independent machine review response",
+        "summary": "Replaced the nonexistent #culture fragment with the verified Chapter 21 anchor and supporting section names.",
+        "batch_id": "BATCH-2026-003"
+      }
+    ]
+  }
+]

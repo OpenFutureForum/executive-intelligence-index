@@ -26,6 +26,7 @@
     "validate:content": "tsx scripts/cli.ts validate content",
     "validate:discovery": "tsx scripts/validate-discovery-batch.ts",
     "validate:book-metadata": "tsx scripts/validate-book-metadata-batch.ts",
+    "validate:book-analysis": "tsx scripts/validate-book-analysis-batch.ts",
     "audit:duplicates": "tsx scripts/cli.ts audit duplicates",
     "audit:concentration": "tsx scripts/cli.ts audit concentration",
     "audit:coverage": "tsx scripts/cli.ts audit coverage",
