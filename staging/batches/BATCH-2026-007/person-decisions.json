@@ -1,0 +1,167 @@
+[
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "unresolved",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity and source relationship were verified; current role remains unresolved and publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-marc-fischer",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-kai-mei",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "unresolved",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity and source relationship were verified; current role remains unresolved and publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "decision": "create_staging_person_record",
+    "identity_status": "verified",
+    "authorship_status": "verified",
+    "current_role_status": "verified",
+    "duplicate_action": "no_merge",
+    "public_profile_decision": "dataset_only",
+    "rationale": "Identity, source relationship, and current professional role were verified; publication thresholds are not met.",
+    "human_review_status": "pending"
+  }
+]
