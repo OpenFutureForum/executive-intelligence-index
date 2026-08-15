@@ -1,0 +1,46 @@
+protocol_id: protocol-BATCH-2026-001
+batch_id: BATCH-2026-001
+topic: governed identities for AI agents
+topic_slug: governed-agent-identities
+research_question: How do public executive and institutional sources define governance requirements for AI-agent identities?
+why_it_matters: Agentic systems can initiate actions, use credentials, access data, delegate work, and cross system boundaries, creating executive requirements for bounded authority, traceable identity, revocation, auditability, and accountable human ownership.
+included_topics: [AI-agent identity, non-human identity, directly applicable machine and workload identity, authentication, authorization, credential custody, delegation, least privilege, separation of duties, lifecycle and revocation, provenance, auditability, accountability, human oversight, agent-to-agent trust, policy enforcement]
+excluded_adjacent_topics: [generic AI ethics without identity or authorization relevance, generic human IAM, consumer chatbot UX, model benchmarks, prompt engineering, robotics hardware, autonomous-vehicle identity, generic API-key guidance without agentic relevance]
+time_period: 2020-08-15 through 2026-08-15; earlier directly foundational identity and zero-trust standards may be included.
+target_roles: [role-ciso, role-cio, role-cto, role-general-counsel, role-board-director, role-ceo]
+target_industries: [financial services, technology and cloud, healthcare and life sciences, public sector and defense, critical infrastructure, professional services]
+target_geographies: [geo-global, United States, European Union, United Kingdom, Canada, Singapore, Australia, India, Japan]
+target_languages: [lang-en]
+included_source_types: [book, video, podcast_episode, keynote, panel, interview, conference_talk, essay, newsletter, public_letter, research_report, academic_paper, working_paper, executive_survey, event_recording, OFF_research, OFF_interview, OFF_video, public_policy_document, other_approved]
+excluded_source_types: [private or confidential material, anonymous summaries, content farms, AI-generated summaries, scraped or unofficial transcripts, duplicate syndication, uncertain-rights third-party uploads, low-substance promotion]
+inclusion_criteria:
+  - Publicly accessible or supported by stable public bibliographic metadata for metadata-only evaluation.
+  - Canonically identifiable work or episode, author or speaker, publisher, and date.
+  - Substantively relevant to identity, authorization, delegation, lifecycle, accountability, or oversight for AI agents or directly applicable non-human workloads.
+  - Original or official source where available.
+  - Distinct potential governance, technical, legal, operational, empirical, or dissenting contribution.
+  - Rights and ownership can be recorded without reproducing third-party text.
+exclusion_criteria:
+  - Generic AI governance or IAM content without a meaningful agent-identity connection.
+  - Search snippets, inaccessible claims, ambiguous authorship, unverifiable dates, or unresolved source identity.
+  - Promotional reposts, uncertain-rights uploads, private events, off-the-record material, or full third-party transcripts.
+  - Search-visibility or quota-only selection.
+quality_dimensions: [primary-source status, bibliographic stability, source-identity stability, analysis access, methodological transparency, independence, relevance, evidence contribution, rights clarity, ownership clarity, recency, diversity contribution]
+source_priority:
+  - Original source
+  - Original publisher or event host
+  - Official author or institution
+  - Stable bibliographic or archival source
+  - Reliable independent contextual verification
+  - Secondary locator only
+diversity_objectives: [executive roles, industries, geographies, languages, organization types, source types, established and emerging contributors, academic and practitioner perspectives, operator and investor perspectives, supporting and challenging positions, foundational and current sources, OFF-owned and external sources]
+expected_limitations: [English-only controlled vocabulary, unsettled terminology, vendor and consulting visibility bias, metadata-only book access, underreported failures and internal controls, limited independent evaluation of new 2026 material]
+planned_search_families: [cross-topic, standards bodies, laws and regulators, academic papers, executive and practitioner sources, books, primary media, priority industries, dissent and limitations, OFF-owned sources]
+planned_stopping_rule: Stop between 100 and 150 credible candidates after all major families and roles are searched and two consecutive supplementary query families yield fewer than three new credible candidates each; document any lower saturation point.
+planned_candidate_target: 120
+planned_review_method: Separate-dimension machine-assisted metadata and identity review followed by named-human selection review; no candidate acceptance equals publication approval.
+created_at: 2026-08-15T10:34:21Z
+created_by: OpenAI Codex; machine drafted; human review pending
+prompt_id: OEII-TOPIC-DISCOVERY
+prompt_version: "2.0"
+protocol_changed_after_search: false

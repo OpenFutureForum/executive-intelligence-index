@@ -9,6 +9,7 @@ import { publicationIssues } from './lib/publication.js';
 const root = process.cwd();
 const args = process.argv.slice(2);
 const records = loadCanonical(root);
+const currentUtcDate = new Date().toISOString().slice(0, 10);
 
 function result(name: string, details: string): void { process.stdout.write(`PASS ${name}: ${details}\n`); }
 function getSchemaValidator() {
@@ -51,7 +52,7 @@ function validateData(): void {
       else if (isbn) isbns.set(isbn, item.file);
     }
     for (const [key, value] of Object.entries(item.record)) {
-      if ((key.endsWith('_date') || key.endsWith('_at') || key === 'accessed_at') && typeof value === 'string' && value.slice(0, 10) > '2026-08-14') errors.push(`${item.file}: future-date anomaly in ${key}`);
+      if ((key.endsWith('_date') || key.endsWith('_at') || key === 'accessed_at') && typeof value === 'string' && value.slice(0, 10) > currentUtcDate) errors.push(`${item.file}: future-date anomaly in ${key}`);
     }
     if (item.record.doi && !/^10\.\d{4,9}\/[\S]+$/i.test(item.record.doi)) errors.push(`${item.file}: invalid DOI`);
     if (item.schema === 'organization-reference' && item.record.canonical_cxo_ecosystem_id) {

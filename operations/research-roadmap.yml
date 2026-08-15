@@ -3,6 +3,8 @@ status: proposed_for_human_review
 protocols:
   - priority: 1
     protocol_slug: governed-identities-for-ai-agents
+    discovery_batch: BATCH-2026-001
+    discovery_status: complete_pending_human_selection
     question: How do public executive and institutional sources define governance requirements for AI-agent identities?
     reason: Tests the statement/proposition model across security, architecture, legal, and board roles.
   - priority: 2
