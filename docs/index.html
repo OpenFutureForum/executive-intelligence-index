@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A pre-release overview of the Open Executive Intelligence Index: a cited framework for tracing executive ideas to sources, evidence and carefully scoped propositions.">
+  <meta name="theme-color" content="#10261f">
+  <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Open Future Forum">
+  <meta property="og:title" content="Open Executive Intelligence Index">
+  <meta property="og:description" content="Trace executive ideas to their sources. Review the framework, evidence boundaries and current publication status.">
+  <meta property="og:url" content="https://openfutureforum.github.io/executive-intelligence-index/">
+  <meta property="og:image" content="https://openfutureforum.github.io/executive-intelligence-index/social-preview.svg">
+  <meta property="og:image:alt" content="Open Executive Intelligence Index by Open Future Forum">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://openfutureforum.github.io/executive-intelligence-index/">
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <title>Open Executive Intelligence Index | Open Future Forum</title>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://openfutureforum.com/#organization",
+        "name": "Open Future Forum",
+        "url": "https://openfutureforum.com/",
+        "sameAs": [
+          "https://github.com/OpenFutureForum",
+          "https://openfutureforum.github.io/"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://openfutureforum.github.io/executive-intelligence-index/#website",
+        "name": "Open Executive Intelligence Index",
+        "url": "https://openfutureforum.github.io/executive-intelligence-index/",
+        "description": "A pre-release framework for tracing selected executive ideas to sources, evidence and carefully scoped propositions.",
+        "publisher": { "@id": "https://openfutureforum.com/#organization" }
+      },
+      {
+        "@type": "CollectionPage",
+        "@id": "https://openfutureforum.github.io/executive-intelligence-index/#overview",
+        "name": "Open Executive Intelligence Index project overview",
+        "url": "https://openfutureforum.github.io/executive-intelligence-index/",
+        "isPartOf": { "@id": "https://openfutureforum.github.io/executive-intelligence-index/#website" },
+        "dateModified": "2026-08-16",
+        "about": [
+          "Executive decision-making",
+          "Research provenance",
+          "Evidence mapping",
+          "Executive roles"
+        ]
+      }
+    ]
+  }
+  </script>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #10261f;
+      --muted: #51655e;
+      --line: #cdd9d4;
+      --paper: #fff;
+      --soft: #f3f7f5;
+      --deep: #10261f;
+      --green: #176b50;
+      --mint: #dff5ea;
+      --amber: #fff3d4;
+      --amber-ink: #684706;
+      --max: 1160px;
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { margin: 0; color: var(--ink); background: var(--paper); font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.65; }
+    a { color: inherit; }
+    a:focus-visible { outline: 3px solid #4db58d; outline-offset: 4px; border-radius: 3px; }
+    .wrap { width: min(calc(100% - 40px), var(--max)); margin-inline: auto; }
+    .skip-link { position: absolute; left: -999px; top: 12px; background: white; padding: 10px 14px; z-index: 10; }
+    .skip-link:focus { left: 12px; }
+    header { border-bottom: 1px solid var(--line); background: rgba(255,255,255,.96); }
+    .nav { min-height: 74px; display: flex; align-items: center; justify-content: space-between; gap: 28px; }
+    .brand { text-decoration: none; font-weight: 760; letter-spacing: -.02em; }
+    .brand span { color: var(--green); }
+    nav { display: flex; flex-wrap: wrap; gap: 20px; }
+    nav a { text-decoration: none; color: var(--muted); font-size: .94rem; }
+    nav a:hover { color: var(--ink); }
+    .hero { color: white; background: radial-gradient(circle at 85% 20%, #256c55 0, transparent 32%), linear-gradient(135deg, #0d211b, #153a2e); padding: 92px 0 80px; }
+    .eyebrow { margin: 0 0 14px; text-transform: uppercase; letter-spacing: .14em; font-size: .76rem; font-weight: 800; color: #9fe0c4; }
+    h1 { max-width: 850px; margin: 0; font-size: clamp(2.7rem, 7vw, 5.6rem); line-height: .98; letter-spacing: -.055em; }
+    .hero-copy { max-width: 740px; margin: 28px 0 0; font-size: clamp(1.08rem, 2vw, 1.35rem); color: #d8eae3; }
+    .actions { margin-top: 32px; display: flex; flex-wrap: wrap; gap: 12px; }
+    .button { display: inline-flex; align-items: center; min-height: 48px; padding: 0 18px; border-radius: 7px; background: white; color: var(--deep); text-decoration: none; font-weight: 750; }
+    .button.secondary { background: transparent; color: white; border: 1px solid #799d90; }
+    .status-strip { background: var(--amber); color: var(--amber-ink); border-bottom: 1px solid #ecd48d; }
+    .status-strip .wrap { padding-block: 18px; }
+    .status-strip strong { color: #513500; }
+    section { padding: 72px 0; }
+    section.alt { background: var(--soft); }
+    h2 { margin: 0 0 18px; max-width: 800px; font-size: clamp(2rem, 4vw, 3.3rem); line-height: 1.1; letter-spacing: -.035em; }
+    h3 { margin: 0 0 10px; font-size: 1.18rem; }
+    .lead { max-width: 790px; color: var(--muted); font-size: 1.14rem; }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 34px; }
+    .card { border: 1px solid var(--line); border-radius: 12px; padding: 25px; background: white; }
+    .card p { margin-bottom: 0; color: var(--muted); }
+    .number { display: inline-grid; place-items: center; width: 34px; height: 34px; margin-bottom: 20px; border-radius: 50%; background: var(--mint); color: var(--green); font-weight: 850; }
+    .boundary-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; margin-top: 34px; }
+    .boundary { border-left: 4px solid var(--green); padding: 4px 0 4px 22px; }
+    .boundary.avoid { border-color: #c98914; }
+    ul { padding-left: 22px; }
+    li + li { margin-top: 10px; }
+    .counts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-top: 32px; }
+    .count { border: 1px solid var(--line); border-radius: 10px; padding: 22px; background: white; }
+    .count strong { display: block; font-size: 2.3rem; line-height: 1; }
+    .count span { color: var(--muted); }
+    .project-list { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 30px; }
+    .project-list a { display: block; padding: 18px 20px; border: 1px solid var(--line); border-radius: 9px; text-decoration: none; background: white; }
+    .project-list a:hover { border-color: var(--green); }
+    .project-list small { display: block; margin-top: 4px; color: var(--muted); }
+    footer { background: var(--deep); color: #d8eae3; padding: 40px 0; }
+    footer .wrap { display: flex; justify-content: space-between; gap: 30px; align-items: flex-start; }
+    footer p { max-width: 640px; margin: 8px 0 0; color: #a9c4b9; }
+    footer a { color: white; }
+    @media (max-width: 820px) {
+      .nav { padding-block: 18px; align-items: flex-start; flex-direction: column; }
+      .hero { padding: 68px 0 60px; }
+      .grid, .counts { grid-template-columns: 1fr 1fr; }
+      .boundary-grid, .project-list { grid-template-columns: 1fr; }
+      footer .wrap { flex-direction: column; }
+    }
+    @media (max-width: 520px) { .grid, .counts { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <header>
+    <div class="wrap nav">
+      <a class="brand" href="./">Open Future Forum <span>Intelligence Index</span></a>
+      <nav aria-label="Primary navigation">
+        <a href="#model">Model</a>
+        <a href="#standards">Standards</a>
+        <a href="#status">Status</a>
+        <a href="https://github.com/OpenFutureForum/executive-intelligence-index">GitHub</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="content">
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">Open Future Forum · public research infrastructure</p>
+        <h1>Trace executive ideas to their sources.</h1>
+        <p class="hero-copy">The Open Executive Intelligence Index is being designed to connect selected books, reports, studies, talks, interviews and media to source-located statements, carefully scoped propositions and evidence-backed editorial synthesis.</p>
+        <div class="actions">
+          <a class="button" href="https://github.com/OpenFutureForum/executive-intelligence-index">Review the source repository</a>
+          <a class="button secondary" href="https://openfutureforum.github.io/">Explore all OFF resources</a>
+        </div>
+      </div>
+    </section>
+
+    <div class="status-strip">
+      <div class="wrap"><strong>Pre-release project overview:</strong> no production research records are published here. Candidate branches, staging files and review material are not presented as evidence.</div>
+    </div>
+
+    <section id="model">
+      <div class="wrap">
+        <p class="eyebrow" style="color:var(--green)">The analytical model</p>
+        <h2>Source, proposition, synthesis.</h2>
+        <p class="lead">The framework keeps three distinct layers separate so that attribution is not confused with truth, and synthesis is not confused with universal consensus.</p>
+        <div class="grid">
+          <article class="card"><span class="number">1</span><h3>Source statements</h3><p>A neutral paraphrase of what a named person or institution expressed, tied to a reproducible location in the source.</p></article>
+          <article class="card"><span class="number">2</span><h3>Scoped propositions</h3><p>Compatible statements mapped to an idea and coded as supporting, challenging, qualifying or refining it.</p></article>
+          <article class="card"><span class="number">3</span><h3>Editorial synthesis</h3><p>Dossiers, debates, role comparisons and briefings with explicit lineage, counterpoints and limitations.</p></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="alt" id="standards">
+      <div class="wrap">
+        <p class="eyebrow" style="color:var(--green)">Evidence boundaries</p>
+        <h2>Designed to make uncertainty visible.</h2>
+        <div class="boundary-grid">
+          <div class="boundary">
+            <h3>Publication safeguards</h3>
+            <ul>
+              <li>Use exact source locators and preserve statement lineage.</li>
+              <li>Record a person's role at the time of the source.</li>
+              <li>Separate attributed claims from independently checked facts.</li>
+              <li>Disclose OFF-owned evidence and source concentration.</li>
+              <li>Require named human approval before a research release.</li>
+              <li>Provide correction, rights and withdrawal paths.</li>
+            </ul>
+          </div>
+          <div class="boundary avoid">
+            <h3>What the index will not imply</h3>
+            <ul>
+              <li>That inclusion is endorsement or a statement is true.</li>
+              <li>That a selected corpus represents all executives or markets.</li>
+              <li>That source frequency proves prevalence, adoption or consensus.</li>
+              <li>That engagement measures evidence quality.</li>
+              <li>That private Open Future Forum conversations are public evidence.</li>
+              <li>That copyrighted books, transcripts or reports can be republished.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="status">
+      <div class="wrap">
+        <p class="eyebrow" style="color:var(--green)">Current publication status</p>
+        <h2>An honest empty state.</h2>
+        <p class="lead">This public page explains the framework only. Zero counts are intentional: they prevent unfinished research from being presented as a populated or approved index.</p>
+        <div class="counts" aria-label="Current published record counts">
+          <div class="count"><strong>0</strong><span>published sources</span></div>
+          <div class="count"><strong>0</strong><span>published statements</span></div>
+          <div class="count"><strong>0</strong><span>published propositions</span></div>
+          <div class="count"><strong>0</strong><span>published dossiers</span></div>
+        </div>
+        <p class="lead" style="margin-top:28px">A future content release must identify its included batches, pass the publication thresholds and validation checks, record its limitations, and receive the required human review. Publishing this overview does not approve a research release.</p>
+      </div>
+    </section>
+
+    <section class="alt">
+      <div class="wrap">
+        <p class="eyebrow" style="color:var(--green)">Related Open Future Forum work</p>
+        <h2>Distinct projects, connected provenance.</h2>
+        <p class="lead">The Intelligence Index will reference these projects without copying or replacing their canonical records and publications.</p>
+        <div class="project-list">
+          <a href="https://openfutureforum.github.io/cxo-ecosystem-index/"><strong>CXO Ecosystem Index</strong><small>Organizations, capabilities, audiences and relationships.</small></a>
+          <a href="https://openfutureforum.github.io/executive-communities-index/"><strong>Executive Communities Index</strong><small>Community records and disclosed editorial rankings.</small></a>
+          <a href="https://openfutureforum.github.io/executive-community-playbook/"><strong>Executive Community Playbook</strong><small>Practical operating guidance and templates.</small></a>
+          <a href="https://openfutureforum.github.io/executive-ai-research/"><strong>Executive AI Research</strong><small>OFF reports, market maps, datasets and evidence.</small></a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <div><strong>Open Executive Intelligence Index</strong><p>Published by Open Future Forum. Inclusion will not imply endorsement. Last reviewed 16 August 2026 for publication of this framework overview only.</p></div>
+      <div><a href="https://github.com/OpenFutureForum/executive-intelligence-index/issues">Corrections and contributions</a></div>
+    </div>
+  </footer>
+</body>
+</html>
