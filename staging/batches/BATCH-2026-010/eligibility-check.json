@@ -1,0 +1,101 @@
+{
+  "batch_id": "BATCH-2026-010",
+  "prompt_id": "OEII-ROLE-COMPARISON",
+  "prompt_version": "2.0",
+  "topic": "Governed identities for AI agents",
+  "time_period": "2020-08-15 through 2026-08-15, with pre-2020 foundations only when directly applicable",
+  "selected_roles": [
+    "role-ciso",
+    "role-cio",
+    "role-cto"
+  ],
+  "repository_configured_role_comparison_threshold": null,
+  "comparison_eligibility_floor": {
+    "status": "pre_registered_editorial_floor_for_this_batch_not_a_publication_threshold",
+    "per_role": {
+      "independently_checked_production_sources": 3,
+      "people_with_role_at_source_time": 2,
+      "organizations": 2,
+      "substantive_role_attributed_statements": 5
+    },
+    "requirements": [
+      "Role at source time verified",
+      "Statement and proposition lineage complete",
+      "No single-source comparison",
+      "Sample and concentration disclosed"
+    ]
+  },
+  "production_metrics": {
+    "role-ciso": {
+      "people": 0,
+      "sources": 0,
+      "statements": 0,
+      "organizations": 0,
+      "source_types": [],
+      "regions": [],
+      "industries": [],
+      "date_range": null,
+      "off_owned_source_share": null,
+      "vendor_source_share": null,
+      "consulting_source_share": null,
+      "role_at_source_time_evidence": 0,
+      "staging_relevance_tag_mentions": 46
+    },
+    "role-cio": {
+      "people": 0,
+      "sources": 0,
+      "statements": 0,
+      "organizations": 0,
+      "source_types": [],
+      "regions": [],
+      "industries": [],
+      "date_range": null,
+      "off_owned_source_share": null,
+      "vendor_source_share": null,
+      "consulting_source_share": null,
+      "role_at_source_time_evidence": 0,
+      "staging_relevance_tag_mentions": 46
+    },
+    "role-cto": {
+      "people": 0,
+      "sources": 0,
+      "statements": 0,
+      "organizations": 0,
+      "source_types": [],
+      "regions": [],
+      "industries": [],
+      "date_range": null,
+      "off_owned_source_share": null,
+      "vendor_source_share": null,
+      "consulting_source_share": null,
+      "role_at_source_time_evidence": 0,
+      "staging_relevance_tag_mentions": 46
+    }
+  },
+  "roles_meeting_floor": [],
+  "roles_below_floor": [
+    "role-ciso",
+    "role-cio",
+    "role-cto"
+  ],
+  "comparison_status": "INELIGIBLE_ROLE_EVIDENCE_GAP_BRIEFING_ONLY",
+  "reason": "Canonical role, person, source, statement, proposition, and dossier directories contain no topic records. Staging statements are relevance-tagged for all selected roles but are authored by institutional, research, standards, editor, contributor, or author roles rather than by indexed CISO, CIO, or CTO speakers at source time.",
+  "source_concentration": {
+    "production_denominator": 0,
+    "off_owned_share": null,
+    "vendor_share": null,
+    "largest_source_share": null
+  },
+  "staging_context_not_evidence": {
+    "shared_relevance_tag_count_per_role": 46,
+    "direct_ciso_role_at_source_time_statements": 0,
+    "direct_cio_role_at_source_time_statements": 0,
+    "direct_cto_role_at_source_time_statements": 0,
+    "current_cto_records_that_must_not_be_backfilled": 1,
+    "example_person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "example_current_role": "Chief Technology Officer",
+    "example_role_at_source_time": "Author",
+    "use_restriction": "Research-gap and scope-correction planning only; not role evidence."
+  },
+  "human_review_status": "pending"
+}

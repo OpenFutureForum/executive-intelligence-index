@@ -1,0 +1,8 @@
+"risk_dimension","ciso_finding","cio_finding","cto_finding","status","research_needed"
+"Unauthorized access","not determinable","not determinable","not determinable","gap","Ask each role who owns inventory, access policy, enforcement, and incident response."
+"Credential compromise and lifecycle","not determinable","not determinable","not determinable","gap","Compare security control, platform operations, and architecture responsibilities."
+"Delegation and principal traceability","not determinable","not determinable","not determinable","gap","Test accountability and privacy tradeoffs with all three roles."
+"Agent reliability and availability","not determinable","not determinable","not determinable","gap","Compare risk thresholds and service-level measures."
+"Monitoring, audit, and shutdown","not determinable","not determinable","not determinable","gap","Map operational ownership and escalation paths."
+"Legal and regulatory exposure","not determinable","not determinable","not determinable","gap","Add general-counsel evidence to prevent a technology-only comparison."
+"Budget and organizational incentives","not determinable","not determinable","not determinable","gap","Record budget owner, procurement signer, control cost, and loss framing."

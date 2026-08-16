@@ -1,0 +1,4 @@
+"role_id","role_label","people","sources","statements","organizations","source_types","regions","industries","date_range","off_owned_source_share","vendor_source_share","role_at_source_time_evidence","staging_relevance_tags","eligibility"
+"role-ciso","Chief Information Security Officer","0","0","0","0","none","none","none","not available","undefined (0 denominator)","undefined (0 denominator)","0","46","below floor"
+"role-cio","Chief Information Officer","0","0","0","0","none","none","none","not available","undefined (0 denominator)","undefined (0 denominator)","0","46","below floor"
+"role-cto","Chief Technology Officer","0","0","0","0","none","none","none","not available","undefined (0 denominator)","undefined (0 denominator)","0","46","below floor"
