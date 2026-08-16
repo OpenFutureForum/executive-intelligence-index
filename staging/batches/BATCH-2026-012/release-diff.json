@@ -1,0 +1,128 @@
+{
+  "batch_id": "BATCH-2026-012",
+  "prompt_id": "OEII-EXECUTIVE-SIGNAL",
+  "prompt_version": "2.0",
+  "reporting_period": {
+    "start_date": "2026-08-01",
+    "end_date": "2026-08-14"
+  },
+  "previous_comparison_period": {
+    "start_date": "2026-07-01",
+    "end_date": "2026-07-31"
+  },
+  "current_release": {
+    "release_id": "release-0.1.0-framework",
+    "semantic_version": "0.1.0",
+    "release_date": "2026-08-14",
+    "release_fingerprint": "3527bda659346bd2f07569f394d14bc43f2065ef4e5dc800d6c10ca7ea747d3b",
+    "canonical_release_record_present": false,
+    "approved_production_release": false,
+    "public_record_counts": {
+      "people": 0,
+      "organization-references": 0,
+      "book-works": 0,
+      "book-editions": 0,
+      "sources": 0,
+      "statements": 0,
+      "propositions": 0,
+      "stances": 0,
+      "topics": 0,
+      "debates": 0,
+      "dossiers": 0,
+      "trends": 0,
+      "protocols": 0,
+      "batches": 0,
+      "reviews": 0,
+      "corrections": 0,
+      "releases": 0
+    }
+  },
+  "previous_release": null,
+  "eligibility": {
+    "status": "INELIGIBLE_BASELINE_ONLY_EVIDENCE_GAP_EDITION",
+    "current_snapshot_reproducible": true,
+    "previous_frozen_release_present": false,
+    "comparable_release_pair_present": false,
+    "eligible_current_sources": 0,
+    "material_signals_admitted": 0,
+    "canonical_trend_snapshot_admitted": false,
+    "reason": "A month-over-month change requires two comparable frozen releases. The repository has one deterministic framework artifact, no previous frozen release, and no published production research records."
+  },
+  "current_raw_counts": {
+    "qualifying_sources": 0,
+    "books": 0,
+    "complete_book_analyses": 0,
+    "media": 0,
+    "evidence_reports": 0,
+    "people": 0,
+    "organizations": 0,
+    "statements": 0,
+    "propositions": 0,
+    "challenging_positions": 0,
+    "qualifying_positions": 0,
+    "role_spread": 0,
+    "geographic_spread": 0,
+    "language_spread": 0,
+    "source_type_spread": 0,
+    "dossier_coverage": 0,
+    "off_owned_sources": 0
+  },
+  "changes_from_previous_release": {
+    "qualifying_sources": null,
+    "books": null,
+    "complete_book_analyses": null,
+    "media": null,
+    "evidence_reports": null,
+    "people": null,
+    "organizations": null,
+    "statements": null,
+    "propositions": null,
+    "challenging_positions": null,
+    "qualifying_positions": null,
+    "role_spread": null,
+    "geographic_spread": null,
+    "language_spread": null,
+    "source_type_spread": null,
+    "dossier_coverage": null,
+    "off_owned_sources": null
+  },
+  "denominators": {
+    "current_eligible_sources": 0,
+    "previous_eligible_sources": null,
+    "comparable_releases": 1,
+    "required_comparable_releases": 2
+  },
+  "default_weights_disclosed_not_applied": {
+    "new_source_count": 0.25,
+    "independent_person_count": 0.2,
+    "independent_organization_count": 0.2,
+    "role_spread": 0.15,
+    "geographic_spread": 0.1,
+    "source_type_spread": 0.1
+  },
+  "normalized_values": {
+    "new_source_count": null,
+    "independent_person_count": null,
+    "independent_organization_count": null,
+    "role_spread": null,
+    "geographic_spread": null,
+    "source_type_spread": null
+  },
+  "score": null,
+  "source_concentration": {
+    "largest_publisher_share": null,
+    "off_owned_share": null,
+    "vendor_share": null,
+    "denominator": 0
+  },
+  "engagement_analytics_supplied": false,
+  "limitations": [
+    "No previous frozen release exists.",
+    "The current artifact is a framework snapshot, not an approved production research release.",
+    "The current eligible source denominator is zero.",
+    "Change values, normalized values, proportions, and score are undefined.",
+    "Staging records and synthetic fixtures are excluded.",
+    "The reporting period is partial and ends on the current artifact release date.",
+    "No engagement analytics were supplied."
+  ]
+}

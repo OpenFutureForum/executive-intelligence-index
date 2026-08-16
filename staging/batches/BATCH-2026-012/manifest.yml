@@ -1,0 +1,57 @@
+batch_id: BATCH-2026-012
+prompt_id: OEII-EXECUTIVE-SIGNAL
+prompt_version: "2.0"
+branch: analysis/executive-signal-2026-08
+base_branch: review/BATCH-2026-011
+execution_date: 2026-08-15
+reporting_period:
+  start_date: 2026-08-01
+  end_date: 2026-08-14
+previous_comparison_period:
+  start_date: 2026-07-01
+  end_date: 2026-07-31
+current_release:
+  release_id: release-0.1.0-framework
+  release_date: 2026-08-14
+  release_fingerprint: 3527bda659346bd2f07569f394d14bc43f2065ef4e5dc800d6c10ca7ea747d3b
+  status: deterministic_framework_artifact_not_approved_production_release
+previous_release: null
+comparison_status: INELIGIBLE_BASELINE_ONLY_EVIDENCE_GAP_EDITION
+reason: No previous frozen release exists and the current framework artifact contains zero published production research records.
+eligible_material_signals: 0
+canonical_trend_records_created: 0
+canonical_trend_file: data/trends/2026-08.json
+canonical_trend_file_disposition: explicit_empty_array_due_to_ineligibility
+content_file: content/executive-signal/2026-08.md
+production_counts:
+  sources: 0
+  books: 0
+  complete_book_analyses: 0
+  media: 0
+  evidence_reports: 0
+  people: 0
+  organizations: 0
+  statements: 0
+  propositions: 0
+  challenging_positions: 0
+  qualifying_positions: 0
+  dossiers: 0
+  roles: 0
+  geographies: 0
+  languages: 0
+  source_types: 0
+off_owned_source_count: 0
+off_owned_source_share: null
+engagement_analytics_supplied: false
+machine_review_status: machine_checked
+human_review_status: pending
+publication_status: staging_only
+output_files:
+  - manifest.yml
+  - release-diff.json
+  - trend-components.csv
+  - signal-lineage.csv
+  - analytics-separation.md
+  - source-concentration.md
+  - limitations.md
+  - validation-results.md

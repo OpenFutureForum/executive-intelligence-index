@@ -1,0 +1,2 @@
+record_id,record_type,topic,proposition,current_period_evidence,previous_period_baseline,source_ids,statement_ids,role_coverage,geography_coverage,evidence_quality,confidence,limitations,disposition
+ELIG-2026-08-001,eligibility_finding,indexed_corpus_release_readiness,,release-0.1.0-framework has zero published research records,No previous frozen release,,,,,High for eligibility decision,high,Not a substantive trend signal; no comparable release pair,withheld_from_signal_count
