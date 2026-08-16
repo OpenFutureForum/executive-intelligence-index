@@ -1,0 +1,84 @@
+{
+  "batch_id": "BATCH-2026-008",
+  "canonical_records_reviewed": 0,
+  "internal_pairs": [
+    {
+      "review_id": "overlap-review-001",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-001",
+        "proposition-BATCH-2026-008-002"
+      ],
+      "lexical_overlap": "material",
+      "conceptual_overlap": "adjacent_not_duplicate",
+      "disposition": "keep_separate",
+      "rationale": "Actor traceability differs from credential and identity lifecycle management."
+    },
+    {
+      "review_id": "overlap-review-002",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-001",
+        "proposition-BATCH-2026-008-008"
+      ],
+      "lexical_overlap": "material",
+      "conceptual_overlap": "adjacent_not_duplicate",
+      "disposition": "keep_separate",
+      "rationale": "Traceability is an enabling control; legal-entity accountability is the normative end."
+    },
+    {
+      "review_id": "overlap-review-003",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-002",
+        "proposition-BATCH-2026-008-007"
+      ],
+      "lexical_overlap": "material",
+      "conceptual_overlap": "adjacent_not_duplicate",
+      "disposition": "keep_separate",
+      "rationale": "Lifecycle controls are one component of the broader integrated architecture."
+    },
+    {
+      "review_id": "overlap-review-004",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-003",
+        "proposition-BATCH-2026-008-009"
+      ],
+      "lexical_overlap": "material",
+      "conceptual_overlap": "adjacent_not_duplicate",
+      "disposition": "keep_separate",
+      "rationale": "Authority constraints apply generally; recursive controls address multi-agent chains specifically."
+    },
+    {
+      "review_id": "overlap-review-005",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-004",
+        "proposition-BATCH-2026-008-005"
+      ],
+      "lexical_overlap": "material",
+      "conceptual_overlap": "adjacent_not_duplicate",
+      "disposition": "keep_separate",
+      "rationale": "Evaluation timing and representativeness differ from the dimensions reported in security benchmarking."
+    },
+    {
+      "review_id": "overlap-review-006",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-005",
+        "proposition-BATCH-2026-008-006"
+      ],
+      "lexical_overlap": "material",
+      "conceptual_overlap": "adjacent_not_duplicate",
+      "disposition": "keep_separate",
+      "rationale": "Decision metrics differ from limits on inference and generalization."
+    },
+    {
+      "review_id": "overlap-review-007",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-007",
+        "proposition-BATCH-2026-008-008"
+      ],
+      "lexical_overlap": "material",
+      "conceptual_overlap": "adjacent_not_duplicate",
+      "disposition": "keep_separate",
+      "rationale": "Control architecture does not itself allocate legal accountability."
+    }
+  ],
+  "unresolved_overlaps": []
+}

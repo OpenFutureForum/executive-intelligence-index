@@ -1,0 +1,15 @@
+{
+  "batch_id": "BATCH-2026-008",
+  "clusters": [
+    {
+      "cluster_id": "unresolved-cluster-BATCH-2026-008-001",
+      "statement_ids": [
+        "statement-BATCH-2026-006-004",
+        "statement-BATCH-2026-006-005"
+      ],
+      "issue": "The records concern a broad generative-AI risk profile and data provenance, not a sufficiently supported agent-identity proposition.",
+      "recommended_next_evidence": "Add independently checked agent-specific sources on training/generated-data lineage and identity-governance decisions.",
+      "human_review_status": "pending"
+    }
+  ]
+}

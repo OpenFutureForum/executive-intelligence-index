@@ -1,0 +1,61 @@
+{
+  "batch_id": "BATCH-2026-008",
+  "candidates": [],
+  "threshold": {
+    "relevant_statements": 12,
+    "materially_distinct_positions": 2,
+    "comparable_scope_required": true
+  },
+  "decisions": [
+    {
+      "candidate_question": "How should organizations balance per-action human approval, automated monitoring, and hard limits for agent actions?",
+      "disposition": "not_created",
+      "relevant_statement_ids": [
+        "statement-BATCH-2026-006-021",
+        "statement-BATCH-2026-006-043",
+        "statement-BATCH-2026-006-044",
+        "statement-BATCH-2026-006-046"
+      ],
+      "scope": "Cross-sector, high-volume or high-consequence agent actions in the global policy context.",
+      "time_period": "Source published in 2023; prospective governance recommendations.",
+      "relevant_roles": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "relevant_regions": [
+        "global policy context"
+      ],
+      "materially_distinct_positions_found": 0,
+      "source_diversity": {
+        "intellectual_sources": 1,
+        "independent_publishers": 1,
+        "source_types": [
+          "research_report"
+        ]
+      },
+      "evidence_quality": "Normative recommendations and interpretation; no comparative outcome evidence.",
+      "missing_perspectives": [
+        "Deployer implementation evidence",
+        "User research on approval burden",
+        "Regulator and civil-society positions",
+        "Role-specific executive positions"
+      ],
+      "unresolved_scope_issues": [
+        "Approval frequency",
+        "Action consequence",
+        "Monitor reliability",
+        "Privacy and surveillance tradeoffs"
+      ],
+      "ownership_concentration": {
+        "leading_source_share": 1,
+        "high_concentration": true,
+        "off_owned_share": 0
+      },
+      "reason": "Only four statements from one intellectual source describe complementary controls under different conditions; there are not two materially distinct, independently supported positions or 12 relevant statements."
+    }
+  ],
+  "debates_proposed": 0
+}
