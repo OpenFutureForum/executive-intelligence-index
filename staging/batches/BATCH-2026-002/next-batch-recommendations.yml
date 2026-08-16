@@ -1,0 +1,30 @@
+batch_id: BATCH-2026-002
+recommended_deep_analysis_batches:
+  - priority: 1
+    work: Solving the Bottom Turtle
+    exact_edition: book-edition-BATCH-2026-002-001
+    readiness: deep_analysis_ready
+    access_basis: Official complete first-edition PDF under CC BY 4.0
+    focus: [workload identity, attestation, short-lived credentials, trust domains, applicability and limits for AI agents]
+  - priority: 2
+    work: Building Secure and Reliable Systems
+    exact_edition: book-edition-BATCH-2026-002-007
+    readiness: deep_analysis_ready
+    access_basis: Official complete Google HTML
+    focus: [least privilege, authorization policy, audit, breakglass access, responsibility, system lifecycle]
+recommended_access_acquisition:
+  - work: Zero Trust Networks, Second Edition
+    reason: Strong foundational relevance; requires complete lawful access to distinguish revised material from the 2017 work.
+  - work: Identity-Native Infrastructure Access Management
+    reason: Direct machine and ephemeral identity relevance; full review should preserve Teleport vendor context.
+  - work: OAuth 2 in Action
+    reason: Delegation and token foundations; obtain exact edition access before agent-specific interpretation.
+identity_actions:
+  - Resolve whether the 2022/2023 expanded Apress edition is a separate work or a materially revised edition of the 2019 work.
+  - Identify the Italian translator for Zero Trust Networks and propose lang-it through a separate controlled-vocabulary change.
+  - Confirm individual author identities and official profiles before creating canonical person records.
+do_not_do:
+  - Do not transfer locators across editions or formats.
+  - Do not call catalogued books reviewed.
+  - Do not infer a book-wide argument from publisher copy, contents, or a short preview.
+  - Do not create production records without named-human review.

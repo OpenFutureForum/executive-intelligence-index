@@ -1,0 +1,1659 @@
+[
+  {
+    "person_id": "person-BATCH-2026-002-001",
+    "canonical_name": "Daniel Feldman",
+    "display_name": "Daniel Feldman",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 1 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-002",
+    "canonical_name": "Emily Fox",
+    "display_name": "Emily Fox",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 2 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-003",
+    "canonical_name": "Evan Gilman",
+    "display_name": "Evan Gilman",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001",
+      "book-work-BATCH-2026-002-002"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 3 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-004",
+    "canonical_name": "Ian Haken",
+    "display_name": "Ian Haken",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 4 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-005",
+    "canonical_name": "Frederick Kautz",
+    "display_name": "Frederick Kautz",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 5 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-006",
+    "canonical_name": "Umair Khan",
+    "display_name": "Umair Khan",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 6 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-007",
+    "canonical_name": "Max Lambrecht",
+    "display_name": "Max Lambrecht",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 7 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-008",
+    "canonical_name": "Brandon Lum",
+    "display_name": "Brandon Lum",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 8 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-009",
+    "canonical_name": "Agustín Martínez Fayó",
+    "display_name": "Agustín Martínez Fayó",
+    "alternate_names": [
+      "Agustin Martinez Fayo"
+    ],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 9 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-010",
+    "canonical_name": "Eli Nesterov",
+    "display_name": "Eli Nesterov",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 10 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-011",
+    "canonical_name": "Andrés Vega",
+    "display_name": "Andrés Vega",
+    "alternate_names": [
+      "Andres Vega"
+    ],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 11 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-012",
+    "canonical_name": "Michael Wardrop",
+    "display_name": "Michael Wardrop",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://spiffe.io/book/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-001"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/book/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 12 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-013",
+    "canonical_name": "Razi Rais",
+    "display_name": "Razi Rais",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/zero-trust-networks/9781492096580/titlepage01.html"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-002"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/zero-trust-networks/9781492096580/titlepage01.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 13 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-014",
+    "canonical_name": "Christina Morillo",
+    "display_name": "Christina Morillo",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/zero-trust-networks/9781492096580/titlepage01.html"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-002"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/zero-trust-networks/9781492096580/titlepage01.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 14 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-015",
+    "canonical_name": "Doug Barth",
+    "display_name": "Doug Barth",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/zero-trust-networks/9781492096580/titlepage01.html"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-002"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/zero-trust-networks/9781492096580/titlepage01.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 15 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-016",
+    "canonical_name": "Justin Richer",
+    "display_name": "Justin Richer",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.manning.com/books/oauth-2-in-action"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-003"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.manning.com/books/oauth-2-in-action",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 16 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-017",
+    "canonical_name": "Antonio Sanso",
+    "display_name": "Antonio Sanso",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.manning.com/books/oauth-2-in-action"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-003"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.manning.com/books/oauth-2-in-action",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 17 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-018",
+    "canonical_name": "Neil Madden",
+    "display_name": "Neil Madden",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.manning.com/books/api-security-in-action"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-004"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.manning.com/books/api-security-in-action",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 18 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-019",
+    "canonical_name": "Heather Adkins",
+    "display_name": "Heather Adkins",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 19 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-020",
+    "canonical_name": "Betsy Beyer",
+    "display_name": "Betsy Beyer",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 20 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-021",
+    "canonical_name": "Paul Blankinship",
+    "display_name": "Paul Blankinship",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 21 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-022",
+    "canonical_name": "Piotr Lewandowski",
+    "display_name": "Piotr Lewandowski",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 22 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-023",
+    "canonical_name": "Ana Oprea",
+    "display_name": "Ana Oprea",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 23 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-024",
+    "canonical_name": "Adam Stubblefield",
+    "display_name": "Adam Stubblefield",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-005"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 24 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-025",
+    "canonical_name": "Lee Atchison",
+    "display_name": "Lee Atchison",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/identity-in-modern/9781098107789/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-006"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/identity-in-modern/9781098107789/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 25 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-026",
+    "canonical_name": "Yvonne Wilson",
+    "display_name": "Yvonne Wilson",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://link.springer.com/book/10.1007/978-1-4842-5095-2"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-007",
+      "book-work-BATCH-2026-002-008"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://link.springer.com/book/10.1007/978-1-4842-5095-2",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 26 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-027",
+    "canonical_name": "Abhishek Hingnikar",
+    "display_name": "Abhishek Hingnikar",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://link.springer.com/book/10.1007/978-1-4842-5095-2"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-007",
+      "book-work-BATCH-2026-002-008"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://link.springer.com/book/10.1007/978-1-4842-5095-2",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 27 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-028",
+    "canonical_name": "Ev Kontsevoy",
+    "display_name": "Ev Kontsevoy",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/identity-native-infrastructure-access/9781098131883/colophon01.html"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-009"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/identity-native-infrastructure-access/9781098131883/colophon01.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 28 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-029",
+    "canonical_name": "Sakshyam Shah",
+    "display_name": "Sakshyam Shah",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/identity-native-infrastructure-access/9781098131883/colophon01.html"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-009"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/identity-native-infrastructure-access/9781098131883/colophon01.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 29 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "person_id": "person-BATCH-2026-002-030",
+    "canonical_name": "Peter Conrad",
+    "display_name": "Peter Conrad",
+    "alternate_names": [],
+    "name_disambiguation_note": "Verified only as the named author of the linked work; current role and broader identity profile were not inferred.",
+    "external_identifiers": {
+      "official_profile_url": null,
+      "author_attribution_url": "https://www.oreilly.com/library/view/identity-native-infrastructure-access/9781098131883/colophon01.html"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "not_researched",
+    "historical_roles": [],
+    "role_at_source_time": [],
+    "professional_geographies": [],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "identity-and-access-management"
+    ],
+    "authored_book_work_ids": [
+      "book-work-BATCH-2026-002-009"
+    ],
+    "contributed_work_ids": [],
+    "source_ids": [],
+    "statement_ids": [],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": "Staging author identity candidate; named-human identity review pending.",
+    "public_profile_eligibility": false,
+    "verification_status": "verified_as_named_author_on_official_work_source",
+    "person_depth": "identity_record",
+    "workflow_status": "candidate",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.oreilly.com/library/view/identity-native-infrastructure-access/9781098131883/colophon01.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Official publisher, project, or author-hosted bibliographic page inspected through public web access",
+        "exact_locator": "Official work page author attribution",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-002",
+        "prompt_id": "OEII-BOOK-METADATA",
+        "prompt_version": "2.0",
+        "notes": "Author candidate 30 of 30; current role not researched."
+      }
+    ],
+    "revision_history": []
+  }
+]

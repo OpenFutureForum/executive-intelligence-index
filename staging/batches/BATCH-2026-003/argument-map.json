@@ -1,0 +1,134 @@
+{
+  "batch_id": "BATCH-2026-003",
+  "research_question": "How do public executive and institutional sources define governance requirements for AI-agent identities?",
+  "books": [
+    {
+      "book_work_id": "book-work-BATCH-2026-002-001",
+      "thesis": "Modern distributed systems require automatically issued, short-lived workload identities rooted in attestation rather than network location or manually distributed secrets; SPIFFE defines the identity documents and SPIRE supplies the attestation and issuance machinery.",
+      "argument_chain": [
+        {
+          "order": 1,
+          "claim": "Dynamic infrastructure invalidates location as a durable service identity.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-001",
+            "statement-BATCH-2026-003-002"
+          ]
+        },
+        {
+          "order": 2,
+          "claim": "Logical purpose plus issuing authority supplies a stable identity model.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-003"
+          ]
+        },
+        {
+          "order": 3,
+          "claim": "Attestation, short-lived SVIDs, registration, and trust domains operationalize the model.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-004",
+            "statement-BATCH-2026-003-005",
+            "statement-BATCH-2026-003-006",
+            "statement-BATCH-2026-003-007"
+          ]
+        },
+        {
+          "order": 4,
+          "claim": "Adoption requires staged migration, cross-functional ownership, integration choices, and failure operations.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-008",
+            "statement-BATCH-2026-003-009",
+            "statement-BATCH-2026-003-010",
+            "statement-BATCH-2026-003-011",
+            "statement-BATCH-2026-003-012",
+            "statement-BATCH-2026-003-013",
+            "statement-BATCH-2026-003-014",
+            "statement-BATCH-2026-003-015"
+          ]
+        },
+        {
+          "order": 5,
+          "claim": "Identity is a prerequisite for authorization, not a substitute for it.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-016"
+          ]
+        },
+        {
+          "order": 6,
+          "claim": "Comparison and cases support feasibility but provide weaker independent evidence than the architecture argument.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-017",
+            "statement-BATCH-2026-003-018"
+          ]
+        }
+      ],
+      "hidden_or_explicit_assumptions": [
+        "Attestation plugins expose trustworthy platform evidence.",
+        "Operators and signing components inside the chosen boundary are trusted.",
+        "Workload purpose can be named consistently.",
+        "Highly available identity infrastructure is economically feasible."
+      ],
+      "editorial_inference": "For AI agents, workload identity should be extended with separately governed authority and provenance data; this is OEII analysis, not a claim made by the 2020 authors."
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-005",
+      "thesis": "Security and reliability are mutually reinforcing, emergent properties that must be designed, implemented, tested, operated, and governed together across the system lifecycle rather than added by a specialist team at the end.",
+      "argument_chain": [
+        {
+          "order": 1,
+          "claim": "Security and reliability are joint lifecycle properties shaped by both adversaries and ordinary failure.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-019",
+            "statement-BATCH-2026-003-020",
+            "statement-BATCH-2026-003-021",
+            "statement-BATCH-2026-003-022"
+          ]
+        },
+        {
+          "order": 2,
+          "claim": "Least privilege becomes operational through impact tiers, narrow APIs, contextual policy, and advanced approval controls.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-023",
+            "statement-BATCH-2026-003-024",
+            "statement-BATCH-2026-003-025",
+            "statement-BATCH-2026-003-026",
+            "statement-BATCH-2026-003-027"
+          ]
+        },
+        {
+          "order": 3,
+          "claim": "Understandability, layered resilience, and explicit recovery bound automation risk.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-028",
+            "statement-BATCH-2026-003-029",
+            "statement-BATCH-2026-003-030"
+          ]
+        },
+        {
+          "order": 4,
+          "claim": "Artifact provenance and governed logs create verifiable deployment and investigation evidence.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-031",
+            "statement-BATCH-2026-003-032"
+          ]
+        },
+        {
+          "order": 5,
+          "claim": "Exercises, incident roles, shared ownership, and culture turn controls into operating capability.",
+          "statement_ids": [
+            "statement-BATCH-2026-003-033",
+            "statement-BATCH-2026-003-034",
+            "statement-BATCH-2026-003-035",
+            "statement-BATCH-2026-003-036"
+          ]
+        }
+      ],
+      "hidden_or_explicit_assumptions": [
+        "The organization can invest in platform controls and specialist capacity.",
+        "Teams can expose narrow functional interfaces for sensitive actions.",
+        "Leaders can align incentives across security, reliability, and delivery.",
+        "Operational telemetry can be collected without unacceptable privacy cost."
+      ],
+      "editorial_inference": "These principles can govern AI-agent actions, but the book does not define an AI-agent identity object or delegation protocol; the transfer is analogical and requires modern sources."
+    }
+  ]
+}

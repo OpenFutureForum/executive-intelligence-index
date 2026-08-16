@@ -1,0 +1,33 @@
+[
+  {
+    "source_id": "source-BATCH-2026-003-001",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "book_edition_id": "book-edition-BATCH-2026-002-001",
+    "relationship": "canonical_complete_edition_analyzed",
+    "related_source_ids": [
+      "later-author-source-BATCH-2026-003-001",
+      "later-author-source-BATCH-2026-003-002",
+      "later-author-source-BATCH-2026-003-003",
+      "counter-source-BATCH-2026-003-001",
+      "counter-source-BATCH-2026-003-002",
+      "counter-source-BATCH-2026-003-003",
+      "counter-source-BATCH-2026-003-007"
+    ]
+  },
+  {
+    "source_id": "source-BATCH-2026-003-002",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "book_edition_id": "book-edition-BATCH-2026-002-007",
+    "relationship": "canonical_complete_edition_analyzed",
+    "related_source_ids": [
+      "later-author-source-BATCH-2026-003-004",
+      "later-author-source-BATCH-2026-003-005",
+      "later-author-source-BATCH-2026-003-006",
+      "counter-source-BATCH-2026-003-001",
+      "counter-source-BATCH-2026-003-004",
+      "counter-source-BATCH-2026-003-005",
+      "counter-source-BATCH-2026-003-006",
+      "counter-source-BATCH-2026-003-008"
+    ]
+  }
+]

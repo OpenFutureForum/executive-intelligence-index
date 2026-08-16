@@ -1,0 +1,103 @@
+{
+  "batch_id": "BATCH-2026-002",
+  "relationships": [
+    {
+      "book_work_id": "book-work-BATCH-2026-002-001",
+      "book_edition_id": "book-edition-BATCH-2026-002-001",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-002",
+      "book_edition_id": "book-edition-BATCH-2026-002-002",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-002",
+      "book_edition_id": "book-edition-BATCH-2026-002-003",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-002",
+      "book_edition_id": "book-edition-BATCH-2026-002-004",
+      "relationship": "manifestation_of",
+      "confidence": "pending_human",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-003",
+      "book_edition_id": "book-edition-BATCH-2026-002-005",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-004",
+      "book_edition_id": "book-edition-BATCH-2026-002-006",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-005",
+      "book_edition_id": "book-edition-BATCH-2026-002-007",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-005",
+      "book_edition_id": "book-edition-BATCH-2026-002-008",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-005",
+      "book_edition_id": "book-edition-BATCH-2026-002-009",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-006",
+      "book_edition_id": "book-edition-BATCH-2026-002-010",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-007",
+      "book_edition_id": "book-edition-BATCH-2026-002-011",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-008",
+      "book_edition_id": "book-edition-BATCH-2026-002-012",
+      "relationship": "manifestation_of",
+      "confidence": "pending_human",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-008",
+      "book_edition_id": "book-edition-BATCH-2026-002-013",
+      "relationship": "manifestation_of",
+      "confidence": "pending_human",
+      "human_review_status": "pending"
+    },
+    {
+      "book_work_id": "book-work-BATCH-2026-002-009",
+      "book_edition_id": "book-edition-BATCH-2026-002-014",
+      "relationship": "manifestation_of",
+      "confidence": "machine_verified",
+      "human_review_status": "pending"
+    }
+  ]
+}
