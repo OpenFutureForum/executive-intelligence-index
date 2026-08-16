@@ -1,0 +1,24 @@
+{
+  "batch_id": "BATCH-2026-009",
+  "production_source_ids": [],
+  "production_statement_ids": [],
+  "production_proposition_ids": [],
+  "production_person_ids": [],
+  "production_book_ids": [],
+  "production_dossier_ids": [],
+  "discovery_protocol_ids": [
+    "protocol-BATCH-2026-001"
+  ],
+  "staging_records_used_as_evidence": [],
+  "staging_records_referenced_as_unpublished_research_gaps": {
+    "source_batch": "BATCH-2026-005",
+    "statement_batch": "BATCH-2026-006",
+    "person_batch": "BATCH-2026-007"
+  },
+  "external_sources_used_as_evidence": [],
+  "off_pages_reviewed_for_overlap_only": [
+    "https://openfutureforum.com/research/ciso-ai-leverage-report",
+    "https://openfutureforum.com/research/executive-ai-leverage-report",
+    "https://openfutureforum.com/ciso-executive-forum"
+  ]
+}

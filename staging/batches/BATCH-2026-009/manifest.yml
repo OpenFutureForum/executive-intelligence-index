@@ -1,0 +1,61 @@
+batch_id: BATCH-2026-009
+prompt_id: OEII-TOPIC-DOSSIER
+prompt_version: "2.0"
+topic: Governed identities for AI agents
+topic_slug: governed-agent-identities
+research_question: How should organizations govern identity, delegated authority, security evaluation, and accountability for AI agents?
+time_period: 2020-08-15 through 2026-08-15, with pre-2020 foundations only when directly applicable
+branch: analysis/dossier-governed-agent-identities-BATCH-2026-009
+base_branch: research/people-BATCH-2026-007
+execution_date: 2026-08-15
+execution_completed_at: 2026-08-15T16:30:00-07:00
+agent_or_researcher: OpenAI Codex; machine-assisted production-threshold and research-gap review; named human review pending
+model_disclosure: AI-assisted canonical inventory, threshold calculation, gap synthesis, matrix drafting, OFF overlap search, and validation; no human or publication approval occurred.
+threshold_result: FAIL
+disposition: research_gap_report_only
+production_sources: 0
+production_people: 0
+production_organizations: 0
+production_source_types: 0
+production_roles: 0
+production_regions: 0
+production_languages: 0
+production_books: 0
+production_empirical_sources: 0
+production_propositions: 0
+production_challenging_positions: 0
+production_statements: 0
+public_dossier_created: false
+canonical_dossier_record_created: false
+human_review_status: pending
+output_files:
+  - manifest.yml
+  - threshold-check.json
+  - dossier-protocol.yml
+  - research-gap-report.md
+  - evidence-matrix.csv
+  - role-matrix.csv
+  - regional-matrix.csv
+  - claim-lineage.csv
+  - included-records.json
+  - unresolved-questions.json
+  - original-research-opportunities.json
+  - revision-record.json
+  - off-content-overlap-review.md
+  - content-quality-review.md
+  - limitations.md
+  - validation-results.md
+intentionally_omitted_outputs:
+  - content/topic-dossiers/governed-identities-for-ai-agents.md
+  - data/dossiers/dossier-governed-identities-for-ai-agents.json
+omission_reason: Full-topic dossier threshold failed; staging records may not be used as dossier evidence.
+validation_required:
+  - publication threshold
+  - statement and proposition lineage
+  - unsupported claims and evidence character
+  - source concentration and OFF ownership
+  - role and regional representation
+  - consensus language and near duplication
+  - existing OFF content overlap and AI-slop review
+  - structured data and internal links
+  - public build and staging isolation

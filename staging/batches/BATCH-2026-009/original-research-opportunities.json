@@ -1,0 +1,49 @@
+{
+  "batch_id": "BATCH-2026-009",
+  "opportunities": [
+    {
+      "opportunity_id": "OFF-OPP-001",
+      "title": "Agent identity governance ownership study",
+      "question": "Which executive role owns agent inventory, credentials, authorization policy, incident response, and budget?",
+      "method": "Role-tagged survey plus follow-up interviews with CISOs, CIOs, CTOs, GCs, CFOs, and board directors.",
+      "minimum_design": "State respondent counts by role; separate operators from vendors and advisors; publish instrument and denominators.",
+      "independence_controls": "Disclose OFF recruitment, event participation, sponsorship, and advisory relationships; sponsors may not shape questions or analysis.",
+      "status": "proposed_for_human_review",
+      "publication_status": null,
+      "human_review_status": "pending"
+    },
+    {
+      "opportunity_id": "OFF-OPP-002",
+      "title": "Agent authorization implementation registry",
+      "question": "Which identity and delegated-authorization patterns are deployed, at what scale, and with what failure modes?",
+      "method": "Structured operator case series with architecture, scale, incident, revocation, audit, and interoperability fields.",
+      "minimum_design": "At least 12 deployments across 6 organizations and 3 industries; include negative and abandoned implementations.",
+      "independence_controls": "No pay-to-include entries; vendor claims remain attributed until independently checked.",
+      "status": "proposed_for_human_review",
+      "publication_status": null,
+      "human_review_status": "pending"
+    },
+    {
+      "opportunity_id": "OFF-OPP-003",
+      "title": "Human approval and monitoring burden study",
+      "question": "Where do human approval, hard limits, automated monitoring, and shutdown controls work or fail?",
+      "method": "Prospective workflow study measuring approval frequency, override rates, response time, false positives, missed events, and user burden.",
+      "minimum_design": "Pre-registered outcomes and task-risk strata; preserve unsuccessful results.",
+      "independence_controls": "Independent statistical review and privacy assessment.",
+      "status": "proposed_for_human_review",
+      "publication_status": null,
+      "human_review_status": "pending"
+    },
+    {
+      "opportunity_id": "OFF-OPP-004",
+      "title": "Benchmark-to-production validity study",
+      "question": "Do agent-security benchmark results predict production incidents or control effectiveness?",
+      "method": "Map benchmark tasks and defenses to anonymized production incidents and red-team exercises.",
+      "minimum_design": "Multiple models, agent architectures, industries, and time-stamped versions; report denominators and uncertainty.",
+      "independence_controls": "Separate benchmark authors, vendors, and evaluating operators where possible.",
+      "status": "proposed_for_human_review",
+      "publication_status": null,
+      "human_review_status": "pending"
+    }
+  ]
+}

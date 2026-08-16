@@ -1,0 +1,85 @@
+{
+  "batch_id": "BATCH-2026-009",
+  "questions": [
+    {
+      "question_id": "UQ-001",
+      "question": "Which agent actions require a distinct runtime identity, and at what granularity should instances, sessions, and agent classes be distinguished?",
+      "domain": "Identity architecture",
+      "evidence_needed": "Interoperability tests and operator implementations",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    },
+    {
+      "question_id": "UQ-002",
+      "question": "How should authority attenuate across multi-agent delegation without breaking legitimate workflows?",
+      "domain": "Authorization",
+      "evidence_needed": "Deployment studies with measured task success and unauthorized-action rates",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    },
+    {
+      "question_id": "UQ-003",
+      "question": "Which credential lifetimes, rotation rules, and revocation mechanisms work at production agent speed and scale?",
+      "domain": "Lifecycle",
+      "evidence_needed": "Comparative implementation evidence",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    },
+    {
+      "question_id": "UQ-004",
+      "question": "What evidence should connect an agent action to a principal while preserving privacy and lawful anonymity?",
+      "domain": "Auditability and privacy",
+      "evidence_needed": "Legal analysis, civil-society positions, privacy engineering, and incident investigations",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    },
+    {
+      "question_id": "UQ-005",
+      "question": "How should legal responsibility be allocated when developer, deployer, user, platform, and tool provider share control?",
+      "domain": "Accountability",
+      "evidence_needed": "Multi-jurisdiction legal research and adjudicated or investigated cases",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    },
+    {
+      "question_id": "UQ-006",
+      "question": "How well do synthetic prompt-injection and vulnerability benchmarks predict production incidents?",
+      "domain": "External validity",
+      "evidence_needed": "Linked benchmark-to-production validation studies",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    },
+    {
+      "question_id": "UQ-007",
+      "question": "When does human approval improve control, and when does it create consent fatigue or ceremonial oversight?",
+      "domain": "Human oversight",
+      "evidence_needed": "Controlled user research and operational audit data",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    },
+    {
+      "question_id": "UQ-008",
+      "question": "Can automated monitors reliably oversee agents that act faster or at greater volume than human reviewers?",
+      "domain": "Monitoring",
+      "evidence_needed": "Independent evaluations, failure analyses, privacy and cost measurements",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    },
+    {
+      "question_id": "UQ-009",
+      "question": "Who owns agent identity governance across CISO, CIO, CTO, GC, CFO, CEO, and board roles?",
+      "domain": "Operating model",
+      "evidence_needed": "Role-specific interviews and documented decision-rights models",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    },
+    {
+      "question_id": "UQ-010",
+      "question": "How do requirements and implementations differ across industries and regulatory regions?",
+      "domain": "Industry and geography",
+      "evidence_needed": "Region- and sector-specific evidence with explicit denominators",
+      "status": "unresolved",
+      "human_review_status": "pending"
+    }
+  ]
+}

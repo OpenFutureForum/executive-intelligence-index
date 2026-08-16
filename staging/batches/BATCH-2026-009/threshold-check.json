@@ -1,0 +1,121 @@
+{
+  "batch_id": "BATCH-2026-009",
+  "prompt_id": "OEII-TOPIC-DOSSIER",
+  "prompt_version": "2.0",
+  "topic": "Governed identities for AI agents",
+  "research_question": "How should organizations govern identity, delegated authority, security evaluation, and accountability for AI agents?",
+  "time_period": "2020-08-15 through 2026-08-15, with pre-2020 foundations only when directly applicable",
+  "calculation_date": "2026-08-15",
+  "production_corpus": {
+    "verified_sources": 0,
+    "independent_people": 0,
+    "independent_organizations": 0,
+    "source_types": [],
+    "roles": [],
+    "geographies": [],
+    "languages": [],
+    "books": 0,
+    "empirical_sources": 0,
+    "off_owned_source_share": null,
+    "vendor_source_share": null,
+    "consulting_source_share": null,
+    "propositions": 0,
+    "challenging_positions": 0,
+    "statements": 0,
+    "statement_verification_status": "no_production_statements",
+    "inventory_basis": [
+      "data/sources contains README.md only",
+      "data/statements contains README.md only",
+      "data/propositions contains README.md only",
+      "data/people contains README.md only",
+      "data/dossiers contains README.md only",
+      "No production book records are present"
+    ]
+  },
+  "full_topic_dossier_threshold": {
+    "verified_sources": 30,
+    "people": 15,
+    "organizations": 5,
+    "source_types": 3,
+    "independent_verification": true,
+    "human_approval": true
+  },
+  "result": "FAIL",
+  "failed_requirements": [
+    {
+      "metric": "verified_sources",
+      "actual": 0,
+      "required": 30,
+      "shortfall": 30
+    },
+    {
+      "metric": "people",
+      "actual": 0,
+      "required": 15,
+      "shortfall": 15
+    },
+    {
+      "metric": "organizations",
+      "actual": 0,
+      "required": 5,
+      "shortfall": 5
+    },
+    {
+      "metric": "source_types",
+      "actual": 0,
+      "required": 3,
+      "shortfall": 3
+    },
+    {
+      "metric": "independent_verification",
+      "actual": false,
+      "required": true
+    },
+    {
+      "metric": "human_approval",
+      "actual": false,
+      "required": true
+    }
+  ],
+  "disposition": "research_gap_report_only",
+  "public_dossier_created": false,
+  "dossier_record_created": false,
+  "rationale": "The generator and dossier protocol permit verified production records only. All topic research beyond the discovery protocol remains in staging with human review pending.",
+  "unpublished_research_gap_context": {
+    "use_restriction": "Context for gap planning only; not dossier evidence.",
+    "source_records": 9,
+    "intellectual_sources_with_statements": 8,
+    "duplicate_renditions": 1,
+    "source_types": [
+      "academic_paper",
+      "public_policy_document",
+      "research_report",
+      "working_paper"
+    ],
+    "distinct_named_authors_across_intellectual_sources": 68,
+    "enriched_person_records": 15,
+    "publishing_or_attributing_organization_groups": 9,
+    "languages": [
+      "lang-en"
+    ],
+    "role_relevance_tags": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "direct_role_specific_position_comparisons": 0,
+    "empirical_sources": 4,
+    "primary_synthetic_empirical_sources": 3,
+    "statements": 46,
+    "statements_human_review_status": "pending",
+    "candidate_only_proposition_ideas": 9,
+    "canonical_propositions": 0,
+    "formal_counterargument_statements": 0,
+    "off_owned_source_share": 0,
+    "vendor_involved_source_share": 0.25,
+    "consulting_source_share": 0,
+    "geography_note": "United States and global normative contexts plus synthetic benchmarks with no human geography; no region-comparative evidence."
+  }
+}

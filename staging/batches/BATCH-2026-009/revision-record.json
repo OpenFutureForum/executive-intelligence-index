@@ -1,0 +1,13 @@
+{
+  "batch_id": "BATCH-2026-009",
+  "record_type": "research_gap_package",
+  "revisions": [
+    {
+      "revision_id": "revision-BATCH-2026-009-001",
+      "changed_at": "2026-08-15T16:30:00-07:00",
+      "changed_by": "OpenAI Codex",
+      "summary": "Created production-only threshold calculation and research-gap package; withheld public dossier and canonical dossier record because every configured dossier threshold failed.",
+      "human_review_status": "pending"
+    }
+  ]
+}
