@@ -1,0 +1,41 @@
+protocol_id: dossier-protocol-BATCH-2026-009-001
+batch_id: BATCH-2026-009
+prompt_id: OEII-TOPIC-DOSSIER
+prompt_version: "2.0"
+status: pre_registered_threshold_failed
+topic: Governed identities for AI agents
+research_question: How should organizations govern identity, delegated authority, security evaluation, and accountability for AI agents?
+scope: Cross-sector organizational controls for identifying AI agents, tracing represented principals, bounding delegated authority, managing credential lifecycles, evaluating security, and allocating accountability.
+time_period: 2020-08-15 through 2026-08-15, with pre-2020 foundational identity, authorization, and zero-trust material eligible only when directly governing current agent questions.
+included_propositions: []
+included_proposition_rule: Canonical production proposition, published workflow state, complete statement lineage, and appropriate human review.
+excluded_adjacent_questions:
+  - General generative-AI governance without agent identity, authority, or accountability relevance
+  - Human IAM practices with no demonstrated applicability to autonomous or delegated workloads
+  - General AI adoption, ROI, labor effects, or model capability rankings
+  - Market-size forecasts and vendor rankings
+  - Production prevalence inferred from synthetic security benchmarks
+evidence_hierarchy:
+  - Independently verified production empirical evidence with reproducible methods and statement lineage
+  - Adopted standards, public policy, and verified legal or regulatory materials
+  - Independently checked operator implementation evidence
+  - Normative frameworks and expert recommendations with explicit attribution
+  - Company-reported outcomes, kept attributed and independently checked where possible
+  - OFF-owned evidence with ownership, selection, sponsorship, and sample disclosures
+comparison_method: Compare evidence character, scope, technology, autonomy, role, geography, industry, time horizon, and independence; source frequency is not truth.
+role_analysis_method: Require direct, independently checked role-specific sources; shared executive-relevance tags do not establish what a role believes.
+regional_analysis_method: Separate speaker, organization, market, study, and regulatory geography; require at least two people, two organizations, and region-specific sources for a regional briefing.
+trend_method: Use frozen releases, stable eligibility rules, disclosed denominators, and no momentum claim without a configured calculation.
+expected_limitations:
+  - Production corpus is empty for the topic
+  - Pending staging evidence is English-only and weak on regional and role-specific comparison
+  - Empirical security evidence is synthetic or sandboxed
+  - Normative sources do not report comparative implementation outcomes
+criteria_for_editorial_conclusions:
+  - Threshold must pass before drafting
+  - Every substantive claim must resolve to production statement, proposition, source, or named calculation
+  - Evidence character and uncertainty must be stated
+  - Material counterpositions and concentration must be disclosed
+  - Named human approval is required
+threshold_disposition: Do not draft content/topic-dossiers or data/dossiers; create a staging research-gap package and recommended next batches.
+human_review_status: pending
