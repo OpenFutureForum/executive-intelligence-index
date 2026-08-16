@@ -1,0 +1,11 @@
+gap_id,gap,strategic_importance,evidence_gap_severity,off_access_advantage,ability_to_produce_original_evidence,cross_role_value,global_relevance,sponsor_relevance_with_safeguards,event_fit,survey_fit,video_fit,report_fit,time_sensitivity,research_feasibility,editorial_tier,lineage
+GAP-OWNERSHIP,No verified decision-rights evidence across executive roles,5,5,5,5,5,5,4,5,5,5,5,5,4,Tier 1,"BATCH-2026-009 UQ-009; BATCH-2026-010 role-evidence gap; BATCH-2026-012 zero role spread"
+GAP-IMPLEMENTATION,No independent production implementation and outcome evidence,5,5,4,5,5,5,4,5,4,5,5,5,3,Tier 1,"BATCH-2026-009 exact evidence missing 2-3; OFF-OPP-002"
+GAP-OVERSIGHT,Human approval and automated-monitor recommendations lack measured burden and failure rates,5,5,4,5,5,5,3,5,4,5,5,5,3,Tier 1,"BATCH-2026-008 debate withheld; BATCH-2026-009 UQ-007/UQ-008; OFF-OPP-003"
+GAP-FINANCE,Security concern lacks verified CFO economics and budget decision evidence,5,5,5,5,5,4,5,5,5,5,5,5,5,Tier 1,"BATCH-2026-009 role-matrix role-cfo; BATCH-2026-010 evidence-gaps; OFF CISO report overlap"
+GAP-LIFECYCLE,Credential rotation revocation and decommissioning lack comparative production outcomes,5,5,4,4,4,5,5,4,4,5,5,5,3,Tier 1,"BATCH-2026-009 UQ-003; proposition-BATCH-2026-008-002"
+GAP-PRIVACY,Traceability and accountability lack privacy civil-liberties and lawful-anonymity counterpositions,5,5,3,4,5,5,2,4,3,5,5,4,3,Tier 1,"BATCH-2026-009 UQ-004/UQ-005; exact evidence missing 4"
+GAP-REGIONAL,No production regional or non-English executive evidence,5,5,4,4,5,5,3,5,4,4,5,4,2,Tier 1,"BATCH-2026-011 gap-severity; 29-record translation backlog; zero regional pages"
+GAP-BENCHMARK,Synthetic security benchmarks are not linked to production incidents or control effectiveness,4,5,3,3,4,5,3,3,2,5,5,4,2,Tier 2,"BATCH-2026-009 UQ-006; OFF-OPP-004; proposition-BATCH-2026-008-006"
+GAP-BOARD,No verified board assurance materiality or oversight-cadence evidence,5,5,5,4,5,5,3,5,4,5,5,5,4,Tier 1,"BATCH-2026-009 role-matrix role-board-director; BATCH-2026-011 zero board role records"
+GAP-COUNTERPOSITIONS,Repeated governance recommendations lack credible challenge and negative cases,4,5,4,5,5,5,2,5,3,5,5,4,3,Tier 1,"BATCH-2026-008 debates proposed 0; BATCH-2026-009 exact evidence missing 4 and weak ideas"

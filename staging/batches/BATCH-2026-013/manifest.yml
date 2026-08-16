@@ -1,0 +1,56 @@
+batch_id: BATCH-2026-013
+prompt_id: OEII-ORIGINAL-RESEARCH-AGENDA
+prompt_version: "2.0"
+branch: analysis/original-research-agenda-BATCH-2026-013
+base_branch: analysis/executive-signal-2026-08
+execution_date: 2026-08-15
+topic: Governed identities and delegated authority for AI agents
+input_ids:
+  - BATCH-2026-008:debate-gap
+  - BATCH-2026-009:dossier-gap
+  - BATCH-2026-009:UQ-001..UQ-010
+  - BATCH-2026-009:OFF-OPP-001..OFF-OPP-004
+  - BATCH-2026-010:role-evidence-gap
+  - BATCH-2026-011:global-coverage-audit
+  - BATCH-2026-011:independent-verification
+  - BATCH-2026-012:executive-signal-eligibility-gap
+agenda_status: proposal_only
+production_evidence_status: empty
+private_target_names_included: false
+participant_agreement_implied: false
+named_human_review_status: pending
+concept_counts:
+  evidence_gaps: 10
+  interviews: 12
+  cross_role_interviews: 6
+  surveys: 3
+  private_roundtables: 4
+  public_panels: 4
+  videos: 8
+  flagship_reports: 4
+priority_method: Separate dimension scores with editorial tiers; no composite score.
+existing_off_overlap_checked:
+  - https://openfutureforum.com/research/ciso-ai-leverage-report
+  - https://openfutureforum.com/research/executive-ai-leverage-report
+  - https://openfutureforum.com/research/ceo-ai-leverage-report
+  - https://openfutureforum.com/research/cfo-ai-leverage-report
+  - https://openfutureforum.com/research/cmo-ai-leverage-report
+  - https://openfutureforum.com/for-cisos
+  - https://openfutureforum.com/for-ctos
+  - https://openfutureforum.com/for-cfos
+  - https://openfutureforum.com/public-board-members
+  - https://openfutureforum.com/track-record
+  - https://youtu.be/uRtaim5v7Ro
+output_files:
+  - manifest.yml
+  - gap-prioritization.csv
+  - interview-concepts.json
+  - cross-role-concepts.json
+  - survey-concepts.json
+  - roundtable-concepts.json
+  - panel-concepts.json
+  - video-concepts.json
+  - flagship-report-concepts.json
+  - sponsorship-safeguards.md
+  - limitations.md
+  - validation-results.md

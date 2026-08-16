@@ -1,0 +1,85 @@
+{
+  "batch_id": "BATCH-2026-013",
+  "concepts": [
+    {
+      "concept_id": "PANEL-001",
+      "topic": "Who owns an AI agent’s authority?",
+      "disagreement_or_unresolved_question": "Whether identity, authorization, budget, containment, and accountability belong to one owner or a chain of distinct decision rights.",
+      "ideal_speaker_mix": ["CISO with a production incident or control decision", "CIO or CTO operating the platform", "CFO or GC who approved or constrained the deployment", "board or business owner using the assurance"],
+      "moderator_questions": ["Name the exact decision your seat owns.", "Which decision belongs to another seat?", "Where did the last handoff fail?", "What evidence changed the decision?", "What would make you stop the agent?"],
+      "source_capture_plan": "Publish agenda and definitions in advance; collect verified role-at-source-time bios; record the full session; create a speaker-by-question transcript with timestamps, scope notes, corrections, and disclosed conflicts.",
+      "recording_rights": "Written release for video, audio, excerpts, captions, stills, companion page, and archival access; no implied consent from event registration.",
+      "transcript_rights": "Permission for full public transcript or clearly bounded excerpts and neutral paraphrases; speaker correction window cannot erase accurate public disagreement.",
+      "index_ingestion_plan": "Create one public event source, speaker person-role records, atomic timestamped statements, candidate propositions only after scope review, and an OFF-owned disclosure; independent evidence required for outcome claims.",
+      "lineage": ["GAP-OWNERSHIP", "UQ-009", "ROUND-001"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Cross-functional professional association",
+        "conflict_risk": "Identity or security vendors may frame their buyer as the owner.",
+        "required_disclosure": "Funding, speaker, product, investment, and advisory relationships.",
+        "funding_findings_separation": "Sponsor neither selects the conclusion nor moderates its own category.",
+        "data_access_limits": "Public recording only; no attendee or lead data.",
+        "publication_independence": "Full disagreement and limitations remain in the archive."
+      }
+    },
+    {
+      "concept_id": "PANEL-002",
+      "topic": "Traceability without universal deanonymization",
+      "disagreement_or_unresolved_question": "How to link actions to accountable principals while preserving privacy, lawful anonymity, proportionality, and limited retention.",
+      "ideal_speaker_mix": ["general counsel or privacy officer", "privacy engineer", "civil-society or rights expert", "CISO or regulator", "agent-platform architect"],
+      "moderator_questions": ["Who needs to know which identity?", "When is pseudonymity enough?", "What should expire?", "Which harm comes from too little linkage and which from too much?", "Where does law remain unsettled?"],
+      "source_capture_plan": "Use proposition cards to keep scopes comparable; publish jurisdiction and role; record all answers; label legal interpretation, policy position, implementation evidence, and counterargument separately.",
+      "recording_rights": "Explicit public-panel recording and indexing release with no active-case or privileged material.",
+      "transcript_rights": "Rights-cleared full transcript, exact timestamps, and translation review when required.",
+      "index_ingestion_plan": "Ingest each scoped position as an attributed statement; do not normalize conflicting jurisdictions into one proposition; route legal facts to independent verification.",
+      "lineage": ["GAP-PRIVACY", "UQ-004", "UQ-005", "ROUND-003"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Neutral privacy foundation",
+        "conflict_risk": "Sponsor may favor a policy outcome or identity model.",
+        "required_disclosure": "Advocacy, legal, platform, and funding relationships.",
+        "funding_findings_separation": "Balanced speakers and independent moderator.",
+        "data_access_limits": "Public source only.",
+        "publication_independence": "Dissent and unsettled law remain explicit."
+      }
+    },
+    {
+      "concept_id": "PANEL-003",
+      "topic": "Do agent-security benchmarks predict production risk?",
+      "disagreement_or_unresolved_question": "Whether synthetic benchmark results are useful for deployment decisions and what evidence would establish external validity.",
+      "ideal_speaker_mix": ["benchmark researcher", "deploying CTO or evaluation leader", "CISO or red-team leader", "independent methods expert"],
+      "moderator_questions": ["What exactly does the benchmark measure?", "Which deployment decision used it?", "Where did production diverge?", "How should versions and task utility be reported?", "What result would falsify the benchmark’s use?"],
+      "source_capture_plan": "Require versioned citations and method cards; separate empirical findings, methodological claims, interpretations, and deployment experiences; capture exact locators.",
+      "recording_rights": "Public recording consent and safe abstraction of incidents or exploits.",
+      "transcript_rights": "Full transcript with versioned references and correction route.",
+      "index_ingestion_plan": "Link statements to benchmark sources and deployment cases; do not infer production prevalence; independent methods review before proposition mapping.",
+      "lineage": ["GAP-BENCHMARK", "UQ-006", "OFF-OPP-004"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Independent research foundation",
+        "conflict_risk": "Model vendor or benchmark author may seek favorable validation.",
+        "required_disclosure": "Model, benchmark, author, and funding relationships.",
+        "funding_findings_separation": "No sponsor-defined benchmark winner.",
+        "data_access_limits": "Public source only; no private incident data.",
+        "publication_independence": "Null and adverse validity evidence stays public."
+      }
+    },
+    {
+      "concept_id": "PANEL-004",
+      "topic": "The governance line item before the incident",
+      "disagreement_or_unresolved_question": "Whether agent governance should be a dedicated budget, a platform allocation, a security control, a business-unit cost, or a deployment gate.",
+      "ideal_speaker_mix": ["CFO", "CISO", "CIO or CTO", "board or risk leader", "business-unit owner"],
+      "moderator_questions": ["What event creates the line item?", "Who pays and who benefits?", "What loss or value denominator is credible?", "Which control outcome earns renewal?", "When should finance delay deployment?"],
+      "source_capture_plan": "Use a common fictional decision scenario followed by one real, rights-cleared example per speaker; capture bases, time horizons, and unknowns.",
+      "recording_rights": "Public recording and financial-redaction agreement signed before the event.",
+      "transcript_rights": "Full transcript or approved excerpts with every figure’s denominator and context.",
+      "index_ingestion_plan": "Create role-at-source-time statements and distinguish financial claims, experience, recommendation, and opinion; verify any outcome or market claim independently.",
+      "lineage": ["GAP-FINANCE", "XROLE-001", "OFF CISO report overlap"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Finance or risk association",
+        "conflict_risk": "Vendor, insurer, or advisor may benefit from more governance spend.",
+        "required_disclosure": "Commercial, product, and advisory relationships.",
+        "funding_findings_separation": "Sponsor cannot set the scenario, choose the line item, or approve conclusions.",
+        "data_access_limits": "Public recording only; no attendee or finance data.",
+        "publication_independence": "No-spend and delay decisions remain eligible."
+      }
+    }
+  ]
+}

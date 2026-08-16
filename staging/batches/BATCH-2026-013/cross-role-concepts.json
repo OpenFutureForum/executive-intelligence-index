@@ -1,0 +1,113 @@
+{
+  "batch_id": "BATCH-2026-013",
+  "concepts": [
+    {
+      "concept_id": "XROLE-001",
+      "roles": ["CFO", "CISO"],
+      "title": "The agent-governance budget decision",
+      "why_roles_may_frame_differently": "The CISO may frame unauthorized access, inventory, containment, and assurance; the CFO may frame loss, investment gates, shared costs, insurance, and payback. This may be responsibility difference rather than disagreement.",
+      "missing_evidence": "No verified finance role evidence, security role evidence, cost model, decision memo, or measured control outcome.",
+      "joint_discussion_could_clarify": "Which event creates a dedicated budget, who owns it, what denominator supports the business case, and which outcomes justify renewal or shutdown.",
+      "format": "Matched-deployment interview with one decision memo and one post-implementation review",
+      "lineage": ["GAP-FINANCE", "BATCH-2026-010:role-evidence-gap", "OFF CISO report overlap"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Finance or security professional association",
+        "conflict_risk": "A vendor, insurer, or advisor could benefit from creating a new budget category.",
+        "required_disclosure": "Funding, product, insurance, advisory, and case relationships.",
+        "funding_findings_separation": "Sponsor has no participant, question, analysis, or approval role.",
+        "data_access_limits": "Aggregate public output only.",
+        "publication_independence": "Rejected investments and null outcomes remain eligible."
+      }
+    },
+    {
+      "concept_id": "XROLE-002",
+      "roles": ["CTO", "CISO"],
+      "title": "Delegated authority versus task utility",
+      "why_roles_may_frame_differently": "The CTO may optimize capability, latency, developer experience, and interoperability; the CISO may optimize least privilege, containment, monitoring, and auditability.",
+      "missing_evidence": "No matched deployment compares task utility with attack, unauthorized-action, or operational burden outcomes.",
+      "joint_discussion_could_clarify": "Where tighter authority actually reduces useful work, where scope correction removes apparent disagreement, and which risk tiers justify different controls.",
+      "format": "Architecture review using the same deployment and four control patterns",
+      "lineage": ["UQ-001", "UQ-002", "proposition-BATCH-2026-008-003", "proposition-BATCH-2026-008-005"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Open standards association",
+        "conflict_risk": "Protocol and platform interests may shape the framing.",
+        "required_disclosure": "Standards, platform, and vendor affiliations.",
+        "funding_findings_separation": "Compare patterns without product ranking.",
+        "data_access_limits": "No architecture secrets or participant data.",
+        "publication_independence": "Tradeoffs and failed patterns must be publishable."
+      }
+    },
+    {
+      "concept_id": "XROLE-003",
+      "roles": ["CEO", "General Counsel"],
+      "title": "Speed, signature, and legal accountability",
+      "why_roles_may_frame_differently": "The CEO may emphasize deployment pace, accountability, and competitive value; GC may emphasize authority allocation, evidence, privacy, contract, and regulatory exposure.",
+      "missing_evidence": "No verified CEO or GC role-at-source-time corpus and no investigated case allocating responsibility among developer, deployer, user, platform, and tool provider.",
+      "joint_discussion_could_clarify": "Which decisions are delegable, who signs, who remains accountable, and which evidence must exist before deployment.",
+      "format": "Decision-rights scenario interview with jurisdiction-specific follow-up",
+      "lineage": ["UQ-005", "GAP-OWNERSHIP", "GAP-PRIVACY"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Corporate-governance institute",
+        "conflict_risk": "Legal or executive advisors may promote proprietary frameworks.",
+        "required_disclosure": "Advisory, investment, and client relationships.",
+        "funding_findings_separation": "Independent moderator and editorial control.",
+        "data_access_limits": "No privileged or company-confidential material.",
+        "publication_independence": "Jurisdictional uncertainty must remain visible."
+      }
+    },
+    {
+      "concept_id": "XROLE-004",
+      "roles": ["Board director", "AI product leader"],
+      "title": "What the board can verify versus what the product team can measure",
+      "why_roles_may_frame_differently": "The board may focus on materiality, assurance, risk appetite, and accountability; the product leader may focus on task success, iteration, architecture, and operational metrics.",
+      "missing_evidence": "No verified board evidence, product-to-board metric lineage, or example where reporting changed a deployment decision.",
+      "joint_discussion_could_clarify": "Which measures travel from runtime to board, who attests to them, and which metrics create false assurance.",
+      "format": "Assurance-map interview tied to one board or risk-committee decision",
+      "lineage": ["GAP-BOARD", "proposition-BATCH-2026-008-004", "BATCH-2026-009:role-board-gap"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Board or audit association",
+        "conflict_risk": "Assurance providers may favor more reporting or their own attestation model.",
+        "required_disclosure": "Audit and framework interests.",
+        "funding_findings_separation": "No sponsor-defined metric set.",
+        "data_access_limits": "No board papers or respondent identities.",
+        "publication_independence": "False-assurance findings must be publishable."
+      }
+    },
+    {
+      "concept_id": "XROLE-005",
+      "roles": ["PE operating partner", "Portfolio-company CIO"],
+      "title": "Control standardization versus local operating reality",
+      "why_roles_may_frame_differently": "The operating partner may seek reusable controls, portfolio comparison, and investment visibility; the CIO may face legacy integration, local regulation, talent, reliability, and business-unit tradeoffs.",
+      "missing_evidence": "No investor or operator evidence, portfolio denominator, negative cases, or cross-company implementation comparison.",
+      "joint_discussion_could_clarify": "Which control fields can be standardized, which must remain local, and whether investor assurance changes actual outcomes.",
+      "format": "Portfolio-pattern interview with anonymized company cases and no rankings",
+      "lineage": ["GAP-IMPLEMENTATION", "BATCH-2026-011:zero-private-equity-records"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Independent operating-partner association",
+        "conflict_risk": "Portfolio promotion, diligence signaling, and coercive participation.",
+        "required_disclosure": "Ownership and case relationships.",
+        "funding_findings_separation": "Portfolio companies consent independently; no selection by sponsor.",
+        "data_access_limits": "No company-level results to funders or investors.",
+        "publication_independence": "Negative local results remain eligible."
+      }
+    },
+    {
+      "concept_id": "XROLE-006",
+      "roles": ["VC investor", "Enterprise buyer"],
+      "title": "The agent-control thesis versus buyer evidence",
+      "why_roles_may_frame_differently": "The investor may frame category formation, scale, and future value; the buyer may frame integration, control burden, procurement, failure, and measurable outcome.",
+      "missing_evidence": "No verified investor thesis, buyer implementation, or linked claim-to-outcome comparison in the corpus.",
+      "joint_discussion_could_clarify": "Which claims are investment hypotheses, which are buyer requirements, and what evidence would falsify either view.",
+      "format": "Claim-evidence interview with an explicit no-pitch rule",
+      "lineage": ["GAP-COUNTERPOSITIONS", "BATCH-2026-011:zero-VC-records", "OFF-OPP-002"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Neutral research foundation",
+        "conflict_risk": "Portfolio promotion and lead generation.",
+        "required_disclosure": "Holdings, advisory roles, and buyer-vendor relationships.",
+        "funding_findings_separation": "No named portfolio preference or sales follow-up.",
+        "data_access_limits": "Public recording only; no attendee or buyer data.",
+        "publication_independence": "Unfavorable and inconclusive evidence remains publishable."
+      }
+    }
+  ]
+}

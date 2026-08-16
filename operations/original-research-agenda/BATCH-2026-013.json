@@ -1,0 +1,47 @@
+{
+  "agenda_id": "BATCH-2026-013",
+  "prompt_id": "OEII-ORIGINAL-RESEARCH-AGENDA",
+  "prompt_version": "2.0",
+  "topic": "Governed identities and delegated authority for AI agents",
+  "status": "proposal_only_human_review_pending",
+  "input_ids": [
+    "BATCH-2026-008:debate-gap",
+    "BATCH-2026-009:dossier-gap",
+    "BATCH-2026-009:UQ-001..UQ-010",
+    "BATCH-2026-009:OFF-OPP-001..OFF-OPP-004",
+    "BATCH-2026-010:role-evidence-gap",
+    "BATCH-2026-011:global-coverage-audit",
+    "BATCH-2026-012:executive-signal-eligibility-gap"
+  ],
+  "priority_method": {
+    "rule": "Scores remain separate and are not summed or averaged.",
+    "scale": "1 low to 5 high",
+    "editorial_tiers": "Tiers reflect evidence lineage, urgency, OFF format fit, and feasibility considered together; they are not composite-score bands."
+  },
+  "highest_priority_gap_id": "GAP-OWNERSHIP",
+  "strongest_concepts": {
+    "interview": "INT-001",
+    "cross_role": "XROLE-001",
+    "survey": "SURVEY-001",
+    "roundtable": "ROUND-001",
+    "panel": "PANEL-001",
+    "video": "VIDEO-001",
+    "flagship_report": "REPORT-001"
+  },
+  "concept_files": {
+    "interviews": "staging/batches/BATCH-2026-013/interview-concepts.json",
+    "cross_role": "staging/batches/BATCH-2026-013/cross-role-concepts.json",
+    "surveys": "staging/batches/BATCH-2026-013/survey-concepts.json",
+    "roundtables": "staging/batches/BATCH-2026-013/roundtable-concepts.json",
+    "panels": "staging/batches/BATCH-2026-013/panel-concepts.json",
+    "videos": "staging/batches/BATCH-2026-013/video-concepts.json",
+    "flagship_reports": "staging/batches/BATCH-2026-013/flagship-report-concepts.json"
+  },
+  "privacy": {
+    "named_target_list": false,
+    "participant_agreement_implied": false,
+    "private_event_content_used": false,
+    "research_consent_required_separately_from_event_participation": true
+  },
+  "publication_boundary": "Concepts may guide recruitment and fieldwork but are not findings and do not enter the production evidence corpus without source, consent, rights, lineage, independent-check, and named-human-review gates."
+}

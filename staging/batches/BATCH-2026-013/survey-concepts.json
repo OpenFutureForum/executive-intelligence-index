@@ -1,0 +1,83 @@
+{
+  "batch_id": "BATCH-2026-013",
+  "concepts": [
+    {
+      "concept_id": "SURVEY-001",
+      "title": "Agent Governance Decision Rights Survey",
+      "research_question": "For a specific deployed agent, which roles decide inventory, identity issuance, authorization, budget, monitoring, incident response, decommissioning, legal accountability, and board reporting?",
+      "target_population": "Executives and accountable senior operators who made at least one decision about a production or formally piloted tool-using agent in the prior 18 months",
+      "sampling_concern": "OFF’s network and event applicants are selective, role lanes are uneven, and multiple respondents may describe the same organization or deployment. There is no probability sampling frame for all executives.",
+      "role_segmentation": ["CISO/security", "CIO/enterprise IT", "CTO/engineering", "CFO/finance", "GC/privacy/legal", "CEO/business unit", "board director"],
+      "geography_segmentation": ["North America", "Europe including UK", "Asia-Pacific", "Latin America and Caribbean", "Middle East and North Africa", "Sub-Saharan Africa", "Oceania"],
+      "core_measures": ["deployment stage", "agent task and autonomy", "identity granularity", "decision owner by control", "approval and veto rights", "budget owner", "incident and shutdown owner", "evidence used", "outcome denominator", "time horizon", "role-at-source-time", "industry", "organization size", "regulatory scope"],
+      "proposed_question_types": ["deployment eligibility screener", "single-select decision owner", "multi-select consulted roles", "role-by-decision matrix", "ordered risk tier", "numeric denominator", "bounded open-text example", "certainty and unknown option"],
+      "bias_risks": ["selection bias", "title inflation", "social desirability", "recall error", "maturity bias", "common-method bias", "duplicate organization cases", "nonresponse by legal and board roles"],
+      "analysis_plan": "Pre-register exclusions and subgroup floors; deduplicate deployments; report complete bases, missingness, recruitment channel, role and geography composition; describe within-sample distributions; compare roles only with matched question wording and scope; use multilevel or clustered estimates only as exploratory; publish uncertainty and sensitivity analyses without population weights unless a defensible frame exists.",
+      "publication_threshold": "At least 300 eligible respondents; at least 40 respondents and 25 organizations in each role used for a headline comparison; at least three regions and four industries; no organization contributes more than two respondents to a role cell; cells below 10 suppressed; no headline without complete base and question wording.",
+      "relationship_to_existing_off_research": "Extends OFF’s CISO, CEO, CFO, CMO, and Executive AI Leverage reports by measuring decision ownership for one concrete deployment. Existing mixed-room answers provide questionnaire-development context only and must not be pooled without eligibility and role reconciliation.",
+      "claims_the_survey_could_support": ["Among eligible respondents in a disclosed role and period, the observed distribution of decision ownership", "Where responsibility and consultation overlap in the recruited sample", "Associations between deployment context and reported governance structure"],
+      "claims_the_survey_could_not_support": ["What all executives or enterprises do", "Market prevalence", "Causal effects of a governance model", "Control effectiveness without linked outcomes", "Role consensus", "Regional prevalence from small or convenience cells"],
+      "lineage": ["UQ-009", "OFF-OPP-001", "BATCH-2026-010:role-evidence-gap", "GAP-OWNERSHIP"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Cross-functional professional association or unrestricted research grant",
+        "conflict_risk": "A security, IAM, consulting, or platform sponsor could benefit from assigning ownership to its buyer.",
+        "required_disclosure": "Sponsor category, paid relationships, recruitment channels, and OFF ownership.",
+        "funding_findings_separation": "Instrument and analysis pre-registered before sponsor access; sponsor cannot select roles, questions, or headlines.",
+        "data_access_limits": "Public aggregates only; no row-level data, contact information, identities, or small cells.",
+        "publication_independence": "OFF publishes null, adverse, and inconclusive findings on the registered schedule."
+      }
+    },
+    {
+      "concept_id": "SURVEY-002",
+      "title": "Agent Authorization Implementation and Outcomes Registry",
+      "research_question": "Which identity, credential, delegation, monitoring, and shutdown patterns are implemented, at what scale, and with what reported failures, burdens, and outcomes?",
+      "target_population": "Named technical or control owners able to complete a deployment-level record for a production, pilot, failed, or abandoned agent implementation",
+      "sampling_concern": "Successful and vendor-supported deployments are easier to recruit; deployments are heterogeneous; one respondent may lack complete security, cost, and outcome data.",
+      "role_segmentation": ["technical owner", "security owner", "enterprise IT owner", "business owner", "finance/risk reviewer", "independent assurance"],
+      "geography_segmentation": ["organization geography", "deployment geography", "data geography", "incident geography", "regulatory geography"],
+      "core_measures": ["identity unit", "credential type and lifetime", "delegation depth", "authorization model", "inventory coverage", "revocation latency", "unauthorized-action denominator", "task utility", "monitor false positives and missed events", "incident response", "control cost", "interoperability", "deployment status", "abandonment reason"],
+      "proposed_question_types": ["structured deployment form", "numeric denominator with unknown option", "versioned architecture choices", "event counts by period", "failure taxonomy", "document upload or corroboration status", "bounded narrative"],
+      "bias_risks": ["positive-case selection", "vendor influence", "self-reported outcomes", "incomparable denominators", "version drift", "confidentiality-driven missingness", "multiple records for one work or deployment"],
+      "analysis_plan": "Validate each deployment identity; preserve version and time window; separate reported from independently corroborated outcomes; stratify by autonomy and consequence; report patterns descriptively; compare only records with compatible denominators; include negative and abandoned cases; publish a data dictionary and missingness matrix.",
+      "publication_threshold": "At least 120 validated deployment records across 40 organizations, four industries, and three regions; at least 20 failed or abandoned cases; no organization exceeds 10% of records; at least two roles verify 30 matched deployments; claims use deployment-level denominators and corroboration status.",
+      "relationship_to_existing_off_research": "Operationalizes the governance and budget questions in OFF’s public reports. It must not treat event demand, applicant answers, or vendor descriptions as implementation outcomes.",
+      "claims_the_survey_could_support": ["Which patterns appear in the validated registry sample", "Observed outcome and burden ranges for comparable deployment strata", "Documented negative cases and implementation tradeoffs"],
+      "claims_the_survey_could_not_support": ["Population adoption rates", "A universal best architecture", "Causal control effectiveness from unrandomized self-reports", "Vendor rankings", "Production-incident prevalence outside the registry"],
+      "lineage": ["OFF-OPP-002", "UQ-001", "UQ-002", "UQ-003", "GAP-IMPLEMENTATION", "GAP-LIFECYCLE"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Standards body, audit association, or unrestricted foundation grant",
+        "conflict_risk": "Vendors may seek pay-to-include visibility or favorable architecture comparisons.",
+        "required_disclosure": "Funding, platform, implementation, and author relationships on every contributed record.",
+        "funding_findings_separation": "No pay-to-include; independent eligibility and corroboration review.",
+        "data_access_limits": "Public deidentified registry and aggregates only; no confidential diagrams or respondent data.",
+        "publication_independence": "OFF retains failed and unfavorable records subject to rights and correction policy."
+      }
+    },
+    {
+      "concept_id": "SURVEY-003",
+      "title": "Human Approval and Monitor Burden Survey",
+      "research_question": "Under which action-risk conditions do human approval, automated monitoring, hard limits, and shutdown controls produce usable oversight rather than delay, consent fatigue, false confidence, or surveillance burden?",
+      "target_population": "People who approve, monitor, audit, operate, or are materially affected by a deployed agent workflow, recruited around a specific workflow and recent time window",
+      "sampling_concern": "Retrospective perceptions cannot establish causal effectiveness; organizations may not measure missed events; affected users and privacy perspectives are harder to recruit than control owners.",
+      "role_segmentation": ["approver", "agent operator", "security monitor", "workflow owner", "audit/risk", "affected user or privacy representative"],
+      "geography_segmentation": ["deployment geography", "user geography", "data geography", "regulatory geography"],
+      "core_measures": ["action risk tier", "approval frequency", "approval latency", "override rate", "auto-approval", "false-positive burden", "missed-event estimate", "shutdown use", "task failure", "user burden", "privacy concern", "confidence calibration"],
+      "proposed_question_types": ["workflow screener", "event frequency bands", "numeric time and burden", "scenario experiment", "Likert calibration items", "forced tradeoff", "open failure example"],
+      "bias_risks": ["recall bias", "self-justification", "unknown missed events", "survivorship", "role conflict", "scenario-order effects", "affected-user underrepresentation"],
+      "analysis_plan": "Separate retrospective survey from any prospective workflow study; pre-register scenario order and risk strata; report perceived burden separately from logged outcomes; compare roles within the same workflow where possible; adjust for clustered organizations; do not label associations as causal.",
+      "publication_threshold": "At least 200 eligible respondents across 30 workflows and 15 organizations; at least 40 respondents in each role used for comparison; at least 10 workflows with matched approver and operator responses; no effectiveness headline without logged denominator from a separately reviewed field-study subset.",
+      "relationship_to_existing_off_research": "Tests a question absent from OFF leverage reports: whether governance controls add usable oversight or merely activity. It may use OFF rooms for recruitment, not as an implied representative frame.",
+      "claims_the_survey_could_support": ["Reported burden and practice patterns among the disclosed sample", "Role differences within matched workflows", "Hypotheses for a prospective outcome study"],
+      "claims_the_survey_could_not_support": ["That approval or monitoring causes safer outcomes", "True missed-event rates without logs", "Universal user preferences", "Market prevalence", "That low burden means effective control"],
+      "lineage": ["UQ-007", "UQ-008", "OFF-OPP-003", "BATCH-2026-008:debate-gap", "GAP-OVERSIGHT"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Human-factors or safety research foundation",
+        "conflict_risk": "Monitoring vendors may equate activity with effectiveness or minimize privacy burden.",
+        "required_disclosure": "Product, research, and recruitment relationships.",
+        "funding_findings_separation": "Independent protocol and analysis; vendor measures cannot define success alone.",
+        "data_access_limits": "No user-level data, workflow logs, or identities to sponsor.",
+        "publication_independence": "Burden, privacy, null, and adverse findings remain publishable."
+      }
+    }
+  ]
+}

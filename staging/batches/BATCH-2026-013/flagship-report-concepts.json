@@ -1,0 +1,97 @@
+{
+  "batch_id": "BATCH-2026-013",
+  "concepts": [
+    {
+      "concept_id": "REPORT-001",
+      "title": "State of Agent Governance Decision Rights",
+      "research_question": "Who decides, funds, operates, assures, contains, decommissions, and remains accountable for a concrete deployed agent?",
+      "original_data_required": "SURVEY-001 role-by-decision matrix, matched deployment cases, verified role at source time, organization and deployment context, outcome denominators, and public-source lineage.",
+      "interview_requirement": "At least 24 rights-cleared interviews, including eight matched organizations with two or more roles and at least four negative or contested cases.",
+      "survey_requirement": "SURVEY-001 threshold: at least 300 eligible respondents with role-specific, organization, geography, industry, and cell-suppression floors.",
+      "role_coverage": ["CISO", "CIO", "CTO", "CFO", "GC/privacy", "CEO/business unit", "board"],
+      "geography_coverage": "At least three publishable regions; no global estimate; original-language work where required.",
+      "expected_evidence_contribution": "First OFF decision-rights baseline linking role, authority, evidence, budget, handoff, and outcome for disclosed samples.",
+      "methodological_risk": "Selective OFF recruitment, uneven role cells, duplicated organizations, title inflation, matched-case survivorship, and inference from responsibility to belief.",
+      "publication_timeline_sequence": ["protocol and consent", "pilot and cognitive testing", "role-stratified fielding", "matched interviews", "independent methods review", "named human review", "baseline edition", "frozen release and later trend eligibility"],
+      "relation_to_annual_state_of_executive_thinking": "Flagship cross-role governance chapter and reusable decision-rights measure; annual product must quote role-specific bases and not generalize beyond the recruited sample.",
+      "lineage": ["GAP-OWNERSHIP", "GAP-FINANCE", "GAP-BOARD", "OFF-OPP-001", "SURVEY-001"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Unrestricted foundation grant or cross-functional professional association",
+        "conflict_risk": "Identity, security, consulting, insurer, or platform sponsors could influence which role is framed as buyer or owner.",
+        "required_disclosure": "Funding category, OFF ownership, advisory and investment relationships, recruitment channels, and sponsor limits.",
+        "funding_findings_separation": "Protocol and analysis pre-registered; sponsor cannot select participants, edit instrument, access analysis, approve findings, or control release.",
+        "data_access_limits": "Public report and aggregate appendix only; no identities, contacts, recordings, row-level data, or small cells.",
+        "publication_independence": "Null, adverse, cross-role, and sponsor-inconvenient findings remain publishable."
+      }
+    },
+    {
+      "concept_id": "REPORT-002",
+      "title": "Agent Authorization Implementation Registry",
+      "research_question": "Which identity, credential, delegation, monitoring, and shutdown patterns are implemented, and what bounded outcomes and failures are reported?",
+      "original_data_required": "Validated deployment-level registry with architecture, version, scale, autonomy, identity granularity, credential lifecycle, delegation, revocation, task utility, incidents, cost, interoperability, failure, and corroboration fields.",
+      "interview_requirement": "At least 20 implementation interviews across 12 organizations, including technical and control owners and at least six failed or abandoned deployments.",
+      "survey_requirement": "SURVEY-002 threshold: at least 120 validated records across 40 organizations, four industries, three regions, and 20 failed or abandoned cases.",
+      "role_coverage": ["CTO/architecture", "CIO/platform", "CISO/security", "business owner", "audit/risk", "finance reviewer"],
+      "geography_coverage": "Three or more regions with deployment, data, incident, and regulatory geography separated.",
+      "expected_evidence_contribution": "Comparable implementation patterns, negative cases, denominator quality, and clear separation of reported from independently corroborated outcomes.",
+      "methodological_risk": "Heterogeneous deployments, vendor and maturity selection, incomplete denominators, confidential failures, version drift, and causal overinterpretation.",
+      "publication_timeline_sequence": ["data dictionary", "secure pilot registry", "case validation", "negative-case recruitment", "methods audit", "public deidentified registry", "annual versioned update"],
+      "relation_to_annual_state_of_executive_thinking": "Provides the implementation evidence layer beneath annual executive positions and exposes where recommendation frequency lacks outcome support.",
+      "lineage": ["GAP-IMPLEMENTATION", "GAP-LIFECYCLE", "OFF-OPP-002", "SURVEY-002"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Standards body, audit association, or unrestricted research foundation",
+        "conflict_risk": "Pay-to-include, favorable architecture comparison, and vendor lead generation.",
+        "required_disclosure": "Funding, platform, implementation, vendor, and contributor relationships.",
+        "funding_findings_separation": "No paid inclusion or sponsor-selected cases; independent eligibility and corroboration.",
+        "data_access_limits": "Public deidentified registry only; no confidential diagrams, identities, or submissions.",
+        "publication_independence": "Failed, abandoned, and unfavorable cases remain eligible."
+      }
+    },
+    {
+      "concept_id": "REPORT-003",
+      "title": "Human Oversight and Monitor Reliability in Agent Workflows",
+      "research_question": "When do approval, monitoring, hard limits, and shutdown controls improve oversight, and when do they create delay, fatigue, false confidence, privacy burden, or task failure?",
+      "original_data_required": "SURVEY-003 plus a prospective subset with approval events, latency, overrides, task outcomes, monitor false positives, missed events, shutdown use, user burden, and privacy review.",
+      "interview_requirement": "At least 18 interviews across approvers, operators, security monitors, workflow owners, privacy or affected-user representatives, and audit leaders.",
+      "survey_requirement": "At least 200 eligible respondents across 30 workflows and 15 organizations; causal or effectiveness claims require a separately registered prospective field-study subset.",
+      "role_coverage": ["approver", "operator", "CISO/security", "workflow owner", "audit/risk", "privacy", "affected user"],
+      "geography_coverage": "At least two regions for pilot; expand only with comparable workflow and consent conditions.",
+      "expected_evidence_contribution": "Separates perceived burden from logged outcomes and creates credible positions for the currently ineligible approval-versus-monitoring debate.",
+      "methodological_risk": "Unknown missed events, self-report bias, monitoring changes behavior, privacy intrusion, incomparable workflows, and confounding between risk and control intensity.",
+      "publication_timeline_sequence": ["privacy and ethics review", "scenario pilot", "survey", "prospective feasibility", "registered field subset", "independent statistical review", "report and dataset"],
+      "relation_to_annual_state_of_executive_thinking": "Supplies a recurring oversight-burden and control-confidence module, reported separately from evidence strength and market adoption.",
+      "lineage": ["GAP-OVERSIGHT", "GAP-PRIVACY", "OFF-OPP-003", "SURVEY-003"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Independent safety or human-factors research foundation",
+        "conflict_risk": "Monitoring or workflow vendors may equate product use with safety and minimize privacy burden.",
+        "required_disclosure": "Product, research, recruitment, and analysis relationships.",
+        "funding_findings_separation": "Independent privacy, protocol, and statistical review; no sponsor-defined success metric.",
+        "data_access_limits": "No user-level data, logs, identities, or unpublished safety events.",
+        "publication_independence": "Null, adverse, burden, and privacy findings remain publishable."
+      }
+    },
+    {
+      "concept_id": "REPORT-004",
+      "title": "Global Agent Governance Legal and Operating Atlas",
+      "research_question": "How do jurisdiction, language, industry, infrastructure, and operating context change agent identity, delegated authority, audit, privacy, and accountability practice?",
+      "original_data_required": "Verified local public sources, original-language records, regulator and operator interviews, legal-status fields, implementation cases, and separate speaker, organization, market, study, incident, event, and regulatory geographies.",
+      "interview_requirement": "At least three local interviews and two organizations per published jurisdiction or region, including operator and legal or regulatory perspectives.",
+      "survey_requirement": "No prevalence survey required for the first edition; any quantitative comparison follows SURVEY-001 subgroup floors and a regional sampling plan.",
+      "role_coverage": ["local CISO", "CIO/CTO", "GC/privacy", "regulator or public-sector leader", "board", "industry operator"],
+      "geography_coverage": "Wave one: Singapore, Japan, EU/EEA, UK, and Australia; separate protocols for Africa, Latin America and Caribbean, and Middle East and North Africa before synthesis.",
+      "expected_evidence_contribution": "Corrects global-label substitution, adds non-English evidence, distinguishes law from guidance and practice, and identifies genuinely local implementation differences.",
+      "methodological_risk": "Translation error, legal overgeneralization, policy-heavy sampling, elite bias, incomparable regions, rapidly changing law, and one-source representation.",
+      "publication_timeline_sequence": ["registered regional protocols", "source and locator reconciliation", "qualified language review", "local interviews", "legal review", "regional briefings at threshold", "comparative atlas only after scope alignment"],
+      "relation_to_annual_state_of_executive_thinking": "Provides region-specific chapters and prevents the annual product from labeling standards with global applicability as evidence of global executive representation.",
+      "lineage": ["GAP-REGIONAL", "BATCH-2026-011:gap-severity", "BATCH-2026-011:regional-research-priorities", "ROUND-004"],
+      "sponsorship": {
+        "suitable_sponsor_category": "International professional association or neutral foundation",
+        "conflict_risk": "Sponsor may promote one jurisdiction, member base, or legal interpretation.",
+        "required_disclosure": "Regional, institutional, membership, translation, and legal-review relationships.",
+        "funding_findings_separation": "Local reviewers validate language and law, not sponsor-preferred conclusions.",
+        "data_access_limits": "No contacts, private translations, interview files, or small cells.",
+        "publication_independence": "Critical local findings and non-comparability remain explicit."
+      }
+    }
+  ]
+}
