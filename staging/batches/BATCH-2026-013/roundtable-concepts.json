@@ -1,0 +1,101 @@
+{
+  "batch_id": "BATCH-2026-013",
+  "concepts": [
+    {
+      "concept_id": "ROUND-001",
+      "title": "When agent access becomes the incident",
+      "research_question": "Which role owns inventory, authorization policy, budget, containment, legal accountability, and board reporting when an agent’s access creates an incident?",
+      "participant_roles": ["CISO", "CIO", "CTO", "CFO", "general counsel", "business-unit owner", "board or audit leader"],
+      "participant_count": "8–12, with no vendor majority",
+      "confidentiality_rule": "Default Chatham House-style discussion; no participant identity or affiliation may be connected to a remark outside the room.",
+      "comments_attributable": false,
+      "research_consent": "Event participation does not equal research consent. Before discussion, offer a separate opt-in form for deidentified thematic coding; request any attributable follow-up in a later source-specific consent process.",
+      "what_may_be_published": "Aggregate themes, anonymized decision-rights map, unanswered questions, and disclosed participant-role counts when cell sizes are safe.",
+      "what_remains_off_record": "Names, attendee list, company incidents, unpublished figures, architecture, legal advice, sponsor discussions, and any non-consented remark.",
+      "data_capture_method": "Consent-coded facilitator template; no recording by default; two researchers reconcile deidentified notes; destroy non-consented notes after quality control.",
+      "follow_up_output": "Research protocol, matched-interview invitations, and a public question brief—not a finding report.",
+      "evidence_gap_addressed": "GAP-OWNERSHIP, GAP-FINANCE, and GAP-BOARD",
+      "lineage": ["BATCH-2026-010:primary-roundtable-question", "UQ-009"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Cross-functional professional association",
+        "conflict_risk": "Security or identity vendors may dominate recruitment or turn the room into lead generation.",
+        "required_disclosure": "Sponsor category, event funding, and all commercial relationships.",
+        "funding_findings_separation": "Sponsor has no attendee-selection, facilitation, note, or output-approval role.",
+        "data_access_limits": "No attendee list, notes, recordings, quotes, or contact data.",
+        "publication_independence": "OFF controls the protocol and may publish inconvenient gaps."
+      }
+    },
+    {
+      "concept_id": "ROUND-002",
+      "title": "Human approval, monitoring, and hard limits",
+      "research_question": "Where does each oversight mechanism work, fail, or create unacceptable burden across action-risk tiers?",
+      "participant_roles": ["CISO", "CTO", "workflow owner", "human-factors lead", "privacy leader", "internal audit", "affected-user representative"],
+      "participant_count": "8–10",
+      "confidentiality_rule": "Non-attributable discussion; scenario responses may be coded only under separate consent.",
+      "comments_attributable": false,
+      "research_consent": "Separate opt-in for anonymous scenario-response analysis; participants can join the room without contributing research data.",
+      "what_may_be_published": "Scenario-level distributions if minimum cells are met, control tradeoff hypotheses, and the approved instrument.",
+      "what_remains_off_record": "Workflow identities, incidents, personal performance, monitoring logs, employee data, and non-consented notes.",
+      "data_capture_method": "Anonymous scenario cards linked only to broad role and region; facilitator records discussion themes separately.",
+      "follow_up_output": "Pilot questionnaire for SURVEY-003 and protocol for a prospective workflow study.",
+      "evidence_gap_addressed": "GAP-OVERSIGHT and GAP-PRIVACY",
+      "lineage": ["BATCH-2026-008:debate-gap", "UQ-007", "UQ-008"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Safety or human-factors research foundation",
+        "conflict_risk": "Monitoring vendors may define activity as safety.",
+        "required_disclosure": "Product and research relationships.",
+        "funding_findings_separation": "Independent scenarios and privacy review.",
+        "data_access_limits": "No cards, logs, identities, or notes to sponsor.",
+        "publication_independence": "Burden and surveillance concerns must remain reportable."
+      }
+    },
+    {
+      "concept_id": "ROUND-003",
+      "title": "Traceability, lawful anonymity, and responsibility",
+      "research_question": "How much linkage is necessary to establish accountability without unnecessary surveillance or over-retention?",
+      "participant_roles": ["general counsel", "chief privacy officer", "privacy engineer", "CISO", "civil-society leader", "regulator", "product leader"],
+      "participant_count": "8–12 across at least three perspectives",
+      "confidentiality_rule": "Non-attributable by default; no legal advice or active-case discussion.",
+      "comments_attributable": false,
+      "research_consent": "Separate consent for anonymous proposition coding; attributable public follow-up must be a new interview.",
+      "what_may_be_published": "A scope map of distinct positions, points of agreement, unresolved legal questions, and research needs.",
+      "what_remains_off_record": "Client facts, investigations, privileged analysis, personal data, and non-consented policy positions.",
+      "data_capture_method": "Predefined proposition cards, anonymous ranking, and reconciled thematic notes with jurisdiction labels.",
+      "follow_up_output": "Counterposition research brief and public-panel design for PANEL-002.",
+      "evidence_gap_addressed": "GAP-PRIVACY and GAP-COUNTERPOSITIONS",
+      "lineage": ["UQ-004", "UQ-005", "proposition-BATCH-2026-008-008"],
+      "sponsorship": {
+        "suitable_sponsor_category": "Neutral privacy or legal foundation",
+        "conflict_risk": "Advocacy or legal sponsors may favor a predetermined policy result.",
+        "required_disclosure": "Advocacy, legal, and commercial positions.",
+        "funding_findings_separation": "Balanced recruitment and independent moderation.",
+        "data_access_limits": "No identities, notes, rankings, or privileged material.",
+        "publication_independence": "Dissent and uncertainty remain visible."
+      }
+    },
+    {
+      "concept_id": "ROUND-004",
+      "title": "Global agent-governance implementation exchange",
+      "research_question": "Which local legal and operating conditions materially change agent identity, authorization, audit, and shutdown practice?",
+      "participant_roles": ["local CISO", "CIO", "GC or privacy leader", "regulator or public-sector technology leader", "industry operator"],
+      "participant_count": "10–14; no region represented by one person",
+      "confidentiality_rule": "Private, non-attributable, multilingual where required; country and role cells published only when safe.",
+      "comments_attributable": false,
+      "research_consent": "Translated consent reviewed by qualified speakers; separate permission for coded comparative data and any quotation.",
+      "what_may_be_published": "Region-scoped requirements, implementation questions, and verified public-source reading list; no representative regional claim.",
+      "what_remains_off_record": "Identity, attendee list, private regulatory communications, company incidents, and untranslated remarks.",
+      "data_capture_method": "Original-language structured worksheets, qualified translation review, and geography fields separated by speaker, organization, market, study, event, and regulation.",
+      "follow_up_output": "Regional interview protocol and native-language source verification batches.",
+      "evidence_gap_addressed": "GAP-REGIONAL",
+      "lineage": ["BATCH-2026-011:gap-severity", "BATCH-2026-011:regional-research-priorities"],
+      "sponsorship": {
+        "suitable_sponsor_category": "International professional association or neutral foundation",
+        "conflict_risk": "Sponsor may promote one jurisdiction or recruit only its members.",
+        "required_disclosure": "Regional institutional and membership relationships.",
+        "funding_findings_separation": "OFF and local reviewers control method; sponsor cannot define regional conclusions.",
+        "data_access_limits": "No participant contacts, original-language notes, or small cells.",
+        "publication_independence": "Underrepresented and critical perspectives remain publishable."
+      }
+    }
+  ]
+}
