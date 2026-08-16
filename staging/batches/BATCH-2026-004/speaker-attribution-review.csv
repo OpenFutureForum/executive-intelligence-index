@@ -1,0 +1,15 @@
+source_id,person_or_name,participation,role_at_source_time,organization_at_source_time,identity_status,timing_status,statement_attribution_status,evidence,human_review_status
+source-idac-390-agentic-ai-identity,person-tobin-south,guest,"Co-chair, Artificial Intelligence Identity Management Community Group",OpenID Foundation,verified,verified,eligible,"show notes; host introduction 06:05; guest response 09:08",pending
+source-idac-390-agentic-ai-identity,person-jim-mcdonald,co-host_interviewer,Identity at the Center co-host,IDAC Corp.,verified,verified,no_statements_selected,"audio self-identification; official about page",pending
+source-idac-390-agentic-ai-identity,person-jeff-steadman,co-host_interviewer,Identity at the Center co-host,IDAC Corp.,verified,verified,no_statements_selected,"audio self-identification; official about page",pending
+source-sailpoint-governing-ai-agents-2025,person-amy-shillinglaw,sole_on_record_presenter,Technical Advocate,SailPoint,verified,verified,eligible,"self-identification 00:28; speaker-labeled captions",pending
+source-sailpoint-governing-ai-agents-2025,Steve Toole,off_camera_QA_support,Colleague assisting with Q&A,SailPoint,identified,not_audible,excluded,"presenter introduction 02:08",pending
+source-sailpoint-governing-ai-agents-2025,Kirby Fitch,advertised_but_absent,Product manager,SailPoint,identified,explicitly_absent,excluded,"presenter statement 01:54-02:19",pending
+source-sailpoint-governing-ai-agents-2025,Paul Patti,advertised_no_audible_contribution,Technical Educator,SailPoint,identified,no_audible_segment,excluded,"registration page; complete caption review",pending
+source-sailpoint-governing-ai-agents-2025,Rachel Leighter,community_page_uploader,Uploader,SailPoint,identified,not_a_speaker,excluded,"community post byline",pending
+held-openid-pre-iiw-agentic-ai-2025,person-tobin-south,listed_speaker,Presenter,OpenID Foundation,verified,unresolved_recording_missing,held,"official deck slides 4 and 70",pending
+held-openid-pre-iiw-agentic-ai-2025,person-dean-saxe,listed_panelist,Panelist,,verified,unresolved_recording_missing,held,"official deck slide 70",pending
+held-openid-pre-iiw-agentic-ai-2025,person-george-fletcher,listed_panelist,Panelist,,verified,unresolved_recording_missing,held,"official deck slide 70",pending
+held-csa-nhi-ai-agents-rsac-2025,person-alon-jackson,listed_presenter,CEO,Astrix Security,verified,unresolved_recording_missing,held,"official CSA page",pending
+held-csa-nhi-ai-agents-rsac-2025,person-albert-attias,listed_presenter,"Senior Director, Security Architecture",Workday,verified,unresolved_recording_missing,held,"official CSA page",pending
+held-identiverse-agentic-ai-identity-2026,person-john-kemp,scheduled_speaker,"Senior Manager, Identity Security Management",Capital One,verified,unresolved_recording_missing,held,"official Identiverse session page",pending

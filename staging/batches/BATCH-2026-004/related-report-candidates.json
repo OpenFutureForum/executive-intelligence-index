@@ -1,0 +1,19 @@
+{
+  "batch_id": "BATCH-2026-004",
+  "candidates": [
+    {
+      "candidate_id": "related-report-BATCH-2026-004-001",
+      "title": "Identity Management for Agentic AI: The new frontier of authorization, authentication, and security for an AI agent world",
+      "publisher": "OpenID Foundation",
+      "publication_date": "2025-10",
+      "canonical_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+      "relationship": "Authored by the podcast guest with collaborators and repeatedly discussed in source-idac-390-agentic-ai-identity.",
+      "source_ids": ["source-idac-390-agentic-ai-identity", "held-openid-pre-iiw-agentic-ai-2025"],
+      "rights_status": "metadata_only",
+      "decision": "candidate_for_separate_report_analysis"
+    }
+  ],
+  "excluded_adjacent_documents": [
+    {"title": "SailPoint Agent Identity Security product documentation", "reason": "Related product documentation, not a book or research report candidate."}
+  ]
+}
