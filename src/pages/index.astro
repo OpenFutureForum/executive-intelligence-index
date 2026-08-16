@@ -5,7 +5,7 @@ const catalog = loadCatalog();
 const counts = countPublicResearch(catalog);
 const recentSources = publicRecords(catalog.sources ?? []).slice(-5).reverse();
 const dossiers = publicRecords(catalog.dossiers ?? []).slice(-3).reverse();
-const release = (catalog.releases ?? []).at(-1);
+const release = publicRecords(catalog.releases ?? []).at(-1);
 ---
 <BaseLayout title="Open Executive Intelligence Index" type="Dataset" description="A cited map of the books, people, research, ideas, evidence, and media shaping executive decision-making.">
   <section class="page-hero">

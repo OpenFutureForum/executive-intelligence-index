@@ -202,7 +202,8 @@ function generateExports(): void {
   fs.writeFileSync(path.join(root, 'exports', 'graphml', 'graph.graphml'), graphml(publicItems));
   fs.writeFileSync(path.join(root, 'exports', 'citations', 'records.bib'), '% No public research records in release 0.1.0.\n');
   fs.writeFileSync(path.join(root, 'exports', 'bibliographies', 'README.md'), '# Bibliographies\n\nNo public research records are present in release 0.1.0.\n');
-  const exportFiles = listFiles(path.join(root, 'exports')).filter((file) => !file.endsWith('release-manifest.json'));
+  const releaseManifestDirectory = path.join(root, 'exports', 'release-manifests');
+  const exportFiles = listFiles(path.join(root, 'exports')).filter((file) => !file.startsWith(`${releaseManifestDirectory}${path.sep}`));
   const checksums = Object.fromEntries(exportFiles.map((file) => [path.relative(root, file), sha256(fs.readFileSync(file))]));
   const manifest = { release_id: 'release-0.1.0-framework', semantic_version: '0.1.0', schema_version: '1.0.0', data_version: '0.0.0', content_version: '0.1.0', release_date: '2026-08-14', public_record_counts: Object.fromEntries(Object.entries(grouped).map(([key, value]) => [key, value.length])), checksums, release_fingerprint: sha256(stable(checksums)), upstream_crosswalk_versions: YAML.parse(fs.readFileSync(path.join(root, 'config', 'external-projects.yml'), 'utf8')).projects.map((project: any) => ({ project_id: project.project_id, upstream_commit: project.upstream_commit })), limitations: ['Framework release contains no production research records.', 'No human editorial approval has occurred.', 'Live deployment has not been verified.'] };
   writeJson(path.join(root, 'exports', 'release-manifests', 'release-manifest.json'), manifest);
