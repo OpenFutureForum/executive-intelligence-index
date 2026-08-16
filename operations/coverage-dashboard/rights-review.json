@@ -1,0 +1,146 @@
+{
+  "generated_at": "2026-08-14",
+  "records": [
+    {
+      "record_id": "related-source-BATCH-2026-002-002",
+      "entity_type": "source",
+      "rights_status": "metadata_only",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "related-source-BATCH-2026-002-003",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "related-source-BATCH-2026-002-004",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "related-source-BATCH-2026-002-005",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "related-source-BATCH-2026-002-006",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "related-source-BATCH-2026-002-007",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "related-source-BATCH-2026-002-009",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "related-source-BATCH-2026-002-010",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-BATCH-2026-003-001",
+      "entity_type": "source",
+      "rights_status": "openly_licensed",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-BATCH-2026-003-002",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-idac-390-agentic-ai-identity",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": "not_documented_do_not_publish_full_transcript"
+    },
+    {
+      "record_id": "source-sailpoint-governing-ai-agents-2025",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": "not_documented_do_not_publish_full_captions"
+    },
+    {
+      "record_id": "source-BATCH-2026-005-001",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-BATCH-2026-005-002",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-BATCH-2026-005-003",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-BATCH-2026-005-004",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-BATCH-2026-005-006",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-BATCH-2026-005-007",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-BATCH-2026-005-008",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    },
+    {
+      "record_id": "source-BATCH-2026-005-009",
+      "entity_type": "source",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "permission": null
+    }
+  ],
+  "unresolved_count": 0
+}

@@ -1,0 +1,3 @@
+# Copyright
+
+Rights boundary tests.

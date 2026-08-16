@@ -1,0 +1,48 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ExplorePage from '../components/ExplorePage.astro';
+import { loadCatalog, publicPersonProfiles, publicRecords } from '../lib/catalog';
+
+const catalog = loadCatalog();
+const collectionPages = {
+  sources: { key: 'sources', path: 'sources', title: 'Explore all sources', eyebrow: 'Canonical evidence', noun: 'sources', description: 'Every source record preserves its canonical identity, original publisher, access and rights basis, provenance, and review state.', filters: ['Source type', 'Topic', 'Language', 'Ownership', 'Publication period'] },
+  people: { key: 'people', path: 'people', title: 'Explore people', eyebrow: 'Documented contributions', noun: 'people', description: 'People appear here for documented contributions to the indexed corpus, not as scraped biographies.', filters: ['Role', 'Organization', 'Geography', 'Language', 'Topic', 'Review depth'] },
+  books: { key: 'book-works', path: 'books', title: 'Explore books', eyebrow: 'Works and editions', noun: 'books', description: 'Book works are separated from editions so every page, chapter, or location reference resolves to the exact edition analyzed.', filters: ['Author', 'Topic', 'Language', 'Publication period', 'Analysis depth', 'Rights status'] },
+  media: { key: 'sources', path: 'media', title: 'Explore media', eyebrow: 'Videos, podcasts, interviews, and talks', noun: 'media sources', description: 'Media records identify the canonical publisher, source date, ownership, transcript status, and source-located statements.', filters: ['Source type', 'Speaker', 'Role', 'Topic', 'Language', 'Ownership'] },
+  research: { key: 'sources', path: 'research', title: 'Research and evidence', eyebrow: 'Reports, studies, and evidence', noun: 'research sources', description: 'Research pages separate study design, findings, limitations, funding, and independent verification.', filters: ['Source type', 'Methodology quality', 'Geography', 'Topic', 'Funding', 'Peer review'] },
+  topics: { key: 'topics', path: 'topics', title: 'Explore topics', eyebrow: 'Controlled taxonomy', noun: 'published topic records', description: 'Topics use stable IDs, definitions, aliases, exclusions, and configurable publication thresholds.', filters: ['Parent topic', 'Applicable role', 'Publication state'] },
+  propositions: { key: 'propositions', path: 'propositions', title: 'Explore propositions', eyebrow: 'Neutral ideas', noun: 'propositions', description: 'Propositions connect supporting, challenging, qualifying, and refining statements without presuming truth.', filters: ['Topic', 'Role', 'Geography', 'Time period', 'Stance', 'Ownership concentration'] },
+  debates: { key: 'debates', path: 'debates', title: 'Explore debates', eyebrow: 'Comparable positions', noun: 'debate maps', description: 'Debate maps require materially distinct positions addressing comparable scope, with evidence limitations visible.', filters: ['Topic', 'Role', 'Geography', 'Time period'] },
+  roles: { key: 'people', path: 'people', title: 'Executive-role lenses', eyebrow: 'Role-aware evidence', noun: 'role briefings', description: 'Role comparisons are published only when representation is adequate; otherwise the site reports a research gap.', filters: ['CEO', 'CFO', 'CISO', 'CMO', 'CIO', 'General counsel', 'Investor', 'Board director'] },
+  regions: { key: 'dossiers', path: 'dossiers', title: 'Regional perspectives', eyebrow: 'Geography with context', noun: 'regional briefings', description: 'Regional analysis distinguishes speaker, organization, market, and study geography and requires more than one person and organization.', filters: ['Region', 'Country', 'Language', 'Role', 'Industry'] },
+  dossiers: { key: 'dossiers', path: 'dossiers', title: 'Topic dossiers', eyebrow: 'Editorial synthesis', noun: 'dossiers', description: 'Dossiers trace every material conclusion to source statements, propositions, evidence records, or an explicit method.', filters: ['Topic', 'Role coverage', 'Geography', 'Language', 'Publication date'] },
+  signal: { key: 'trends', path: 'signal', title: 'Executive Signal', eyebrow: 'Change inside a frozen corpus', noun: 'trend snapshots', description: 'Trend snapshots compare frozen releases with disclosed counts and denominators. Momentum does not establish correctness or prevalence.', filters: ['Topic', 'Proposition', 'Date range', 'Role spread', 'Geographic spread'] }
+} as const;
+
+const policyPages = {
+  'editorial-independence': ['Editorial independence', 'Open Future Forum owns and publishes this project. OFF and Murray Newlands may appear in the corpus, and every OFF-owned source or relationship is labeled. Inclusion does not imply endorsement; exclusion does not imply low quality. Sponsorship cannot secretly buy inclusion or conclusions. Paid research relationships must be disclosed. Source frequency does not establish truth, and OFF-related people face the same evidence thresholds.'],
+  'source-selection': ['Source selection', 'Primary and original sources are preferred for attribution. Selection aims for meaningful variation in role, industry, geography, language, organization type, seniority, source type, and intellectual position. Search rank and fame are not inclusion criteria. Official sources establish what an institution said, not independent validation of its performance claims.'],
+  attribution: ['Attribution standard', 'Every material attributed statement requires a canonical source, the person or institutional author, the role and organization at source time, the source date, a precise reproducible locator, a neutral paraphrase, and provenance. Current roles are never substituted for historical roles.'],
+  evidence: ['Evidence standard', 'The index distinguishes statements, empirical findings, verified external facts, interpretation, and editorial conclusions. Evidence quality remains multidimensional: attribution reliability, methodological transparency, independence, accessibility, bibliographic stability, recency, and diversity contribution are not collapsed into one score.'],
+  copyright: ['Copyright and rights', 'The repository publishes original summaries, structured metadata, short necessary quotations, and source locators. It does not relicense or republish third-party books, transcripts, videos, reports, trademarks, or source text. Complete transcripts require OFF ownership, public-domain or open-license status, or documented permission.'],
+  privacy: ['Privacy and confidentiality', 'Private Forum Select discussions, off-the-record dinners, attendee lists, sponsor conversations, and confidential partner information are excluded without explicit permission. Relevant public professional information may be indexed. Sensitive personal information and private contact details are out of scope.'],
+  corrections: ['Corrections', 'Corrections should identify the record, field, proposed change, and supporting evidence. Accepted corrections preserve the previous value, decision, reviewer, and public note. Rights and privacy concerns receive priority review; unresolved complaints block publication.'],
+  contribute: ['Contribute', 'Propose one evidence-backed source, work, correction, taxonomy change, or research batch per issue. Include canonical URLs, access basis, precise claims, conflicts, and rights notes. Submissions, sponsorship, or public prominence do not guarantee inclusion.'],
+  changelog: ['Changelog', 'Version 0.2.0 publishes the first named-human-approved pilot corpus on governed identities for AI agents: 8 verified works, 11 exact editions, 20 canonical sources, and 100 source-located statements. Candidate propositions and higher-order synthesis remain unpublished.'],
+  citation: ['Citation guidance', 'Cite the release version, dataset title, publisher, release date, canonical repository or public URL, and record identifier. Cite original sources for substantive claims; citing this index does not replace the underlying evidence.']
+} as const;
+
+export function getStaticPaths() {
+  return ['sources','people','books','media','research','topics','propositions','debates','roles','regions','dossiers','signal','editorial-independence','source-selection','attribution','evidence','copyright','privacy','corrections','contribute','changelog','citation'].map((section) => ({ params: { section } }));
+}
+const section = Astro.params.section!;
+const collection = collectionPages[section as keyof typeof collectionPages];
+const policy = policyPages[section as keyof typeof policyPages];
+const title = collection?.title ?? policy?.[0] ?? 'Index page';
+const description = collection?.description ?? policy?.[1] ?? '';
+---
+<BaseLayout title={title} description={description}>
+  {collection ? <ExplorePage {...collection} records={section === 'people' || section === 'roles' ? publicPersonProfiles(catalog[collection.key] ?? []) : publicRecords(catalog[collection.key] ?? [])} /> : (
+    <article class="section"><p class="eyebrow">Public standard</p><h1>{policy[0]}</h1><p>{policy[1]}</p><p>This public summary is implemented from the corresponding repository policy. The root policy file is the contribution and review authority.</p></article>
+  )}
+</BaseLayout>

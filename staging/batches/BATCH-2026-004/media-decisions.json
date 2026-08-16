@@ -1,0 +1,65 @@
+{
+  "batch_id": "BATCH-2026-004",
+  "decisions": [
+    {
+      "candidate_id": "candidate-BATCH-2026-001-104",
+      "source_id": "source-idac-390-agentic-ai-identity",
+      "canonical_title": "#390 - Identity Management for Agentic AI with Tobin South",
+      "decision": "accept",
+      "reason": "The complete original podcast audio is publicly available, its 55:53 duration and publication identity are independently confirmed, all three participants are identified, and ten substantive statements can be located and attributed to the guest.",
+      "access_status": "complete_audio_reviewed",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "OFF_relationship": "none",
+      "next_action": "Human-review the statement paraphrases and attribution evidence."
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-001-106",
+      "source_id": "held-openid-pre-iiw-agentic-ai-2025",
+      "canonical_title": "Identity Management for Agentic AI - OpenID pre-IIW workshop",
+      "decision": "hold",
+      "reason": "The official 101-page event deck verifies a scheduled 30-minute segment and names Tobin South with panelists Dean Saxe and George Fletcher, but no public recording or speaker-timed transcript was located. Slides 70-74 are a presentation artifact, not evidence of what each participant said.",
+      "access_status": "official_slides_only_no_recording",
+      "rights_status": "metadata_only",
+      "ownership_status": "third_party",
+      "OFF_relationship": "none",
+      "next_action": "Request or locate the official recording and resolve speaker timing before extracting statements."
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-001-107",
+      "source_id": "held-csa-nhi-ai-agents-rsac-2025",
+      "canonical_title": "Securing Non-Human Identities in the Age of AI Agents | CSA Summit 2025 at RSAC",
+      "decision": "hold",
+      "reason": "The Cloud Security Alliance page verifies the title, dates, and presenters, but the resource is account-gated and no accessible recording, embed, duration, transcript, or speaker timing was available. Page-copy statistics and vendor claims were not converted into spoken-source statements.",
+      "access_status": "official_page_resource_gated",
+      "rights_status": "metadata_only",
+      "ownership_status": "third_party",
+      "OFF_relationship": "none",
+      "next_action": "Obtain lawful access to the official recording and verify its duration and attribution."
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-001-109",
+      "source_id": "source-sailpoint-governing-ai-agents-2025",
+      "canonical_title": "Governing AI agents with Agent Identity Security",
+      "decision": "accept",
+      "reason": "The official SailPoint community page embeds the complete 57:15 recording and platform captions. The recording itself establishes Amy Shillinglaw as the sole on-record presenter and supports eight source-located statements; advertised but absent speakers were excluded.",
+      "access_status": "complete_video_and_platform_captions_reviewed",
+      "rights_status": "link_and_paraphrase",
+      "ownership_status": "third_party",
+      "OFF_relationship": "none",
+      "next_action": "Human-review product-claim framing and confirm that no statement implies independent validation."
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-001-110",
+      "source_id": "held-identiverse-agentic-ai-identity-2026",
+      "canonical_title": "\"I Have a Feeling We're Not in Kansas Anymore\": What Makes Agentic AI Identity So Different?",
+      "decision": "hold",
+      "reason": "The official Identiverse session page verifies the scheduled speaker, event date, room, and 25-minute slot, but it provides no recording, embed, or transcript. The session abstract was not treated as delivered speech.",
+      "access_status": "official_session_listing_only",
+      "rights_status": "metadata_only",
+      "ownership_status": "third_party",
+      "OFF_relationship": "none",
+      "next_action": "Recheck the official event archive for a recording or transcript."
+    }
+  ]
+}

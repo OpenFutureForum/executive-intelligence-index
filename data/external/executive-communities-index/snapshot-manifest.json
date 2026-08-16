@@ -1,0 +1,14 @@
+{
+  "project_id": "executive-communities-index",
+  "upstream_repository": "https://github.com/OpenFutureForum/executive-communities-index",
+  "upstream_commit": "ba9bab57a774",
+  "synced_at": "2026-08-14",
+  "mapping_rules": "Reference only; rankings are not duplicated.",
+  "matched_records": 0,
+  "unmatched_records": 0,
+  "ambiguous_records": 0,
+  "conflicts": [],
+  "last_successful_sync": "2026-08-14",
+  "local_fallback_snapshot": true,
+  "note": "Framework-only pinned manifest; no upstream production records copied."
+}

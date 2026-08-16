@@ -1,0 +1,21 @@
+{
+  "batch_id": "BATCH-2026-005",
+  "checked_at": "2026-08-15",
+  "exact_hash_duplicate_groups": [],
+  "related_rendition_groups": [
+    {
+      "group_id": "related-BATCH-2026-005-001",
+      "normalized_work_identity": "Identity Management for Agentic AI",
+      "source_ids": [
+        "source-BATCH-2026-005-004",
+        "source-BATCH-2026-005-005"
+      ],
+      "relationship": "official OpenID rendition and arXiv v1 preprint of substantially the same intellectual work",
+      "hashes_identical": false,
+      "resolution": "Retain both source identities for bibliographic provenance but do not double-count their claims as independent evidence.",
+      "human_review_status": "pending"
+    }
+  ],
+  "discovery_duplicate_queue_checked": true,
+  "note": "No selected source collides with the five alternate-rendition groups in BATCH-2026-001; the OpenID/arXiv relationship is newly made explicit here."
+}

@@ -1,0 +1,45 @@
+name: "Book nomination"
+description: "Submit one evidence-backed book nomination for editorial review."
+title: "Book nomination: "
+labels: [book]
+body:
+  - type: markdown
+    attributes:
+      value: "Submission does not guarantee inclusion. Do not include private source material, personal contact details, or copyrighted full text."
+  - type: textarea
+    id: field_1
+    attributes:
+      label: "Book title and author"
+    validations:
+      required: true
+  - type: textarea
+    id: field_2
+    attributes:
+      label: "Verified edition identifiers"
+    validations:
+      required: true
+  - type: textarea
+    id: field_3
+    attributes:
+      label: "Metadata sources"
+    validations:
+      required: true
+  - type: textarea
+    id: field_4
+    attributes:
+      label: "Inclusion rationale"
+    validations:
+      required: true
+  - type: textarea
+    id: field_5
+    attributes:
+      label: "Analysis access basis"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Submission confirmation
+      options:
+        - label: I have provided public evidence and disclosed relevant relationships.
+          required: true

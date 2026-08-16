@@ -1,0 +1,51 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { loadCatalog, countPublicResearch, publicRecords, labelOf, sourceRoute } from '../lib/catalog';
+const catalog = loadCatalog();
+const counts = countPublicResearch(catalog);
+const recentSources = publicRecords(catalog.sources ?? []).slice(-5).reverse();
+const dossiers = publicRecords(catalog.dossiers ?? []).slice(-3).reverse();
+const release = (catalog.releases ?? []).at(-1);
+---
+<BaseLayout title="Open Executive Intelligence Index" type="Dataset" description="A cited map of the books, people, research, ideas, evidence, and media shaping executive decision-making.">
+  <section class="page-hero">
+    <p class="eyebrow">Open Future Forum · public research infrastructure</p>
+    <h1>Trace executive ideas to their evidence.</h1>
+    <p>The index connects people, works, sources, source-located statements, neutral propositions, and editorial synthesis—without presenting frequency as truth or selected sources as universal consensus.</p>
+    <p><a class="button" href="/executive-intelligence-index/search/" data-event="search_open">Search the index</a> <a class="button secondary" style="color:white;border-color:#cfe8dc" href="/executive-intelligence-index/data/" data-event="data_download_page">Download the data</a></p>
+  </section>
+  <section class="metrics" aria-label="Current release metrics">
+    <article><p class="eyebrow">Release</p><p class="metric">{String(release?.semantic_version ?? 'Pre-release')}</p><p>Named-human-approved public corpus.</p></article>
+    <article><p class="eyebrow">Sources</p><p class="metric">{counts.sources}</p><p>Published, provenance-checked sources.</p></article>
+    <article><p class="eyebrow">Statements</p><p class="metric">{counts.statements}</p><p>Source-located neutral paraphrases.</p></article>
+    <article><p class="eyebrow">Propositions</p><p class="metric">{counts.propositions}</p><p>Ideas mapped to supporting, challenging, qualifying, or refining evidence.</p></article>
+  </section>
+  <section class="section">
+    <p class="eyebrow">Three analytical layers</p><h2>Source, proposition, synthesis</h2>
+    <div class="feature-grid">
+      <article><h3>1. Source statements</h3><p>What a named person or institution expressed, neutrally paraphrased and located precisely in a source.</p></article>
+      <article><h3>2. Normalized propositions</h3><p>Carefully scoped ideas that connect statements without assuming they are correct.</p></article>
+      <article><h3>3. Editorial synthesis</h3><p>Dossiers, debates, role comparisons, and research agendas with explicit evidence lineage and limitations.</p></article>
+    </div>
+  </section>
+  <section class="section">
+    <p class="eyebrow">Boundaries</p><h2>What this index does—and does not—claim</h2>
+    <p>The current corpus documents selected public sources. It does not rank famous people, reproduce copyrighted transcripts, index private Forum Select conversations, or convert company claims into independently verified outcomes. OFF-owned sources and relationships are disclosed.</p>
+    <div class="notice"><strong>Current limitation:</strong> this first pilot is topic-limited, substantially English-language, source-concentrated, and not representative of all executives, roles, industries, regions, or markets.</div>
+  </section>
+  <section class="section">
+    <p class="eyebrow">Latest public material</p><h2>Recently added sources and dossiers</h2>
+    {recentSources.length + dossiers.length === 0 ? <p>No research batch has passed publication approval. Review the <a href="/executive-intelligence-index/research/">research and evidence empty state</a> or nominate a source.</p> : (
+      <div class="feature-grid">{recentSources.map((record) => <article><h3><a href={sourceRoute(record)}>{labelOf(record)}</a></h3><p>{String(record.source_type).replaceAll('_', ' ')} · {String(record.publisher ?? 'Publisher recorded in source')}</p></article>)}{dossiers.map((record) => <article><h3>{labelOf(record)}</h3></article>)}</div>
+    )}
+  </section>
+  <section class="section">
+    <p class="eyebrow">Related OFF projects</p><h2>Distinct, connected layers</h2>
+    <table><thead><tr><th>Project</th><th>Canonical responsibility</th><th>Relationship here</th></tr></thead><tbody>
+      <tr><td>CXO Ecosystem Index</td><td>Organizations, capabilities, audiences, offerings, and relationships.</td><td>Versioned organization-ID crosswalks only.</td></tr>
+      <tr><td>Executive AI Research</td><td>OFF reports and research-library records.</td><td>Canonical report references and contextual links.</td></tr>
+      <tr><td>Executive Communities Index</td><td>Executive-community records and editorial rankings.</td><td>No ranking duplication.</td></tr>
+      <tr><td>Executive Community Playbook</td><td>Practical operating guidance and templates.</td><td>Framework citations without guide duplication.</td></tr>
+    </tbody></table>
+  </section>
+</BaseLayout>

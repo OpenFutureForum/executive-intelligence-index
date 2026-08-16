@@ -1,0 +1,276 @@
+[
+  {
+    "person_id": "person-BATCH-2026-002-001",
+    "canonical_name": "Daniel Feldman",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-002",
+    "canonical_name": "Emily Fox",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-003",
+    "canonical_name": "Evan Gilman",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-004",
+    "canonical_name": "Ian Haken",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-005",
+    "canonical_name": "Frederick Kautz",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-006",
+    "canonical_name": "Umair Khan",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-007",
+    "canonical_name": "Max Lambrecht",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-008",
+    "canonical_name": "Brandon Lum",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-009",
+    "canonical_name": "Agustín Martínez Fayó",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-010",
+    "canonical_name": "Eli Nesterov",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-011",
+    "canonical_name": "Andrés Vega",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-012",
+    "canonical_name": "Michael Wardrop",
+    "book_work_id": "book-work-BATCH-2026-002-001",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole book, collectively authored",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-019",
+    "canonical_name": "Heather Adkins",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole-book named author; individual chapters also have named contributors",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-020",
+    "canonical_name": "Betsy Beyer",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole-book named author; individual chapters also have named contributors",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-021",
+    "canonical_name": "Paul Blankinship",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole-book named author; individual chapters also have named contributors",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-022",
+    "canonical_name": "Piotr Lewandowski",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole-book named author; individual chapters also have named contributors",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-023",
+    "canonical_name": "Ana Oprea",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole-book named author; individual chapters also have named contributors",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-002-024",
+    "canonical_name": "Adam Stubblefield",
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "named_book_author",
+    "attribution_scope": "Whole-book named author; individual chapters also have named contributors",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 01 byline",
+    "contributor_display": "Adam Stubblefield, Massimiliano Poletto, and Piotr Lewandowski, with David Huska and Betsy Beyer",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch01.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 02 byline",
+    "contributor_display": "Heather Adkins and David Huska, with Jen Barnason",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch02.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 04 byline",
+    "contributor_display": "Christoph Kern, with Brian Gustafson, Paul Blankinship, and Felix Gröbert",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch04.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 05 byline",
+    "contributor_display": "Oliver Barrett, Aaron Joyner, and Rory Ward, with Guy Fischman and Betsy Beyer",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch05.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 06 byline",
+    "contributor_display": "Julien Boeuf, Christoph Kern, and John Reese, with Guy Fischman, Paul Blankinship, Aleksandra Culver, Sergey Simakov, Peter Valchev, and Douglas Colish",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch06.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 08 byline",
+    "contributor_display": "Vitaliy Shipitsyn, Mitch Adler, Zoltan Egyed, and Paul Blankinship, with Jesus Climent, Jessie Yang, Douglas Colish, and Christoph Kern",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch08.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 09 byline",
+    "contributor_display": "Aaron Joyner, Jon McCune, and Vitaliy Shipitsyn, with Constantinos Neophytou, Jessie Yang, and Kristina Bennett",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch09.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 14 byline",
+    "contributor_display": "Jeremiah Spradlin and Mark Lodato, with Sergey Simakov and Roxana Loza",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch14.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 15 byline",
+    "contributor_display": "Pete Nuttall, Matt Linton, and David Seidman, with Vera Haas, Julie Saracino, and Amaya Booker",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch15.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 16 byline",
+    "contributor_display": "Michael Robinson and Sean Noonan, with Alex Bramley and Kavita Guliani",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch16.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 17 byline",
+    "contributor_display": "Matt Linton, with Nick Soda and Gary O’Connor",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch17.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 20 byline",
+    "contributor_display": "Heather Adkins, Cyrus Vesuna, Hunter King, Felix Gröbert, and David Challoner, with Susanne Landers, Steven Roddis, Sergey Simakov, Shylaja Nukala, Janet Vong, Douglas Colish, Betsy Beyer, and Paul Blankinship",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch20.html",
+    "verification_status": "machine_verified_human_pending"
+  },
+  {
+    "person_id": null,
+    "canonical_name": null,
+    "book_work_id": "book-work-BATCH-2026-002-005",
+    "relationship": "chapter_byline_contributors",
+    "attribution_scope": "Official Chapter 21 byline",
+    "contributor_display": "Heather Adkins, with Peter Valchev, Felix Gröbert, Ana Oprea, Sergey Simakov, Douglas Colish, and Betsy Beyer",
+    "source_url": "https://google.github.io/building-secure-and-reliable-systems/raw/ch21.html",
+    "verification_status": "machine_verified_human_pending"
+  }
+]

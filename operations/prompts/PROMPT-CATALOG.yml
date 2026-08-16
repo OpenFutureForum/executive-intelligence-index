@@ -1,0 +1,14 @@
+schema_version: 1.0.0
+prompts:
+  - prompt_id: OEII-MASTER-BUILD
+    name: Open Executive Intelligence Index master build
+    purpose: Build the complete public repository, data model, research system, validation tooling, site, and release framework.
+    version: "2.0"
+    effective_date: 2026-08-14
+    input_requirements: [Universal operating contract, master build prompt, repository access or explicit local fallback]
+    output_requirements: [Production-ready repository, deterministic public site, tests, final implementation report]
+    permitted_status_changes: [machine_drafted, machine_checked, issues_found, ready_for_human_review]
+    prohibited_actions: [Set human approval, invent research records, publish staging, merge own work, claim unavailable access]
+    supersedes: null
+    sha256: 492cd2e9a5d384059e5cbe3c94c163b2a039c8080a9be8bd1618e362d51ee3ff
+    version_record: versions/OEII-MASTER-BUILD-v2.0.yml

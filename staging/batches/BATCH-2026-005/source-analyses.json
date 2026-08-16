@@ -1,0 +1,313 @@
+[
+  {
+    "source_id": "source-BATCH-2026-005-001",
+    "candidate_id": "candidate-BATCH-2026-001-005",
+    "source_classification": "government report",
+    "canonical_title": "Summary Analysis of Responses to the Request for Information Regarding Security Considerations for AI Agents",
+    "source_version": "official HTML publication page accessed 2026-08-15",
+    "research_question": "What security concerns and government actions emerged from an RFI on AI-agent security?",
+    "methodology_summary": "NIST describes a qualitative synthesis of RFI responses, but the accessible canonical page omits the response count, respondent characteristics, coding process, and full analytical method.",
+    "major_findings": [
+      "The authors report broad agreement among commenters that agent security creates adoption barriers and requires adaptation of established cybersecurity practice."
+    ],
+    "author_interpretations": [
+      "The authors identify implementation guidance, information sharing, and standards promotion as possible government roles."
+    ],
+    "important_limitations": [
+      "No disclosed denominator, response composition, or qualitative coding method on the accessible page.",
+      "RFI respondents are self-selected and cannot be treated as a representative population."
+    ],
+    "applicability_to_executive_roles": [
+      "CISOs and CTOs can use the themes as agenda-setting input, not prevalence estimates.",
+      "General counsel and boards should treat proposed government roles as policy options."
+    ],
+    "geography_limits": "U.S. government process; respondent geography not disclosed.",
+    "industry_limits": "Respondent industry mix not disclosed.",
+    "funding_and_sponsor_context": "NIST/CAISI designed and published the work; separate funding and conflicts were not reported.",
+    "relevance_to_books_and_media": "Provides an institutional counterweight to practitioner media and conceptual books in the discovery corpus.",
+    "evidence_strength_assessment": "Moderate for reporting the publisher's synthesis; weak for any claim about how common a view is beyond respondents.",
+    "unresolved_questions": [
+      "How many responses were analyzed?",
+      "How were themes coded and disagreements weighted?",
+      "Where is the complete version or response-level appendix?"
+    ],
+    "review_status": "machine_checked_human_review_pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-002",
+    "candidate_id": "candidate-BATCH-2026-001-007",
+    "source_classification": "government standards profile",
+    "canonical_title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "source_version": "July 2024; Editorial Review Board approval 2024-07-25; retrieved PDF SHA-256 recorded",
+    "research_question": "How can AI RMF functions be applied to generative-AI risks?",
+    "methodology_summary": "A NIST cross-sectoral profile informed by an open public working group, consultations, public comments, and literature; it is normative rather than an empirical study.",
+    "major_findings": [
+      "The profile organizes suggested actions across governance, mapping, measurement, and management functions.",
+      "It explicitly warns that pre-deployment tests and benchmark results may not generalize to real-world contexts."
+    ],
+    "author_interpretations": [
+      "Generative AI may warrant additional oversight, documentation, and management controls."
+    ],
+    "important_limitations": [
+      "No quantitative sample or outcome evaluation.",
+      "Public-input synthesis method and denominator are not disclosed."
+    ],
+    "applicability_to_executive_roles": [
+      "Board and executive teams can use the profile as a control-design reference.",
+      "CISOs and CTOs can map testing, provenance, and incident controls to deployment workflows."
+    ],
+    "geography_limits": "U.S. government publication with cross-sector intent; legal fit must be localized.",
+    "industry_limits": "Cross-sectoral and deliberately not tailored to one regulated industry.",
+    "funding_and_sponsor_context": "NIST is both convener and publisher; separate funding and conflicts were not reported.",
+    "relevance_to_books_and_media": "Provides a stable baseline against which faster-moving practitioner sources can be compared.",
+    "evidence_strength_assessment": "High as an authoritative normative source; not evidence that controls produce outcomes.",
+    "unresolved_questions": [
+      "Whether a formally versioned post-2024 revision exists corresponding to the PDF metadata modification date."
+    ],
+    "review_status": "machine_checked_human_review_pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-003",
+    "candidate_id": "candidate-BATCH-2026-001-009",
+    "source_classification": "standards document; Internet-Draft",
+    "canonical_title": "AI Agent Authentication and Authorization",
+    "source_version": "revision 02; expires 2026-12-03",
+    "research_question": "Which existing standards can establish agent identity, authentication, authorization, delegation, and observability?",
+    "methodology_summary": "A compositional standards proposal, not an empirical evaluation.",
+    "major_findings": [
+      "The draft models an agent as a workload that requires a stable identifier and cryptographically bound credentials.",
+      "It proposes preserving user or system delegation context in authorization decisions and audit trails."
+    ],
+    "author_interpretations": [
+      "Existing standards can supply much of the required stack, while gaps remain for future standardization."
+    ],
+    "important_limitations": [
+      "Revision 02 is an expiring work in progress.",
+      "No interoperability tests or deployment outcomes are reported."
+    ],
+    "applicability_to_executive_roles": [
+      "CTOs can evaluate architecture alignment.",
+      "CISOs and CIOs can derive identity-lifecycle and logging requirements."
+    ],
+    "geography_limits": "No jurisdiction-specific legal analysis.",
+    "industry_limits": "Protocol-level and not tailored to sector controls.",
+    "funding_and_sponsor_context": "Funding and conflicts are not reported; all six employer affiliations are disclosed.",
+    "relevance_to_books_and_media": "Gives technically precise support or qualification for broader practitioner recommendations.",
+    "evidence_strength_assessment": "High for what revision 02 proposes; no evidence yet that the design is interoperable or effective in deployment.",
+    "unresolved_questions": [
+      "Which provisions will survive later draft revisions or RFC review?",
+      "How will the proposal be tested across vendors?"
+    ],
+    "review_status": "machine_checked_human_review_pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-004",
+    "candidate_id": "candidate-BATCH-2026-001-027",
+    "source_classification": "nonprofit/company white paper",
+    "canonical_title": "Identity Management for Agentic AI",
+    "source_version": "October 2025",
+    "research_question": "How should identity systems evolve for delegated, asynchronous, cross-domain, and recursive agent activity?",
+    "methodology_summary": "A multi-author technical white paper synthesizing identity standards and worked use cases; no empirical study design.",
+    "major_findings": [
+      "The authors argue that current mechanisms are strongest for synchronous, single-trust-domain patterns and weaker for cross-domain or recursive delegation.",
+      "The paper distinguishes agent identity from user identity and calls for lifecycle management and enriched audit trails."
+    ],
+    "author_interpretations": [
+      "Impersonation should give way to explicit delegated authority.",
+      "Recursive delegation requires progressive scope attenuation."
+    ],
+    "important_limitations": [
+      "No implementation benchmark or comparative test.",
+      "Formal source-selection, funding, conflicts, and review process are not reported."
+    ],
+    "applicability_to_executive_roles": [
+      "CISOs can translate best-practice bullets into control requirements.",
+      "CTOs can use the use cases to identify protocol gaps.",
+      "CIOs can connect agent lifecycle to existing IGA processes."
+    ],
+    "geography_limits": "No jurisdiction-specific treatment.",
+    "industry_limits": "Broad infrastructure focus; sector-specific assurance requirements remain outside scope.",
+    "funding_and_sponsor_context": "OpenID Foundation is the publisher; funding, sponsor involvement, and conflicts were not reported.",
+    "relevance_to_books_and_media": "A core technical bridge between identity books, standards drafts, and practitioner media.",
+    "evidence_strength_assessment": "Substantively useful normative synthesis, but no empirical evidence that the recommendations improve security.",
+    "unresolved_questions": [
+      "Which proposed mechanisms have interoperable implementations?",
+      "What formal relationship exists between the OpenID PDF and arXiv rendition?"
+    ],
+    "review_status": "machine_checked_human_review_pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-005",
+    "candidate_id": "candidate-BATCH-2026-001-045",
+    "source_classification": "preprint",
+    "canonical_title": "Identity Management for Agentic AI: The new frontier of authorization, authentication, and security for an AI agent world",
+    "source_version": "v1 submitted 2025-10-29",
+    "research_question": "Same core question as the OpenID white paper.",
+    "methodology_summary": "arXiv v1 rendition of substantially the same 33-page technical synthesis.",
+    "major_findings": [
+      "The same identity, delegation, auditability, and lifecycle claims appear in this rendition."
+    ],
+    "author_interpretations": [
+      "Recursive delegation should attenuate scope at each hop."
+    ],
+    "important_limitations": [
+      "Preprint, not peer reviewed.",
+      "Not independent evidence from the OpenID rendition."
+    ],
+    "applicability_to_executive_roles": [
+      "Useful for stable academic-style citation, with the same practical audience as the OpenID rendition."
+    ],
+    "geography_limits": "No jurisdiction-specific analysis.",
+    "industry_limits": "Cross-industry technology focus.",
+    "funding_and_sponsor_context": "Not reported.",
+    "relevance_to_books_and_media": "Stable preprint identifier for a central framework already represented by the OpenID PDF.",
+    "evidence_strength_assessment": "Do not double-count with the OpenID rendition.",
+    "unresolved_questions": [
+      "Whether a later peer-reviewed version will supersede v1."
+    ],
+    "review_status": "machine_checked_human_review_pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-006",
+    "candidate_id": "candidate-BATCH-2026-001-050",
+    "source_classification": "peer-reviewed conference paper",
+    "canonical_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+    "source_version": "v3; updated after a Llama implementation bug fix and travel-suite update",
+    "research_question": "How reliably can tool-using agents complete tasks and resist prompt injection under controlled adversarial conditions?",
+    "methodology_summary": "Controlled benchmark of 97 tasks and 629 security cases across four simulated environments, with formal utility/security checks, seven listed model-agent configurations, attacks, defenses, and reported 95% confidence intervals.",
+    "major_findings": [
+      "The benchmark exposes substantial utility and security tradeoffs.",
+      "Table 5 reports targeted attack success of 57.69% with no defense and 6.84% with tool filtering for the listed GPT-4o setup, with reported intervals."
+    ],
+    "author_interpretations": [
+      "Stronger model designs and defenses are needed; static benchmark conclusions will age as attacks and defenses evolve."
+    ],
+    "important_limitations": [
+      "Synthetic environments and versioned APIs limit external validity.",
+      "Raw numerators and interval-construction method are not reported in the reviewed table.",
+      "v3 replaced earlier results after a bug fix and travel-suite update."
+    ],
+    "applicability_to_executive_roles": [
+      "CISOs can use it as evidence that authorization boundaries and tool isolation matter.",
+      "CTOs should treat rates as benchmark-specific, not production incident probabilities."
+    ],
+    "geography_limits": "No human geography; simulated applications.",
+    "industry_limits": "Four application simulations do not cover all enterprise domains.",
+    "funding_and_sponsor_context": "Individual support from armasuisse and SNSF is disclosed; no institution explicitly funded benchmark creation; industry affiliations are disclosed without a conflict statement.",
+    "relevance_to_books_and_media": "Supplies empirical context for normative recommendations about least privilege and tool isolation.",
+    "evidence_strength_assessment": "Strong internal benchmark evidence, moderate external validity.",
+    "unresolved_questions": [
+      "How do results transfer to production agents and contemporary models?",
+      "How were confidence intervals constructed?"
+    ],
+    "review_status": "machine_checked_human_review_pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-007",
+    "candidate_id": "candidate-BATCH-2026-001-054",
+    "source_classification": "conference paper; acceptance marker verified in version, venue record not independently retrieved",
+    "canonical_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+    "source_version": "v4; paper and arXiv page state accepted at ICLR 2025",
+    "research_question": "How do diverse attack and defense methods affect LLM agents across operational stages?",
+    "methodology_summary": "Synthetic benchmark spanning 10 scenarios, 400 tasks, more than 400 tools, 27 attack/defense methods, 13 LLM backbones, and seven metrics.",
+    "major_findings": [
+      "The authors report a highest average attack success rate of 84.30% for a benchmark configuration.",
+      "Current defenses vary and often trade security against task performance."
+    ],
+    "author_interpretations": [
+      "Agent security evaluation should cover the full operational pipeline rather than prompt injection alone."
+    ],
+    "important_limitations": [
+      "No production population or human sample.",
+      "The headline average does not disclose a raw numerator or confidence interval.",
+      "Funding and conflicts are not reported."
+    ],
+    "applicability_to_executive_roles": [
+      "CISOs can use the attack taxonomy to structure testing.",
+      "CTOs should avoid converting headline benchmark rates into incident forecasts."
+    ],
+    "geography_limits": "No human geography.",
+    "industry_limits": "Synthetic scenarios approximate industries but do not sample deployed systems.",
+    "funding_and_sponsor_context": "Not reported.",
+    "relevance_to_books_and_media": "Broadens the empirical attack surface beyond the narrower identity narratives in books and practitioner sources.",
+    "evidence_strength_assessment": "Useful comparative benchmark with strong breadth, but bounded external validity and incomplete uncertainty reporting.",
+    "unresolved_questions": [
+      "How stable are rankings across model updates?",
+      "What exact cells and weights produce the 84.30% headline average?",
+      "Can venue acceptance be independently verified when OpenReview access is available?"
+    ],
+    "review_status": "machine_checked_human_review_pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-008",
+    "candidate_id": "candidate-BATCH-2026-001-058",
+    "source_classification": "preprint",
+    "canonical_title": "Teams of LLM Agents can Exploit Zero-Day Vulnerabilities",
+    "source_version": "v2 submitted 2025-03-30",
+    "research_question": "Can multi-agent planning improve autonomous exploitation of unknown real-world vulnerabilities?",
+    "methodology_summary": "HPTSA tested on 14 purposively selected, sandboxed, reproducible open-source web vulnerabilities, with manual trace verification and pass@1/pass@5 metrics.",
+    "major_findings": [
+      "The authors report 42% pass@5 and 18% pass@1 for HPTSA with GPT-4 on the 14-vulnerability benchmark.",
+      "Open-source scanners and listed open-source models report 0% on this benchmark."
+    ],
+    "author_interpretations": [
+      "Task-specific agents and hierarchical planning improve exploratory cyber capability."
+    ],
+    "important_limitations": [
+      "Only 14 selected web vulnerabilities.",
+      "No confidence intervals.",
+      "Code and prompts are withheld, limiting replication.",
+      "Results are capability demonstrations, not estimates of incident prevalence."
+    ],
+    "applicability_to_executive_roles": [
+      "CISOs can treat the work as capability evidence for threat modeling.",
+      "CTOs should not extrapolate rates to all vulnerabilities or current model versions."
+    ],
+    "geography_limits": "No human geography.",
+    "industry_limits": "Open-source web applications only.",
+    "funding_and_sponsor_context": "Funding and conflicts not reported; OpenAI's request to keep agents confidential and responsible disclosure are stated.",
+    "relevance_to_books_and_media": "Empirically qualifies broad warnings about autonomous cyber capability.",
+    "evidence_strength_assessment": "Moderate capability evidence with narrow sample and limited replicability.",
+    "unresolved_questions": [
+      "Would results replicate on a broader blinded vulnerability sample?",
+      "How sensitive are outcomes to model and tool versions?"
+    ],
+    "review_status": "machine_checked_human_review_pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-009",
+    "candidate_id": "candidate-BATCH-2026-001-085",
+    "source_classification": "company white paper and policy analysis",
+    "canonical_title": "Practices for Governing Agentic AI Systems",
+    "source_version": "2023; PDF metadata created 2023-12-18",
+    "research_question": "Which lifecycle practices and accountability structures could reduce harms from agentic AI?",
+    "methodology_summary": "Conceptual policy analysis organized around lifecycle actors, seven direct governance practices, open questions, and indirect societal impacts.",
+    "major_findings": [
+      "The authors propose evaluation, action-space constraints, default behaviors, legibility, monitoring, attributability, and interruptibility as building blocks.",
+      "They argue that at least one human legal entity should remain accountable for uncompensated direct harm."
+    ],
+    "author_interpretations": [
+      "Agent attribution can support accountability in high-stakes interactions.",
+      "Interruptibility should extend to spawned subagents."
+    ],
+    "important_limitations": [
+      "No empirical outcome evaluation.",
+      "Company-published and funding/conflicts are not reported.",
+      "Many recommendations are explicitly preliminary."
+    ],
+    "applicability_to_executive_roles": [
+      "Boards and general counsel can use it to assign lifecycle accountability.",
+      "CISOs and CTOs can translate attribution and interruptibility into control questions."
+    ],
+    "geography_limits": "Global discussion without jurisdiction-specific legal analysis.",
+    "industry_limits": "Cross-industry and scenario-based.",
+    "funding_and_sponsor_context": "Official OpenAI-hosted white paper; separate funding, sponsor role, and conflicts not reported.",
+    "relevance_to_books_and_media": "An early governance frame that can be tested against later standards and benchmark evidence.",
+    "evidence_strength_assessment": "Influential normative analysis, not empirical proof.",
+    "unresolved_questions": [
+      "Which practices measurably reduce harm?",
+      "How should privacy tradeoffs constrain attribution and monitoring?"
+    ],
+    "review_status": "machine_checked_human_review_pending"
+  }
+]

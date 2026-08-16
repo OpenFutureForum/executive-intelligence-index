@@ -1,0 +1,6 @@
+{
+  "mappings": [],
+  "validation_status": "not_applicable",
+  "reason": "No verified source in this batch is a book or book edition, and the repository contains no canonical book-edition record on this branch.",
+  "human_review_status": "pending"
+}

@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { idOf, labelOf, loadCatalog, publicRecords, type RecordMap } from '../../../lib/catalog';
+export function getStaticPaths() {
+  const catalog = loadCatalog();
+  return publicRecords(catalog['book-editions'] ?? []).map((record) => ({ params: { id: idOf(record) }, props: { record } }));
+}
+interface Props { record: RecordMap; }
+const { record } = Astro.props; const title = labelOf(record); const display = (value: unknown) => Array.isArray(value) ? value.join(', ') : value && typeof value === 'object' ? JSON.stringify(value) : String(value ?? 'Unknown');
+---
+<BaseLayout title={title} type="Book" description={`Edition-specific bibliographic and access record for ${title}.`}>
+  <article class="section" data-pagefind-body><p class="eyebrow">Book edition · {idOf(record)}</p><h1>{title}</h1><p>All page references resolve to this exact edition. Analysis and access basis are disclosed below.</p><dl>{Object.entries(record).map(([key, value]) => <><dt>{key.replaceAll('_',' ')}</dt><dd>{display(value)}</dd></>)}</dl></article>
+</BaseLayout>

@@ -1,0 +1,114 @@
+[
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "namespace": "personal_website",
+    "value": "https://edoardo.science/",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "namespace": "official_profile_url",
+    "value": "https://zj-jayzhang.github.io/",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "namespace": "eth_profile_url",
+    "value": "https://www.sri.inf.ethz.ch/people/mislav",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "namespace": "insait_profile_url",
+    "value": "https://insait.ai/mislav-balunovic/",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "namespace": "orcid",
+    "value": "0000-0001-8703-8762",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "namespace": "official_profile_url",
+    "value": "https://inf.ethz.ch/people/people-atoz/person-detail.MjU5NzMw.TGlzdC8zMDQsLTIxNDE4MTU0NjA%3D.html",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "namespace": "personal_cv_url",
+    "value": "https://zhang-henry.github.io/assets/pdf/CV_Hanrong_Zhang.pdf",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "namespace": "rutgers_netid",
+    "value": "jh2164",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-kai-mei",
+    "namespace": "rutgers_netid",
+    "value": "km1558",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "namespace": "official_profile_url",
+    "value": "https://www.cs.rutgers.edu/people/professors/details/yongfeng-zhang",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "namespace": "personal_cv_url",
+    "value": "https://yuxuan18.github.io/assets/cv.pdf",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "namespace": "openreview_profile",
+    "value": "https://openreview.net/profile?id=~Richard_Fang1",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "namespace": "uiuc_profile_url",
+    "value": "https://siebelschool.illinois.edu/research/undergraduate-research/summer-research-experience-undergraduates/participants/Richard-Fang",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "namespace": "official_profile_url",
+    "value": "https://siebelschool.illinois.edu/about/people/faculty/ddkang",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "namespace": "official_profile_url",
+    "value": "https://digitaleconomy.stanford.edu/person/tobin-south/",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "namespace": "official_profile_url",
+    "value": "https://professional.mit.edu/programs/faculty-profiles/alex-pentland",
+    "collision_status": "no_collision_in_batch_or_canonical_alias_files",
+    "human_review_status": "pending"
+  }
+]

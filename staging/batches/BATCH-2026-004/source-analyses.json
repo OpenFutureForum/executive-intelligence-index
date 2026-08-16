@@ -1,0 +1,50 @@
+[
+  {
+    "source_id": "source-idac-390-agentic-ai-identity",
+    "original_analytical_abstract": "Tobin South explains why AI agents strain identity systems designed for deterministic users and applications. The discussion separates impersonation from delegated authority, argues that agents need identities and credentials distinct from the people who invoke them, and connects governance to bounded scopes, traceable delegation chains, oversight, and responsibility for actions. South treats standards work as necessary infrastructure for both consumer assistants and enterprise deployments, while also describing Model Context Protocol as an interoperability layer whose security properties still depend on authentication and authorization. The episode's practical emphasis is that identity teams should prepare policies and architectures before agent adoption becomes widespread, without assuming current protocols or shared user credentials are adequate.",
+    "why_selected": "Complete long-form interview with the lead author of the OpenID report, centered on identity, delegation, oversight, liability, MCP, recursive delegation, and scope attenuation.",
+    "major_questions_discussed": [
+      "How are AI agents different from users, clients, and deterministic bots?",
+      "What is the difference between impersonation and delegation?",
+      "Who should create and govern an agent identity?",
+      "How should responsibility be assigned when an agent acts through delegated authority?",
+      "What should developers and enterprise identity teams prepare now?",
+      "What does MCP provide, and what security work remains outside the protocol?",
+      "How can recursive delegation preserve bounded authority?"
+    ],
+    "frameworks_mentioned": ["authenticated delegation and authorization", "impersonation versus delegation", "distinct agent identity and credentials", "delegation chain", "scope attenuation", "Model Context Protocol", "human and organizational oversight"],
+    "books_mentioned": [],
+    "reports_mentioned": ["Identity Management for Agentic AI: The new frontier of authorization, authentication, and security for an AI agent world"],
+    "organizations_mentioned": ["orgref-openid-foundation", "orgref-mit", "orgref-stanford", "orgref-workos", "orgref-idac"],
+    "relevant_roles": ["role-ciso", "role-cio", "role-cto", "role-general-counsel", "role-board-director"],
+    "relevant_topics": ["topic-ai-agents", "topic-ai-governance", "topic-cybersecurity", "topic-non-human-identity", "topic-ai-liability", "topic-enterprise-infrastructure"],
+    "limitations": ["Expert interview rather than empirical evidence", "No official transcript", "Recording date not established", "Responsibility discussion is conceptual and not jurisdiction-specific legal advice"],
+    "promotional_content_note": "The hosts promote podcast subscriptions, conference discount information, and their website in the opening and close; these sections yielded no statements.",
+    "related_proposition_candidates": ["AI agents should use identities and credentials distinguishable from their human principals.", "Delegation chains should preserve provenance and attenuate scope as authority passes between agents.", "Enterprises need explicit policies for deploying and overseeing agents before agent adoption scales."],
+    "correction_route": "Use the repository correction process and cite the episode URL plus timestamp."
+  },
+  {
+    "source_id": "source-sailpoint-governing-ai-agents-2025",
+    "original_analytical_abstract": "Amy Shillinglaw presents SailPoint's model for governing AI agents as identities whose behavior combines machine execution with human-like autonomy. She separates inbound authorization—who may invoke an agent—from outbound authorization—what resources the agent may use for that person—and frames inventory, tool correlation, human ownership, succession, and dual-sided certification as the control sequence. A product demonstration shows how those ideas are represented in SailPoint's platform, including user entitlements, machine-account correlation, and access reviews. The session also identifies risks such as runaway subtasks, compromised code or credentials, poisoned data, and poor explainability. Because this is a vendor webinar, the record supports product and practitioner claims, not independent performance findings.",
+    "why_selected": "Complete, speaker-labeled vendor webinar with a concrete governance framework, implementation workflow, and demonstration relevant to enterprise identity operations.",
+    "major_questions_discussed": [
+      "How are AI agents different from other machine identities?",
+      "What inbound and outbound authorization relationships must be governed?",
+      "How should agents and their tools be inventoried and correlated?",
+      "Who should own an AI agent when personnel change?",
+      "How should inbound and outbound access be certified?",
+      "How can an organization identify over-permissioning introduced by an agent?",
+      "Which product integrations and APIs were supported at the time of the recording?"
+    ],
+    "frameworks_mentioned": ["human, machine, and agent identity model", "inbound versus outbound authorization", "agent inventory", "tool governance", "human ownership and succession planning", "inbound and outbound certification", "unified control plane"],
+    "books_mentioned": [],
+    "reports_mentioned": [],
+    "organizations_mentioned": ["orgref-sailpoint"],
+    "relevant_roles": ["role-ciso", "role-cio", "role-cto"],
+    "relevant_topics": ["topic-ai-agents", "topic-ai-governance", "topic-cybersecurity", "topic-non-human-identity", "topic-enterprise-infrastructure"],
+    "limitations": ["Vendor-produced product session", "No external customer evidence", "Product capabilities are time-sensitive", "Caption errors require video-context checking", "Promotional speaker metadata differs from the actual recording"],
+    "promotional_content_note": "The session demonstrates and recommends SailPoint products and directs viewers to product documentation, customer-success managers, and account executives. Statements are therefore framed as vendor claims or presenter recommendations.",
+    "related_proposition_candidates": ["Agent governance should review both who may invoke an agent and what the agent may access.", "Every enterprise AI agent should have a named human owner and succession path.", "Agent access certification should cover inbound user entitlements and outbound tools or resources."],
+    "correction_route": "Use the repository correction process and cite the SailPoint community page plus timestamp."
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "batch_id": "BATCH-2026-002",
+  "cases": [
+    {
+      "case_id": "book-duplicate-001",
+      "normalized_title": "solving identity management in modern applications",
+      "candidate_work_ids": [
+        "book-work-BATCH-2026-002-007",
+        "book-work-BATCH-2026-002-008"
+      ],
+      "decision": "do_not_merge_pending_human_review",
+      "reason": "Publisher documents material revisions and edition-number change."
+    },
+    {
+      "case_id": "book-duplicate-002",
+      "normalized_title": "zero trust networks",
+      "candidate_work_ids": [
+        "book-work-BATCH-2026-002-002"
+      ],
+      "related_edition_ids": [
+        "book-edition-BATCH-2026-002-002",
+        "book-edition-BATCH-2026-002-003",
+        "book-edition-BATCH-2026-002-004"
+      ],
+      "decision": "one_revised_work_multiple_formats_and_translation",
+      "reason": "Audiobook and Italian translation are manifestations of the verified second-edition work; translator remains unresolved."
+    }
+  ],
+  "human_review_status": "pending"
+}

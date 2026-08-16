@@ -1,0 +1,74 @@
+batch_id: BUILD-2026-08-14-001
+protocol_id: protocol-BUILD-2026-08-14-001
+prompt_id: OEII-MASTER-BUILD
+prompt_version: "2.0"
+branch: build/foundation-2026-08-14
+pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/1
+execution_date: 2026-08-14
+model_disclosure: AI-assisted framework implementation by OpenAI Codex; no human review or approval occurred.
+tools_used: [Codex filesystem tools, git, GitHub public web pages, read-only git clones, Node.js, npm, TypeScript, Astro, AJV, Vitest, Playwright, Pagefind]
+research_question: Which existing OFF conventions should the source-statement intelligence index reuse while preserving distinct canonical ownership?
+pre_registered_inclusion_criteria:
+  - Inspect each of the six official public repositories named by the build prompt.
+  - Use repository files relevant to architecture, deployment, methodology, licensing, and project ownership.
+pre_registered_exclusion_criteria:
+  - Do not use search snippets or unrelated third-party projects as architectural evidence.
+  - Do not ingest production research records during the framework build.
+search_queries:
+  - site:github.com/OpenFutureForum cxo-ecosystem-index
+  - site:github.com/OpenFutureForum executive-ai-research
+  - site:github.com/OpenFutureForum executive-communities-index executive-community-playbook
+  - site:github.com/OpenFutureForum OpenFutureForum.github.io .github
+sources_considered: 8
+sources_accepted:
+  - https://github.com/OpenFutureForum/cxo-ecosystem-index at 45ca4066fc00
+  - https://github.com/OpenFutureForum/executive-ai-research at d205a6b2e6f4
+  - https://github.com/OpenFutureForum/executive-communities-index at ba9bab57a774
+  - https://github.com/OpenFutureForum/executive-community-playbook at 2a0936b00c75
+  - https://github.com/OpenFutureForum/.github at c3fe1e9e27cc
+  - https://github.com/OpenFutureForum/OpenFutureForum.github.io at 12505350a4d9
+sources_rejected: 2
+held_count: 0
+records_created: []
+records_modified: []
+output_files:
+  - Complete local repository framework
+  - Deterministic docs/ public site
+  - JSON, CSV, NDJSON, GraphML, citation, and release-manifest exports
+  - Local repository archive
+unresolved_questions:
+  - Which named human reviewers will own methodology, schema, rights, production data, and release approvals.
+rights_concerns:
+  - No third-party source text or code was copied from inspected repositories; only architectural conventions and public repository metadata were documented.
+  - Third-party research content remains outside this framework batch.
+validation_commands:
+  - npm run check
+  - npm audit --audit-level=moderate
+  - npm run verify:determinism
+  - npm run report:rights
+  - npm run report:release-readiness
+  - npm run verify:live
+validation_outcomes:
+  - command: npm run check
+    outcome: PASS; lint passed, 41 files typechecked with zero diagnostics, validators and audits passed, 24 unit tests passed, 28 pages built, one Playwright HTTP test passed, two browser-process tests skipped only under the Codex seatbelt, and artifact verification passed.
+  - command: npm audit --audit-level=moderate
+    outcome: PASS; zero vulnerabilities.
+  - command: npm run verify:determinism
+    outcome: PASS; docs fingerprint 3d5b0c93f26e57687010987a0a4097fc54430acdfafae23dec58afcedb7abf17.
+  - command: npm run report:rights
+    outcome: PASS; zero rights-bearing production records.
+  - command: npm run report:release-readiness
+    outcome: PASS for framework record gates; deployment remains pending.
+  - command: npm run verify:live
+    outcome: SKIP; BASE_URL absent because no deployment occurred.
+  - command: In-app browser QA
+    outcome: PASS; desktop and mobile layout, navigation, empty states, filters, structured data, Pagefind search, and console state inspected.
+  - command: GitHub Actions pull-request validation
+    outcome: PASS at commit 36801c1; schema-and-data, rights-privacy-content, and build-and-test passed, including three hosted Playwright checks.
+human_review_status: pending
+limitations:
+  - The public repository, pushed branch, and draft pull request exist; deployment remains pending because the pull request is deliberately unmerged and Pages has not run from main.
+  - Repository-level write eligibility for @murraylovecode is verified; branch-protection and CODEOWNERS enforcement remain to be configured or verified.
+  - No production research corpus or named human approval was supplied; the public site therefore uses truthful empty states.
+  - The batch protocol file was materialized after initial repository inspection; the six targets were nevertheless fixed in advance by the master build prompt.
+next_recommended_action: Confirm GitHub Actions, obtain named human ownership assignments and approvals, configure required checks and CODEOWNERS enforcement, then merge and verify the Pages deployment.

@@ -1,0 +1,134 @@
+{
+  "protocol_id": "protocol-BATCH-2026-001",
+  "research_question": "How do public executive and institutional sources define governance requirements for AI-agent identities?",
+  "scope": "Discovery and selection of publicly accessible, canonically identifiable sources on identity, authentication, authorization, delegation, accountability, lifecycle, auditability, non-human identity, and human oversight for autonomous or agentic AI systems. Priority industries are financial services, technology and cloud, healthcare and life sciences, public sector and defense, critical infrastructure, and professional services.",
+  "time_period": "2020-08-15 through 2026-08-15, with pre-2020 foundational identity, zero-trust, authorization, and software-workload standards included only when they directly govern current AI-agent identity questions.",
+  "target_roles": [
+    "role-ciso",
+    "role-cio",
+    "role-cto",
+    "role-general-counsel",
+    "role-board-director",
+    "role-ceo"
+  ],
+  "target_geographies": [
+    "geo-global",
+    "United States",
+    "European Union",
+    "United Kingdom",
+    "Canada",
+    "Singapore",
+    "Australia",
+    "India",
+    "Japan"
+  ],
+  "target_languages": [
+    "lang-en"
+  ],
+  "included_source_types": [
+    "book",
+    "video",
+    "podcast_episode",
+    "keynote",
+    "panel",
+    "interview",
+    "conference_talk",
+    "essay",
+    "newsletter",
+    "public_letter",
+    "research_report",
+    "academic_paper",
+    "working_paper",
+    "executive_survey",
+    "event_recording",
+    "OFF_research",
+    "OFF_interview",
+    "OFF_video",
+    "public_policy_document",
+    "other_approved"
+  ],
+  "excluded_source_types": [
+    "Non-public or confidential material",
+    "Anonymous summaries and content farms",
+    "AI-generated summaries",
+    "Scraped or unofficial transcripts",
+    "Duplicate syndication when the original is available",
+    "Low-substance promotional material"
+  ],
+  "inclusion_criteria": [
+    "The source is publicly accessible or has stable public bibliographic metadata sufficient for a metadata-only candidate.",
+    "The work, episode, document, speaker, author, publisher, and date can be canonically identified.",
+    "The source materially addresses identity, credentials, authentication, authorization, delegation, lifecycle, auditability, accountability, or oversight for AI agents or directly applicable non-human workloads.",
+    "The source is original, an original-publisher copy, an official author or institution copy, or a stable bibliographic record used only for identity verification.",
+    "The source can contribute a distinct governance, technical, legal, operational, empirical, or dissenting perspective.",
+    "Rights and ownership can be recorded without copying third-party text."
+  ],
+  "exclusion_criteria": [
+    "Generic AI governance material with no meaningful identity, delegation, access-control, accountability, or agent-lifecycle content.",
+    "Generic human IAM, API-key, bot, or workload-identity material with no direct relevance to autonomous or agentic systems.",
+    "Consumer chatbot usability, model benchmark, robotics-hardware, or autonomous-vehicle identity material outside enterprise-agent governance.",
+    "Search snippets, inaccessible claims, ambiguous authorship, unverifiable dates, or unresolved source identity.",
+    "Promotional reposts, third-party uploads of uncertain rights, non-public events, not-for-attribution material, and complete third-party transcripts.",
+    "Sources selected only for search visibility or quota filling rather than substantive relevance."
+  ],
+  "source_priority": [
+    "Original standard, law, policy, paper, book, recording, report, or direct statement",
+    "Original publisher or event host",
+    "Official author, institution, regulator, standards body, or company research page",
+    "Stable bibliographic or archival source",
+    "Reliable independent contextual verification",
+    "Secondary summary used only to locate an original"
+  ],
+  "diversity_objectives": [
+    "Cover security, technology, legal, board, chief executive, risk, architecture, and operations perspectives without using weak sources to fill categories.",
+    "Include financial services, technology and cloud, healthcare and life sciences, public sector and defense, critical infrastructure, and professional services.",
+    "Seek global, United States, European Union, United Kingdom, Canadian, Singaporean, Australian, Indian, and Japanese relevance while recording unmet geographic goals.",
+    "Balance standards, policy, academic evidence, practitioner analysis, books, and primary media.",
+    "Balance established and emerging contributors, academic and practitioner sources, operator and investor views, and supporting and challenging positions.",
+    "Measure consulting, vendor, hyperscaler, and OFF-owned concentration separately."
+  ],
+  "expected_limitations": [
+    "The controlled vocabulary currently supports English only; non-English discovery is deferred and recorded as a gap.",
+    "AI-agent identity terminology is emerging and overlaps non-human identity, workload identity, machine identity, delegated authorization, and zero trust.",
+    "Vendor and consulting sources are likely to be more visible than independent empirical research.",
+    "Books may be evaluated at metadata level only unless lawful full-text access is available.",
+    "Public sources may underrepresent failures, internal controls, and board-level decision records.",
+    "The 2026 endpoint may include newly published material with limited independent evaluation."
+  ],
+  "planned_search_queries": [
+    "AI agent identity governance authentication authorization delegation auditability",
+    "agentic AI identity non-human identity governance standard",
+    "AI agents identity access management CISO CIO CTO",
+    "AI agent authorization OAuth workload identity SPIFFE zero trust",
+    "AI agent identity NIST ISO OWASP CSA W3C IETF",
+    "AI agent governance law policy EU UK US Singapore Canada Australia Japan India",
+    "AI agent identity academic paper empirical study",
+    "AI agent security identity conference talk podcast interview",
+    "agentic AI governance book autonomous agents identity",
+    "AI agent identity financial services healthcare public sector critical infrastructure"
+  ],
+  "planned_batch_size": 120,
+  "created_at": "2026-08-15T10:34:21Z",
+  "created_by": "OpenAI Codex (machine-drafted; human review pending)",
+  "prompt_id": "OEII-TOPIC-DISCOVERY",
+  "prompt_version": "2.0",
+  "workflow_status": "candidate",
+  "machine_review_status": "machine_drafted",
+  "human_review_status": "pending",
+  "reviewed_by": null,
+  "reviewed_at": null,
+  "provenance": [
+    {
+      "source_url": "https://github.com/OpenFutureForum/executive-intelligence-index",
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "Repository methodology, roadmap, schemas, and controlled vocabularies inspected before discovery",
+      "exact_locator": "operations/research-roadmap.yml priority 1 and OEII-TOPIC-DISCOVERY version 2.0",
+      "content_hash": null,
+      "batch_id": "BATCH-2026-001",
+      "prompt_id": "OEII-TOPIC-DISCOVERY",
+      "prompt_version": "2.0",
+      "notes": "The user-supplied prompt left placeholders unfilled; the repository's priority-one roadmap supplied the topic and research question."
+    }
+  ],
+  "revision_history": []
+}

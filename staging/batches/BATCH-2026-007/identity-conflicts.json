@@ -1,0 +1,22 @@
+[
+  {
+    "case_id": "identity-review-BATCH-2026-007-001",
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "conflict_type": "current_role_conflict",
+    "identity_status": "verified",
+    "issue": "An official ETH page lists a postdoctoral role, an official INSAIT directory lists the person as a past member, and a newer self-maintained professional profile points elsewhere.",
+    "disposition": "Keep canonical identity; leave current role and organization null pending human verification from a fresh employer source.",
+    "blocking_publication": true,
+    "human_review_status": "pending"
+  },
+  {
+    "case_id": "identity-review-BATCH-2026-007-002",
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "conflict_type": "current_role_conflict",
+    "identity_status": "verified",
+    "issue": "Official UIUC and OpenReview records verify the HPTSA coauthor but do not establish a fresh exact role; a newer professional profile indicates different education and an employer without a visible exact title.",
+    "disposition": "Keep canonical identity; leave current role and organization null pending a fresh official or self-authored profile with an exact appointment.",
+    "blocking_publication": true,
+    "human_review_status": "pending"
+  }
+]

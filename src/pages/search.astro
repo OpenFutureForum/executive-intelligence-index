@@ -1,0 +1,14 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Search" description="Full-text search across published Open Executive Intelligence Index pages.">
+  <section class="page-hero compact"><p class="eyebrow">Full-text discovery</p><h1>Search the index</h1><p>Search published people, books, sources, statements, propositions, topics, debates, dossiers, and public methodology.</p></section>
+  <section class="section"><div id="search"></div><noscript>Site search requires JavaScript. Browse the collection pages or download the public data instead.</noscript></section>
+  <link href="/executive-intelligence-index/pagefind/pagefind-ui.css" rel="stylesheet" />
+  <script is:inline src="/executive-intelligence-index/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      if (window.PagefindUI) new window.PagefindUI({ element: '#search', showSubResults: true, baseUrl: '/executive-intelligence-index/' });
+    });
+  </script>
+</BaseLayout>

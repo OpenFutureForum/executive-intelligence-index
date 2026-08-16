@@ -1,0 +1,45 @@
+name: "Translation correction"
+description: "Submit one evidence-backed translation correction for editorial review."
+title: "Translation correction: "
+labels: [translation]
+body:
+  - type: markdown
+    attributes:
+      value: "Submission does not guarantee inclusion. Do not include private source material, personal contact details, or copyrighted full text."
+  - type: textarea
+    id: field_1
+    attributes:
+      label: "Record ID"
+    validations:
+      required: true
+  - type: textarea
+    id: field_2
+    attributes:
+      label: "Language"
+    validations:
+      required: true
+  - type: textarea
+    id: field_3
+    attributes:
+      label: "Current text"
+    validations:
+      required: true
+  - type: textarea
+    id: field_4
+    attributes:
+      label: "Proposed translation"
+    validations:
+      required: true
+  - type: textarea
+    id: field_5
+    attributes:
+      label: "Translator basis or source"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Submission confirmation
+      options:
+        - label: I have provided public evidence and disclosed relevant relationships.
+          required: true

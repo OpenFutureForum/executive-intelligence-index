@@ -1,0 +1,855 @@
+[
+  {
+    "statement_id": "statement-BATCH-2026-006-001",
+    "person_ids": [
+      "person-BATCH-2026-005-jared-riggs",
+      "person-BATCH-2026-005-maia-hamin",
+      "person-BATCH-2026-005-neil-perry",
+      "person-BATCH-2026-005-benjamin-edelman",
+      "person-BATCH-2026-005-peter-cihon"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-002",
+    "person_ids": [
+      "person-BATCH-2026-005-jared-riggs",
+      "person-BATCH-2026-005-maia-hamin",
+      "person-BATCH-2026-005-neil-perry",
+      "person-BATCH-2026-005-benjamin-edelman",
+      "person-BATCH-2026-005-peter-cihon"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-003",
+    "person_ids": [
+      "person-BATCH-2026-005-jared-riggs",
+      "person-BATCH-2026-005-maia-hamin",
+      "person-BATCH-2026-005-neil-perry",
+      "person-BATCH-2026-005-benjamin-edelman",
+      "person-BATCH-2026-005-peter-cihon"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-004",
+    "person_ids": [],
+    "relationship": "joint_author",
+    "attribution_mode": "institutional_author_only",
+    "note": "No individual author IDs are present in the verified source record.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-005",
+    "person_ids": [],
+    "relationship": "joint_author",
+    "attribution_mode": "institutional_author_only",
+    "note": "No individual author IDs are present in the verified source record.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-006",
+    "person_ids": [],
+    "relationship": "joint_author",
+    "attribution_mode": "institutional_author_only",
+    "note": "No individual author IDs are present in the verified source record.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-007",
+    "person_ids": [],
+    "relationship": "joint_author",
+    "attribution_mode": "institutional_author_only",
+    "note": "No individual author IDs are present in the verified source record.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-008",
+    "person_ids": [],
+    "relationship": "joint_author",
+    "attribution_mode": "institutional_author_only",
+    "note": "No individual author IDs are present in the verified source record.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-009",
+    "person_ids": [
+      "person-BATCH-2026-005-pieter-kasselman",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-yaron-rosomakho",
+      "person-BATCH-2026-005-brian-campbell",
+      "person-BATCH-2026-005-nick-steele",
+      "person-BATCH-2026-005-aaron-parecki"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-010",
+    "person_ids": [
+      "person-BATCH-2026-005-pieter-kasselman",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-yaron-rosomakho",
+      "person-BATCH-2026-005-brian-campbell",
+      "person-BATCH-2026-005-nick-steele",
+      "person-BATCH-2026-005-aaron-parecki"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-011",
+    "person_ids": [
+      "person-BATCH-2026-005-pieter-kasselman",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-yaron-rosomakho",
+      "person-BATCH-2026-005-brian-campbell",
+      "person-BATCH-2026-005-nick-steele",
+      "person-BATCH-2026-005-aaron-parecki"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-012",
+    "person_ids": [
+      "person-BATCH-2026-005-pieter-kasselman",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-yaron-rosomakho",
+      "person-BATCH-2026-005-brian-campbell",
+      "person-BATCH-2026-005-nick-steele",
+      "person-BATCH-2026-005-aaron-parecki"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-013",
+    "person_ids": [
+      "person-BATCH-2026-005-pieter-kasselman",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-yaron-rosomakho",
+      "person-BATCH-2026-005-brian-campbell",
+      "person-BATCH-2026-005-nick-steele",
+      "person-BATCH-2026-005-aaron-parecki"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-014",
+    "person_ids": [
+      "person-BATCH-2026-005-pieter-kasselman",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-yaron-rosomakho",
+      "person-BATCH-2026-005-brian-campbell",
+      "person-BATCH-2026-005-nick-steele",
+      "person-BATCH-2026-005-aaron-parecki"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-015",
+    "person_ids": [
+      "person-BATCH-2026-005-tobin-south",
+      "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+      "person-BATCH-2026-005-ayesha-dissanayaka",
+      "person-BATCH-2026-005-sarah-cecchetti",
+      "person-BATCH-2026-005-george-fletcher",
+      "person-BATCH-2026-005-victor-lu",
+      "person-BATCH-2026-005-aldo-pietropaolo",
+      "person-BATCH-2026-005-dean-h-saxe",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-abhishek-shivalingaiah",
+      "person-BATCH-2026-005-stan-bounev",
+      "person-BATCH-2026-005-alex-keisner",
+      "person-BATCH-2026-005-andor-kesselman",
+      "person-BATCH-2026-005-zack-proser",
+      "person-BATCH-2026-005-ginny-fahs",
+      "person-BATCH-2026-005-andrew-bunyea",
+      "person-BATCH-2026-005-ben-moskowitz",
+      "person-BATCH-2026-005-atul-tulshibagwale",
+      "person-BATCH-2026-005-dazza-greenwood",
+      "person-BATCH-2026-005-jiaxin-pei",
+      "person-BATCH-2026-005-alex-pentland"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-016",
+    "person_ids": [
+      "person-BATCH-2026-005-tobin-south",
+      "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+      "person-BATCH-2026-005-ayesha-dissanayaka",
+      "person-BATCH-2026-005-sarah-cecchetti",
+      "person-BATCH-2026-005-george-fletcher",
+      "person-BATCH-2026-005-victor-lu",
+      "person-BATCH-2026-005-aldo-pietropaolo",
+      "person-BATCH-2026-005-dean-h-saxe",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-abhishek-shivalingaiah",
+      "person-BATCH-2026-005-stan-bounev",
+      "person-BATCH-2026-005-alex-keisner",
+      "person-BATCH-2026-005-andor-kesselman",
+      "person-BATCH-2026-005-zack-proser",
+      "person-BATCH-2026-005-ginny-fahs",
+      "person-BATCH-2026-005-andrew-bunyea",
+      "person-BATCH-2026-005-ben-moskowitz",
+      "person-BATCH-2026-005-atul-tulshibagwale",
+      "person-BATCH-2026-005-dazza-greenwood",
+      "person-BATCH-2026-005-jiaxin-pei",
+      "person-BATCH-2026-005-alex-pentland"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-017",
+    "person_ids": [
+      "person-BATCH-2026-005-tobin-south",
+      "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+      "person-BATCH-2026-005-ayesha-dissanayaka",
+      "person-BATCH-2026-005-sarah-cecchetti",
+      "person-BATCH-2026-005-george-fletcher",
+      "person-BATCH-2026-005-victor-lu",
+      "person-BATCH-2026-005-aldo-pietropaolo",
+      "person-BATCH-2026-005-dean-h-saxe",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-abhishek-shivalingaiah",
+      "person-BATCH-2026-005-stan-bounev",
+      "person-BATCH-2026-005-alex-keisner",
+      "person-BATCH-2026-005-andor-kesselman",
+      "person-BATCH-2026-005-zack-proser",
+      "person-BATCH-2026-005-ginny-fahs",
+      "person-BATCH-2026-005-andrew-bunyea",
+      "person-BATCH-2026-005-ben-moskowitz",
+      "person-BATCH-2026-005-atul-tulshibagwale",
+      "person-BATCH-2026-005-dazza-greenwood",
+      "person-BATCH-2026-005-jiaxin-pei",
+      "person-BATCH-2026-005-alex-pentland"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-018",
+    "person_ids": [
+      "person-BATCH-2026-005-tobin-south",
+      "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+      "person-BATCH-2026-005-ayesha-dissanayaka",
+      "person-BATCH-2026-005-sarah-cecchetti",
+      "person-BATCH-2026-005-george-fletcher",
+      "person-BATCH-2026-005-victor-lu",
+      "person-BATCH-2026-005-aldo-pietropaolo",
+      "person-BATCH-2026-005-dean-h-saxe",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-abhishek-shivalingaiah",
+      "person-BATCH-2026-005-stan-bounev",
+      "person-BATCH-2026-005-alex-keisner",
+      "person-BATCH-2026-005-andor-kesselman",
+      "person-BATCH-2026-005-zack-proser",
+      "person-BATCH-2026-005-ginny-fahs",
+      "person-BATCH-2026-005-andrew-bunyea",
+      "person-BATCH-2026-005-ben-moskowitz",
+      "person-BATCH-2026-005-atul-tulshibagwale",
+      "person-BATCH-2026-005-dazza-greenwood",
+      "person-BATCH-2026-005-jiaxin-pei",
+      "person-BATCH-2026-005-alex-pentland"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-019",
+    "person_ids": [
+      "person-BATCH-2026-005-tobin-south",
+      "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+      "person-BATCH-2026-005-ayesha-dissanayaka",
+      "person-BATCH-2026-005-sarah-cecchetti",
+      "person-BATCH-2026-005-george-fletcher",
+      "person-BATCH-2026-005-victor-lu",
+      "person-BATCH-2026-005-aldo-pietropaolo",
+      "person-BATCH-2026-005-dean-h-saxe",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-abhishek-shivalingaiah",
+      "person-BATCH-2026-005-stan-bounev",
+      "person-BATCH-2026-005-alex-keisner",
+      "person-BATCH-2026-005-andor-kesselman",
+      "person-BATCH-2026-005-zack-proser",
+      "person-BATCH-2026-005-ginny-fahs",
+      "person-BATCH-2026-005-andrew-bunyea",
+      "person-BATCH-2026-005-ben-moskowitz",
+      "person-BATCH-2026-005-atul-tulshibagwale",
+      "person-BATCH-2026-005-dazza-greenwood",
+      "person-BATCH-2026-005-jiaxin-pei",
+      "person-BATCH-2026-005-alex-pentland"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-020",
+    "person_ids": [
+      "person-BATCH-2026-005-tobin-south",
+      "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+      "person-BATCH-2026-005-ayesha-dissanayaka",
+      "person-BATCH-2026-005-sarah-cecchetti",
+      "person-BATCH-2026-005-george-fletcher",
+      "person-BATCH-2026-005-victor-lu",
+      "person-BATCH-2026-005-aldo-pietropaolo",
+      "person-BATCH-2026-005-dean-h-saxe",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-abhishek-shivalingaiah",
+      "person-BATCH-2026-005-stan-bounev",
+      "person-BATCH-2026-005-alex-keisner",
+      "person-BATCH-2026-005-andor-kesselman",
+      "person-BATCH-2026-005-zack-proser",
+      "person-BATCH-2026-005-ginny-fahs",
+      "person-BATCH-2026-005-andrew-bunyea",
+      "person-BATCH-2026-005-ben-moskowitz",
+      "person-BATCH-2026-005-atul-tulshibagwale",
+      "person-BATCH-2026-005-dazza-greenwood",
+      "person-BATCH-2026-005-jiaxin-pei",
+      "person-BATCH-2026-005-alex-pentland"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-021",
+    "person_ids": [
+      "person-BATCH-2026-005-tobin-south",
+      "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+      "person-BATCH-2026-005-ayesha-dissanayaka",
+      "person-BATCH-2026-005-sarah-cecchetti",
+      "person-BATCH-2026-005-george-fletcher",
+      "person-BATCH-2026-005-victor-lu",
+      "person-BATCH-2026-005-aldo-pietropaolo",
+      "person-BATCH-2026-005-dean-h-saxe",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-abhishek-shivalingaiah",
+      "person-BATCH-2026-005-stan-bounev",
+      "person-BATCH-2026-005-alex-keisner",
+      "person-BATCH-2026-005-andor-kesselman",
+      "person-BATCH-2026-005-zack-proser",
+      "person-BATCH-2026-005-ginny-fahs",
+      "person-BATCH-2026-005-andrew-bunyea",
+      "person-BATCH-2026-005-ben-moskowitz",
+      "person-BATCH-2026-005-atul-tulshibagwale",
+      "person-BATCH-2026-005-dazza-greenwood",
+      "person-BATCH-2026-005-jiaxin-pei",
+      "person-BATCH-2026-005-alex-pentland"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-022",
+    "person_ids": [
+      "person-BATCH-2026-005-edoardo-debenedetti",
+      "person-BATCH-2026-005-jie-zhang",
+      "person-BATCH-2026-005-mislav-balunovic",
+      "person-BATCH-2026-005-luca-beurer-kellner",
+      "person-BATCH-2026-005-marc-fischer",
+      "person-BATCH-2026-005-florian-tramer"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-023",
+    "person_ids": [
+      "person-BATCH-2026-005-edoardo-debenedetti",
+      "person-BATCH-2026-005-jie-zhang",
+      "person-BATCH-2026-005-mislav-balunovic",
+      "person-BATCH-2026-005-luca-beurer-kellner",
+      "person-BATCH-2026-005-marc-fischer",
+      "person-BATCH-2026-005-florian-tramer"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-024",
+    "person_ids": [
+      "person-BATCH-2026-005-edoardo-debenedetti",
+      "person-BATCH-2026-005-jie-zhang",
+      "person-BATCH-2026-005-mislav-balunovic",
+      "person-BATCH-2026-005-luca-beurer-kellner",
+      "person-BATCH-2026-005-marc-fischer",
+      "person-BATCH-2026-005-florian-tramer"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-025",
+    "person_ids": [
+      "person-BATCH-2026-005-edoardo-debenedetti",
+      "person-BATCH-2026-005-jie-zhang",
+      "person-BATCH-2026-005-mislav-balunovic",
+      "person-BATCH-2026-005-luca-beurer-kellner",
+      "person-BATCH-2026-005-marc-fischer",
+      "person-BATCH-2026-005-florian-tramer"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-026",
+    "person_ids": [
+      "person-BATCH-2026-005-edoardo-debenedetti",
+      "person-BATCH-2026-005-jie-zhang",
+      "person-BATCH-2026-005-mislav-balunovic",
+      "person-BATCH-2026-005-luca-beurer-kellner",
+      "person-BATCH-2026-005-marc-fischer",
+      "person-BATCH-2026-005-florian-tramer"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-027",
+    "person_ids": [
+      "person-BATCH-2026-005-edoardo-debenedetti",
+      "person-BATCH-2026-005-jie-zhang",
+      "person-BATCH-2026-005-mislav-balunovic",
+      "person-BATCH-2026-005-luca-beurer-kellner",
+      "person-BATCH-2026-005-marc-fischer",
+      "person-BATCH-2026-005-florian-tramer"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-028",
+    "person_ids": [
+      "person-BATCH-2026-005-hanrong-zhang",
+      "person-BATCH-2026-005-jingyuan-huang",
+      "person-BATCH-2026-005-kai-mei",
+      "person-BATCH-2026-005-yifei-yao",
+      "person-BATCH-2026-005-zhenting-wang",
+      "person-BATCH-2026-005-chenlu-zhan",
+      "person-BATCH-2026-005-hongwei-wang",
+      "person-BATCH-2026-005-yongfeng-zhang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-029",
+    "person_ids": [
+      "person-BATCH-2026-005-hanrong-zhang",
+      "person-BATCH-2026-005-jingyuan-huang",
+      "person-BATCH-2026-005-kai-mei",
+      "person-BATCH-2026-005-yifei-yao",
+      "person-BATCH-2026-005-zhenting-wang",
+      "person-BATCH-2026-005-chenlu-zhan",
+      "person-BATCH-2026-005-hongwei-wang",
+      "person-BATCH-2026-005-yongfeng-zhang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-030",
+    "person_ids": [
+      "person-BATCH-2026-005-hanrong-zhang",
+      "person-BATCH-2026-005-jingyuan-huang",
+      "person-BATCH-2026-005-kai-mei",
+      "person-BATCH-2026-005-yifei-yao",
+      "person-BATCH-2026-005-zhenting-wang",
+      "person-BATCH-2026-005-chenlu-zhan",
+      "person-BATCH-2026-005-hongwei-wang",
+      "person-BATCH-2026-005-yongfeng-zhang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-031",
+    "person_ids": [
+      "person-BATCH-2026-005-hanrong-zhang",
+      "person-BATCH-2026-005-jingyuan-huang",
+      "person-BATCH-2026-005-kai-mei",
+      "person-BATCH-2026-005-yifei-yao",
+      "person-BATCH-2026-005-zhenting-wang",
+      "person-BATCH-2026-005-chenlu-zhan",
+      "person-BATCH-2026-005-hongwei-wang",
+      "person-BATCH-2026-005-yongfeng-zhang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-032",
+    "person_ids": [
+      "person-BATCH-2026-005-hanrong-zhang",
+      "person-BATCH-2026-005-jingyuan-huang",
+      "person-BATCH-2026-005-kai-mei",
+      "person-BATCH-2026-005-yifei-yao",
+      "person-BATCH-2026-005-zhenting-wang",
+      "person-BATCH-2026-005-chenlu-zhan",
+      "person-BATCH-2026-005-hongwei-wang",
+      "person-BATCH-2026-005-yongfeng-zhang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-033",
+    "person_ids": [
+      "person-BATCH-2026-005-yuxuan-zhu",
+      "person-BATCH-2026-005-antony-kellermann",
+      "person-BATCH-2026-005-akul-gupta",
+      "person-BATCH-2026-005-philip-li",
+      "person-BATCH-2026-005-richard-fang",
+      "person-BATCH-2026-005-rohan-bindu",
+      "person-BATCH-2026-005-daniel-kang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-034",
+    "person_ids": [
+      "person-BATCH-2026-005-yuxuan-zhu",
+      "person-BATCH-2026-005-antony-kellermann",
+      "person-BATCH-2026-005-akul-gupta",
+      "person-BATCH-2026-005-philip-li",
+      "person-BATCH-2026-005-richard-fang",
+      "person-BATCH-2026-005-rohan-bindu",
+      "person-BATCH-2026-005-daniel-kang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-035",
+    "person_ids": [
+      "person-BATCH-2026-005-yuxuan-zhu",
+      "person-BATCH-2026-005-antony-kellermann",
+      "person-BATCH-2026-005-akul-gupta",
+      "person-BATCH-2026-005-philip-li",
+      "person-BATCH-2026-005-richard-fang",
+      "person-BATCH-2026-005-rohan-bindu",
+      "person-BATCH-2026-005-daniel-kang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-036",
+    "person_ids": [
+      "person-BATCH-2026-005-yuxuan-zhu",
+      "person-BATCH-2026-005-antony-kellermann",
+      "person-BATCH-2026-005-akul-gupta",
+      "person-BATCH-2026-005-philip-li",
+      "person-BATCH-2026-005-richard-fang",
+      "person-BATCH-2026-005-rohan-bindu",
+      "person-BATCH-2026-005-daniel-kang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-037",
+    "person_ids": [
+      "person-BATCH-2026-005-yuxuan-zhu",
+      "person-BATCH-2026-005-antony-kellermann",
+      "person-BATCH-2026-005-akul-gupta",
+      "person-BATCH-2026-005-philip-li",
+      "person-BATCH-2026-005-richard-fang",
+      "person-BATCH-2026-005-rohan-bindu",
+      "person-BATCH-2026-005-daniel-kang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-038",
+    "person_ids": [
+      "person-BATCH-2026-005-yuxuan-zhu",
+      "person-BATCH-2026-005-antony-kellermann",
+      "person-BATCH-2026-005-akul-gupta",
+      "person-BATCH-2026-005-philip-li",
+      "person-BATCH-2026-005-richard-fang",
+      "person-BATCH-2026-005-rohan-bindu",
+      "person-BATCH-2026-005-daniel-kang"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-039",
+    "person_ids": [
+      "person-BATCH-2026-005-yonadav-shavit",
+      "person-BATCH-2026-005-sandhini-agarwal",
+      "person-BATCH-2026-005-miles-brundage",
+      "person-BATCH-2026-005-steven-adler",
+      "person-BATCH-2026-005-cullen-o-keefe",
+      "person-BATCH-2026-005-rosie-campbell",
+      "person-BATCH-2026-005-teddy-lee",
+      "person-BATCH-2026-005-pamela-mishkin",
+      "person-BATCH-2026-005-tyna-eloundou",
+      "person-BATCH-2026-005-alan-hickey",
+      "person-BATCH-2026-005-katarina-slama",
+      "person-BATCH-2026-005-lama-ahmad",
+      "person-BATCH-2026-005-paul-mcmillan",
+      "person-BATCH-2026-005-alex-beutel",
+      "person-BATCH-2026-005-alexandre-passos",
+      "person-BATCH-2026-005-david-g-robinson"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-040",
+    "person_ids": [
+      "person-BATCH-2026-005-yonadav-shavit",
+      "person-BATCH-2026-005-sandhini-agarwal",
+      "person-BATCH-2026-005-miles-brundage",
+      "person-BATCH-2026-005-steven-adler",
+      "person-BATCH-2026-005-cullen-o-keefe",
+      "person-BATCH-2026-005-rosie-campbell",
+      "person-BATCH-2026-005-teddy-lee",
+      "person-BATCH-2026-005-pamela-mishkin",
+      "person-BATCH-2026-005-tyna-eloundou",
+      "person-BATCH-2026-005-alan-hickey",
+      "person-BATCH-2026-005-katarina-slama",
+      "person-BATCH-2026-005-lama-ahmad",
+      "person-BATCH-2026-005-paul-mcmillan",
+      "person-BATCH-2026-005-alex-beutel",
+      "person-BATCH-2026-005-alexandre-passos",
+      "person-BATCH-2026-005-david-g-robinson"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-041",
+    "person_ids": [
+      "person-BATCH-2026-005-yonadav-shavit",
+      "person-BATCH-2026-005-sandhini-agarwal",
+      "person-BATCH-2026-005-miles-brundage",
+      "person-BATCH-2026-005-steven-adler",
+      "person-BATCH-2026-005-cullen-o-keefe",
+      "person-BATCH-2026-005-rosie-campbell",
+      "person-BATCH-2026-005-teddy-lee",
+      "person-BATCH-2026-005-pamela-mishkin",
+      "person-BATCH-2026-005-tyna-eloundou",
+      "person-BATCH-2026-005-alan-hickey",
+      "person-BATCH-2026-005-katarina-slama",
+      "person-BATCH-2026-005-lama-ahmad",
+      "person-BATCH-2026-005-paul-mcmillan",
+      "person-BATCH-2026-005-alex-beutel",
+      "person-BATCH-2026-005-alexandre-passos",
+      "person-BATCH-2026-005-david-g-robinson"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-042",
+    "person_ids": [
+      "person-BATCH-2026-005-yonadav-shavit",
+      "person-BATCH-2026-005-sandhini-agarwal",
+      "person-BATCH-2026-005-miles-brundage",
+      "person-BATCH-2026-005-steven-adler",
+      "person-BATCH-2026-005-cullen-o-keefe",
+      "person-BATCH-2026-005-rosie-campbell",
+      "person-BATCH-2026-005-teddy-lee",
+      "person-BATCH-2026-005-pamela-mishkin",
+      "person-BATCH-2026-005-tyna-eloundou",
+      "person-BATCH-2026-005-alan-hickey",
+      "person-BATCH-2026-005-katarina-slama",
+      "person-BATCH-2026-005-lama-ahmad",
+      "person-BATCH-2026-005-paul-mcmillan",
+      "person-BATCH-2026-005-alex-beutel",
+      "person-BATCH-2026-005-alexandre-passos",
+      "person-BATCH-2026-005-david-g-robinson"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-043",
+    "person_ids": [
+      "person-BATCH-2026-005-yonadav-shavit",
+      "person-BATCH-2026-005-sandhini-agarwal",
+      "person-BATCH-2026-005-miles-brundage",
+      "person-BATCH-2026-005-steven-adler",
+      "person-BATCH-2026-005-cullen-o-keefe",
+      "person-BATCH-2026-005-rosie-campbell",
+      "person-BATCH-2026-005-teddy-lee",
+      "person-BATCH-2026-005-pamela-mishkin",
+      "person-BATCH-2026-005-tyna-eloundou",
+      "person-BATCH-2026-005-alan-hickey",
+      "person-BATCH-2026-005-katarina-slama",
+      "person-BATCH-2026-005-lama-ahmad",
+      "person-BATCH-2026-005-paul-mcmillan",
+      "person-BATCH-2026-005-alex-beutel",
+      "person-BATCH-2026-005-alexandre-passos",
+      "person-BATCH-2026-005-david-g-robinson"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-044",
+    "person_ids": [
+      "person-BATCH-2026-005-yonadav-shavit",
+      "person-BATCH-2026-005-sandhini-agarwal",
+      "person-BATCH-2026-005-miles-brundage",
+      "person-BATCH-2026-005-steven-adler",
+      "person-BATCH-2026-005-cullen-o-keefe",
+      "person-BATCH-2026-005-rosie-campbell",
+      "person-BATCH-2026-005-teddy-lee",
+      "person-BATCH-2026-005-pamela-mishkin",
+      "person-BATCH-2026-005-tyna-eloundou",
+      "person-BATCH-2026-005-alan-hickey",
+      "person-BATCH-2026-005-katarina-slama",
+      "person-BATCH-2026-005-lama-ahmad",
+      "person-BATCH-2026-005-paul-mcmillan",
+      "person-BATCH-2026-005-alex-beutel",
+      "person-BATCH-2026-005-alexandre-passos",
+      "person-BATCH-2026-005-david-g-robinson"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-045",
+    "person_ids": [
+      "person-BATCH-2026-005-yonadav-shavit",
+      "person-BATCH-2026-005-sandhini-agarwal",
+      "person-BATCH-2026-005-miles-brundage",
+      "person-BATCH-2026-005-steven-adler",
+      "person-BATCH-2026-005-cullen-o-keefe",
+      "person-BATCH-2026-005-rosie-campbell",
+      "person-BATCH-2026-005-teddy-lee",
+      "person-BATCH-2026-005-pamela-mishkin",
+      "person-BATCH-2026-005-tyna-eloundou",
+      "person-BATCH-2026-005-alan-hickey",
+      "person-BATCH-2026-005-katarina-slama",
+      "person-BATCH-2026-005-lama-ahmad",
+      "person-BATCH-2026-005-paul-mcmillan",
+      "person-BATCH-2026-005-alex-beutel",
+      "person-BATCH-2026-005-alexandre-passos",
+      "person-BATCH-2026-005-david-g-robinson"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  },
+  {
+    "statement_id": "statement-BATCH-2026-006-046",
+    "person_ids": [
+      "person-BATCH-2026-005-yonadav-shavit",
+      "person-BATCH-2026-005-sandhini-agarwal",
+      "person-BATCH-2026-005-miles-brundage",
+      "person-BATCH-2026-005-steven-adler",
+      "person-BATCH-2026-005-cullen-o-keefe",
+      "person-BATCH-2026-005-rosie-campbell",
+      "person-BATCH-2026-005-teddy-lee",
+      "person-BATCH-2026-005-pamela-mishkin",
+      "person-BATCH-2026-005-tyna-eloundou",
+      "person-BATCH-2026-005-alan-hickey",
+      "person-BATCH-2026-005-katarina-slama",
+      "person-BATCH-2026-005-lama-ahmad",
+      "person-BATCH-2026-005-paul-mcmillan",
+      "person-BATCH-2026-005-alex-beutel",
+      "person-BATCH-2026-005-alexandre-passos",
+      "person-BATCH-2026-005-david-g-robinson"
+    ],
+    "relationship": "joint_author",
+    "attribution_mode": "joint_source_byline",
+    "note": "Every listed person is mapped as a joint author; the statement record uses a collective author label to avoid assigning a joint claim to one person.",
+    "human_review_status": "pending"
+  }
+]

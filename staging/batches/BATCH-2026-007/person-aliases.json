@@ -1,0 +1,170 @@
+[
+  {
+    "alias": "E. Debenedetti",
+    "canonical_person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "canonical_name": "Edoardo Debenedetti",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "J. Zhang",
+    "canonical_person_id": "person-BATCH-2026-005-jie-zhang",
+    "canonical_name": "Jie Zhang",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "Mislav Balunovic",
+    "canonical_person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "canonical_name": "Mislav Balunović",
+    "alias_type": "name_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "M. Balunović",
+    "canonical_person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "canonical_name": "Mislav Balunović",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "M. Balunovic",
+    "canonical_person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "canonical_name": "Mislav Balunović",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "L. Beurer-Kellner",
+    "canonical_person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "canonical_name": "Luca Beurer-Kellner",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "M. Fischer",
+    "canonical_person_id": "person-BATCH-2026-005-marc-fischer",
+    "canonical_name": "Marc Fischer",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "Florian Tramer",
+    "canonical_person_id": "person-BATCH-2026-005-florian-tramer",
+    "canonical_name": "Florian Tramèr",
+    "alias_type": "name_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "F. Tramèr",
+    "canonical_person_id": "person-BATCH-2026-005-florian-tramer",
+    "canonical_name": "Florian Tramèr",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "F. Tramer",
+    "canonical_person_id": "person-BATCH-2026-005-florian-tramer",
+    "canonical_name": "Florian Tramèr",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "H. Zhang",
+    "canonical_person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "canonical_name": "Hanrong Zhang",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "J. Huang",
+    "canonical_person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "canonical_name": "Jingyuan Huang",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "K. Mei",
+    "canonical_person_id": "person-BATCH-2026-005-kai-mei",
+    "canonical_name": "Kai Mei",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "Y. Zhang",
+    "canonical_person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "canonical_name": "Yongfeng Zhang",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "Y. Zhu",
+    "canonical_person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "canonical_name": "Yuxuan Zhu",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "R. Fang",
+    "canonical_person_id": "person-BATCH-2026-005-richard-fang",
+    "canonical_name": "Richard Fang",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "D. Kang",
+    "canonical_person_id": "person-BATCH-2026-005-daniel-kang",
+    "canonical_name": "Daniel Kang",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "T. South",
+    "canonical_person_id": "person-BATCH-2026-005-tobin-south",
+    "canonical_name": "Tobin South",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "Alex ‘Sandy’ Pentland",
+    "canonical_person_id": "person-BATCH-2026-005-alex-pentland",
+    "canonical_name": "Alex Pentland",
+    "alias_type": "name_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "Sandy Pentland",
+    "canonical_person_id": "person-BATCH-2026-005-alex-pentland",
+    "canonical_name": "Alex Pentland",
+    "alias_type": "name_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  },
+  {
+    "alias": "A. Pentland",
+    "canonical_person_id": "person-BATCH-2026-005-alex-pentland",
+    "canonical_name": "Alex Pentland",
+    "alias_type": "author_initial_variant",
+    "verification_status": "verified_in_selected_source_or_official_profile",
+    "human_review_status": "pending"
+  }
+]

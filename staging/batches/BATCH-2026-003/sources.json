@@ -1,0 +1,359 @@
+[
+  {
+    "source_id": "source-BATCH-2026-003-001",
+    "canonical_title": "Solving the Bottom Turtle: A SPIFFE Way to Establish Trust in Your Infrastructure via Universal Identity",
+    "alternate_titles": [
+      "Solving the Bottom Turtle"
+    ],
+    "source_type": "book",
+    "series_or_parent_source": null,
+    "publisher": "SPIFFE Project",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-002-001",
+      "person-BATCH-2026-002-002",
+      "person-BATCH-2026-002-003",
+      "person-BATCH-2026-002-004",
+      "person-BATCH-2026-002-005",
+      "person-BATCH-2026-002-006",
+      "person-BATCH-2026-002-007",
+      "person-BATCH-2026-002-008",
+      "person-BATCH-2026-002-009",
+      "person-BATCH-2026-002-010",
+      "person-BATCH-2026-002-011",
+      "person-BATCH-2026-002-012"
+    ],
+    "institutional_author": null,
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": "2020-11-17",
+    "updated_at": null,
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [
+      "United States"
+    ],
+    "geography_discussed": [
+      "Global distributed infrastructure"
+    ],
+    "study_geography": [],
+    "original_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+    "canonical_url": "https://spiffe.io/book/",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": null,
+    "canonical_identity_status": "Exact first edition verified by title page, ISBN, publisher, date, format, pagination, and SHA-256",
+    "repost_status": null,
+    "original_source_id": null,
+    "rights_status": "openly_licensed",
+    "ownership_status": "third_party",
+    "relationship_to_off": null,
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [
+      {
+        "chapter": 1
+      },
+      {
+        "chapter": 2
+      },
+      {
+        "chapter": 3
+      },
+      {
+        "chapter": 4
+      },
+      {
+        "chapter": 5
+      },
+      {
+        "chapter": 6
+      },
+      {
+        "chapter": 7
+      },
+      {
+        "chapter": 8
+      },
+      {
+        "chapter": 9
+      },
+      {
+        "chapter": 10
+      }
+    ],
+    "analysis_basis": "Complete 194-page official PDF read in full",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_roles": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "original_abstract": "A practitioner book explaining SPIFFE and SPIRE as an architecture for workload identity, attestation, trust domains, deployment, integration, authorization, and operational adoption.",
+    "inclusion_rationale": "Directly addresses machine and workload identity—the technical substrate most closely adjacent to governed AI-agent identity—while exposing where identity ends and authorization begins.",
+    "source_quality_dimensions": {
+      "authority": "Project-authored primary technical source",
+      "completeness": "Complete exact edition",
+      "independence": "Low; authors are project participants",
+      "reproducibility": "High; official PDF and page locators"
+    },
+    "methodology_quality": {
+      "design": "Practitioner synthesis and technical argument",
+      "causal_strength": "Low",
+      "transparency": "Threat assumptions and design tradeoffs are usually explicit"
+    },
+    "study_design": "Technical architecture and practitioner case synthesis",
+    "sample": {
+      "case_studies": 5
+    },
+    "population": "Distributed infrastructure operators and service workloads",
+    "date_range": {
+      "edition": "2020"
+    },
+    "funding": null,
+    "sponsor": "SPIFFE Project",
+    "peer_review_status": "No formal academic peer review identified",
+    "findings": [],
+    "limitations": [
+      "The case evidence is self-reported and does not isolate SPIFFE or SPIRE as the cause of the reported outcomes.",
+      "The book is written by project participants and sometimes moves from design argument to ecosystem advocacy.",
+      "Its workload identity model does not by itself encode an AI agent's sponsor, delegation chain, task purpose, model, session, or decision provenance.",
+      "The 2020 edition predates later token formats, wider platform support, current AI-agent systems, and subsequent identity standards work."
+    ],
+    "correction_ids": [],
+    "retraction_status": null,
+    "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+    "accessed_at": "2026-08-15",
+    "verification_status": "machine_verified_human_pending",
+    "source_depth": "complete_edition_deep_analysis",
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spiffe.io/pdf/Solving-the-bottom-turtle-SPIFFE-SPIRE-Book.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "Complete PDF pages 1–194",
+        "content_hash": "8353e3cf6fb8859ff34b0a43fe8146d7580dd32c9ace863c1a4758440f898fcb",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "No direct quotations stored"
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "source_id": "source-BATCH-2026-003-002",
+    "canonical_title": "Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems",
+    "alternate_titles": [
+      "Building Secure & Reliable Systems"
+    ],
+    "source_type": "book",
+    "series_or_parent_source": null,
+    "publisher": "O’Reilly Media, Inc.",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-002-019",
+      "person-BATCH-2026-002-020",
+      "person-BATCH-2026-002-021",
+      "person-BATCH-2026-002-022",
+      "person-BATCH-2026-002-023",
+      "person-BATCH-2026-002-024"
+    ],
+    "institutional_author": null,
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": "2020-04-08",
+    "updated_at": null,
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [
+      "United States"
+    ],
+    "geography_discussed": [
+      "Global large-scale technology operations"
+    ],
+    "study_geography": [],
+    "original_url": "https://google.github.io/building-secure-and-reliable-systems/",
+    "canonical_url": "https://www.oreilly.com/library/view/building-secure-and/9781492083115/",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": null,
+    "canonical_identity_status": "Exact first online edition verified by title, ISBN, publisher, publication date, pagination, official content manifest, and normalized text hash",
+    "repost_status": null,
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": null,
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [
+      {
+        "chapter": 1
+      },
+      {
+        "chapter": 2
+      },
+      {
+        "chapter": 3
+      },
+      {
+        "chapter": 4
+      },
+      {
+        "chapter": 5
+      },
+      {
+        "chapter": 6
+      },
+      {
+        "chapter": 7
+      },
+      {
+        "chapter": 8
+      },
+      {
+        "chapter": 9
+      },
+      {
+        "chapter": 10
+      },
+      {
+        "chapter": 11
+      },
+      {
+        "chapter": 12
+      },
+      {
+        "chapter": 13
+      },
+      {
+        "chapter": 14
+      },
+      {
+        "chapter": 15
+      },
+      {
+        "chapter": 16
+      },
+      {
+        "chapter": 17
+      },
+      {
+        "chapter": 18
+      },
+      {
+        "chapter": 19
+      },
+      {
+        "chapter": 20
+      },
+      {
+        "chapter": 21
+      },
+      {
+        "chapter": 22
+      }
+    ],
+    "analysis_basis": "Complete official first-edition HTML: 35 files and 176,914 normalized words read in full",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity",
+      "topic-enterprise-infrastructure"
+    ],
+    "executive_roles": [
+      "CISO",
+      "CIO",
+      "CTO",
+      "CEO",
+      "General Counsel",
+      "Board Director"
+    ],
+    "original_abstract": "A multi-author practitioner volume integrating security and reliability across design, implementation, deployment, incident response, recovery, organization, and culture.",
+    "inclusion_rationale": "Provides governance patterns for least privilege, contextual authorization, artifact provenance, auditability, recovery, and organizational accountability that can be carefully adapted to AI agents.",
+    "source_quality_dimensions": {
+      "authority": "Primary practitioner source from named Google and industry contributors",
+      "completeness": "Complete exact edition",
+      "independence": "Moderate to low; many examples concern the authors' employer",
+      "reproducibility": "High; stable official chapter and section URLs"
+    },
+    "methodology_quality": {
+      "design": "Multi-author practitioner synthesis",
+      "causal_strength": "Low to moderate for design reasoning; low for generalized outcomes",
+      "transparency": "Tradeoffs are commonly stated; case selection is not systematic"
+    },
+    "study_design": "Practitioner guidance, technical examples, incident narratives, and case studies",
+    "sample": {
+      "chapters": 22,
+      "content_files": 35
+    },
+    "population": "Large-scale software and infrastructure organizations",
+    "date_range": {
+      "edition": "2020"
+    },
+    "funding": null,
+    "sponsor": "Google",
+    "peer_review_status": "Editorially reviewed technical book; no formal academic peer review identified",
+    "findings": [],
+    "limitations": [
+      "Many recommendations reflect Google's scale, staffing, engineering maturity, and ability to build custom control planes.",
+      "The chapter evidence is primarily practitioner experience rather than externally replicated causal analysis.",
+      "The book predates modern general-purpose AI agents and does not define sponsor, delegation, session, model, tool-purpose, or decision-provenance identity fields.",
+      "Privacy, legal process, and geography are acknowledged but not developed into jurisdiction-specific operating models."
+    ],
+    "correction_ids": [],
+    "retraction_status": null,
+    "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+    "accessed_at": "2026-08-15",
+    "verification_status": "machine_verified_human_pending",
+    "source_depth": "complete_edition_deep_analysis",
+    "publication_status": "staging_only",
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://google.github.io/building-secure-and-reliable-systems/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "Complete exact edition retrieved from an official public source and reviewed in full",
+        "exact_locator": "All 35 official HTML files; chapter/section anchors",
+        "content_hash": "6bf5050c08be0bced81767ac14bd9b3303e34b3efb667806b3c9e9d6b0ed8cf1",
+        "batch_id": "BATCH-2026-003",
+        "prompt_id": "OEII-BOOK-DEEP-ANALYSIS",
+        "prompt_version": "2.0",
+        "notes": "Manifest hash ae702b4e64364217f179317b4a46de6a5e7c51045a79efa67522245d76667e16; no direct quotations stored"
+      }
+    ],
+    "revision_history": []
+  }
+]

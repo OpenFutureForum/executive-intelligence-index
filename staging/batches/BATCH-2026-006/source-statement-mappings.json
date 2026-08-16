@@ -1,0 +1,124 @@
+[
+  {
+    "source_id": "source-BATCH-2026-005-001",
+    "statement_ids": [
+      "statement-BATCH-2026-006-001",
+      "statement-BATCH-2026-006-002",
+      "statement-BATCH-2026-006-003"
+    ],
+    "held_candidate_ids": [],
+    "mapping_status": "coded",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-002",
+    "statement_ids": [
+      "statement-BATCH-2026-006-004",
+      "statement-BATCH-2026-006-005",
+      "statement-BATCH-2026-006-006",
+      "statement-BATCH-2026-006-007",
+      "statement-BATCH-2026-006-008"
+    ],
+    "held_candidate_ids": [],
+    "mapping_status": "coded",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-003",
+    "statement_ids": [
+      "statement-BATCH-2026-006-009",
+      "statement-BATCH-2026-006-010",
+      "statement-BATCH-2026-006-011",
+      "statement-BATCH-2026-006-012",
+      "statement-BATCH-2026-006-013",
+      "statement-BATCH-2026-006-014"
+    ],
+    "held_candidate_ids": [],
+    "mapping_status": "coded",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-004",
+    "statement_ids": [
+      "statement-BATCH-2026-006-015",
+      "statement-BATCH-2026-006-016",
+      "statement-BATCH-2026-006-017",
+      "statement-BATCH-2026-006-018",
+      "statement-BATCH-2026-006-019",
+      "statement-BATCH-2026-006-020",
+      "statement-BATCH-2026-006-021"
+    ],
+    "held_candidate_ids": [],
+    "mapping_status": "coded",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-005",
+    "statement_ids": [],
+    "held_candidate_ids": [
+      "held-BATCH-2026-006-001",
+      "held-BATCH-2026-006-002",
+      "held-BATCH-2026-006-003",
+      "held-BATCH-2026-006-004"
+    ],
+    "mapping_status": "duplicate_rendition_only",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-006",
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "held_candidate_ids": [],
+    "mapping_status": "coded",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-007",
+    "statement_ids": [
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-031",
+      "statement-BATCH-2026-006-032"
+    ],
+    "held_candidate_ids": [],
+    "mapping_status": "coded",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-008",
+    "statement_ids": [
+      "statement-BATCH-2026-006-033",
+      "statement-BATCH-2026-006-034",
+      "statement-BATCH-2026-006-035",
+      "statement-BATCH-2026-006-036",
+      "statement-BATCH-2026-006-037",
+      "statement-BATCH-2026-006-038"
+    ],
+    "held_candidate_ids": [],
+    "mapping_status": "coded",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-009",
+    "statement_ids": [
+      "statement-BATCH-2026-006-039",
+      "statement-BATCH-2026-006-040",
+      "statement-BATCH-2026-006-041",
+      "statement-BATCH-2026-006-042",
+      "statement-BATCH-2026-006-043",
+      "statement-BATCH-2026-006-044",
+      "statement-BATCH-2026-006-045",
+      "statement-BATCH-2026-006-046"
+    ],
+    "held_candidate_ids": [],
+    "mapping_status": "coded",
+    "human_review_status": "pending"
+  }
+]

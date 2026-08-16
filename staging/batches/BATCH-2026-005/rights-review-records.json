@@ -1,0 +1,110 @@
+[
+  {
+    "source_id": "source-BATCH-2026-005-001",
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "access_basis": "Official NIST publication page and its analytical abstract reviewed; no full report file was exposed by the canonical page.",
+    "stored_material": "metadata, original analytical summaries, brief statistical cells, and exact locators only",
+    "full_text_stored_in_repository": false,
+    "tables_or_figures_republished": false,
+    "direct_quotes_staged": false,
+    "special_note": "Third-party rights retained by source owners.",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-002",
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "access_basis": "Complete official 64-page PDF reviewed; governance action tables and Appendix A limitation text visually inspected.",
+    "stored_material": "metadata, original analytical summaries, brief statistical cells, and exact locators only",
+    "full_text_stored_in_repository": false,
+    "tables_or_figures_republished": false,
+    "direct_quotes_staged": false,
+    "special_note": "NIST government publication; conservative link-and-paraphrase treatment retained.",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-003",
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "access_basis": "Complete official IETF HTML rendition reviewed with stable section and paragraph locators.",
+    "stored_material": "metadata, original analytical summaries, brief statistical cells, and exact locators only",
+    "full_text_stored_in_repository": false,
+    "tables_or_figures_republished": false,
+    "direct_quotes_staged": false,
+    "special_note": "IETF Trust legal provisions apply to the source; no source text is republished.",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-004",
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "access_basis": "Complete official 33-page PDF reviewed; identity, delegation, auditability, and use-case sections inspected visually.",
+    "stored_material": "metadata, original analytical summaries, brief statistical cells, and exact locators only",
+    "full_text_stored_in_repository": false,
+    "tables_or_figures_republished": false,
+    "direct_quotes_staged": false,
+    "special_note": "Third-party rights retained by source owners.",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-005",
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "access_basis": "Complete arXiv v1 PDF reviewed and compared with the OpenID rendition; the content is substantially the same intellectual work with rendition-level differences.",
+    "stored_material": "metadata, original analytical summaries, brief statistical cells, and exact locators only",
+    "full_text_stored_in_repository": false,
+    "tables_or_figures_republished": false,
+    "direct_quotes_staged": false,
+    "special_note": "Third-party rights retained by source owners.",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-006",
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "access_basis": "Complete 26-page v3 conference paper reviewed; benchmark composition, figures, Tables 1 and 3-5, confidence intervals, limitations, and funding inspected visually.",
+    "stored_material": "metadata, original analytical summaries, brief statistical cells, and exact locators only",
+    "full_text_stored_in_repository": false,
+    "tables_or_figures_republished": false,
+    "direct_quotes_staged": false,
+    "special_note": "Third-party rights retained by source owners.",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-007",
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "access_basis": "Complete 36-page v4 paper reviewed; attack/defense definitions, scenario tables, metric table, result tables, and reproducibility appendix inspected visually.",
+    "stored_material": "metadata, original analytical summaries, brief statistical cells, and exact locators only",
+    "full_text_stored_in_repository": false,
+    "tables_or_figures_republished": false,
+    "direct_quotes_staged": false,
+    "special_note": "Third-party rights retained by source owners.",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-008",
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "access_basis": "Complete 10-page v2 preprint reviewed; Tables 1-2, Figures 2-3, methods, results, and limitation text inspected visually.",
+    "stored_material": "metadata, original analytical summaries, brief statistical cells, and exact locators only",
+    "full_text_stored_in_repository": false,
+    "tables_or_figures_republished": false,
+    "direct_quotes_staged": false,
+    "special_note": "Third-party rights retained by source owners.",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-009",
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "access_basis": "Complete official 23-page PDF reviewed; definition, accountability, monitoring, attribution, interruptibility, indirect impacts, and acknowledgements inspected visually.",
+    "stored_material": "metadata, original analytical summaries, brief statistical cells, and exact locators only",
+    "full_text_stored_in_repository": false,
+    "tables_or_figures_republished": false,
+    "direct_quotes_staged": false,
+    "special_note": "Third-party rights retained by source owners.",
+    "human_review_status": "pending"
+  }
+]

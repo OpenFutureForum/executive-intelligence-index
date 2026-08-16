@@ -1,0 +1,902 @@
+[
+  {
+    "person_candidate_id": "person-BATCH-2026-005-jared-riggs",
+    "person_name": "Jared Riggs",
+    "source_id": "source-BATCH-2026-005-001",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "NIST CAISI",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-maia-hamin",
+    "person_name": "Maia Hamin",
+    "source_id": "source-BATCH-2026-005-001",
+    "relationship": "author",
+    "author_order": 2,
+    "affiliation_at_source_time": "NIST CAISI",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-neil-perry",
+    "person_name": "Neil Perry",
+    "source_id": "source-BATCH-2026-005-001",
+    "relationship": "author",
+    "author_order": 3,
+    "affiliation_at_source_time": "NIST CAISI",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-benjamin-edelman",
+    "person_name": "Benjamin Edelman",
+    "source_id": "source-BATCH-2026-005-001",
+    "relationship": "author",
+    "author_order": 4,
+    "affiliation_at_source_time": "NIST CAISI",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-peter-cihon",
+    "person_name": "Peter Cihon",
+    "source_id": "source-BATCH-2026-005-001",
+    "relationship": "author",
+    "author_order": 5,
+    "affiliation_at_source_time": "NIST CAISI",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-pieter-kasselman",
+    "person_name": "Pieter Kasselman",
+    "source_id": "source-BATCH-2026-005-003",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "Defakto Security",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-jeff-lombardo",
+    "person_name": "Jeff Lombardo",
+    "source_id": "source-BATCH-2026-005-003",
+    "relationship": "author",
+    "author_order": 2,
+    "affiliation_at_source_time": "AWS",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-yaron-rosomakho",
+    "person_name": "Yaron Rosomakho",
+    "source_id": "source-BATCH-2026-005-003",
+    "relationship": "author",
+    "author_order": 3,
+    "affiliation_at_source_time": "Zscaler",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-brian-campbell",
+    "person_name": "Brian Campbell",
+    "source_id": "source-BATCH-2026-005-003",
+    "relationship": "author",
+    "author_order": 4,
+    "affiliation_at_source_time": "Ping Identity",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-nick-steele",
+    "person_name": "Nick Steele",
+    "source_id": "source-BATCH-2026-005-003",
+    "relationship": "author",
+    "author_order": 5,
+    "affiliation_at_source_time": "OpenAI",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-aaron-parecki",
+    "person_name": "Aaron Parecki",
+    "source_id": "source-BATCH-2026-005-003",
+    "relationship": "author",
+    "author_order": 6,
+    "affiliation_at_source_time": "Okta",
+    "verification_basis": "official HTML author metadata",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-tobin-south",
+    "person_name": "Tobin South",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "lead_editor",
+    "author_order": 1,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+    "person_name": "Subramanya Nagabhushanaradhya",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 2,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-ayesha-dissanayaka",
+    "person_name": "Ayesha Dissanayaka",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 3,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-sarah-cecchetti",
+    "person_name": "Sarah Cecchetti",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 4,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-george-fletcher",
+    "person_name": "George Fletcher",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 5,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-victor-lu",
+    "person_name": "Victor Lu",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 6,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-aldo-pietropaolo",
+    "person_name": "Aldo Pietropaolo",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 7,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-dean-h-saxe",
+    "person_name": "Dean H. Saxe",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 8,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-jeff-lombardo",
+    "person_name": "Jeff Lombardo",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 9,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-abhishek-shivalingaiah",
+    "person_name": "Abhishek Shivalingaiah",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 10,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-stan-bounev",
+    "person_name": "Stan Bounev",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 11,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-alex-keisner",
+    "person_name": "Alex Keisner",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 12,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-andor-kesselman",
+    "person_name": "Andor Kesselman",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 13,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-zack-proser",
+    "person_name": "Zack Proser",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 14,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-ginny-fahs",
+    "person_name": "Ginny Fahs",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 15,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-andrew-bunyea",
+    "person_name": "Andrew Bunyea",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 16,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-ben-moskowitz",
+    "person_name": "Ben Moskowitz",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 17,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-atul-tulshibagwale",
+    "person_name": "Atul Tulshibagwale",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 18,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-dazza-greenwood",
+    "person_name": "Dazza Greenwood",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 19,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-jiaxin-pei",
+    "person_name": "Jiaxin Pei",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 20,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-alex-pentland",
+    "person_name": "Alex Pentland",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 21,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-tobin-south",
+    "person_name": "Tobin South",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+    "person_name": "Subramanya Nagabhushanaradhya",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 2,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-ayesha-dissanayaka",
+    "person_name": "Ayesha Dissanayaka",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 3,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-sarah-cecchetti",
+    "person_name": "Sarah Cecchetti",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 4,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-george-fletcher",
+    "person_name": "George Fletcher",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 5,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-victor-lu",
+    "person_name": "Victor Lu",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 6,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-aldo-pietropaolo",
+    "person_name": "Aldo Pietropaolo",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 7,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-dean-h-saxe",
+    "person_name": "Dean H. Saxe",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 8,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-jeff-lombardo",
+    "person_name": "Jeff Lombardo",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 9,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-abhishek-shivalingaiah",
+    "person_name": "Abhishek Shivalingaiah",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 10,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-stan-bounev",
+    "person_name": "Stan Bounev",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 11,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-alex-keisner",
+    "person_name": "Alex Keisner",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 12,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-andor-kesselman",
+    "person_name": "Andor Kesselman",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 13,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-zack-proser",
+    "person_name": "Zack Proser",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 14,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-ginny-fahs",
+    "person_name": "Ginny Fahs",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 15,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-andrew-bunyea",
+    "person_name": "Andrew Bunyea",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 16,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-ben-moskowitz",
+    "person_name": "Ben Moskowitz",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 17,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-atul-tulshibagwale",
+    "person_name": "Atul Tulshibagwale",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 18,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-dazza-greenwood",
+    "person_name": "Dazza Greenwood",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 19,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-jiaxin-pei",
+    "person_name": "Jiaxin Pei",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 20,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-alex-pentland",
+    "person_name": "Alex Pentland",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 21,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "person_name": "Edoardo Debenedetti",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "ETH Zurich",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-jie-zhang",
+    "person_name": "Jie Zhang",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 2,
+    "affiliation_at_source_time": "ETH Zurich",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-mislav-balunovic",
+    "person_name": "Mislav Balunovic",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 3,
+    "affiliation_at_source_time": "ETH Zurich; Invariant Labs",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "person_name": "Luca Beurer-Kellner",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 4,
+    "affiliation_at_source_time": "ETH Zurich; Invariant Labs",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-marc-fischer",
+    "person_name": "Marc Fischer",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 5,
+    "affiliation_at_source_time": "ETH Zurich; Invariant Labs",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-florian-tramer",
+    "person_name": "Florian Tramer",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 6,
+    "affiliation_at_source_time": "ETH Zurich",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-hanrong-zhang",
+    "person_name": "Hanrong Zhang",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "Zhejiang University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-jingyuan-huang",
+    "person_name": "Jingyuan Huang",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 2,
+    "affiliation_at_source_time": "Rutgers University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-kai-mei",
+    "person_name": "Kai Mei",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 3,
+    "affiliation_at_source_time": "Rutgers University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-yifei-yao",
+    "person_name": "Yifei Yao",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 4,
+    "affiliation_at_source_time": "Zhejiang University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-zhenting-wang",
+    "person_name": "Zhenting Wang",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 5,
+    "affiliation_at_source_time": "Rutgers University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-chenlu-zhan",
+    "person_name": "Chenlu Zhan",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 6,
+    "affiliation_at_source_time": "Zhejiang University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-hongwei-wang",
+    "person_name": "Hongwei Wang",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 7,
+    "affiliation_at_source_time": "Zhejiang University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "person_name": "Yongfeng Zhang",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 8,
+    "affiliation_at_source_time": "Rutgers University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "person_name": "Yuxuan Zhu",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "University of Illinois Urbana-Champaign",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-antony-kellermann",
+    "person_name": "Antony Kellermann",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 2,
+    "affiliation_at_source_time": "independent affiliation listed by email only",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-akul-gupta",
+    "person_name": "Akul Gupta",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 3,
+    "affiliation_at_source_time": "University of Illinois Urbana-Champaign",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-philip-li",
+    "person_name": "Philip Li",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 4,
+    "affiliation_at_source_time": "University of Illinois Urbana-Champaign",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-richard-fang",
+    "person_name": "Richard Fang",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 5,
+    "affiliation_at_source_time": "University of Illinois Urbana-Champaign",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-rohan-bindu",
+    "person_name": "Rohan Bindu",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 6,
+    "affiliation_at_source_time": "University of Illinois Urbana-Champaign",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-daniel-kang",
+    "person_name": "Daniel Kang",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 7,
+    "affiliation_at_source_time": "University of Illinois Urbana-Champaign",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-yonadav-shavit",
+    "person_name": "Yonadav Shavit",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-sandhini-agarwal",
+    "person_name": "Sandhini Agarwal",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 2,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-miles-brundage",
+    "person_name": "Miles Brundage",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 3,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-steven-adler",
+    "person_name": "Steven Adler",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 4,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-cullen-o-keefe",
+    "person_name": "Cullen O'Keefe",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 5,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-rosie-campbell",
+    "person_name": "Rosie Campbell",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 6,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-teddy-lee",
+    "person_name": "Teddy Lee",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 7,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-pamela-mishkin",
+    "person_name": "Pamela Mishkin",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 8,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-tyna-eloundou",
+    "person_name": "Tyna Eloundou",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 9,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-alan-hickey",
+    "person_name": "Alan Hickey",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 10,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-katarina-slama",
+    "person_name": "Katarina Slama",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 11,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-lama-ahmad",
+    "person_name": "Lama Ahmad",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 12,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-paul-mcmillan",
+    "person_name": "Paul McMillan",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 13,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-alex-beutel",
+    "person_name": "Alex Beutel",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 14,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-alexandre-passos",
+    "person_name": "Alexandre Passos",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 15,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  },
+  {
+    "person_candidate_id": "person-BATCH-2026-005-david-g-robinson",
+    "person_name": "David G. Robinson",
+    "source_id": "source-BATCH-2026-005-009",
+    "relationship": "author",
+    "author_order": 16,
+    "affiliation_at_source_time": "not reported in paper",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending"
+  }
+]

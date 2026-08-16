@@ -1,0 +1,45 @@
+name: "Research batch proposal"
+description: "Submit one evidence-backed research batch proposal for editorial review."
+title: "Research batch proposal: "
+labels: [research]
+body:
+  - type: markdown
+    attributes:
+      value: "Submission does not guarantee inclusion. Do not include private source material, personal contact details, or copyrighted full text."
+  - type: textarea
+    id: field_1
+    attributes:
+      label: "Research question"
+    validations:
+      required: true
+  - type: textarea
+    id: field_2
+    attributes:
+      label: "Scope and time period"
+    validations:
+      required: true
+  - type: textarea
+    id: field_3
+    attributes:
+      label: "Inclusion criteria"
+    validations:
+      required: true
+  - type: textarea
+    id: field_4
+    attributes:
+      label: "Exclusion criteria"
+    validations:
+      required: true
+  - type: textarea
+    id: field_5
+    attributes:
+      label: "Planned search queries"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Submission confirmation
+      options:
+        - label: I have provided public evidence and disclosed relevant relationships.
+          required: true

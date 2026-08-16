@@ -1,0 +1,172 @@
+[
+  {
+    "person_name": "Tobin South",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "lead_editor",
+    "author_order": 1,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-tobin-south"
+  },
+  {
+    "person_name": "Alex Pentland",
+    "source_id": "source-BATCH-2026-005-004",
+    "relationship": "contributor",
+    "author_order": 21,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-alex-pentland"
+  },
+  {
+    "person_name": "Tobin South",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-tobin-south"
+  },
+  {
+    "person_name": "Alex Pentland",
+    "source_id": "source-BATCH-2026-005-005",
+    "relationship": "author",
+    "author_order": 21,
+    "affiliation_at_source_time": "not reported",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-alex-pentland"
+  },
+  {
+    "person_name": "Edoardo Debenedetti",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "ETH Zurich",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti"
+  },
+  {
+    "person_name": "Jie Zhang",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 2,
+    "affiliation_at_source_time": "ETH Zurich",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-jie-zhang"
+  },
+  {
+    "person_name": "Mislav Balunovic",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 3,
+    "affiliation_at_source_time": "ETH Zurich; Invariant Labs",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-mislav-balunovic"
+  },
+  {
+    "person_name": "Luca Beurer-Kellner",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 4,
+    "affiliation_at_source_time": "ETH Zurich; Invariant Labs",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner"
+  },
+  {
+    "person_name": "Marc Fischer",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 5,
+    "affiliation_at_source_time": "ETH Zurich; Invariant Labs",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-marc-fischer"
+  },
+  {
+    "person_name": "Florian Tramer",
+    "source_id": "source-BATCH-2026-005-006",
+    "relationship": "author",
+    "author_order": 6,
+    "affiliation_at_source_time": "ETH Zurich",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-florian-tramer"
+  },
+  {
+    "person_name": "Hanrong Zhang",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "Zhejiang University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-hanrong-zhang"
+  },
+  {
+    "person_name": "Jingyuan Huang",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 2,
+    "affiliation_at_source_time": "Rutgers University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-jingyuan-huang"
+  },
+  {
+    "person_name": "Kai Mei",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 3,
+    "affiliation_at_source_time": "Rutgers University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-kai-mei"
+  },
+  {
+    "person_name": "Yongfeng Zhang",
+    "source_id": "source-BATCH-2026-005-007",
+    "relationship": "author",
+    "author_order": 8,
+    "affiliation_at_source_time": "Rutgers University",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang"
+  },
+  {
+    "person_name": "Yuxuan Zhu",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 1,
+    "affiliation_at_source_time": "University of Illinois Urbana-Champaign",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu"
+  },
+  {
+    "person_name": "Richard Fang",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 5,
+    "affiliation_at_source_time": "University of Illinois Urbana-Champaign",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-richard-fang"
+  },
+  {
+    "person_name": "Daniel Kang",
+    "source_id": "source-BATCH-2026-005-008",
+    "relationship": "author",
+    "author_order": 7,
+    "affiliation_at_source_time": "University of Illinois Urbana-Champaign",
+    "verification_basis": "PDF title or contributor page",
+    "human_review_status": "pending",
+    "person_id": "person-BATCH-2026-005-daniel-kang"
+  }
+]

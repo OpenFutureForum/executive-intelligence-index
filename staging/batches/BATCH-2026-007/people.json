@@ -1,0 +1,1852 @@
+[
+  {
+    "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+    "canonical_name": "Edoardo Debenedetti",
+    "display_name": "Edoardo Debenedetti",
+    "alternate_names": [
+      "E. Debenedetti"
+    ],
+    "name_disambiguation_note": "The AgentDojo first author who is listed as a PhD student in Florian Tramèr's ETH Zurich SPY Lab.",
+    "external_identifiers": {
+      "personal_website": "https://edoardo.science/"
+    },
+    "current_role": "PhD Student",
+    "current_organization_reference": "ETH Zurich",
+    "current_role_source": "https://spylab.ai/",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_lab_page_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 1,
+        "organization_at_source_time": "ETH Zurich",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-edoardo-debenedetti",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 1,
+        "organization_at_source_time": "ETH Zurich",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "Switzerland"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spylab.ai/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "People — Edoardo Debenedetti — PhD Student",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v3; byline/contributor relationship and source-time affiliation",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jie-zhang",
+    "canonical_name": "Jie Zhang",
+    "display_name": "Jie Zhang",
+    "alternate_names": [
+      "J. Zhang"
+    ],
+    "name_disambiguation_note": "The AgentDojo coauthor in Florian Tramèr's ETH Zurich SPY Lab, not another researcher with the same name.",
+    "external_identifiers": {
+      "official_profile_url": "https://zj-jayzhang.github.io/"
+    },
+    "current_role": "PhD Student",
+    "current_organization_reference": "ETH Zurich",
+    "current_role_source": "https://spylab.ai/",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_lab_page_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-jie-zhang",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 2,
+        "organization_at_source_time": "ETH Zurich",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-jie-zhang",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 2,
+        "organization_at_source_time": "ETH Zurich",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "Switzerland"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://spylab.ai/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "People — Jie Zhang — PhD Student",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v3; byline/contributor relationship and source-time affiliation",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-mislav-balunovic",
+    "canonical_name": "Mislav Balunović",
+    "display_name": "Mislav Balunović",
+    "alternate_names": [
+      "Mislav Balunovic",
+      "M. Balunović",
+      "M. Balunovic"
+    ],
+    "name_disambiguation_note": "The AgentDojo coauthor affiliated with ETH Zurich and Invariant Labs in the indexed source; diacritic-free author forms refer to the same person.",
+    "external_identifiers": {
+      "eth_profile_url": "https://www.sri.inf.ethz.ch/people/mislav",
+      "insait_profile_url": "https://insait.ai/mislav-balunovic/"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "unresolved_conflicting_current_sources",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-mislav-balunovic",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 3,
+        "organization_at_source_time": "ETH Zurich; Invariant Labs",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-mislav-balunovic",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 3,
+        "organization_at_source_time": "ETH Zurich; Invariant Labs",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "Switzerland"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_and_authorship_verified_current_role_unresolved_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.sri.inf.ethz.ch/people/mislav",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional profile review",
+        "exact_locator": "Profile heading — Post-Doc at ETH Zurich",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Conflicts with INSAIT past-member status and a newer self-maintained professional profile; exact present appointment held unresolved."
+      },
+      {
+        "source_url": "https://insait.ai/phd-post-docs-research-scientists/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional directory review",
+        "exact_locator": "Past Members — Dr. Mislav Balunović",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Shows the INSAIT appointment is historical, but does not establish a current role."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v3; byline/contributor relationship and source-time affiliation",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+    "canonical_name": "Luca Beurer-Kellner",
+    "display_name": "Luca Beurer-Kellner",
+    "alternate_names": [
+      "L. Beurer-Kellner"
+    ],
+    "name_disambiguation_note": "The AgentDojo coauthor affiliated with ETH Zurich and Invariant Labs in the indexed source.",
+    "external_identifiers": {},
+    "current_role": "Chief Technology Officer",
+    "current_organization_reference": "Invariant Labs AG",
+    "current_role_source": "https://invariantlabs.ai/about",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_company_page_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 4,
+        "organization_at_source_time": "ETH Zurich; Invariant Labs",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-luca-beurer-kellner",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 4,
+        "organization_at_source_time": "ETH Zurich; Invariant Labs",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "Switzerland"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://invariantlabs.ai/about",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "About — Luca Beurer-Kellner — Chief Technology Officer",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v3; byline/contributor relationship and source-time affiliation",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-marc-fischer",
+    "canonical_name": "Marc Fischer",
+    "display_name": "Marc Fischer",
+    "alternate_names": [
+      "M. Fischer"
+    ],
+    "name_disambiguation_note": "The AgentDojo coauthor affiliated with ETH Zurich and Invariant Labs in the indexed source.",
+    "external_identifiers": {},
+    "current_role": "Chief Executive Officer",
+    "current_organization_reference": "Invariant Labs AG",
+    "current_role_source": "https://invariantlabs.ai/about",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_company_page_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-marc-fischer",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 5,
+        "organization_at_source_time": "ETH Zurich; Invariant Labs",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-marc-fischer",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 5,
+        "organization_at_source_time": "ETH Zurich; Invariant Labs",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "Switzerland"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://invariantlabs.ai/about",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "About — Marc Fischer — Chief Executive Officer",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v3; byline/contributor relationship and source-time affiliation",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-florian-tramer",
+    "canonical_name": "Florian Tramèr",
+    "display_name": "Florian Tramèr",
+    "alternate_names": [
+      "Florian Tramer",
+      "F. Tramèr",
+      "F. Tramer"
+    ],
+    "name_disambiguation_note": "The ETH Zurich professor and final AgentDojo author; diacritic-free forms refer to the same person.",
+    "external_identifiers": {
+      "orcid": "0000-0001-8703-8762",
+      "official_profile_url": "https://inf.ethz.ch/people/people-atoz/person-detail.MjU5NzMw.TGlzdC8zMDQsLTIxNDE4MTU0NjA%3D.html"
+    },
+    "current_role": "Assistant Professor at the Department of Computer Science",
+    "current_organization_reference": "ETH Zurich",
+    "current_role_source": "https://inf.ethz.ch/people/people-atoz/person-detail.MjU5NzMw.TGlzdC8zMDQsLTIxNDE4MTU0NjA%3D.html",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_university_profile_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-florian-tramer",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 6,
+        "organization_at_source_time": "ETH Zurich",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-florian-tramer",
+        "source_id": "source-BATCH-2026-005-006",
+        "source_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+        "source_version": "arXiv v3",
+        "relationship": "author",
+        "author_order": 6,
+        "organization_at_source_time": "ETH Zurich",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "Switzerland"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security",
+      "prompt injection evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-006"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-027"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://inf.ethz.ch/people/people-atoz/person-detail.MjU5NzMw.TGlzdC8zMDQsLTIxNDE4MTU0NjA%3D.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "Profile heading — Assistant Professor at the Department of Computer Science",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v3; byline/contributor relationship and source-time affiliation",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-hanrong-zhang",
+    "canonical_name": "Hanrong Zhang",
+    "display_name": "Hanrong Zhang",
+    "alternate_names": [
+      "H. Zhang"
+    ],
+    "name_disambiguation_note": "The first author of Agent Security Bench, formerly at Zhejiang University and now documented in a self-authored CV as a UIC PhD student.",
+    "external_identifiers": {
+      "personal_cv_url": "https://zhang-henry.github.io/assets/pdf/CV_Hanrong_Zhang.pdf"
+    },
+    "current_role": "PhD Student in Computer Science",
+    "current_organization_reference": "University of Illinois Chicago",
+    "current_role_source": "https://zhang-henry.github.io/assets/pdf/CV_Hanrong_Zhang.pdf",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_self_authored_cv_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-hanrong-zhang",
+        "source_id": "source-BATCH-2026-005-007",
+        "source_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+        "source_version": "arXiv v4; ICLR 2025",
+        "relationship": "author",
+        "author_order": 1,
+        "organization_at_source_time": "Zhejiang University",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-hanrong-zhang",
+        "source_id": "source-BATCH-2026-005-007",
+        "source_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+        "source_version": "arXiv v4; ICLR 2025",
+        "relationship": "author",
+        "author_order": 1,
+        "organization_at_source_time": "Zhejiang University",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "United States",
+      "China"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security benchmarking",
+      "agent attack and defense evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-031",
+      "statement-BATCH-2026-006-032"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://zhang-henry.github.io/assets/pdf/CV_Hanrong_Zhang.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "CV p. 1, Education — University of Illinois Chicago, Aug. 2025–Present; updated July 14, 2026",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2410.02644",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v4; ICLR 2025; byline/contributor relationship and source-time affiliation",
+        "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-jingyuan-huang",
+    "canonical_name": "Jingyuan Huang",
+    "display_name": "Jingyuan Huang",
+    "alternate_names": [
+      "J. Huang"
+    ],
+    "name_disambiguation_note": "The Agent Security Bench coauthor listed in Rutgers Computer Science's graduate directory under netid jh2164.",
+    "external_identifiers": {
+      "rutgers_netid": "jh2164"
+    },
+    "current_role": "PhD Student",
+    "current_organization_reference": "Rutgers University",
+    "current_role_source": "https://www.cs.rutgers.edu/people/directory.php?netid=jh2164&type=grad",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_university_directory_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-jingyuan-huang",
+        "source_id": "source-BATCH-2026-005-007",
+        "source_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+        "source_version": "arXiv v4; ICLR 2025",
+        "relationship": "author",
+        "author_order": 2,
+        "organization_at_source_time": "Rutgers University",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-jingyuan-huang",
+        "source_id": "source-BATCH-2026-005-007",
+        "source_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+        "source_version": "arXiv v4; ICLR 2025",
+        "relationship": "author",
+        "author_order": 2,
+        "organization_at_source_time": "Rutgers University",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "United States"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security benchmarking",
+      "agent attack and defense evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-031",
+      "statement-BATCH-2026-006-032"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.cs.rutgers.edu/people/directory.php?netid=jh2164&type=grad",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "Student Information — Jingyuan Huang — Program: PhD",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2410.02644",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v4; ICLR 2025; byline/contributor relationship and source-time affiliation",
+        "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-kai-mei",
+    "canonical_name": "Kai Mei",
+    "display_name": "Kai Mei",
+    "alternate_names": [
+      "K. Mei"
+    ],
+    "name_disambiguation_note": "The Agent Security Bench coauthor listed as a graduate student by Rutgers Computer Science, not another professional with the same name.",
+    "external_identifiers": {
+      "rutgers_netid": "km1558"
+    },
+    "current_role": "Graduate Student",
+    "current_organization_reference": "Rutgers University",
+    "current_role_source": "https://computerscience.rutgers.edu/people/graduate-students/details/kai-mei",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_university_directory_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-kai-mei",
+        "source_id": "source-BATCH-2026-005-007",
+        "source_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+        "source_version": "arXiv v4; ICLR 2025",
+        "relationship": "author",
+        "author_order": 3,
+        "organization_at_source_time": "Rutgers University",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-kai-mei",
+        "source_id": "source-BATCH-2026-005-007",
+        "source_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+        "source_version": "arXiv v4; ICLR 2025",
+        "relationship": "author",
+        "author_order": 3,
+        "organization_at_source_time": "Rutgers University",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "United States"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security benchmarking",
+      "agent attack and defense evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-031",
+      "statement-BATCH-2026-006-032"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://computerscience.rutgers.edu/people/graduate-students/details/kai-mei",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "Graduate Student Details — Kai Mei",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2410.02644",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v4; ICLR 2025; byline/contributor relationship and source-time affiliation",
+        "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+    "canonical_name": "Yongfeng Zhang",
+    "display_name": "Yongfeng Zhang",
+    "alternate_names": [
+      "Y. Zhang"
+    ],
+    "name_disambiguation_note": "The Rutgers faculty member and eighth author of Agent Security Bench, not another researcher named Yongfeng Zhang.",
+    "external_identifiers": {
+      "official_profile_url": "https://www.cs.rutgers.edu/people/professors/details/yongfeng-zhang"
+    },
+    "current_role": "Associate Professor, Director of the Master Program",
+    "current_organization_reference": "Rutgers University",
+    "current_role_source": "https://www.cs.rutgers.edu/people/professors/details/yongfeng-zhang",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_university_profile_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+        "source_id": "source-BATCH-2026-005-007",
+        "source_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+        "source_version": "arXiv v4; ICLR 2025",
+        "relationship": "author",
+        "author_order": 8,
+        "organization_at_source_time": "Rutgers University",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-yongfeng-zhang",
+        "source_id": "source-BATCH-2026-005-007",
+        "source_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+        "source_version": "arXiv v4; ICLR 2025",
+        "relationship": "author",
+        "author_order": 8,
+        "organization_at_source_time": "Rutgers University",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "United States"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent security benchmarking",
+      "agent attack and defense evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-007"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-031",
+      "statement-BATCH-2026-006-032"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.cs.rutgers.edu/people/professors/details/yongfeng-zhang",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "Faculty Details — Associate Professor, Director of the Master Program",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2410.02644",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v4; ICLR 2025; byline/contributor relationship and source-time affiliation",
+        "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+    "canonical_name": "Yuxuan Zhu",
+    "display_name": "Yuxuan Zhu",
+    "alternate_names": [
+      "Y. Zhu"
+    ],
+    "name_disambiguation_note": "The first author of the indexed HPTSA paper and Daniel Kang advisee at the University of Illinois Urbana-Champaign.",
+    "external_identifiers": {
+      "personal_cv_url": "https://yuxuan18.github.io/assets/cv.pdf"
+    },
+    "current_role": "PhD Student in Computer Science",
+    "current_organization_reference": "University of Illinois Urbana-Champaign",
+    "current_role_source": "https://yuxuan18.github.io/assets/cv.pdf",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_self_authored_cv_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+        "source_id": "source-BATCH-2026-005-008",
+        "source_title": "Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities",
+        "source_version": "arXiv v2 submitted 2025-03-30",
+        "relationship": "author",
+        "author_order": 1,
+        "organization_at_source_time": "University of Illinois Urbana-Champaign",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-yuxuan-zhu",
+        "source_id": "source-BATCH-2026-005-008",
+        "source_title": "Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities",
+        "source_version": "arXiv v2 submitted 2025-03-30",
+        "relationship": "author",
+        "author_order": 1,
+        "organization_at_source_time": "University of Illinois Urbana-Champaign",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "United States"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI red-teaming agents",
+      "zero-day vulnerability evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-008"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-008"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-033",
+      "statement-BATCH-2026-006-034",
+      "statement-BATCH-2026-006-035",
+      "statement-BATCH-2026-006-036",
+      "statement-BATCH-2026-006-037",
+      "statement-BATCH-2026-006-038"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://yuxuan18.github.io/assets/cv.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "CV p. 1, Education — UIUC PhD, Aug. 2023–present; dated March 1, 2026",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.01637",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v2 submitted 2025-03-30; byline/contributor relationship and source-time affiliation",
+        "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-richard-fang",
+    "canonical_name": "Richard Fang",
+    "display_name": "Richard Fang",
+    "alternate_names": [
+      "R. Fang"
+    ],
+    "name_disambiguation_note": "The HPTSA coauthor who participated in Daniel Kang's UIUC research program; current appointment is held unresolved because recent professional profiles do not agree or state an exact role.",
+    "external_identifiers": {
+      "openreview_profile": "https://openreview.net/profile?id=~Richard_Fang1",
+      "uiuc_profile_url": "https://siebelschool.illinois.edu/research/undergraduate-research/summer-research-experience-undergraduates/participants/Richard-Fang"
+    },
+    "current_role": null,
+    "current_organization_reference": null,
+    "current_role_source": null,
+    "current_role_verified_at": null,
+    "current_role_freshness_status": "unresolved_conflicting_or_incomplete_current_sources",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-richard-fang",
+        "source_id": "source-BATCH-2026-005-008",
+        "source_title": "Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities",
+        "source_version": "arXiv v2 submitted 2025-03-30",
+        "relationship": "author",
+        "author_order": 5,
+        "organization_at_source_time": "University of Illinois Urbana-Champaign",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-richard-fang",
+        "source_id": "source-BATCH-2026-005-008",
+        "source_title": "Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities",
+        "source_version": "arXiv v2 submitted 2025-03-30",
+        "relationship": "author",
+        "author_order": 5,
+        "organization_at_source_time": "University of Illinois Urbana-Champaign",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "United States"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI red-teaming agents",
+      "zero-day vulnerability evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-008"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-008"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-033",
+      "statement-BATCH-2026-006-034",
+      "statement-BATCH-2026-006-035",
+      "statement-BATCH-2026-006-036",
+      "statement-BATCH-2026-006-037",
+      "statement-BATCH-2026-006-038"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_and_authorship_verified_current_role_unresolved_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://siebelschool.illinois.edu/research/undergraduate-research/summer-research-experience-undergraduates/participants/Richard-Fang",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional profile review",
+        "exact_locator": "2024 research participant — UIUC, freshman, faculty mentor Daniel Kang",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Verifies source-era identity but is not fresh enough to establish a current role."
+      },
+      {
+        "source_url": "https://openreview.net/profile?id=~Richard_Fang1",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "public scholarly identity profile review",
+        "exact_locator": "Career & Education History — UIUC undergraduate, 2023–2027",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Conflicts with a newer self-maintained professional profile indicating Stanford education; exact present role held unresolved."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.01637",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v2 submitted 2025-03-30; byline/contributor relationship and source-time affiliation",
+        "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-daniel-kang",
+    "canonical_name": "Daniel Kang",
+    "display_name": "Daniel Kang",
+    "alternate_names": [
+      "D. Kang"
+    ],
+    "name_disambiguation_note": "The UIUC faculty member and final author of the indexed HPTSA paper.",
+    "external_identifiers": {
+      "official_profile_url": "https://siebelschool.illinois.edu/about/people/faculty/ddkang"
+    },
+    "current_role": "Assistant Professor",
+    "current_organization_reference": "University of Illinois Urbana-Champaign",
+    "current_role_source": "https://siebelschool.illinois.edu/about/people/faculty/ddkang",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_university_profile_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-daniel-kang",
+        "source_id": "source-BATCH-2026-005-008",
+        "source_title": "Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities",
+        "source_version": "arXiv v2 submitted 2025-03-30",
+        "relationship": "author",
+        "author_order": 7,
+        "organization_at_source_time": "University of Illinois Urbana-Champaign",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-daniel-kang",
+        "source_id": "source-BATCH-2026-005-008",
+        "source_title": "Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities",
+        "source_version": "arXiv v2 submitted 2025-03-30",
+        "relationship": "author",
+        "author_order": 7,
+        "organization_at_source_time": "University of Illinois Urbana-Champaign",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "verified_from_source_byline_and_affiliation",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "United States"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI red-teaming agents",
+      "zero-day vulnerability evaluation"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-008"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-008"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-033",
+      "statement-BATCH-2026-006-034",
+      "statement-BATCH-2026-006-035",
+      "statement-BATCH-2026-006-036",
+      "statement-BATCH-2026-006-037",
+      "statement-BATCH-2026-006-038"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://siebelschool.illinois.edu/about/people/faculty/ddkang",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "Faculty profile heading — Daniel Kang — Assistant Professor",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.01637",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v2 submitted 2025-03-30; byline/contributor relationship and source-time affiliation",
+        "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-tobin-south",
+    "canonical_name": "Tobin South",
+    "display_name": "Tobin South",
+    "alternate_names": [
+      "T. South"
+    ],
+    "name_disambiguation_note": "The lead editor/first author of the indexed OpenID Foundation report and its arXiv rendition; MIT records show a 2025 PhD completion.",
+    "external_identifiers": {
+      "official_profile_url": "https://digitaleconomy.stanford.edu/person/tobin-south/"
+    },
+    "current_role": "Research Fellow",
+    "current_organization_reference": "Stanford University",
+    "current_role_source": "https://digitaleconomy.stanford.edu/person/tobin-south/",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_university_profile_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-tobin-south",
+        "source_id": "source-BATCH-2026-005-004",
+        "source_title": "Identity Management for Agentic AI",
+        "source_version": "October 2025 official OpenID Foundation report",
+        "relationship": "lead_editor",
+        "author_order": 1,
+        "organization_at_source_time": "not reported",
+        "role_at_source_time": "Lead editor",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "relationship_verified_affiliation_not_reported",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      },
+      {
+        "person_id": "person-BATCH-2026-005-tobin-south",
+        "source_id": "source-BATCH-2026-005-005",
+        "source_title": "Identity Management for Agentic AI",
+        "source_version": "arXiv v1 submitted 2025-10-29; duplicate rendition",
+        "relationship": "author",
+        "author_order": 1,
+        "organization_at_source_time": "not reported",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "relationship_verified_affiliation_not_reported",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-tobin-south",
+        "source_id": "source-BATCH-2026-005-004",
+        "source_title": "Identity Management for Agentic AI",
+        "source_version": "October 2025 official OpenID Foundation report",
+        "relationship": "lead_editor",
+        "author_order": 1,
+        "organization_at_source_time": "not reported",
+        "role_at_source_time": "Lead editor",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "relationship_verified_affiliation_not_reported",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      },
+      {
+        "person_id": "person-BATCH-2026-005-tobin-south",
+        "source_id": "source-BATCH-2026-005-005",
+        "source_title": "Identity Management for Agentic AI",
+        "source_version": "arXiv v1 submitted 2025-10-29; duplicate rendition",
+        "relationship": "author",
+        "author_order": 1,
+        "organization_at_source_time": "not reported",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "relationship_verified_affiliation_not_reported",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "United States"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent identity",
+      "authenticated delegation",
+      "AI-agent auditability"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-005"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-005"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-015",
+      "statement-BATCH-2026-006-016",
+      "statement-BATCH-2026-006-017",
+      "statement-BATCH-2026-006-018",
+      "statement-BATCH-2026-006-019",
+      "statement-BATCH-2026-006-020",
+      "statement-BATCH-2026-006-021"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://digitaleconomy.stanford.edu/person/tobin-south/",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "Profile heading — Research Fellow, Stanford University",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "October 2025 official OpenID Foundation report; byline/contributor relationship and source-time affiliation",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2510.25819",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v1 submitted 2025-10-29; duplicate rendition; byline/contributor relationship and source-time affiliation",
+        "content_hash": "b019c9420565afe6a3f81fcd8e9b3375f546003cecab93ecfa25d965b2f68bb2",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  },
+  {
+    "person_id": "person-BATCH-2026-005-alex-pentland",
+    "canonical_name": "Alex Pentland",
+    "display_name": "Alex Pentland",
+    "alternate_names": [
+      "Alex ‘Sandy’ Pentland",
+      "Sandy Pentland",
+      "A. Pentland"
+    ],
+    "name_disambiguation_note": "The MIT professor also known as Sandy Pentland and a contributor/author of the indexed OpenID Foundation report and arXiv rendition.",
+    "external_identifiers": {
+      "official_profile_url": "https://professional.mit.edu/programs/faculty-profiles/alex-pentland"
+    },
+    "current_role": "Toshiba Professor of Media Arts and Sciences",
+    "current_organization_reference": "Massachusetts Institute of Technology",
+    "current_role_source": "https://professional.mit.edu/programs/faculty-profiles/alex-pentland",
+    "current_role_verified_at": "2026-08-15",
+    "current_role_freshness_status": "current_official_university_profile_checked_2026-08-15",
+    "historical_roles": [
+      {
+        "person_id": "person-BATCH-2026-005-alex-pentland",
+        "source_id": "source-BATCH-2026-005-004",
+        "source_title": "Identity Management for Agentic AI",
+        "source_version": "October 2025 official OpenID Foundation report",
+        "relationship": "contributor",
+        "author_order": 21,
+        "organization_at_source_time": "not reported",
+        "role_at_source_time": "Contributor",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "relationship_verified_affiliation_not_reported",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      },
+      {
+        "person_id": "person-BATCH-2026-005-alex-pentland",
+        "source_id": "source-BATCH-2026-005-005",
+        "source_title": "Identity Management for Agentic AI",
+        "source_version": "arXiv v1 submitted 2025-10-29; duplicate rendition",
+        "relationship": "author",
+        "author_order": 21,
+        "organization_at_source_time": "not reported",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "relationship_verified_affiliation_not_reported",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "role_at_source_time": [
+      {
+        "person_id": "person-BATCH-2026-005-alex-pentland",
+        "source_id": "source-BATCH-2026-005-004",
+        "source_title": "Identity Management for Agentic AI",
+        "source_version": "October 2025 official OpenID Foundation report",
+        "relationship": "contributor",
+        "author_order": 21,
+        "organization_at_source_time": "not reported",
+        "role_at_source_time": "Contributor",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "relationship_verified_affiliation_not_reported",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      },
+      {
+        "person_id": "person-BATCH-2026-005-alex-pentland",
+        "source_id": "source-BATCH-2026-005-005",
+        "source_title": "Identity Management for Agentic AI",
+        "source_version": "arXiv v1 submitted 2025-10-29; duplicate rendition",
+        "relationship": "author",
+        "author_order": 21,
+        "organization_at_source_time": "not reported",
+        "role_at_source_time": "Author",
+        "verification_basis": "PDF title or contributor page",
+        "verification_status": "relationship_verified_affiliation_not_reported",
+        "current_role_backfilled": false,
+        "human_review_status": "pending"
+      }
+    ],
+    "professional_geographies": [
+      "United States"
+    ],
+    "operating_markets": [],
+    "languages": [],
+    "expertise_topics": [
+      "AI agent identity",
+      "authenticated delegation",
+      "AI-agent auditability"
+    ],
+    "authored_book_work_ids": [],
+    "contributed_work_ids": [
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-005"
+    ],
+    "source_ids": [
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-005"
+    ],
+    "statement_ids": [
+      "statement-BATCH-2026-006-015",
+      "statement-BATCH-2026-006-016",
+      "statement-BATCH-2026-006-017",
+      "statement-BATCH-2026-006-018",
+      "statement-BATCH-2026-006-019",
+      "statement-BATCH-2026-006-020",
+      "statement-BATCH-2026-006-021"
+    ],
+    "proposition_relationships": [],
+    "relationship_to_off": "none_identified",
+    "disclosure": null,
+    "public_profile_eligibility": false,
+    "verification_status": "identity_authorship_and_current_role_machine_verified_human_review_pending",
+    "person_depth": "source_connected_dataset_only",
+    "workflow_status": "metadata_verified",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://professional.mit.edu/programs/faculty-profiles/alex-pentland",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official institutional/company page or self-authored professional CV reviewed on the public web",
+        "exact_locator": "Faculty profile heading — Toshiba Professor of Media Arts and Sciences",
+        "content_hash": null,
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Current-role evidence; named human review pending."
+      },
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "October 2025 official OpenID Foundation report; byline/contributor relationship and source-time affiliation",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2510.25819",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "inherited verified source metadata and author relationship cross-check",
+        "exact_locator": "arXiv v1 submitted 2025-10-29; duplicate rendition; byline/contributor relationship and source-time affiliation",
+        "content_hash": "b019c9420565afe6a3f81fcd8e9b3375f546003cecab93ecfa25d965b2f68bb2",
+        "batch_id": "BATCH-2026-007",
+        "prompt_id": "OEII-PERSON-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Relationship inherited from BATCH-2026-005 and rechecked for this person batch; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T22:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created staging person record with identity disambiguation, source-time role separation, current-role verification, and intellectual-contribution links.",
+        "batch_id": "BATCH-2026-007"
+      }
+    ]
+  }
+]
