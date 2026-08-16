@@ -1,0 +1,3400 @@
+[
+  {
+    "candidate_id": "candidate-BATCH-2026-011-008",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Guidelines for providers of general-purpose AI models",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "European Commission",
+    "author": "European Commission",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers",
+    "canonical_url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Authoritative and multilingual, but agent-identity relevance requires section-level review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "European Union"
+      ],
+      "organization_operating_markets": [
+        "European Union"
+      ],
+      "source_publication_geography": [
+        "European Union"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "European Union"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "European Union"
+      ],
+      "audience_geography": [
+        "European Union"
+      ],
+      "region": "Europe",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director",
+      "role-cto"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-009",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Governance and enforcement of the AI Act",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "European Commission",
+    "author": "European Commission",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-governance-and-enforcement",
+    "canonical_url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-governance-and-enforcement",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Important regulatory-governance context; no direct agent-identity treatment verified.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "European Union"
+      ],
+      "organization_operating_markets": [
+        "European Union"
+      ],
+      "source_publication_geography": [
+        "European Union"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "European Union"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "European Union"
+      ],
+      "audience_geography": [
+        "European Union"
+      ],
+      "region": "Europe",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-010",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Opinion 28/2024 on certain data protection aspects related to the processing of personal data in the context of AI models",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "European Data Protection Board",
+    "author": "European Data Protection Board",
+    "publication_date": "2024-12-17",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en",
+    "canonical_url": "https://www.edpb.europa.eu/our-work-tools/our-documents/opinion-board-art-64/opinion-282024-certain-data-protection-aspects_en",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Primary regulatory privacy analysis; applicability to autonomous agents needs scoped legal review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "European Union"
+      ],
+      "organization_operating_markets": [
+        "European Union"
+      ],
+      "source_publication_geography": [
+        "European Union"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "European Union"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "European Union"
+      ],
+      "audience_geography": [
+        "European Union"
+      ],
+      "region": "Europe",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-011",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Intelligenza artificiale",
+    "transliterated_title": "Intelligenza artificiale",
+    "english_title_translation": "Artificial intelligence",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-it",
+    "publisher": "Agenzia per l’Italia Digitale",
+    "author": "Agenzia per l’Italia Digitale",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.agid.gov.it/it/ambiti-intervento/intelligenza-artificiale",
+    "canonical_url": "https://www.agid.gov.it/it/ambiti-intervento/intelligenza-artificiale",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Official Italian governance hub with national strategy, law, and public-administration guidance; agent specificity not established.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Italy"
+      ],
+      "organization_operating_markets": [
+        "Italy"
+      ],
+      "source_publication_geography": [
+        "Italy"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Italy"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Italy"
+      ],
+      "audience_geography": [
+        "Italy"
+      ],
+      "region": "Europe",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-012",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Strategia Italiana per l’Intelligenza Artificiale 2024–2026",
+    "transliterated_title": "Strategia Italiana per l Intelligenza Artificiale 2024-2026",
+    "english_title_translation": "Italian Strategy for Artificial Intelligence 2024–2026",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-it",
+    "publisher": "Agenzia per l’Italia Digitale",
+    "author": "Agenzia per l’Italia Digitale",
+    "publication_date": "2024",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.agid.gov.it/it/notizie/pubblicato-il-documento-completo-della-strategia-italiana-per-lintelligenza-artificiale-2024-2026",
+    "canonical_url": "https://www.agid.gov.it/it/notizie/pubblicato-il-documento-completo-della-strategia-italiana-per-lintelligenza-artificiale-2024-2026",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Locally grounded national strategy, useful for country context but not direct evidence on agent identity.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Italy"
+      ],
+      "organization_operating_markets": [
+        "Italy"
+      ],
+      "source_publication_geography": [
+        "Italy"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Italy"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Italy"
+      ],
+      "audience_geography": [
+        "Italy"
+      ],
+      "region": "Europe",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-board-director",
+      "role-founder"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-013",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Reglerne i AI-forordningen",
+    "transliterated_title": "Reglerne i AI-forordningen",
+    "english_title_translation": "Rules under the AI Act",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-da",
+    "publisher": "Agency for Digital Government",
+    "author": "Agency for Digital Government",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://digst.dk/tilsyn/ai-forordningen/reglerne-i-ai-forordningen/",
+    "canonical_url": "https://digst.dk/tilsyn/ai-forordningen/reglerne-i-ai-forordningen/",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Local regulator explanation of AI Act duties; agent applicability requires further verification.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Denmark"
+      ],
+      "organization_operating_markets": [
+        "Denmark"
+      ],
+      "source_publication_geography": [
+        "Denmark"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Denmark"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Denmark"
+      ],
+      "audience_geography": [
+        "Denmark"
+      ],
+      "region": "Europe",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-014",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Report AI & Algorithms Netherlands — fifth edition",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Dutch Data Protection Authority",
+    "author": "Dutch Data Protection Authority",
+    "publication_date": "2025-07",
+    "source_type": "research_report",
+    "original_url": "https://www.autoriteitpersoonsgegevens.nl/en/system/files?file=2025-09%2FReport+AI+%26+Algorithms+Netherlands+-+fifth+edition+RAN+July+2025.pdf",
+    "canonical_url": "https://www.autoriteitpersoonsgegevens.nl/en/system/files?file=2025-09%2FReport+AI+%26+Algorithms+Netherlands+-+fifth+edition+RAN+July+2025.pdf",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Strong local market and regulator context, but agent identity is not yet verified as a material topic.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Netherlands"
+      ],
+      "organization_operating_markets": [
+        "Netherlands"
+      ],
+      "source_publication_geography": [
+        "Netherlands"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Netherlands"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [],
+      "audience_geography": [
+        "Netherlands"
+      ],
+      "region": "Europe",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-015",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Transparenz von KI-Systemen",
+    "transliterated_title": "Transparenz von KI-Systemen",
+    "english_title_translation": "Transparency of AI systems",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-de",
+    "publisher": "German Federal Office for Information Security",
+    "author": "German Federal Office for Information Security",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Whitepaper-Transparenz-KI-Systeme.pdf?__blob=publicationFile&v=3",
+    "canonical_url": "https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/KI/Whitepaper-Transparenz-KI-Systeme.pdf?__blob=publicationFile&v=3",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Authoritative German AI-security context; section-level agent relevance remains unverified.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Germany"
+      ],
+      "organization_operating_markets": [
+        "Germany"
+      ],
+      "source_publication_geography": [
+        "Germany"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Germany"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Germany"
+      ],
+      "audience_geography": [
+        "Germany"
+      ],
+      "region": "Europe",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-general-counsel"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-017",
+    "scope": "Governed identities for AI agents",
+    "original_title": "IA agentique",
+    "transliterated_title": "IA agentique",
+    "english_title_translation": "Agentic AI",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-fr",
+    "publisher": "CNIL",
+    "author": "CNIL",
+    "publication_date": "2026",
+    "source_type": "other_approved",
+    "original_url": "https://cnil.fr/fr/definition/ia-agentique",
+    "canonical_url": "https://cnil.fr/fr/definition/ia-agentique",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "direct_agentic_or_agent_identity",
+    "decision": "hold",
+    "decision_rationale": "Direct official definition, but too thin to stand alone as substantive evidence.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "France"
+      ],
+      "organization_operating_markets": [
+        "France"
+      ],
+      "source_publication_geography": [
+        "France"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "France"
+      ],
+      "study_geography": [
+        "France"
+      ],
+      "regulatory_geography": [
+        "France"
+      ],
+      "audience_geography": [
+        "France"
+      ],
+      "region": "Europe",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-023",
+    "scope": "Governed identities for AI agents",
+    "original_title": "AI事業者ガイドライン（第1.01版）",
+    "transliterated_title": "AI jigyosha gaidorain dai 1.01 han",
+    "english_title_translation": "AI Guidelines for Business, version 1.01",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-ja",
+    "publisher": "Ministry of Economy, Trade and Industry and Ministry of Internal Affairs and Communications, Japan",
+    "author": "Ministry of Economy, Trade and Industry and Ministry of Internal Affairs and Communications, Japan",
+    "publication_date": "2025-03-28",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20250328_6.pdf",
+    "canonical_url": "https://www.meti.go.jp/shingikai/mono_info_service/ai_shakai_jisso/pdf/20250328_6.pdf",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "National business guidance recognizes emerging agent risks; direct identity content requires deeper review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Japan"
+      ],
+      "organization_operating_markets": [
+        "Japan"
+      ],
+      "source_publication_geography": [
+        "Japan"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Japan"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Japan"
+      ],
+      "audience_geography": [
+        "Japan"
+      ],
+      "region": "Asia",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-cto",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-025",
+    "scope": "Governed identities for AI agents",
+    "original_title": "AIセーフティに関する評価観点ガイド",
+    "transliterated_title": "AI sefuti ni kansuru hyoka kanten gaido",
+    "english_title_translation": "Guide to Evaluation Perspectives on AI Safety",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-ja",
+    "publisher": "AI Safety Institute Japan / IPA",
+    "author": "AI Safety Institute Japan / IPA",
+    "publication_date": "2024-09-18",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.ipa.go.jp/pressrelease/2024/press20240918-2.html",
+    "canonical_url": "https://www.ipa.go.jp/pressrelease/2024/press20240918-2.html",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Credible local evaluation framework; agent-identity application remains unverified.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Japan"
+      ],
+      "organization_operating_markets": [
+        "Japan"
+      ],
+      "source_publication_geography": [
+        "Japan"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Japan"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Japan"
+      ],
+      "audience_geography": [
+        "Japan"
+      ],
+      "region": "Asia",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-ciso",
+      "role-cto",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-026",
+    "scope": "Governed identities for AI agents",
+    "original_title": "AI 에이전트 안전·신뢰성 검증 체계 지원",
+    "transliterated_title": "AI eijeonteu anjeon silloe-seong geomjeung chegye jiwon",
+    "english_title_translation": "Support for an AI-agent safety and reliability verification system",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-ko",
+    "publisher": "National Information Society Agency",
+    "author": "National Information Society Agency",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?bcIdx=29495&cbIdx=78336&parentSeq=29495",
+    "canonical_url": "https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?bcIdx=29495&cbIdx=78336&parentSeq=29495",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "direct_agentic_or_agent_identity",
+    "decision": "hold",
+    "decision_rationale": "Direct government programme notice, but the underlying evaluation framework is not yet available for analysis.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "South Korea"
+      ],
+      "organization_operating_markets": [
+        "South Korea"
+      ],
+      "source_publication_geography": [
+        "South Korea"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "South Korea"
+      ],
+      "study_geography": [
+        "South Korea"
+      ],
+      "regulatory_geography": [
+        "South Korea"
+      ],
+      "audience_geography": [
+        "South Korea"
+      ],
+      "region": "Asia",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cto",
+      "role-ciso",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-028",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Artificial Intelligence: Model Personal Data Protection Framework",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Office of the Privacy Commissioner for Personal Data, Hong Kong",
+    "author": "Office of the Privacy Commissioner for Personal Data, Hong Kong",
+    "publication_date": "2024-06-11",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.pcpd.org.hk/english/news_events/media_statements/press_20240611.html",
+    "canonical_url": "https://www.pcpd.org.hk/english/news_events/media_statements/press_20240611.html",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Locally grounded governance framework with C-level and board relevance; predates current agent-specific guidance.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Hong Kong"
+      ],
+      "organization_operating_markets": [
+        "Hong Kong"
+      ],
+      "source_publication_geography": [
+        "Hong Kong"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Hong Kong"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Hong Kong"
+      ],
+      "audience_geography": [
+        "Hong Kong"
+      ],
+      "region": "Asia",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-030",
+    "scope": "Governed identities for AI agents",
+    "original_title": "人工智慧基本法",
+    "transliterated_title": "Rengong zhihui jiben fa",
+    "english_title_translation": "Artificial Intelligence Basic Act",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-zh-hant",
+    "publisher": "National Science and Technology Council",
+    "author": "National Science and Technology Council",
+    "publication_date": "2026-01-14",
+    "source_type": "public_policy_document",
+    "original_url": "https://law.nstc.gov.tw/LawContent.aspx?id=GL000592&kw=D+%25u5c08&media=print",
+    "canonical_url": "https://law.nstc.gov.tw/LawContent.aspx?id=GL000592&kw=D+%25u5c08&media=print",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Primary national law defines autonomous systems and governance principles; agent-identity specificity requires legal review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Taiwan"
+      ],
+      "organization_operating_markets": [
+        "Taiwan"
+      ],
+      "source_publication_geography": [
+        "Taiwan"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Taiwan"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Taiwan"
+      ],
+      "audience_geography": [
+        "Taiwan"
+      ],
+      "region": "Asia",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-031",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Artificial Intelligence: Model Personal Data Protection Framework — compliance checks on 28 organisations",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Office of the Privacy Commissioner for Personal Data, Hong Kong",
+    "author": "Office of the Privacy Commissioner for Personal Data, Hong Kong",
+    "publication_date": "2024-02-21",
+    "source_type": "research_report",
+    "original_url": "https://www.pcpd.org.hk/english/news_events/media_statements/press_20240221.html",
+    "canonical_url": "https://www.pcpd.org.hk/english/news_events/media_statements/press_20240221.html",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Provides a local cross-sector baseline; not agent-specific and overlaps later 60-organization check.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Hong Kong"
+      ],
+      "organization_operating_markets": [
+        "Hong Kong"
+      ],
+      "source_publication_geography": [
+        "Hong Kong"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Hong Kong"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [],
+      "audience_geography": [
+        "Hong Kong"
+      ],
+      "region": "Asia",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-032",
+    "scope": "Governed identities for AI agents",
+    "original_title": "แนวทางการประยุกต์ใช้ปัญญาประดิษฐ์อย่างมีธรรมาภิบาลสำหรับผู้บริหารองค์กร",
+    "transliterated_title": "Naeothang kan prayuk chai panya pradit yang mi thamma phiban samrap phuborihan ongkon",
+    "english_title_translation": "AI Governance Guideline for Executives",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-th",
+    "publisher": "Electronic Transactions Development Agency",
+    "author": "Electronic Transactions Development Agency",
+    "publication_date": "2023",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.etda.or.th/getattachment/Our-Service/AIGC/Research-and-Recommendation/Thailand%E2%80%99s-AI-Governance-Guideline-for-Executive_2023.pdf.aspx?lang=th-TH",
+    "canonical_url": "https://www.etda.or.th/getattachment/Our-Service/AIGC/Research-and-Recommendation/Thailand%E2%80%99s-AI-Governance-Guideline-for-Executive_2023.pdf.aspx?lang=th-TH",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Local executive governance guidance; agent-specific provisions have not been verified.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Thailand"
+      ],
+      "organization_operating_markets": [
+        "Thailand"
+      ],
+      "source_publication_geography": [
+        "Thailand"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Thailand"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Thailand"
+      ],
+      "audience_geography": [
+        "Thailand"
+      ],
+      "region": "Asia",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio",
+      "role-cto"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-033",
+    "scope": "Governed identities for AI agents",
+    "original_title": "แนวทางการประยุกต์ใช้ Generative AI อย่างมีธรรมาภิบาลสำหรับองค์กร",
+    "transliterated_title": "Naeothang kan prayuk chai Generative AI yang mi thamma phiban samrap ongkon",
+    "english_title_translation": "Generative AI Governance Guideline for Organizations",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-th",
+    "publisher": "Electronic Transactions Development Agency",
+    "author": "Electronic Transactions Development Agency",
+    "publication_date": "2024",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.etda.or.th/getattachment/6050a4b7-defd-4dba-8cbc-ff6a444a3d08/20240910_GenerativeAIGovernanceGuideline_Vol1_AIGC.pdf.aspx",
+    "canonical_url": "https://www.etda.or.th/getattachment/6050a4b7-defd-4dba-8cbc-ff6a444a3d08/20240910_GenerativeAIGovernanceGuideline_Vol1_AIGC.pdf.aspx",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Locally grounded organizational guidance; agent identity is not directly established.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Thailand"
+      ],
+      "organization_operating_markets": [
+        "Thailand"
+      ],
+      "source_publication_geography": [
+        "Thailand"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Thailand"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Thailand"
+      ],
+      "audience_geography": [
+        "Thailand"
+      ],
+      "region": "Asia",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-ciso",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-034",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Bangun Tata Kelola AI yang Etis dan Bertanggung Jawab, Pemerintah Rampungkan Pembahasan RPerpres",
+    "transliterated_title": "Bangun Tata Kelola AI yang Etis dan Bertanggung Jawab, Pemerintah Rampungkan Pembahasan RPerpres",
+    "english_title_translation": "Building ethical and responsible AI governance: government completes deliberation of draft presidential regulation",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-id",
+    "publisher": "Ministry of Communication and Digital Affairs",
+    "author": "Ministry of Communication and Digital Affairs",
+    "publication_date": "2026-05-06",
+    "source_type": "public_policy_document",
+    "original_url": "https://jdih.komdigi.go.id/berita/view/116",
+    "canonical_url": "https://jdih.komdigi.go.id/berita/view/116",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Primary account of emerging national rules; draft text and agent relevance require follow-up.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Indonesia"
+      ],
+      "organization_operating_markets": [
+        "Indonesia"
+      ],
+      "source_publication_geography": [
+        "Indonesia"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Indonesia"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Indonesia"
+      ],
+      "audience_geography": [
+        "Indonesia"
+      ],
+      "region": "Asia",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-035",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Responsible AI Guidance for the Public Service: GenAI",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "New Zealand Government Chief Digital Officer",
+    "author": "New Zealand Government Chief Digital Officer",
+    "publication_date": "2025-02",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/AI/Responsible-AI-Guidance-for-the-Public-Service-GenAI-Print.pdf",
+    "canonical_url": "https://www.digital.govt.nz/assets/Standards-guidance/Technology-and-architecture/AI/Responsible-AI-Guidance-for-the-Public-Service-GenAI-Print.pdf",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Strong locally grounded public-service governance; agent identity is not yet a verified focus.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "New Zealand"
+      ],
+      "organization_operating_markets": [
+        "New Zealand"
+      ],
+      "source_publication_geography": [
+        "New Zealand"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "New Zealand"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "New Zealand"
+      ],
+      "audience_geography": [
+        "New Zealand"
+      ],
+      "region": "Oceania",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-ciso",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-037",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Agentic AI addendum: Introduction",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Australian Digital Transformation Agency",
+    "author": "Australian Digital Transformation Agency",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.digital.gov.au/policy/ai/agentic-ai-addendum-introduction",
+    "canonical_url": "https://www.digital.gov.au/policy/ai/agentic-ai-addendum-introduction",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "direct_agentic_or_agent_identity",
+    "decision": "hold",
+    "decision_rationale": "Direct explanatory component, but part of the same intellectual work as the lifecycle standard.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Australia"
+      ],
+      "organization_operating_markets": [
+        "Australia"
+      ],
+      "source_publication_geography": [
+        "Australia"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Australia"
+      ],
+      "study_geography": [
+        "Australia"
+      ],
+      "regulatory_geography": [
+        "Australia"
+      ],
+      "audience_geography": [
+        "Australia"
+      ],
+      "region": "Oceania",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-ciso",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-038",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Trustworthy AI agents: New technical guidance",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Australian Digital Transformation Agency",
+    "author": "Australian Digital Transformation Agency",
+    "publication_date": "2026-06-04",
+    "source_type": "essay",
+    "original_url": "https://www.dta.gov.au/articles/trustworthy-ai-agents-new-technical-guidance",
+    "canonical_url": "https://www.dta.gov.au/articles/trustworthy-ai-agents-new-technical-guidance",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "direct_agentic_or_agent_identity",
+    "decision": "hold",
+    "decision_rationale": "Official announcement of the addendum; duplicate evidence contribution unless it adds implementation detail.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Australia"
+      ],
+      "organization_operating_markets": [
+        "Australia"
+      ],
+      "source_publication_geography": [
+        "Australia"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Australia"
+      ],
+      "study_geography": [
+        "Australia"
+      ],
+      "regulatory_geography": [
+        "Australia"
+      ],
+      "audience_geography": [
+        "Australia"
+      ],
+      "region": "Oceania",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-cto"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-040",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Projeto de Lei propõe Sistema Nacional para Desenvolvimento, Regulação e Governança de Inteligência Artificial",
+    "transliterated_title": "Projeto de Lei propoe Sistema Nacional para Desenvolvimento, Regulacao e Governanca de Inteligencia Artificial",
+    "english_title_translation": "Bill proposes a National System for AI Development, Regulation and Governance",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-pt-br",
+    "publisher": "Ministry of Management and Innovation in Public Services",
+    "author": "Ministry of Management and Innovation in Public Services",
+    "publication_date": "2025-12-09",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2025/dezembro/pl-do-governo-propoe-sistema-de-governanca-para-a-inteligencia-artificial-no-pais",
+    "canonical_url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2025/dezembro/pl-do-governo-propoe-sistema-de-governanca-para-a-inteligencia-artificial-no-pais",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Primary national governance proposal; direct application to agents is unverified.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Brazil"
+      ],
+      "organization_operating_markets": [
+        "Brazil"
+      ],
+      "source_publication_geography": [
+        "Brazil"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Brazil"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Brazil"
+      ],
+      "audience_geography": [
+        "Brazil"
+      ],
+      "region": "Latin America and Caribbean",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-041",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Guia IA Generativa",
+    "transliterated_title": "Guia IA Generativa",
+    "english_title_translation": "Generative AI Guide",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-pt-br",
+    "publisher": "Brazilian Digital Government Secretariat",
+    "author": "Brazilian Digital Government Secretariat",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/guia-ia-generativa",
+    "canonical_url": "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/guia-ia-generativa",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Local public-sector security and accountability guidance; agent identity is not a verified focus.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Brazil"
+      ],
+      "organization_operating_markets": [
+        "Brazil"
+      ],
+      "source_publication_geography": [
+        "Brazil"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Brazil"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Brazil"
+      ],
+      "audience_geography": [
+        "Brazil"
+      ],
+      "region": "Latin America and Caribbean",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-ciso",
+      "role-general-counsel"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-042",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Matriz RACI para sistemas de IA",
+    "transliterated_title": "Matriz RACI para sistemas de IA",
+    "english_title_translation": "RACI matrix for AI systems",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-pt-br",
+    "publisher": "Brazilian Digital Government Secretariat",
+    "author": "Brazilian Digital Government Secretariat",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/matriz-raci",
+    "canonical_url": "https://www.gov.br/governodigital/pt-br/infraestrutura-nacional-de-dados/inteligencia-artificial-1/publicacoes/matriz-raci",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Useful local ownership and accountability artifact; agent-specific applicability requires review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Brazil"
+      ],
+      "organization_operating_markets": [
+        "Brazil"
+      ],
+      "source_publication_geography": [
+        "Brazil"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Brazil"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Brazil"
+      ],
+      "audience_geography": [
+        "Brazil"
+      ],
+      "region": "Latin America and Caribbean",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-board-director",
+      "role-general-counsel"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-043",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Política Nacional de Inteligencia Artificial y Plan de Acción",
+    "transliterated_title": "Politica Nacional de Inteligencia Artificial y Plan de Accion",
+    "english_title_translation": "National Artificial Intelligence Policy and Action Plan",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-es",
+    "publisher": "Ministry of Science, Technology, Knowledge and Innovation",
+    "author": "Ministry of Science, Technology, Knowledge and Innovation",
+    "publication_date": "2025",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.minciencia.gob.cl/areas/inteligencia-artificial/Inteligencia-Artificial/politica-Nacional-Inteligencia-Artificial-Plan-Accion/",
+    "canonical_url": "https://www.minciencia.gob.cl/areas/inteligencia-artificial/Inteligencia-Artificial/politica-Nacional-Inteligencia-Artificial-Plan-Accion/",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Locally grounded national policy with governance and ethics; agent identity not established.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Chile"
+      ],
+      "organization_operating_markets": [
+        "Chile"
+      ],
+      "source_publication_geography": [
+        "Chile"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Chile"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Chile"
+      ],
+      "audience_geography": [
+        "Chile"
+      ],
+      "region": "Latin America and Caribbean",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio",
+      "role-founder"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-044",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Política Nacional de Inteligencia Artificial — CONPES 4144",
+    "transliterated_title": "Politica Nacional de Inteligencia Artificial — CONPES 4144",
+    "english_title_translation": "National Artificial Intelligence Policy — CONPES 4144",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-es",
+    "publisher": "National Planning Department",
+    "author": "National Planning Department",
+    "publication_date": "2025",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.dnp.gov.co/Prensa_/Noticias/Paginas/nuevo-logro-para-el-pais-con-aprobacion-politica-nacional-inteligencia-artificial-ia.aspx",
+    "canonical_url": "https://www.dnp.gov.co/Prensa_/Noticias/Paginas/nuevo-logro-para-el-pais-con-aprobacion-politica-nacional-inteligencia-artificial-ia.aspx",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Primary locally grounded policy with territorial and sector context; agent-specific evidence requires follow-up.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Colombia"
+      ],
+      "organization_operating_markets": [
+        "Colombia"
+      ],
+      "source_publication_geography": [
+        "Colombia"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Colombia"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Colombia"
+      ],
+      "audience_geography": [
+        "Colombia"
+      ],
+      "region": "Latin America and Caribbean",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio",
+      "role-founder"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-045",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Declaración de ética y buenas prácticas para el uso y desarrollo de la inteligencia artificial",
+    "transliterated_title": "Declaracion de etica y buenas practicas para el uso y desarrollo de la inteligencia artificial",
+    "english_title_translation": "Declaration of ethics and good practices for the use and development of artificial intelligence",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-es",
+    "publisher": "Agency for Digital Transformation and Telecommunications / SECIHTI",
+    "author": "Agency for Digital Transformation and Telecommunications / SECIHTI",
+    "publication_date": "2026",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.gob.mx/atdt/comunicacion/declaracion-de-etica-y-buenas-practicas-para-el-uso-y-desarrollo-de-la-ia-en-mexico-secihti-y-atdt",
+    "canonical_url": "https://www.gob.mx/atdt/comunicacion/declaracion-de-etica-y-buenas-practicas-para-el-uso-y-desarrollo-de-la-ia-en-mexico-secihti-y-atdt",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Local accountability principles and cultural/linguistic commitments; agent relevance is adjacent.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Mexico"
+      ],
+      "organization_operating_markets": [
+        "Mexico"
+      ],
+      "source_publication_geography": [
+        "Mexico"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Mexico"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Mexico"
+      ],
+      "audience_geography": [
+        "Mexico"
+      ],
+      "region": "Latin America and Caribbean",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-general-counsel",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-046",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Estrategia Nacional de Inteligencia Artificial del Uruguay 2024–2030 — Eje 1 Gobernanza",
+    "transliterated_title": "Estrategia Nacional de Inteligencia Artificial del Uruguay 2024-2030 — Eje 1 Gobernanza",
+    "english_title_translation": "Uruguay National Artificial Intelligence Strategy 2024–2030 — Axis 1 Governance",
+    "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
+    "original_language": "lang-es",
+    "publisher": "AGESIC",
+    "author": "AGESIC",
+    "publication_date": "2024",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-inteligencia-artificial-del-uruguay-2024-2030/ejes",
+    "canonical_url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-inteligencia-artificial-del-uruguay-2024-2030/ejes",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Locally grounded risk, regulation, and institutional design; agent identity is not a verified subject.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Uruguay"
+      ],
+      "organization_operating_markets": [
+        "Uruguay"
+      ],
+      "source_publication_geography": [
+        "Uruguay"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Uruguay"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Uruguay"
+      ],
+      "audience_geography": [
+        "Uruguay"
+      ],
+      "region": "Latin America and Caribbean",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-general-counsel",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "machine_assisted_metadata_only",
+      "translation_source": "OpenAI Codex metadata translation from official title and search extract",
+      "machine_translation_status": "machine_assisted_unverified",
+      "human_language_review_status": "pending",
+      "translated_title_status": "staging_only_unverified",
+      "translated_summary_status": "not_created",
+      "quotation_verification_status": "prohibited_until_human_verified",
+      "quotation_restrictions": "Do not quote or publish translated wording until native-language human verification.",
+      "summary_confidence": "metadata_level_moderate",
+      "native_language_review_needed": true
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-047",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Directive on Automated Decision-Making",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Treasury Board of Canada Secretariat",
+    "author": "Treasury Board of Canada Secretariat",
+    "publication_date": "2023",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592",
+    "canonical_url": "https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=32592",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Strong accountable-automation baseline; must not be treated as agent-specific without review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Canada"
+      ],
+      "organization_operating_markets": [
+        "Canada"
+      ],
+      "source_publication_geography": [
+        "Canada"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Canada"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Canada"
+      ],
+      "audience_geography": [
+        "Canada"
+      ],
+      "region": "North America",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-048",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Algorithmic Impact Assessment tool",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Government of Canada",
+    "author": "Government of Canada",
+    "publication_date": "2024",
+    "source_type": "other_approved",
+    "original_url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html",
+    "canonical_url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/algorithmic-impact-assessment.html",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Primary public-sector assessment instrument; applicability to autonomous agents needs explicit testing.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Canada"
+      ],
+      "organization_operating_markets": [
+        "Canada"
+      ],
+      "source_publication_geography": [
+        "Canada"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Canada"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Canada"
+      ],
+      "audience_geography": [
+        "Canada"
+      ],
+      "region": "North America",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-cio",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-049",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Continental Artificial Intelligence Strategy",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "African Union",
+    "author": "African Union",
+    "publication_date": "2024-08-09",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.au.int/en/documents/20240809/continental-artificial-intelligence-strategy",
+    "canonical_url": "https://www.au.int/en/documents/20240809/continental-artificial-intelligence-strategy",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Africa-grounded continental strategy with multilingual official editions; no direct agent-identity treatment verified.",
+    "locally_grounded": true,
+    "local_grounding_basis": "regional_intergovernmental_institution_and_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "African Union"
+      ],
+      "organization_operating_markets": [
+        "African Union member states"
+      ],
+      "source_publication_geography": [
+        "African Union"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "African Union"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "African Union"
+      ],
+      "audience_geography": [
+        "Africa"
+      ],
+      "region": "Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio",
+      "role-founder"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "intergovernmental",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-050",
+    "scope": "Governed identities for AI agents",
+    "original_title": "National Artificial Intelligence Policy",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Ministry of ICT and Innovation",
+    "author": "Ministry of ICT and Innovation",
+    "publication_date": "2023-04-27",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.minict.gov.rw/ai-policy",
+    "canonical_url": "https://www.minict.gov.rw/ai-policy",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Locally grounded national policy with responsible and inclusive adoption; agent-specific relevance is unverified.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Rwanda"
+      ],
+      "organization_operating_markets": [
+        "Rwanda"
+      ],
+      "source_publication_geography": [
+        "Rwanda"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Rwanda"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Rwanda"
+      ],
+      "audience_geography": [
+        "Rwanda"
+      ],
+      "region": "Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio",
+      "role-founder"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-051",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Kenya National Artificial Intelligence Strategy 2025–2030",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Ministry of Information, Communications and the Digital Economy",
+    "author": "Ministry of Information, Communications and the Digital Economy",
+    "publication_date": "2025-03-27",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.ict.go.ke/node/641",
+    "canonical_url": "https://www.ict.go.ke/node/641",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Locally grounded national strategy with data governance and language priorities; agent identity is adjacent.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Kenya"
+      ],
+      "organization_operating_markets": [
+        "Kenya"
+      ],
+      "source_publication_geography": [
+        "Kenya"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Kenya"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Kenya"
+      ],
+      "audience_geography": [
+        "Kenya"
+      ],
+      "region": "Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio",
+      "role-founder"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-052",
+    "scope": "Governed identities for AI agents",
+    "original_title": "National Artificial Intelligence Strategy 2025",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "National Centre for Artificial Intelligence and Robotics / NITDA",
+    "author": "National Centre for Artificial Intelligence and Robotics / NITDA",
+    "publication_date": "2025-09",
+    "source_type": "public_policy_document",
+    "original_url": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf",
+    "canonical_url": "https://ncair.nitda.gov.ng/wp-content/uploads/2025/09/National-Artificial-Intelligence-Strategy-19092025.pdf",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Locally grounded national strategy and multilingual model agenda; agent-specific evidence requires review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Nigeria"
+      ],
+      "organization_operating_markets": [
+        "Nigeria"
+      ],
+      "source_publication_geography": [
+        "Nigeria"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Nigeria"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Nigeria"
+      ],
+      "audience_geography": [
+        "Nigeria"
+      ],
+      "region": "Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio",
+      "role-founder"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-054",
+    "scope": "Governed identities for AI agents",
+    "original_title": "South Africa National AI Policy Framework",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Department of Communications and Digital Technologies",
+    "author": "Department of Communications and Digital Technologies",
+    "publication_date": "2024-10-25",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.dcdt.gov.za/sa-national-ai-policy-framework/file/338-sa-national-ai-policy-framework.html",
+    "canonical_url": "https://www.dcdt.gov.za/sa-national-ai-policy-framework/file/338-sa-national-ai-policy-framework.html",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Locally grounded precursor framework; status and relation to the withdrawn 2026 draft need policy-history review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "South Africa"
+      ],
+      "organization_operating_markets": [
+        "South Africa"
+      ],
+      "source_publication_geography": [
+        "South Africa"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "South Africa"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "South Africa"
+      ],
+      "audience_geography": [
+        "South Africa"
+      ],
+      "region": "Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-general-counsel",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-055",
+    "scope": "Governed identities for AI agents",
+    "original_title": "UAE Position on Artificial Intelligence Policy",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "UAE Artificial Intelligence Office",
+    "author": "UAE Artificial Intelligence Office",
+    "publication_date": "2024-10",
+    "source_type": "public_policy_document",
+    "original_url": "https://ai.gov.ae/wp-content/uploads/2024/10/UAE-Guiding-on-ai-policy-EN-V3.pdf",
+    "canonical_url": "https://ai.gov.ae/wp-content/uploads/2024/10/UAE-Guiding-on-ai-policy-EN-V3.pdf",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Primary national policy position; direct governed-agent identity content is not verified.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "United Arab Emirates"
+      ],
+      "organization_operating_markets": [
+        "United Arab Emirates"
+      ],
+      "source_publication_geography": [
+        "United Arab Emirates"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "United Arab Emirates"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "United Arab Emirates"
+      ],
+      "audience_geography": [
+        "United Arab Emirates"
+      ],
+      "region": "Middle East and North Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio",
+      "role-founder"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-056",
+    "scope": "Governed identities for AI agents",
+    "original_title": "UAE Charter for the Development and Use of Artificial Intelligence",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "UAE Artificial Intelligence Office",
+    "author": "UAE Artificial Intelligence Office",
+    "publication_date": "2024-07",
+    "source_type": "public_policy_document",
+    "original_url": "https://ai.gov.ae/wp-content/uploads/2024/07/UAEAI-Methaq-EN2-3.pdf",
+    "canonical_url": "https://ai.gov.ae/wp-content/uploads/2024/07/UAEAI-Methaq-EN2-3.pdf",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Local principles on human oversight and accountability; agent specificity is not established.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "United Arab Emirates"
+      ],
+      "organization_operating_markets": [
+        "United Arab Emirates"
+      ],
+      "source_publication_geography": [
+        "United Arab Emirates"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "United Arab Emirates"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "United Arab Emirates"
+      ],
+      "audience_geography": [
+        "United Arab Emirates"
+      ],
+      "region": "Middle East and North Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-general-counsel",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-057",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Principles of AI Ethics",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Saudi Data and Artificial Intelligence Authority",
+    "author": "Saudi Data and Artificial Intelligence Authority",
+    "publication_date": "2023",
+    "source_type": "public_policy_document",
+    "original_url": "https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx",
+    "canonical_url": "https://sdaia.gov.sa/en/SDAIA/about/Pages/RegulationsAndPolicies.aspx",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Primary local regulatory resource; exact edition identity and agent-specific content require review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Saudi Arabia"
+      ],
+      "organization_operating_markets": [
+        "Saudi Arabia"
+      ],
+      "source_publication_geography": [
+        "Saudi Arabia"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Saudi Arabia"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Saudi Arabia"
+      ],
+      "audience_geography": [
+        "Saudi Arabia"
+      ],
+      "region": "Middle East and North Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-general-counsel",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-058",
+    "scope": "Governed identities for AI agents",
+    "original_title": "AI Ethics Guide for Executives",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Saudi Data and Artificial Intelligence Authority",
+    "author": "Saudi Data and Artificial Intelligence Authority",
+    "publication_date": "2024-11-04",
+    "source_type": "public_policy_document",
+    "original_url": "https://sdaia.gov.sa/en/MediaCenter/KnowledgeCenter/Pages/SDAIAPublications.aspx",
+    "canonical_url": "https://sdaia.gov.sa/en/MediaCenter/KnowledgeCenter/Pages/SDAIAPublications.aspx",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Local executive guidance, but item-level canonical download and agent relevance need identity review.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Saudi Arabia"
+      ],
+      "organization_operating_markets": [
+        "Saudi Arabia"
+      ],
+      "source_publication_geography": [
+        "Saudi Arabia"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Saudi Arabia"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Saudi Arabia"
+      ],
+      "audience_geography": [
+        "Saudi Arabia"
+      ],
+      "region": "Middle East and North Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio",
+      "role-general-counsel"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-059",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Israeli Policy on Artificial Intelligence Regulation and Ethics",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Israel Ministry of Innovation, Science and Technology",
+    "author": "Israel Ministry of Innovation, Science and Technology",
+    "publication_date": "2023",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.gov.il/BlobFolder/policy/ai_2023/en/Israels%20AI%20Policy%202023.pdf",
+    "canonical_url": "https://www.gov.il/BlobFolder/policy/ai_2023/en/Israels%20AI%20Policy%202023.pdf",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "hold",
+    "decision_rationale": "Official English summary of a Hebrew policy; agent-specific legal analysis is unverified.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Israel"
+      ],
+      "organization_operating_markets": [
+        "Israel"
+      ],
+      "source_publication_geography": [
+        "Israel"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Israel"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Israel"
+      ],
+      "audience_geography": [
+        "Israel"
+      ],
+      "region": "Middle East and North Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  }
+]

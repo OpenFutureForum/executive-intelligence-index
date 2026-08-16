@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.0.0",
+  "scope": "Governed identities for AI agents",
+  "batch_id": "BATCH-2026-011",
+  "production_language_count": 0,
+  "staging_verified_languages": [
+    "lang-en"
+  ],
+  "candidate_languages": [
+    {
+      "language": "lang-da",
+      "production_sources": 0,
+      "candidate_count": 1,
+      "human_review_pending": 1,
+      "translated_title_staging_only": 1,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-de",
+      "production_sources": 0,
+      "candidate_count": 1,
+      "human_review_pending": 1,
+      "translated_title_staging_only": 1,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-en",
+      "production_sources": 0,
+      "candidate_count": 31,
+      "human_review_pending": 0,
+      "translated_title_staging_only": 0,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-es",
+      "production_sources": 0,
+      "candidate_count": 7,
+      "human_review_pending": 7,
+      "translated_title_staging_only": 7,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-fi",
+      "production_sources": 0,
+      "candidate_count": 1,
+      "human_review_pending": 1,
+      "translated_title_staging_only": 1,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-fr",
+      "production_sources": 0,
+      "candidate_count": 2,
+      "human_review_pending": 2,
+      "translated_title_staging_only": 2,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-id",
+      "production_sources": 0,
+      "candidate_count": 1,
+      "human_review_pending": 1,
+      "translated_title_staging_only": 1,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-it",
+      "production_sources": 0,
+      "candidate_count": 2,
+      "human_review_pending": 2,
+      "translated_title_staging_only": 2,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-ja",
+      "production_sources": 0,
+      "candidate_count": 5,
+      "human_review_pending": 5,
+      "translated_title_staging_only": 5,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-ko",
+      "production_sources": 0,
+      "candidate_count": 1,
+      "human_review_pending": 1,
+      "translated_title_staging_only": 1,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-pt-br",
+      "production_sources": 0,
+      "candidate_count": 4,
+      "human_review_pending": 4,
+      "translated_title_staging_only": 4,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-th",
+      "production_sources": 0,
+      "candidate_count": 2,
+      "human_review_pending": 2,
+      "translated_title_staging_only": 2,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-zh-hans",
+      "production_sources": 0,
+      "candidate_count": 1,
+      "human_review_pending": 1,
+      "translated_title_staging_only": 1,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    },
+    {
+      "language": "lang-zh-hant",
+      "production_sources": 0,
+      "candidate_count": 1,
+      "human_review_pending": 1,
+      "translated_title_staging_only": 1,
+      "translated_summary_available": 0,
+      "quotation_verified": 0,
+      "publication_status": "not_ready"
+    }
+  ],
+  "restriction": "Machine-assisted title translations are staging metadata only. No translated quotation is permitted."
+}

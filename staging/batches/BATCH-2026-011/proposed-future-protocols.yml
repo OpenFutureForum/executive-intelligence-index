@@ -1,0 +1,18 @@
+schema_version: 1.0.0
+scope: Governed identities for AI agents
+protocols:
+  - id: proposed-regional-language-review-001
+    priority: critical
+    objective: Native-language verification of 29 non-English candidate records; metadata first, quotations excluded until verified.
+  - id: proposed-role-region-primary-media-002
+    priority: critical
+    objective: Collect role-at-source-time testimony from CISOs, CIOs, GCs, board directors, CFOs, founders, PE and VC leaders across all audited regions.
+  - id: proposed-local-operator-study-003
+    priority: high
+    objective: Find region-specific implementation studies with disclosed samples in finance, critical infrastructure, healthcare and public administration.
+  - id: proposed-africa-latam-mena-agent-identity-004
+    priority: high
+    objective: Find direct governed-agent identity sources from local authorities, universities and practitioners in Africa, Latin America and the Caribbean, and the Middle East.
+  - id: proposed-regional-books-005
+    priority: medium
+    objective: Verify local-language books and translated editions using official publisher and library metadata before selection.

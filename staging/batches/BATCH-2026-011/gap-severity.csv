@@ -1,0 +1,9 @@
+dimension,gap,severity,evidence,recommended_action
+production,No verified production sources,critical,0 sources; 0 statements; 0 people,Complete human review and production approval before any regional synthesis.
+language,English-only staged corpus,critical,8/8 staged intellectual works are English,Commission native-language review across the translation queue.
+role-region,No direct executives by role at source time,critical,0 direct executive-role statements in every region,Run regional CISO/CIO/GC/board interview and primary-media batches.
+geography,Global labels substitute for measured geography,critical,3 standards/policy works labeled global without local samples,"Collect local operator, regulator, market, and study-geography evidence."
+industry,Cross-industry abstractions dominate,high,No verified regional industry samples,"Prioritize finance, critical infrastructure, healthcare, and public-sector implementations."
+organization_type,Public authority queue lacks operator voices,high,Candidate queue intentionally policy-heavy,Run local operator and practitioner protocol after language review.
+source_type,No verified books or executive primary media,high,Production count 0,"Verify local-language books, hearings, interviews, and conference sessions."
+translation,Native-language review backlog,critical,29 records,Assign qualified reviewers; no translated quotations until completed.
