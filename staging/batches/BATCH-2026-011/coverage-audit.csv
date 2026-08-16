@@ -1,0 +1,50 @@
+corpus_layer,dimension,category,count,share,status,interpretation
+production,sources,all,0,0%,critical_gap,No verified production source records.
+production,languages,all,0,0%,critical_gap,No production language representation.
+production,regions,all,0,0%,critical_gap,No production regional representation.
+production,roles,all,0,0%,critical_gap,No production role-at-source-time evidence.
+staging,source_records,all,9,100%,non_production,Nine source records represent eight intellectual works; one duplicate rendition.
+staging,intellectual_works,English,8,100%,critical_concentration,All staged intellectual works are English-language.
+staging,intellectual_works,US normative or policy context,2,25%,concentration_warning,Two works are explicitly grounded in US policy; global standards labels are not regional evidence.
+staging,intellectual_works,global standards or policy context,3,37.5%,not_regional_representation,"IETF, OpenID, and OpenAI materials claim global applicability but do not establish regional representation."
+staging,intellectual_works,synthetic or no human geography,3,37.5%,coverage_gap,"Benchmark settings do not establish market, audience, or population geography."
+staging,statements,all,46,100%,non_production,All extracted statements remain staging-only and human review pending.
+staging,roles,direct executive role at source time,0,0%,critical_gap,Role relevance tags do not equal executive testimony.
+candidate_queue,sources,all,60,100%,discovery_only,Candidate status is not verification or publication approval.
+candidate_queue,sources,locally grounded,60,100%,discovery_only,Local institutional grounding is recorded separately from representativeness.
+candidate_queue,sources,direct topic,22,36.7%,promising_queue,Directness is a screening judgment pending human review.
+candidate_queue,sources,OFF-owned,0,0%,no_concentration,No OFF-owned candidate.
+candidate_queue,sources,vendor,0,0%,no_concentration,This gap batch prioritizes public authorities and local research institutions.
+candidate_queue,sources,consulting,0,0%,no_concentration,No consulting candidate.
+candidate_queue,sources,investor,0,0%,role_gap,No investor source; a later operator/investor protocol is required.
+staging,source_types,academic_paper,3,37.5%,concentration_warning,Three of eight distinct staged works are academic papers.
+staging,source_types,research_report,3,37.5%,concentration_warning,Three of eight distinct staged works are research reports.
+staging,source_types,public_policy_document,1,12.5%,thin,One of eight distinct staged works is a public-policy document.
+staging,source_types,working_paper,1,12.5%,thin,One of eight distinct staged works is a working paper.
+staging,organization_types,operator,0,0%,critical_gap,No verified operator source in staging.
+staging,organization_types,investor,0,0%,critical_gap,No verified investor source in staging.
+staging,organization_types,consulting,0,0%,no_concentration,No consulting source in staging.
+staging,organization_types,OFF-owned,0,0%,no_concentration,No OFF-owned source in staging.
+staging,contributor_maturity,established_or_emerging,0,0%,not_measurable,Contributor maturity is not controlled or verified in the staged corpus.
+staging,publication_period,2023-2026,8,100%,recent_only,All eight distinct staged works are from 2023-2026.
+candidate_queue,regions,Africa,7,11.7%,discovery_only,Candidate counts do not establish regional representation.
+candidate_queue,regions,Asia,17,28.3%,discovery_only,Candidate counts do not establish regional representation.
+candidate_queue,regions,Europe,17,28.3%,discovery_only,Candidate counts do not establish regional representation.
+candidate_queue,regions,Latin America and Caribbean,8,13.3%,discovery_only,Candidate counts do not establish regional representation.
+candidate_queue,regions,Middle East and North Africa,5,8.3%,discovery_only,Candidate counts do not establish regional representation.
+candidate_queue,regions,North America,2,3.3%,discovery_only,Candidate counts do not establish regional representation.
+candidate_queue,regions,Oceania,4,6.7%,discovery_only,Candidate counts do not establish regional representation.
+candidate_queue,languages,lang-da,1,1.7%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-de,1,1.7%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-en,31,51.7%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-es,7,11.7%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-fi,1,1.7%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-fr,2,3.3%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-id,1,1.7%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-it,2,3.3%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-ja,5,8.3%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-ko,1,1.7%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-pt-br,4,6.7%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-th,2,3.3%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-zh-hans,1,1.7%,discovery_only,Non-English metadata requires human language review.
+candidate_queue,languages,lang-zh-hant,1,1.7%,discovery_only,Non-English metadata requires human language review.

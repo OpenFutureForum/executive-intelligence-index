@@ -1,0 +1,170 @@
+[
+  {
+    "candidate_id": "candidate-BATCH-2026-011-053",
+    "scope": "Governed identities for AI agents",
+    "original_title": "Draft South Africa National Artificial Intelligence Policy (March 2026)",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Department of Communications and Digital Technologies",
+    "author": "Department of Communications and Digital Technologies",
+    "publication_date": "2026-03",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf",
+    "canonical_url": "https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "candidate_work",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "reject",
+    "decision_rationale": "Withdrawn after official concerns about fabricated and unverifiable sources; unsuitable as substantive evidence.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "South Africa"
+      ],
+      "organization_operating_markets": [
+        "South Africa"
+      ],
+      "source_publication_geography": [
+        "South Africa"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "South Africa"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "South Africa"
+      ],
+      "audience_geography": [
+        "South Africa"
+      ],
+      "region": "Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-011-060",
+    "scope": "Governed identities for AI agents",
+    "original_title": "National Artificial Intelligence Policy — source identity and implementation hub",
+    "transliterated_title": null,
+    "english_title_translation": null,
+    "english_title_translation_label": "not_applicable_original_english",
+    "original_language": "lang-en",
+    "publisher": "Rwanda Information Society Authority",
+    "author": "Rwanda Information Society Authority",
+    "publication_date": "2023-05-11",
+    "source_type": "public_policy_document",
+    "original_url": "https://www.risa.gov.rw/publications/policies",
+    "canonical_url": "https://www.risa.gov.rw/publications/policies",
+    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "intellectual_work_status": "duplicate_route",
+    "topic_directness": "adjacent_ai_governance",
+    "decision": "reject",
+    "decision_rationale": "Duplicate discovery route to the Rwanda policy; retain the ministry canonical page instead.",
+    "locally_grounded": true,
+    "local_grounding_basis": "local_public_authority_or_local_research_institution_and_local_policy_audience",
+    "geography": {
+      "person_primary_professional_geography": [],
+      "organization_headquarters": [
+        "Rwanda"
+      ],
+      "organization_operating_markets": [
+        "Rwanda"
+      ],
+      "source_publication_geography": [
+        "Rwanda"
+      ],
+      "event_geography": [],
+      "market_discussed": [
+        "Rwanda"
+      ],
+      "study_geography": [],
+      "regulatory_geography": [
+        "Rwanda"
+      ],
+      "audience_geography": [
+        "Rwanda"
+      ],
+      "region": "Africa",
+      "geographic_inference_prohibited": true
+    },
+    "relevant_roles": [
+      "role-board-director",
+      "role-cio"
+    ],
+    "relevant_industries": [
+      "cross-industry"
+    ],
+    "organization_type": "public_authority",
+    "source_ownership": "third_party_not_OFF_owned",
+    "vendor_source": false,
+    "consulting_source": false,
+    "investor_source": false,
+    "OFF_owned_source": false,
+    "translation": {
+      "translation_available": "not_required",
+      "translation_source": null,
+      "machine_translation_status": "not_applicable",
+      "human_language_review_status": "not_required",
+      "translated_title_status": "not_applicable",
+      "translated_summary_status": "not_applicable",
+      "quotation_verification_status": "no_quotation_extracted",
+      "quotation_restrictions": "No quotation extracted in discovery.",
+      "summary_confidence": "not_summarized",
+      "native_language_review_needed": false
+    },
+    "rights_status": "link_and_metadata_only_no_text_republished",
+    "privacy_status": "institutional_public_source_no_sensitive_personal_data_collected",
+    "workflow_status": "candidate",
+    "machine_review_status": "machine_screened",
+    "human_review_status": "pending",
+    "provenance": {
+      "accessed_at": "2026-08-15",
+      "retrieval_method": "official-source web discovery and machine-assisted metadata screening",
+      "batch_id": "BATCH-2026-011",
+      "prompt_id": "OEII-GLOBAL-COVERAGE",
+      "prompt_version": "2.0"
+    }
+  }
+]

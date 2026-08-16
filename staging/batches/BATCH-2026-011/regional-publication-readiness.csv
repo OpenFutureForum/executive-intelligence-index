@@ -1,0 +1,8 @@
+region,production_people,production_organizations,production_region_specific_sources,candidate_sources,direct_candidates,threshold_people,threshold_organizations,threshold_region_specific_sources,status,reason
+Africa,0,0,0,7,0,2,2,required,not_ready,Candidates cannot satisfy publication thresholds; production is empty.
+Asia,0,0,0,17,9,2,2,required,not_ready,Candidates cannot satisfy publication thresholds; production is empty.
+Europe,0,0,0,17,9,2,2,required,not_ready,Candidates cannot satisfy publication thresholds; production is empty.
+Latin America and Caribbean,0,0,0,8,1,2,2,required,not_ready,Candidates cannot satisfy publication thresholds; production is empty.
+Middle East and North Africa,0,0,0,5,0,2,2,required,not_ready,Candidates cannot satisfy publication thresholds; production is empty.
+North America,0,0,0,2,0,2,2,required,not_ready,Candidates cannot satisfy publication thresholds; production is empty.
+Oceania,0,0,0,4,3,2,2,required,not_ready,Candidates cannot satisfy publication thresholds; production is empty.

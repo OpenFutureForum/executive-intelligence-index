@@ -1,0 +1,71 @@
+region,role,production_role_at_source_time_records,candidate_mentions,direct_candidate_mentions,severity,interpretation
+Africa,role-cfo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Africa,role-ciso,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Africa,role-cmo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Africa,role-cio,0,6,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Africa,role-cto,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Africa,role-general-counsel,0,2,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Africa,role-board-director,0,7,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Africa,role-private-equity,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Africa,role-venture-capital,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Africa,role-founder,0,4,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-cfo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-ciso,0,10,8,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-cmo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-cio,0,11,5,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-cto,0,10,7,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-general-counsel,0,8,4,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-board-director,0,10,2,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-private-equity,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-venture-capital,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Asia,role-founder,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-cfo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-ciso,0,7,6,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-cmo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-cio,0,12,8,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-cto,0,4,3,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-general-counsel,0,11,4,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-board-director,0,12,5,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-private-equity,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-venture-capital,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Europe,role-founder,0,1,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-cfo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-ciso,0,2,1,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-cmo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-cio,0,8,1,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-cto,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-general-counsel,0,5,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-board-director,0,7,1,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-private-equity,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-venture-capital,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Latin America and Caribbean,role-founder,0,2,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-cfo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-ciso,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-cmo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-cio,0,5,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-cto,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-general-counsel,0,4,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-board-director,0,5,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-private-equity,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-venture-capital,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Middle East and North Africa,role-founder,0,1,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-cfo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-ciso,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-cmo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-cio,0,2,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-cto,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-general-counsel,0,2,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-board-director,0,2,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-private-equity,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-venture-capital,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+North America,role-founder,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-cfo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-ciso,0,3,2,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-cmo,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-cio,0,4,3,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-cto,0,1,1,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-general-counsel,0,1,1,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-board-director,0,2,1,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-private-equity,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-venture-capital,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.
+Oceania,role-founder,0,0,0,critical,Candidate relevance tags do not satisfy role-at-source-time evidence.

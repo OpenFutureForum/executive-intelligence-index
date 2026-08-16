@@ -1,0 +1,46 @@
+batch_id: BATCH-2026-011
+prompt_id: OEII-GLOBAL-COVERAGE
+prompt_version: "2.0"
+scope: Governed identities for AI agents
+branch: research/global-coverage-BATCH-2026-011
+execution_date: 2026-08-15
+researcher: OpenAI Codex; machine-assisted research; human review pending
+production_records_created: 0
+regional_pages_created: 0
+candidate_count: 60
+accepted_count: 18
+held_count: 40
+rejected_count: 2
+direct_topic_candidates: 22
+locally_grounded_candidates: 60
+candidate_regions: 7
+candidate_countries_or_jurisdictions: 33
+candidate_languages: 14
+translated_title_records_staging_only: 29
+human_language_review_backlog: 29
+regional_pages_meeting_threshold: 0
+regional_pages_not_meeting_threshold: 7
+workflow_status: candidate
+machine_review_status: machine_screened
+human_review_status: pending
+output_files:
+  - manifest.yml
+  - coverage-audit.md
+  - coverage-audit.csv
+  - gap-severity.csv
+  - regional-gaps.json
+  - language-gaps.json
+  - candidate-sources.json
+  - accepted-candidates.json
+  - held-candidates.json
+  - rejected-candidates.json
+  - translation-review.csv
+  - locally-grounded-sources.json
+  - regional-publication-readiness.csv
+  - source-identity-review.csv
+  - regional-research-priorities.md
+  - proposed-future-protocols.yml
+  - limitations.md
+  - validation-results.md
+supplementary_output_files:
+  - role-region-gaps.csv
