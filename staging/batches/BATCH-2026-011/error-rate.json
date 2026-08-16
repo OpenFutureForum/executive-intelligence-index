@@ -1,0 +1,103 @@
+{
+  "batch_id": "BATCH-2026-011",
+  "configured_threshold": 0.1,
+  "initial_review": {
+    "design": "all 18 machine-accepted/high-impact records plus deterministic pseudo-random 12-record sample of the remaining 42, ranked by SHA-256 of the disclosed seed and candidate ID",
+    "sample_seed": "BATCH-2026-011|OEII-INDEPENDENT-VERIFICATION|<candidate_id>",
+    "sampled_remaining_candidate_ids": [
+      "candidate-BATCH-2026-011-046",
+      "candidate-BATCH-2026-011-040",
+      "candidate-BATCH-2026-011-048",
+      "candidate-BATCH-2026-011-015",
+      "candidate-BATCH-2026-011-051",
+      "candidate-BATCH-2026-011-060",
+      "candidate-BATCH-2026-011-054",
+      "candidate-BATCH-2026-011-045",
+      "candidate-BATCH-2026-011-044",
+      "candidate-BATCH-2026-011-031",
+      "candidate-BATCH-2026-011-037",
+      "candidate-BATCH-2026-011-030"
+    ],
+    "metadata": {
+      "errors": 30,
+      "denominator": 30,
+      "rate": 1
+    },
+    "locator": {
+      "errors": 17,
+      "denominator": 30,
+      "rate": 0.5667
+    },
+    "attribution": {
+      "confirmed_errors": 6,
+      "unresolved": 24,
+      "denominator": 30,
+      "confirmed_error_rate": 0.2
+    },
+    "statement_type": {
+      "errors": 0,
+      "denominator": 0,
+      "rate": null,
+      "note": "No statements were created in this discovery batch."
+    },
+    "material_paraphrase": {
+      "errors": 0,
+      "denominator": 0,
+      "rate": null,
+      "note": "No statement paraphrases were created."
+    },
+    "rights_status": {
+      "errors": 0,
+      "denominator": 30,
+      "rate": 0
+    },
+    "threshold_exceeded": true
+  },
+  "expanded_full_review": {
+    "records_reviewed": 60,
+    "metadata": {
+      "records_with_one_or_more_errors": 60,
+      "denominator": 60,
+      "rate": 1,
+      "systemic_basis": [
+        "missing analysis-access status and basis on all 60",
+        "blanket source identity status on all 60",
+        "author equated to publisher on all 60 without verification state",
+        "false study geography on 22"
+      ]
+    },
+    "locator": {
+      "confirmed_or_materially_ambiguous": 19,
+      "denominator": 60,
+      "rate": 0.3167
+    },
+    "attribution": {
+      "confirmed_errors": 6,
+      "unresolved": 47,
+      "denominator": 60,
+      "confirmed_error_rate": 0.1,
+      "unresolved_rate": 0.7833
+    },
+    "statement_type": {
+      "errors": 0,
+      "denominator": 0,
+      "rate": null
+    },
+    "material_paraphrase": {
+      "errors": 0,
+      "denominator": 0,
+      "rate": null
+    },
+    "rights_status": {
+      "errors": 0,
+      "denominator": 60,
+      "rate": 0
+    },
+    "false_human_review_status": {
+      "errors": 0,
+      "denominator": 60,
+      "rate": 0
+    },
+    "batch_disposition": "return_for_research"
+  }
+}

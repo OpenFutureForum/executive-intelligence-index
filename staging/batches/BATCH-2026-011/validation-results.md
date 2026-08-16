@@ -24,7 +24,7 @@
 - PASS — language readiness: candidate languages do not satisfy production representation
 - PASS — regional-page thresholds: 0 of 7 regional pages pass the production threshold
 - PASS — role-region matrix: 70 region-by-role gap rows calculated
-- PASS — structured output set: 18 batch artifacts available before validation report
+- PASS — structured output set: 31 batch artifacts available before validation report
 
 ## Disclosures
 
@@ -33,11 +33,23 @@
 - Candidate discovery and machine screening are not publication approval.
 - Human review remains pending for all candidates.
 - Machine-assisted translations are staging metadata only; translated quotations are prohibited.
-- PASS — Repository data validation: 1 canonical record across 17 entity directories.
-- PASS — Repository provenance validation: 1 canonical record checked.
-- PASS — Attribution, publication, and content-quality validation; staging remained excluded from public records.
-- PASS — Repository duplicate, concentration, and coverage audits.
-- PASS — Type checking: 57 files, 0 errors, 0 warnings, 0 hints.
-- PASS — Automated tests: 24 tests across 4 files.
-- PASS — Public build: 28 static pages, Pagefind index, and post-build exports generated.
-- NOTE — The npm wrappers that invoke `tsx` could not open their local IPC socket in the sandbox. Equivalent `node --import tsx` commands were used successfully, including the manual public-build sequence.
+
+## Independent-review validation
+
+- PASS — all 60 records received a permitted independent decision.
+- PASS — all 18 generating-batch accepts received high-impact review.
+- PASS — all 60 records now contain record-specific access and author-verification states.
+- PASS — all 22 false study-geography values were removed.
+- PASS — no automated record is marked publication approved.
+- PASS — the 10% threshold was exceeded, full review was completed, and the batch was returned for research.
+
+## Repository-wide validation
+
+- PASS — lint.
+- PASS — type check: 57 files, 0 errors, 0 warnings, 0 hints.
+- PASS — data, provenance, attribution, statement, proposition, book-edition, source-locator, rights, review-status, publication, and content validation.
+- PASS — duplicate, concentration, coverage, external-link, and role-freshness audits.
+- PASS — automated tests: 24 tests across 4 files.
+- PASS — public build: 28 static pages and Pagefind index; staging remains excluded.
+- PASS — browser artifact test: 1 passed; 2 fixture-dependent empty-corpus tests skipped by design.
+- PASS — artifact verification: 22 checksums; staging and fixtures absent from public artifacts.

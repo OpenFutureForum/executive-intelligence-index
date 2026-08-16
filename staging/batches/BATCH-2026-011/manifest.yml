@@ -44,3 +44,33 @@ output_files:
   - validation-results.md
 supplementary_output_files:
   - role-region-gaps.csv
+
+independent_review:
+  prompt_id: OEII-INDEPENDENT-VERIFICATION
+  prompt_version: "2.0"
+  review_branch: review/BATCH-2026-011
+  review_date: 2026-08-15
+  records_reviewed: 60
+  approved_with_corrections_for_human_review: 14
+  returned_for_research: 20
+  held_for_identity_review: 13
+  held_for_translation_review: 9
+  rejected: 4
+  false_human_review_statuses: 0
+  publication_approved: false
+  batch_recommendation: return_for_research
+  output_files:
+    - independent-review.md
+    - record-decisions.json
+    - corrections-applied.json
+    - error-rate.json
+    - rights-review-final.md
+    - privacy-review-final.md
+    - content-quality-final.md
+    - human-review-queue.csv
+    - publication-recommendation.md
+    - unresolved-issues.md
+    - duplicate-review-final.md
+    - source-concentration-final.md
+    - publication-threshold-final.md
+    - independent-review-validation.md

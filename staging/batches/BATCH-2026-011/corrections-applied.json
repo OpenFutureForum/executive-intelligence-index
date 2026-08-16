@@ -1,0 +1,2805 @@
+{
+  "batch_id": "BATCH-2026-011",
+  "review_date": "2026-08-15",
+  "corrected_record_count": 60,
+  "corrections": [
+    {
+      "candidate_id": "candidate-BATCH-2026-011-001",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "France"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-002",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Spain"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "publication_date",
+          "before": "2026",
+          "after": "2026-02",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "original_title",
+          "before": "Inteligencia Artificial Agéntica: orientaciones para tratamientos que incorporen IA agéntica",
+          "after": "Inteligencia Artificial Agéntica desde la perspectiva de protección de datos",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        },
+        {
+          "field": "transliterated_title",
+          "before": "Inteligencia Artificial Agentica: orientaciones para tratamientos que incorporen IA agentica",
+          "after": "Inteligencia Artificial Agentica desde la perspectiva de proteccion de datos",
+          "reason": "Aligned transliteration and machine-assisted English title metadata with the corrected official title; human language review remains pending."
+        },
+        {
+          "field": "english_title_translation",
+          "before": "Agentic Artificial Intelligence: guidance for processing operations incorporating agentic AI",
+          "after": "Agentic Artificial Intelligence from the perspective of data protection",
+          "reason": "Aligned transliteration and machine-assisted English title metadata with the corrected official title; human language review remains pending."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-003",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Spain"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "canonical_url",
+          "before": "https://laboratorio.aepd.es/novedades/guia-practica-del-ccn-cert-para-hacer-frente-la-ia-ofensiva",
+          "after": "https://www.ccn-cert.cni.es/es/pdf/informes-de-ciberseguridad-ccn-cert/informes-ccn-cert-buenas-practicas-bp/7469-ccn-cert-bp-36-buenas-practicas-ia-ofensiva/file.html",
+          "reason": "Use the independently verified canonical work/landing locator."
+        },
+        {
+          "field": "original_url",
+          "before": "https://laboratorio.aepd.es/novedades/guia-practica-del-ccn-cert-para-hacer-frente-la-ia-ofensiva",
+          "after": "https://www.ccn-cert.cni.es/es/pdf/informes-de-ciberseguridad-ccn-cert/informes-ccn-cert-buenas-practicas-bp/7469-ccn-cert-bp-36-buenas-practicas-ia-ofensiva/file.html",
+          "reason": "Align source URL with corrected canonical locator."
+        },
+        {
+          "field": "original_title",
+          "before": "Guía de buenas prácticas frente al modelo de IA ofensiva (BP/36)",
+          "after": "CCN-CERT BP/36 Buenas Practicas IA Ofensiva",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "publication_date",
+          "before": "2026-06-25",
+          "after": "2026-06-15",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "source_type",
+          "before": "public_policy_document",
+          "after": "government_guidance_document",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        },
+        {
+          "field": "transliterated_title",
+          "before": "Guia de buenas practicas frente al modelo de IA ofensiva (BP/36)",
+          "after": "CCN-CERT BP/36 Buenas Practicas IA Ofensiva",
+          "reason": "Aligned transliteration and machine-assisted English title metadata with the corrected official title; human language review remains pending."
+        },
+        {
+          "field": "english_title_translation",
+          "before": "Good-practice guide for confronting offensive AI (BP/36)",
+          "after": "CCN-CERT BP/36 Offensive AI Best Practices",
+          "reason": "Aligned transliteration and machine-assisted English title metadata with the corrected official title; human language review remains pending."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-004",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Finland"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-005",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "United Kingdom"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "author",
+          "before": "UK National Cyber Security Centre",
+          "after": "Martin R; Dr Kate S",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "source_type",
+          "before": "public_policy_document",
+          "after": "government_blog_post",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-006",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "United Kingdom"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_source_browser_verified",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "canonical_url",
+          "before": "https://www.ncsc.gov.uk/sites/default/files/2026-07/Cyber-Shield-The-path-to-an-agentic-AI-future-for-cyber-defence.pdf",
+          "after": "https://www.ncsc.gov.uk/blogs/cyber-shield-the-path-to-an-agentic-ai-future-for-cyber-defence",
+          "reason": "Use the independently verified canonical work/landing locator."
+        },
+        {
+          "field": "original_url",
+          "before": "https://www.ncsc.gov.uk/sites/default/files/2026-07/Cyber-Shield-The-path-to-an-agentic-AI-future-for-cyber-defence.pdf",
+          "after": "https://www.ncsc.gov.uk/blogs/cyber-shield-the-path-to-an-agentic-ai-future-for-cyber-defence",
+          "reason": "Align source URL with corrected canonical locator."
+        },
+        {
+          "field": "author",
+          "before": "UK National Cyber Security Centre",
+          "after": "Peter Haigh; Harry G",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "publication_date",
+          "before": "2026-07",
+          "after": "2026-07-07",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "source_type",
+          "before": "public_policy_document",
+          "after": "government_blog_post",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-007",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "European Union"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-008",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "automated_access_unresolved_human_check_required",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL automated check returned TypeError: terminated; do not claim full-text access until a human verifies it.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_access_unresolved_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-009",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "automated_access_unresolved_human_check_required",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL automated check returned TypeError: terminated; do not claim full-text access until a human verifies it.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_access_unresolved_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-010",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-011",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_translation_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-012",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-013",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_translation_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-014",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-015",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_translation_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-016",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Spain"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_source_browser_verified",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "author",
+          "before": "AEPD Journal of Privacy, Innovation and Technology",
+          "after": "Aurea Rodriguez Lopez",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-017",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "France"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-018",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Singapore"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-019",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Singapore"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_source_browser_verified",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "canonical_url",
+          "before": "https://www.csa.gov.sg/news-events/press-releases/csa-releases-an-addendum-to-support-system-owners-in-securing-agentic-ai-system/",
+          "after": "https://www.csa.gov.sg/resources/publications/addendum-on-securing-ai-systems/",
+          "reason": "Use the independently verified canonical work/landing locator."
+        },
+        {
+          "field": "original_url",
+          "before": "https://www.csa.gov.sg/news-events/press-releases/csa-releases-an-addendum-to-support-system-owners-in-securing-agentic-ai-system/",
+          "after": "https://www.csa.gov.sg/resources/publications/addendum-on-securing-ai-systems/",
+          "reason": "Align source URL with corrected canonical locator."
+        },
+        {
+          "field": "publication_date",
+          "before": "2025-10-22",
+          "after": "2026-06-17",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-020",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Singapore"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "original_title",
+          "before": "Ensuring Meaningful Human Accountability for Public-facing Autonomous AI Agents and Pathways to Mandatory Governance in High-risk Sectors",
+          "after": "MDDI's Response to PQ on Ensuring Meaningful Human Accountability for Public-facing Autonomous AI Agents and Pathways to Mandatory Governance in High-risk Sectors",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "source_type",
+          "before": "primary_media",
+          "after": "parliamentary_written_answer",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-021",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Japan"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "source_type",
+          "before": "research_report",
+          "after": "government_project_profile",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-022",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Japan"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_source_browser_verified",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "source_type",
+          "before": "public_policy_document",
+          "after": "government_meeting_presentation",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-023",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "automated_access_unresolved_human_check_required",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL automated check returned 403; do not claim full-text access until a human verifies it.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_access_unresolved_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_translation_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-024",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Japan"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "source_type",
+          "before": "research_report",
+          "after": "government_publication_series",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-025",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-026",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "South Korea"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_translation_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-027",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Hong Kong"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "source_type",
+          "before": "research_report",
+          "after": "government_compliance_check_summary",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-028",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-029",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "China"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_source_browser_verified",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "independently_verified_machine_review_human_pending",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "original_title",
+          "before": "人工智能安全治理框架2.0版",
+          "after": "《人工智能安全治理框架》2.0版发布",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "source_type",
+          "before": "public_policy_document",
+          "after": "government_framework_announcement_with_attached_document",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "approve_with_corrections_for_human_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        },
+        {
+          "field": "transliterated_title",
+          "before": "Rengong zhineng anquan zhili kuangjia 2.0 ban",
+          "after": "Rengong zhineng anquan zhili kuangjia 2.0 ban fabu",
+          "reason": "Aligned transliteration and machine-assisted English title metadata with the corrected official title; human language review remains pending."
+        },
+        {
+          "field": "english_title_translation",
+          "before": "Artificial Intelligence Safety Governance Framework, version 2.0",
+          "after": "Artificial Intelligence Safety Governance Framework 2.0 released",
+          "reason": "Aligned transliteration and machine-assisted English title metadata with the corrected official title; human language review remains pending."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-030",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_translation_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-031",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-032",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_translation_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-033",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_translation_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-034",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_translation_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-035",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-036",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Australia"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_source_browser_verified",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "publication_date",
+          "before": "2026",
+          "after": "2026-06-04",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "source_type",
+          "before": "public_policy_document",
+          "after": "government_technical_standard_section",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-037",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Australia"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "reject",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-038",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Australia"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "reject",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-039",
+      "changes": [
+        {
+          "field": "geography.study_geography",
+          "before": [
+            "Brazil"
+          ],
+          "after": [],
+          "reason": "Policy, guidance, law, commentary, and administrative pages are not empirical studies; directness does not establish study geography."
+        },
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_source_browser_index_verified_direct_download_unresolved",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "canonical_url",
+          "before": "https://www.gov.br/abin/pt-br/centrais-de-conteudo/publicacoes/o-novo-sisbin/sem-logo-de-gov_abin_desafios_2026.pdf",
+          "after": "https://www.gov.br/abin/pt-br/sem-logo-de-gov_abin_desafios_2026.pdf",
+          "reason": "Use the independently verified canonical work/landing locator."
+        },
+        {
+          "field": "original_url",
+          "before": "https://www.gov.br/abin/pt-br/centrais-de-conteudo/publicacoes/o-novo-sisbin/sem-logo-de-gov_abin_desafios_2026.pdf",
+          "after": "https://www.gov.br/abin/pt-br/sem-logo-de-gov_abin_desafios_2026.pdf",
+          "reason": "Align source URL with corrected canonical locator."
+        },
+        {
+          "field": "source_type",
+          "before": "research_report",
+          "after": "government_report_section",
+          "reason": "Corrected against the official source."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-040",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-041",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-042",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-043",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-044",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-045",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-046",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-047",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-048",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-049",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-050",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-051",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "automated_access_unresolved_human_check_required",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL automated check returned TypeError: fetch failed; do not claim full-text access until a human verifies it.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-052",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-053",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "reject",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-054",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "automated_access_unresolved_human_check_required",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL automated check returned TypeError: fetch failed; do not claim full-text access until a human verifies it.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-055",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "automated_access_unresolved_human_check_required",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL automated check returned 403; do not claim full-text access until a human verifies it.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_access_unresolved_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-056",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "automated_access_unresolved_human_check_required",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL automated check returned 403; do not claim full-text access until a human verifies it.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_access_unresolved_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-057",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-058",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "hold_for_identity_review",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-059",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_source_identity_machine_verified_human_review_pending",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "return_for_research",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate-BATCH-2026-011-060",
+      "changes": [
+        {
+          "field": "analysis_access_status",
+          "before": null,
+          "after": "official_url_machine_access_confirmed",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "analysis_basis",
+          "before": null,
+          "after": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+          "reason": "SOURCE-SELECTION requires access status and analysis basis."
+        },
+        {
+          "field": "source_identity_status",
+          "before": "official_publisher_page_machine_checked_human_review_pending",
+          "after": "official_url_identity_mismatch_or_aggregation_human_review_required",
+          "reason": "Replace blanket status with record-specific independent result."
+        },
+        {
+          "field": "author_verification_status",
+          "before": null,
+          "after": "unresolved_or_institutional_authorship_human_review_required",
+          "reason": "Publisher and author were previously conflated without a verification state."
+        },
+        {
+          "field": "independent_review",
+          "before": null,
+          "after": {
+            "review_date": "2026-08-15",
+            "reviewer": "OpenAI Codex independent machine review; human decision pending",
+            "decision": "reject",
+            "publication_approved": false
+          },
+          "reason": "Record the independent machine decision without implying human approval."
+        }
+      ]
+    }
+  ]
+}

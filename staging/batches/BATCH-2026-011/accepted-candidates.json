@@ -13,7 +13,7 @@
     "source_type": "public_policy_document",
     "original_url": "https://www.cnil.fr/fr/ia-agentique-cnil-cianum-note",
     "canonical_url": "https://www.cnil.fr/fr/ia-agentique-cnil-cianum-note",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -35,9 +35,7 @@
       "market_discussed": [
         "France"
       ],
-      "study_geography": [
-        "France"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "France"
       ],
@@ -84,23 +82,32 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
     "candidate_id": "candidate-BATCH-2026-011-002",
     "scope": "Governed identities for AI agents",
-    "original_title": "Inteligencia Artificial Agéntica: orientaciones para tratamientos que incorporen IA agéntica",
-    "transliterated_title": "Inteligencia Artificial Agentica: orientaciones para tratamientos que incorporen IA agentica",
-    "english_title_translation": "Agentic Artificial Intelligence: guidance for processing operations incorporating agentic AI",
+    "original_title": "Inteligencia Artificial Agéntica desde la perspectiva de protección de datos",
+    "transliterated_title": "Inteligencia Artificial Agentica desde la perspectiva de proteccion de datos",
+    "english_title_translation": "Agentic Artificial Intelligence from the perspective of data protection",
     "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
     "original_language": "lang-es",
     "publisher": "Agencia Española de Protección de Datos",
     "author": "Agencia Española de Protección de Datos",
-    "publication_date": "2026",
+    "publication_date": "2026-02",
     "source_type": "public_policy_document",
     "original_url": "https://www.aepd.es/guias/orientaciones-ia-agentica.pdf",
     "canonical_url": "https://www.aepd.es/guias/orientaciones-ia-agentica.pdf",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -122,9 +129,7 @@
       "market_discussed": [
         "Spain"
       ],
-      "study_geography": [
-        "Spain"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "Spain"
       ],
@@ -171,23 +176,32 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
     "candidate_id": "candidate-BATCH-2026-011-003",
     "scope": "Governed identities for AI agents",
-    "original_title": "Guía de buenas prácticas frente al modelo de IA ofensiva (BP/36)",
-    "transliterated_title": "Guia de buenas practicas frente al modelo de IA ofensiva (BP/36)",
-    "english_title_translation": "Good-practice guide for confronting offensive AI (BP/36)",
+    "original_title": "CCN-CERT BP/36 Buenas Practicas IA Ofensiva",
+    "transliterated_title": "CCN-CERT BP/36 Buenas Practicas IA Ofensiva",
+    "english_title_translation": "CCN-CERT BP/36 Offensive AI Best Practices",
     "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
     "original_language": "lang-es",
     "publisher": "CCN-CERT / Spanish National Cryptologic Centre",
     "author": "CCN-CERT / Spanish National Cryptologic Centre",
-    "publication_date": "2026-06-25",
-    "source_type": "public_policy_document",
-    "original_url": "https://laboratorio.aepd.es/novedades/guia-practica-del-ccn-cert-para-hacer-frente-la-ia-ofensiva",
-    "canonical_url": "https://laboratorio.aepd.es/novedades/guia-practica-del-ccn-cert-para-hacer-frente-la-ia-ofensiva",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "publication_date": "2026-06-15",
+    "source_type": "government_guidance_document",
+    "original_url": "https://www.ccn-cert.cni.es/es/pdf/informes-de-ciberseguridad-ccn-cert/informes-ccn-cert-buenas-practicas-bp/7469-ccn-cert-bp-36-buenas-practicas-ia-ofensiva/file.html",
+    "canonical_url": "https://www.ccn-cert.cni.es/es/pdf/informes-de-ciberseguridad-ccn-cert/informes-ccn-cert-buenas-practicas-bp/7469-ccn-cert-bp-36-buenas-practicas-ia-ofensiva/file.html",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -209,9 +223,7 @@
       "market_discussed": [
         "Spain"
       ],
-      "study_geography": [
-        "Spain"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "Spain"
       ],
@@ -258,6 +270,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
@@ -274,7 +295,7 @@
     "source_type": "public_policy_document",
     "original_url": "https://www.traficom.fi/fi/julkaisut/tekoalyagenttien-kyberturvallisuus",
     "canonical_url": "https://www.traficom.fi/fi/julkaisut/tekoalyagenttien-kyberturvallisuus",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -296,9 +317,7 @@
       "market_discussed": [
         "Finland"
       ],
-      "study_geography": [
-        "Finland"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "Finland"
       ],
@@ -345,6 +364,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
@@ -356,12 +384,12 @@
     "english_title_translation_label": "not_applicable_original_english",
     "original_language": "lang-en",
     "publisher": "UK National Cyber Security Centre",
-    "author": "UK National Cyber Security Centre",
+    "author": "Martin R; Dr Kate S",
     "publication_date": "2026-05-15",
-    "source_type": "public_policy_document",
+    "source_type": "government_blog_post",
     "original_url": "https://www.ncsc.gov.uk/blogs/thinking-carefully-before-adopting-agentic-ai",
     "canonical_url": "https://www.ncsc.gov.uk/blogs/thinking-carefully-before-adopting-agentic-ai",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -383,9 +411,7 @@
       "market_discussed": [
         "United Kingdom"
       ],
-      "study_geography": [
-        "United Kingdom"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "United Kingdom"
       ],
@@ -432,6 +458,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
@@ -443,12 +478,12 @@
     "english_title_translation_label": "not_applicable_original_english",
     "original_language": "lang-en",
     "publisher": "UK National Cyber Security Centre",
-    "author": "UK National Cyber Security Centre",
-    "publication_date": "2026-07",
-    "source_type": "public_policy_document",
-    "original_url": "https://www.ncsc.gov.uk/sites/default/files/2026-07/Cyber-Shield-The-path-to-an-agentic-AI-future-for-cyber-defence.pdf",
-    "canonical_url": "https://www.ncsc.gov.uk/sites/default/files/2026-07/Cyber-Shield-The-path-to-an-agentic-AI-future-for-cyber-defence.pdf",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "author": "Peter Haigh; Harry G",
+    "publication_date": "2026-07-07",
+    "source_type": "government_blog_post",
+    "original_url": "https://www.ncsc.gov.uk/blogs/cyber-shield-the-path-to-an-agentic-ai-future-for-cyber-defence",
+    "canonical_url": "https://www.ncsc.gov.uk/blogs/cyber-shield-the-path-to-an-agentic-ai-future-for-cyber-defence",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -470,9 +505,7 @@
       "market_discussed": [
         "United Kingdom"
       ],
-      "study_geography": [
-        "United Kingdom"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "United Kingdom"
       ],
@@ -519,6 +552,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_source_browser_verified",
+    "analysis_basis": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
@@ -535,7 +577,7 @@
     "source_type": "public_policy_document",
     "original_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/faq/how-are-ai-agents-addressed-within-ai-act-0",
     "canonical_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/faq/how-are-ai-agents-addressed-within-ai-act-0",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -557,9 +599,7 @@
       "market_discussed": [
         "European Union"
       ],
-      "study_geography": [
-        "European Union"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "European Union"
       ],
@@ -606,6 +646,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
@@ -617,12 +666,12 @@
     "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
     "original_language": "lang-es",
     "publisher": "AEPD Journal of Privacy, Innovation and Technology",
-    "author": "AEPD Journal of Privacy, Innovation and Technology",
+    "author": "Aurea Rodriguez Lopez",
     "publication_date": "2026-04-28",
     "source_type": "academic_paper",
     "original_url": "https://revista.aepd.es/revistaprivacidad/article/view/10",
     "canonical_url": "https://revista.aepd.es/revistaprivacidad/article/view/10",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -644,9 +693,7 @@
       "market_discussed": [
         "Spain"
       ],
-      "study_geography": [
-        "Spain"
-      ],
+      "study_geography": [],
       "regulatory_geography": [],
       "audience_geography": [
         "Spain"
@@ -691,6 +738,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_source_browser_verified",
+    "analysis_basis": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
@@ -707,7 +763,7 @@
     "source_type": "research_report",
     "original_url": "https://www.csa.gov.sg/resources/publications/securing-agentic-ai-a-discussion-paper/",
     "canonical_url": "https://www.csa.gov.sg/resources/publications/securing-agentic-ai-a-discussion-paper/",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -729,9 +785,7 @@
       "market_discussed": [
         "Singapore"
       ],
-      "study_geography": [
-        "Singapore"
-      ],
+      "study_geography": [],
       "regulatory_geography": [],
       "audience_geography": [
         "Singapore"
@@ -776,6 +830,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
@@ -788,11 +851,11 @@
     "original_language": "lang-en",
     "publisher": "Cyber Security Agency of Singapore",
     "author": "Cyber Security Agency of Singapore",
-    "publication_date": "2025-10-22",
+    "publication_date": "2026-06-17",
     "source_type": "public_policy_document",
-    "original_url": "https://www.csa.gov.sg/news-events/press-releases/csa-releases-an-addendum-to-support-system-owners-in-securing-agentic-ai-system/",
-    "canonical_url": "https://www.csa.gov.sg/news-events/press-releases/csa-releases-an-addendum-to-support-system-owners-in-securing-agentic-ai-system/",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "original_url": "https://www.csa.gov.sg/resources/publications/addendum-on-securing-ai-systems/",
+    "canonical_url": "https://www.csa.gov.sg/resources/publications/addendum-on-securing-ai-systems/",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -814,9 +877,7 @@
       "market_discussed": [
         "Singapore"
       ],
-      "study_geography": [
-        "Singapore"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "Singapore"
       ],
@@ -863,12 +924,21 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_source_browser_verified",
+    "analysis_basis": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
     "candidate_id": "candidate-BATCH-2026-011-020",
     "scope": "Governed identities for AI agents",
-    "original_title": "Ensuring Meaningful Human Accountability for Public-facing Autonomous AI Agents and Pathways to Mandatory Governance in High-risk Sectors",
+    "original_title": "MDDI's Response to PQ on Ensuring Meaningful Human Accountability for Public-facing Autonomous AI Agents and Pathways to Mandatory Governance in High-risk Sectors",
     "transliterated_title": null,
     "english_title_translation": null,
     "english_title_translation_label": "not_applicable_original_english",
@@ -876,10 +946,10 @@
     "publisher": "Singapore Ministry of Digital Development and Information",
     "author": "Singapore Ministry of Digital Development and Information",
     "publication_date": "2026-05-06",
-    "source_type": "primary_media",
+    "source_type": "parliamentary_written_answer",
     "original_url": "https://www.mddi.gov.sg/newsroom/mddi-s-response-to-pq-on-ensuring-meaningful-human-accountability-for-public-facing-autonomous-ai-agents-and-pathways-to-mandatory-governance-in-high-risk-sectors/",
     "canonical_url": "https://www.mddi.gov.sg/newsroom/mddi-s-response-to-pq-on-ensuring-meaningful-human-accountability-for-public-facing-autonomous-ai-agents-and-pathways-to-mandatory-governance-in-high-risk-sectors/",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -901,9 +971,7 @@
       "market_discussed": [
         "Singapore"
       ],
-      "study_geography": [
-        "Singapore"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "Singapore"
       ],
@@ -950,6 +1018,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
@@ -963,10 +1040,10 @@
     "publisher": "Information-technology Promotion Agency, Japan",
     "author": "Information-technology Promotion Agency, Japan",
     "publication_date": "2026-06-30",
-    "source_type": "research_report",
+    "source_type": "government_project_profile",
     "original_url": "https://www.ipa.go.jp/jinzai/mitou/advanced/2026first/gaiyou-sd-1.html",
     "canonical_url": "https://www.ipa.go.jp/jinzai/mitou/advanced/2026first/gaiyou-sd-1.html",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_url_identity_mismatch_or_aggregation_human_review_required",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -988,9 +1065,7 @@
       "market_discussed": [
         "Japan"
       ],
-      "study_geography": [
-        "Japan"
-      ],
+      "study_geography": [],
       "regulatory_geography": [],
       "audience_geography": [
         "Japan"
@@ -1035,6 +1110,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "unresolved_or_institutional_authorship_human_review_required",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "hold_for_identity_review",
+      "publication_approved": false
     }
   },
   {
@@ -1048,10 +1132,10 @@
     "publisher": "Ministry of Economy, Trade and Industry, Japan",
     "author": "Ministry of Economy, Trade and Industry, Japan",
     "publication_date": "2026-04-03",
-    "source_type": "public_policy_document",
+    "source_type": "government_meeting_presentation",
     "original_url": "https://www.meti.go.jp/press/2026/04/20260403003/20260403003-b.pdf",
     "canonical_url": "https://www.meti.go.jp/press/2026/04/20260403003/20260403003-b.pdf",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_url_identity_mismatch_or_aggregation_human_review_required",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -1073,9 +1157,7 @@
       "market_discussed": [
         "Japan"
       ],
-      "study_geography": [
-        "Japan"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "Japan"
       ],
@@ -1122,6 +1204,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_source_browser_verified",
+    "analysis_basis": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+    "author_verification_status": "unresolved_or_institutional_authorship_human_review_required",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "hold_for_identity_review",
+      "publication_approved": false
     }
   },
   {
@@ -1135,10 +1226,10 @@
     "publisher": "Information-technology Promotion Agency, Japan",
     "author": "Information-technology Promotion Agency, Japan",
     "publication_date": "2026-04-02",
-    "source_type": "research_report",
+    "source_type": "government_publication_series",
     "original_url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html",
     "canonical_url": "https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_url_identity_mismatch_or_aggregation_human_review_required",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -1160,9 +1251,7 @@
       "market_discussed": [
         "Japan"
       ],
-      "study_geography": [
-        "Japan"
-      ],
+      "study_geography": [],
       "regulatory_geography": [],
       "audience_geography": [
         "Japan"
@@ -1206,6 +1295,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "unresolved_or_institutional_authorship_human_review_required",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "hold_for_identity_review",
+      "publication_approved": false
     }
   },
   {
@@ -1219,10 +1317,10 @@
     "publisher": "Office of the Privacy Commissioner for Personal Data, Hong Kong",
     "author": "Office of the Privacy Commissioner for Personal Data, Hong Kong",
     "publication_date": "2026-05-19",
-    "source_type": "research_report",
+    "source_type": "government_compliance_check_summary",
     "original_url": "https://www.pcpd.org.hk/english/news_events/media_statements/press_20260519.html",
     "canonical_url": "https://www.pcpd.org.hk/english/news_events/media_statements/press_20260519.html",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -1244,9 +1342,7 @@
       "market_discussed": [
         "Hong Kong"
       ],
-      "study_geography": [
-        "Hong Kong"
-      ],
+      "study_geography": [],
       "regulatory_geography": [],
       "audience_geography": [
         "Hong Kong"
@@ -1291,23 +1387,32 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
     "candidate_id": "candidate-BATCH-2026-011-029",
     "scope": "Governed identities for AI agents",
-    "original_title": "人工智能安全治理框架2.0版",
-    "transliterated_title": "Rengong zhineng anquan zhili kuangjia 2.0 ban",
-    "english_title_translation": "Artificial Intelligence Safety Governance Framework, version 2.0",
+    "original_title": "《人工智能安全治理框架》2.0版发布",
+    "transliterated_title": "Rengong zhineng anquan zhili kuangjia 2.0 ban fabu",
+    "english_title_translation": "Artificial Intelligence Safety Governance Framework 2.0 released",
     "english_title_translation_label": "machine-assisted English metadata translation; not human verified",
     "original_language": "lang-zh-hans",
     "publisher": "National Computer Network Emergency Response Technical Team / Cyberspace Administration of China",
     "author": "National Computer Network Emergency Response Technical Team / Cyberspace Administration of China",
     "publication_date": "2025-09-15",
-    "source_type": "public_policy_document",
+    "source_type": "government_framework_announcement_with_attached_document",
     "original_url": "https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm?type=h5",
     "canonical_url": "https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm?type=h5",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -1329,9 +1434,7 @@
       "market_discussed": [
         "China"
       ],
-      "study_geography": [
-        "China"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "China"
       ],
@@ -1378,6 +1481,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_source_browser_verified",
+    "analysis_basis": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+    "author_verification_status": "independently_verified_machine_review_human_pending",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "approve_with_corrections_for_human_review",
+      "publication_approved": false
     }
   },
   {
@@ -1390,11 +1502,11 @@
     "original_language": "lang-en",
     "publisher": "Australian Digital Transformation Agency",
     "author": "Australian Digital Transformation Agency",
-    "publication_date": "2026",
-    "source_type": "public_policy_document",
+    "publication_date": "2026-06-04",
+    "source_type": "government_technical_standard_section",
     "original_url": "https://www.digital.gov.au/policy/ai/agentic-ai-addendum-statements-whole-ai-lifecycle",
     "canonical_url": "https://www.digital.gov.au/policy/ai/agentic-ai-addendum-statements-whole-ai-lifecycle",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_url_identity_mismatch_or_aggregation_human_review_required",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -1416,9 +1528,7 @@
       "market_discussed": [
         "Australia"
       ],
-      "study_geography": [
-        "Australia"
-      ],
+      "study_geography": [],
       "regulatory_geography": [
         "Australia"
       ],
@@ -1465,6 +1575,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_source_browser_verified",
+    "analysis_basis": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+    "author_verification_status": "unresolved_or_institutional_authorship_human_review_required",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "hold_for_identity_review",
+      "publication_approved": false
     }
   },
   {
@@ -1478,10 +1597,10 @@
     "publisher": "Brazilian Intelligence Agency",
     "author": "Brazilian Intelligence Agency",
     "publication_date": "2026",
-    "source_type": "research_report",
-    "original_url": "https://www.gov.br/abin/pt-br/centrais-de-conteudo/publicacoes/o-novo-sisbin/sem-logo-de-gov_abin_desafios_2026.pdf",
-    "canonical_url": "https://www.gov.br/abin/pt-br/centrais-de-conteudo/publicacoes/o-novo-sisbin/sem-logo-de-gov_abin_desafios_2026.pdf",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_type": "government_report_section",
+    "original_url": "https://www.gov.br/abin/pt-br/sem-logo-de-gov_abin_desafios_2026.pdf",
+    "canonical_url": "https://www.gov.br/abin/pt-br/sem-logo-de-gov_abin_desafios_2026.pdf",
+    "source_identity_status": "official_url_identity_mismatch_or_aggregation_human_review_required",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "direct_agentic_or_agent_identity",
     "decision": "accept",
@@ -1503,9 +1622,7 @@
       "market_discussed": [
         "Brazil"
       ],
-      "study_geography": [
-        "Brazil"
-      ],
+      "study_geography": [],
       "regulatory_geography": [],
       "audience_geography": [
         "Brazil"
@@ -1550,6 +1667,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_source_browser_index_verified_direct_download_unresolved",
+    "analysis_basis": "Official publisher page or document inspected independently in browser; no third-party source text stored.",
+    "author_verification_status": "unresolved_or_institutional_authorship_human_review_required",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "hold_for_identity_review",
+      "publication_approved": false
     }
   }
 ]

@@ -13,7 +13,7 @@
     "source_type": "public_policy_document",
     "original_url": "https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf",
     "canonical_url": "https://www.gov.za/sites/default/files/gcis_document/202604/54477gen3880.pdf",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_source_identity_machine_verified_human_review_pending",
     "intellectual_work_status": "candidate_work",
     "topic_directness": "adjacent_ai_governance",
     "decision": "reject",
@@ -81,6 +81,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 206; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "unresolved_or_institutional_authorship_human_review_required",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "reject",
+      "publication_approved": false
     }
   },
   {
@@ -97,7 +106,7 @@
     "source_type": "public_policy_document",
     "original_url": "https://www.risa.gov.rw/publications/policies",
     "canonical_url": "https://www.risa.gov.rw/publications/policies",
-    "source_identity_status": "official_publisher_page_machine_checked_human_review_pending",
+    "source_identity_status": "official_url_identity_mismatch_or_aggregation_human_review_required",
     "intellectual_work_status": "duplicate_route",
     "topic_directness": "adjacent_ai_governance",
     "decision": "reject",
@@ -165,6 +174,15 @@
       "batch_id": "BATCH-2026-011",
       "prompt_id": "OEII-GLOBAL-COVERAGE",
       "prompt_version": "2.0"
+    },
+    "analysis_access_status": "official_url_machine_access_confirmed",
+    "analysis_basis": "Official URL returned HTTP 200; HTML title or document content type sampled without retaining source text.",
+    "author_verification_status": "unresolved_or_institutional_authorship_human_review_required",
+    "independent_review": {
+      "review_date": "2026-08-15",
+      "reviewer": "OpenAI Codex independent machine review; human decision pending",
+      "decision": "reject",
+      "publication_approved": false
     }
   }
 ]
