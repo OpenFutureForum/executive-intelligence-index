@@ -1,0 +1,20 @@
+component,current_raw_value,previous_raw_value,change_value,denominator,comparison_period,weight,normalized_value,status,limitation
+qualifying_sources,0,,,0,2026-07-01/2026-07-31,0.25,,not_calculable,No previous frozen release
+books,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No previous frozen release
+complete_book_analyses,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No previous frozen release
+media,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No previous frozen release
+evidence_reports,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No previous frozen release
+people,0,,,0,2026-07-01/2026-07-31,0.20,,not_calculable,No previous frozen release
+organizations,0,,,0,2026-07-01/2026-07-31,0.20,,not_calculable,No previous frozen release
+statements,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No previous frozen release
+propositions,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No previous frozen release
+challenging_positions,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No eligible stance lineage
+qualifying_positions,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No eligible stance lineage
+role_spread,0,,,0,2026-07-01/2026-07-31,0.15,,not_calculable,No role-at-source-time evidence
+geographic_spread,0,,,0,2026-07-01/2026-07-31,0.10,,not_calculable,No eligible sources
+language_spread,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No eligible sources
+source_type_spread,0,,,0,2026-07-01/2026-07-31,0.10,,not_calculable,No eligible sources
+source_concentration,,,,0,2026-07-01/2026-07-31,0,,undefined,Zero source denominator
+off_owned_source_share,,,,0,2026-07-01/2026-07-31,0,,undefined,Zero source denominator
+proposition_activity,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No published propositions
+dossier_coverage,0,,,0,2026-07-01/2026-07-31,0,,not_calculable,No published dossiers
