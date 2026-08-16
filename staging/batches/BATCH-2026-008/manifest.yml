@@ -1,0 +1,53 @@
+batch_id: BATCH-2026-008
+prompt_id: OEII-PROPOSITION-MAPPING
+prompt_version: "2.0"
+topic: Governed identities for AI agents
+topic_slug: governed-agent-identities
+branch: analysis/propositions-governed-agent-identities-BATCH-2026-008
+base_branch: research/people-BATCH-2026-007
+execution_date: 2026-08-15
+execution_completed_at: 2026-08-15T23:30:00Z
+agent_or_researcher: OpenAI Codex; machine-assisted proposition normalization and scope comparison; named human review pending
+model_disclosure: AI-assisted conceptual clustering, proposition drafting, stance coding, scope comparison, overlap review, concentration analysis, and debate-threshold review; no human or publication approval occurred.
+upstream_statement_batch: BATCH-2026-006
+upstream_person_batch: BATCH-2026-007
+statements_reviewed: 46
+propositions_created: 9
+prior_candidates_merged_and_refined: 9
+canonical_propositions_merged: 0
+propositions_held: 1
+stance_relationships: 57
+debates_proposed: 0
+false_disagreements_removed: 4
+scope_mismatches_reviewed: 12
+high_concentration_propositions: 8
+unresolved_conceptual_overlaps: 0
+workflow_status: propositions_mapped
+machine_review_status: ready_for_human_review
+human_review_status: pending
+output_files:
+  - propositions.json
+  - stances.json
+  - statement-clusters.json
+  - proposition-decisions.json
+  - stance-decisions.json
+  - debate-candidates.json
+  - scope-mismatch-review.csv
+  - proposition-overlap.json
+  - source-concentration.md
+  - unresolved-statement-clusters.json
+  - human-review-queue.csv
+  - limitations.md
+  - validation-results.md
+validation_required:
+  - proposition schema
+  - stance schema
+  - unsupported proposition
+  - scope match
+  - proposition overlap
+  - circular definition
+  - consensus language
+  - source concentration and diversity
+  - OFF ownership disclosure
+  - debate threshold
+  - staging leak

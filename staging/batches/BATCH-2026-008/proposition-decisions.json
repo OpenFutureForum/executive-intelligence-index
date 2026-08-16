@@ -1,0 +1,147 @@
+{
+  "batch_id": "BATCH-2026-008",
+  "created": [
+    {
+      "proposition_id": "proposition-BATCH-2026-008-001",
+      "decision": "create_staging_candidate",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_id": "proposition-BATCH-2026-008-002",
+      "decision": "create_staging_candidate",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_id": "proposition-BATCH-2026-008-003",
+      "decision": "create_staging_candidate",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_id": "proposition-BATCH-2026-008-004",
+      "decision": "create_staging_candidate",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_id": "proposition-BATCH-2026-008-005",
+      "decision": "create_staging_candidate",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_id": "proposition-BATCH-2026-008-006",
+      "decision": "create_staging_candidate",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_id": "proposition-BATCH-2026-008-007",
+      "decision": "create_staging_candidate",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_id": "proposition-BATCH-2026-008-008",
+      "decision": "create_staging_candidate",
+      "human_review_status": "pending"
+    },
+    {
+      "proposition_id": "proposition-BATCH-2026-008-009",
+      "decision": "create_staging_candidate",
+      "human_review_status": "pending"
+    }
+  ],
+  "merged_prior_candidates": [
+    {
+      "prior_candidate_id": "proposition-candidate-BATCH-2026-006-001",
+      "decision": "merged_and_refined",
+      "normalized_proposition_ids": [
+        "proposition-BATCH-2026-008-001"
+      ],
+      "rationale": "The earlier keyword-level candidate was redistributed by concept and scope into the normalized proposition set."
+    },
+    {
+      "prior_candidate_id": "proposition-candidate-BATCH-2026-006-002",
+      "decision": "merged_and_refined",
+      "normalized_proposition_ids": [
+        "proposition-BATCH-2026-008-001",
+        "proposition-BATCH-2026-008-008"
+      ],
+      "rationale": "The earlier keyword-level candidate was redistributed by concept and scope into the normalized proposition set."
+    },
+    {
+      "prior_candidate_id": "proposition-candidate-BATCH-2026-006-003",
+      "decision": "merged_and_refined",
+      "normalized_proposition_ids": [
+        "proposition-BATCH-2026-008-003"
+      ],
+      "rationale": "The earlier keyword-level candidate was redistributed by concept and scope into the normalized proposition set."
+    },
+    {
+      "prior_candidate_id": "proposition-candidate-BATCH-2026-006-004",
+      "decision": "merged_and_refined",
+      "normalized_proposition_ids": [
+        "proposition-BATCH-2026-008-002"
+      ],
+      "rationale": "The earlier keyword-level candidate was redistributed by concept and scope into the normalized proposition set."
+    },
+    {
+      "prior_candidate_id": "proposition-candidate-BATCH-2026-006-005",
+      "decision": "merged_and_refined",
+      "normalized_proposition_ids": [
+        "proposition-BATCH-2026-008-001",
+        "proposition-BATCH-2026-008-008"
+      ],
+      "rationale": "The earlier keyword-level candidate was redistributed by concept and scope into the normalized proposition set."
+    },
+    {
+      "prior_candidate_id": "proposition-candidate-BATCH-2026-006-006",
+      "decision": "merged_and_refined",
+      "normalized_proposition_ids": [
+        "proposition-BATCH-2026-008-004",
+        "proposition-BATCH-2026-008-005",
+        "proposition-BATCH-2026-008-006",
+        "proposition-BATCH-2026-008-007"
+      ],
+      "rationale": "The earlier keyword-level candidate was redistributed by concept and scope into the normalized proposition set."
+    },
+    {
+      "prior_candidate_id": "proposition-candidate-BATCH-2026-006-007",
+      "decision": "merged_and_refined",
+      "normalized_proposition_ids": [
+        "proposition-BATCH-2026-008-003",
+        "proposition-BATCH-2026-008-009"
+      ],
+      "rationale": "The earlier keyword-level candidate was redistributed by concept and scope into the normalized proposition set."
+    },
+    {
+      "prior_candidate_id": "proposition-candidate-BATCH-2026-006-008",
+      "decision": "merged_and_refined",
+      "normalized_proposition_ids": [
+        "proposition-BATCH-2026-008-006"
+      ],
+      "rationale": "The earlier keyword-level candidate was redistributed by concept and scope into the normalized proposition set."
+    },
+    {
+      "prior_candidate_id": "proposition-candidate-BATCH-2026-006-009",
+      "decision": "merged_and_refined",
+      "normalized_proposition_ids": [
+        "proposition-BATCH-2026-008-009"
+      ],
+      "rationale": "The earlier keyword-level candidate was redistributed by concept and scope into the normalized proposition set."
+    }
+  ],
+  "held": [
+    {
+      "candidate_id": "held-candidate-BATCH-2026-008-001",
+      "statement_ids": [
+        "statement-BATCH-2026-006-004",
+        "statement-BATCH-2026-006-005"
+      ],
+      "proposed_formulation": "Agent governance should preserve data provenance across model and generated-data lifecycles.",
+      "decision": "hold_for_broader_generative_ai_batch",
+      "rationale": "Only one source and a broader generative-AI scope; insufficient agent-specific, multi-source support in this batch."
+    }
+  ],
+  "canonical_comparison": {
+    "existing_published_propositions_found": 0,
+    "canonical_merges": 0,
+    "note": "Canonical proposition directories contain README files only."
+  }
+}

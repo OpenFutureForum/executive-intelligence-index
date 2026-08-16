@@ -1,0 +1,1211 @@
+[
+  {
+    "proposition_id": "proposition-BATCH-2026-008-001",
+    "neutral_formulation": "Agent-mediated actions should be attributable to an agent identity that is distinguishable from, and linked to, the principal represented.",
+    "aliases": [],
+    "definition": "A traceability proposition covering distinct agent identification and preservation of the delegating human or system principal in authentication, authorization, and audit contexts.",
+    "scope": "Cross-sector agent access to tools and services, especially delegated and high-stakes actions; it does not require public disclosure of identity or universal deanonymization.",
+    "time_period": "Indexed source publications dated 2024-06-02 through 2026-06-01; normative claims are not treated as time-invariant facts.",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "relevant_role_ids": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_geographies": [
+      "global standards context",
+      "global technology standards context",
+      "global policy context"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-006-009",
+      "statement-BATCH-2026-006-013",
+      "statement-BATCH-2026-006-015",
+      "statement-BATCH-2026-006-016",
+      "statement-BATCH-2026-006-018"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [
+      "statement-BATCH-2026-006-010",
+      "statement-BATCH-2026-006-045"
+    ],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-005-003",
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-009"
+    ],
+    "proposition_status": "candidate_pending_human_review",
+    "ambiguity_notes": "Identifier persistence, privacy properties, and the strength of the principal link remain implementation-dependent.",
+    "source_diversity_metrics": {
+      "independent_people": 42,
+      "independent_organizations": 3,
+      "publishers": 3,
+      "source_types": [
+        "research_report",
+        "working_paper"
+      ],
+      "intellectual_sources": 3,
+      "off_owned_source_share": 0,
+      "consulting_source_share": 0,
+      "vendor_source_share": 0.3333333333333333,
+      "geographic_contexts": [
+        "global policy context",
+        "global standards context",
+        "global technology standards context"
+      ],
+      "role_contexts": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "geographic_concentration": {
+        "status": "high_or_not_measurable",
+        "basis": "Normative records use United States or global contexts; benchmark records have no human geography. No region-comparative evidence is present."
+      },
+      "role_concentration": {
+        "coded_roles": 5,
+        "direct_role_specific_position_sources": 0,
+        "status": "not_measurable_from_shared_relevance_tags",
+        "basis": "The same executive-relevance tags apply to all supplied statements; the corpus does not measure positions by role."
+      },
+      "leading_source_id": "source-BATCH-2026-005-003",
+      "leading_source_statement_share": 0.429,
+      "high_concentration": true,
+      "concentration_basis": "Share of this proposition’s mapped statement relationships attributable to the leading intellectual source; warning threshold > 0.40."
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": null,
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-009, statement-BATCH-2026-006-010, statement-BATCH-2026-006-013",
+        "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-015, statement-BATCH-2026-006-016, statement-BATCH-2026-006-018",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-045",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T23:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created normalized, scope-preserving staging proposition from independently checked statements.",
+        "batch_id": "BATCH-2026-008"
+      }
+    ]
+  },
+  {
+    "proposition_id": "proposition-BATCH-2026-008-002",
+    "neutral_formulation": "Agent identities and credentials should be governed through explicit lifecycle controls, including scoped issuance, short validity, permission change, transfer, revocation, and de-provisioning.",
+    "aliases": [],
+    "definition": "A lifecycle proposition connecting runtime credential constraints with enterprise management of non-human agent identities.",
+    "scope": "Enterprise and standards-based identity management for runtime AI agents; it does not prescribe a single protocol or credential format.",
+    "time_period": "Indexed source publications dated 2024-06-02 through 2026-06-01; normative claims are not treated as time-invariant facts.",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "relevant_role_ids": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_geographies": [
+      "global standards context",
+      "global technology standards context"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-006-011",
+      "statement-BATCH-2026-006-017",
+      "statement-BATCH-2026-006-019"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [
+      "statement-BATCH-2026-006-012"
+    ],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-005-003",
+      "source-BATCH-2026-005-004"
+    ],
+    "proposition_status": "candidate_pending_human_review",
+    "ambiguity_notes": "The indexed sources propose controls but do not provide comparative implementation or interoperability evidence.",
+    "source_diversity_metrics": {
+      "independent_people": 26,
+      "independent_organizations": 2,
+      "publishers": 2,
+      "source_types": [
+        "research_report",
+        "working_paper"
+      ],
+      "intellectual_sources": 2,
+      "off_owned_source_share": 0,
+      "consulting_source_share": 0,
+      "vendor_source_share": 0,
+      "geographic_contexts": [
+        "global standards context",
+        "global technology standards context"
+      ],
+      "role_contexts": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "geographic_concentration": {
+        "status": "high_or_not_measurable",
+        "basis": "Normative records use United States or global contexts; benchmark records have no human geography. No region-comparative evidence is present."
+      },
+      "role_concentration": {
+        "coded_roles": 5,
+        "direct_role_specific_position_sources": 0,
+        "status": "not_measurable_from_shared_relevance_tags",
+        "basis": "The same executive-relevance tags apply to all supplied statements; the corpus does not measure positions by role."
+      },
+      "leading_source_id": "source-BATCH-2026-005-003",
+      "leading_source_statement_share": 0.5,
+      "high_concentration": true,
+      "concentration_basis": "Share of this proposition’s mapped statement relationships attributable to the leading intellectual source; warning threshold > 0.40."
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": null,
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-011, statement-BATCH-2026-006-012",
+        "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-017, statement-BATCH-2026-006-019",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T23:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created normalized, scope-preserving staging proposition from independently checked statements.",
+        "batch_id": "BATCH-2026-008"
+      }
+    ]
+  },
+  {
+    "proposition_id": "proposition-BATCH-2026-008-003",
+    "neutral_formulation": "Authority granted to agents should be risk-proportionate, least-privileged, attenuated across delegation, and subject to stronger limits for high-consequence actions.",
+    "aliases": [],
+    "definition": "A control proposition covering permission boundaries, delegation attenuation, informed approval, hard limits, and shutdown authority.",
+    "scope": "Cross-sector deployment and use of agents, with control strength varying by autonomy and consequence; it does not endorse approval prompts for every action.",
+    "time_period": "Indexed source publications dated 2024-06-02 through 2026-06-01; normative claims are not treated as time-invariant facts.",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "relevant_role_ids": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_geographies": [
+      "global technology standards context",
+      "global policy context"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-006-011",
+      "statement-BATCH-2026-006-020",
+      "statement-BATCH-2026-006-043"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [
+      "statement-BATCH-2026-006-021",
+      "statement-BATCH-2026-006-039"
+    ],
+    "refining_statement_ids": [
+      "statement-BATCH-2026-006-046"
+    ],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-005-003",
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-009"
+    ],
+    "proposition_status": "candidate_pending_human_review",
+    "ambiguity_notes": "The sources do not establish universal thresholds for high consequence, sufficient approval, or reliable shutdown.",
+    "source_diversity_metrics": {
+      "independent_people": 42,
+      "independent_organizations": 3,
+      "publishers": 3,
+      "source_types": [
+        "research_report",
+        "working_paper"
+      ],
+      "intellectual_sources": 3,
+      "off_owned_source_share": 0,
+      "consulting_source_share": 0,
+      "vendor_source_share": 0.3333333333333333,
+      "geographic_contexts": [
+        "global policy context",
+        "global standards context",
+        "global technology standards context"
+      ],
+      "role_contexts": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "geographic_concentration": {
+        "status": "high_or_not_measurable",
+        "basis": "Normative records use United States or global contexts; benchmark records have no human geography. No region-comparative evidence is present."
+      },
+      "role_concentration": {
+        "coded_roles": 5,
+        "direct_role_specific_position_sources": 0,
+        "status": "not_measurable_from_shared_relevance_tags",
+        "basis": "The same executive-relevance tags apply to all supplied statements; the corpus does not measure positions by role."
+      },
+      "leading_source_id": "source-BATCH-2026-005-009",
+      "leading_source_statement_share": 0.5,
+      "high_concentration": true,
+      "concentration_basis": "Share of this proposition’s mapped statement relationships attributable to the leading intellectual source; warning threshold > 0.40."
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": null,
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-011",
+        "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-020, statement-BATCH-2026-006-021",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-039, statement-BATCH-2026-006-043, statement-BATCH-2026-006-046",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T23:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created normalized, scope-preserving staging proposition from independently checked statements.",
+        "batch_id": "BATCH-2026-008"
+      }
+    ]
+  },
+  {
+    "proposition_id": "proposition-BATCH-2026-008-004",
+    "neutral_formulation": "Agent risk evaluation should occur before deployment and recur afterward under conditions that resemble the intended use, because laboratory results may not transfer to deployment.",
+    "aliases": [],
+    "definition": "An evaluation-timing and external-validity proposition linking lifecycle assessment, representative conditions, field feedback, and reassessment.",
+    "scope": "Generative-AI and agentic systems used cross-sectorally; the indexed guidance does not define a universal sufficiency threshold.",
+    "time_period": "Indexed source publications dated 2024-06-02 through 2026-06-01; normative claims are not treated as time-invariant facts.",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "relevant_role_ids": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_geographies": [
+      "United States",
+      "cross-sectoral global applicability",
+      "global policy context"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-006-006",
+      "statement-BATCH-2026-006-042"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [
+      "statement-BATCH-2026-006-007"
+    ],
+    "refining_statement_ids": [
+      "statement-BATCH-2026-006-008"
+    ],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-005-002",
+      "source-BATCH-2026-005-009"
+    ],
+    "proposition_status": "candidate_pending_human_review",
+    "ambiguity_notes": "The recommendation is broader than identity governance and lacks comparative outcome evidence.",
+    "source_diversity_metrics": {
+      "independent_people": 16,
+      "independent_organizations": 2,
+      "publishers": 2,
+      "source_types": [
+        "public_policy_document",
+        "research_report"
+      ],
+      "intellectual_sources": 2,
+      "off_owned_source_share": 0,
+      "consulting_source_share": 0,
+      "vendor_source_share": 0.5,
+      "geographic_contexts": [
+        "United States",
+        "cross-sectoral global applicability",
+        "global policy context"
+      ],
+      "role_contexts": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "geographic_concentration": {
+        "status": "high_or_not_measurable",
+        "basis": "Normative records use United States or global contexts; benchmark records have no human geography. No region-comparative evidence is present."
+      },
+      "role_concentration": {
+        "coded_roles": 5,
+        "direct_role_specific_position_sources": 0,
+        "status": "not_measurable_from_shared_relevance_tags",
+        "basis": "The same executive-relevance tags apply to all supplied statements; the corpus does not measure positions by role."
+      },
+      "leading_source_id": "source-BATCH-2026-005-002",
+      "leading_source_statement_share": 0.75,
+      "high_concentration": true,
+      "concentration_basis": "Share of this proposition’s mapped statement relationships attributable to the leading intellectual source; warning threshold > 0.40."
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": null,
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-006, statement-BATCH-2026-006-007, statement-BATCH-2026-006-008",
+        "content_hash": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-042",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T23:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created normalized, scope-preserving staging proposition from independently checked statements.",
+        "batch_id": "BATCH-2026-008"
+      }
+    ]
+  },
+  {
+    "proposition_id": "proposition-BATCH-2026-008-005",
+    "neutral_formulation": "Security evaluation and model selection for agents should report task utility and adversarial resistance separately, including utility under attack.",
+    "aliases": [],
+    "definition": "A measurement proposition that treats benign task completion, attack success, and utility under attack as distinct decision inputs rather than collapsing them into capability rankings.",
+    "scope": "Synthetic LLM-agent security benchmarks and model-selection decisions represented by AgentDojo and ASB; production effectiveness is not established.",
+    "time_period": "Indexed source publications dated 2024-06-02 through 2026-06-01; normative claims are not treated as time-invariant facts.",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "relevant_role_ids": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_geographies": [
+      "synthetic environments; no human geography",
+      "synthetic benchmark; no human geography"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-006-024",
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-026",
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-029",
+      "statement-BATCH-2026-006-032"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [
+      "statement-BATCH-2026-006-022",
+      "statement-BATCH-2026-006-031"
+    ],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-005-006",
+      "source-BATCH-2026-005-007"
+    ],
+    "proposition_status": "candidate_pending_human_review",
+    "ambiguity_notes": "Metric definitions and benchmark cases differ, and composite measures can conceal underlying dimensions.",
+    "source_diversity_metrics": {
+      "independent_people": 14,
+      "independent_organizations": 4,
+      "publishers": 2,
+      "source_types": [
+        "academic_paper"
+      ],
+      "intellectual_sources": 2,
+      "off_owned_source_share": 0,
+      "consulting_source_share": 0,
+      "vendor_source_share": 0.5,
+      "geographic_contexts": [
+        "synthetic benchmark; no human geography",
+        "synthetic environments; no human geography"
+      ],
+      "role_contexts": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "geographic_concentration": {
+        "status": "high_or_not_measurable",
+        "basis": "Normative records use United States or global contexts; benchmark records have no human geography. No region-comparative evidence is present."
+      },
+      "role_concentration": {
+        "coded_roles": 5,
+        "direct_role_specific_position_sources": 0,
+        "status": "not_measurable_from_shared_relevance_tags",
+        "basis": "The same executive-relevance tags apply to all supplied statements; the corpus does not measure positions by role."
+      },
+      "leading_source_id": "source-BATCH-2026-005-006",
+      "leading_source_statement_share": 0.5,
+      "high_concentration": true,
+      "concentration_basis": "Share of this proposition’s mapped statement relationships attributable to the leading intellectual source; warning threshold > 0.40."
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": null,
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-022, statement-BATCH-2026-006-024, statement-BATCH-2026-006-025, statement-BATCH-2026-006-026",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2410.02644",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-028, statement-BATCH-2026-006-029, statement-BATCH-2026-006-031, statement-BATCH-2026-006-032",
+        "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T23:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created normalized, scope-preserving staging proposition from independently checked statements.",
+        "batch_id": "BATCH-2026-008"
+      }
+    ]
+  },
+  {
+    "proposition_id": "proposition-BATCH-2026-008-006",
+    "neutral_formulation": "Synthetic agent-security benchmarks can demonstrate bounded capabilities and defense tradeoffs but do not estimate production prevalence or guarantee deployment performance.",
+    "aliases": [],
+    "definition": "An inference-limit proposition distinguishing capability demonstrations in curated environments from population estimates and operational generalization.",
+    "scope": "Synthetic prompt-injection, agent-security, and sandboxed vulnerability benchmarks; findings remain model-, version-, prompt-, and benchmark-specific.",
+    "time_period": "Indexed source publications dated 2024-06-02 through 2026-06-01; normative claims are not treated as time-invariant facts.",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "relevant_role_ids": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_geographies": [
+      "synthetic environments; no human geography",
+      "synthetic benchmark; no human geography",
+      "synthetic sandbox; no human geography"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-006-025",
+      "statement-BATCH-2026-006-028",
+      "statement-BATCH-2026-006-037"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [
+      "statement-BATCH-2026-006-007",
+      "statement-BATCH-2026-006-023",
+      "statement-BATCH-2026-006-027",
+      "statement-BATCH-2026-006-030",
+      "statement-BATCH-2026-006-033",
+      "statement-BATCH-2026-006-035",
+      "statement-BATCH-2026-006-038"
+    ],
+    "refining_statement_ids": [],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-005-002",
+      "source-BATCH-2026-005-006",
+      "source-BATCH-2026-005-007",
+      "source-BATCH-2026-005-008"
+    ],
+    "proposition_status": "candidate_pending_human_review",
+    "ambiguity_notes": "The corpus has no sampled production incident dataset against which external validity can be estimated.",
+    "source_diversity_metrics": {
+      "independent_people": 21,
+      "independent_organizations": 6,
+      "publishers": 4,
+      "source_types": [
+        "academic_paper",
+        "public_policy_document"
+      ],
+      "intellectual_sources": 4,
+      "off_owned_source_share": 0,
+      "consulting_source_share": 0,
+      "vendor_source_share": 0.25,
+      "geographic_contexts": [
+        "United States",
+        "cross-sectoral global applicability",
+        "synthetic benchmark; no human geography",
+        "synthetic environments; no human geography",
+        "synthetic sandbox; no human geography"
+      ],
+      "role_contexts": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "geographic_concentration": {
+        "status": "high_or_not_measurable",
+        "basis": "Normative records use United States or global contexts; benchmark records have no human geography. No region-comparative evidence is present."
+      },
+      "role_concentration": {
+        "coded_roles": 5,
+        "direct_role_specific_position_sources": 0,
+        "status": "not_measurable_from_shared_relevance_tags",
+        "basis": "The same executive-relevance tags apply to all supplied statements; the corpus does not measure positions by role."
+      },
+      "leading_source_id": "source-BATCH-2026-005-008",
+      "leading_source_statement_share": 0.4,
+      "high_concentration": false,
+      "concentration_basis": "Share of this proposition’s mapped statement relationships attributable to the leading intellectual source; warning threshold > 0.40."
+    },
+    "ownership_concentration_warning": false,
+    "publication_status": null,
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-007",
+        "content_hash": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-023, statement-BATCH-2026-006-025, statement-BATCH-2026-006-027",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2410.02644",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-028, statement-BATCH-2026-006-030",
+        "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.01637",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-033, statement-BATCH-2026-006-035, statement-BATCH-2026-006-037, statement-BATCH-2026-006-038",
+        "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T23:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created normalized, scope-preserving staging proposition from independently checked statements.",
+        "batch_id": "BATCH-2026-008"
+      }
+    ]
+  },
+  {
+    "proposition_id": "proposition-BATCH-2026-008-007",
+    "neutral_formulation": "Agent governance can be organized as an integrated control system spanning identity, authentication, authorization, lifecycle, policy, monitoring, audit, and information-sharing mechanisms.",
+    "aliases": [],
+    "definition": "An architecture proposition connecting agent-specific adaptation of established cybersecurity practice with interoperable identity and governance control layers.",
+    "scope": "Cross-sector governance architectures and public or enterprise responses; components are not ranked by measured effectiveness and no single protocol family is assumed.",
+    "time_period": "Indexed source publications dated 2024-06-02 through 2026-06-01; normative claims are not treated as time-invariant facts.",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "relevant_role_ids": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_geographies": [
+      "United States",
+      "global standards context",
+      "global technology standards context",
+      "global policy context"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-006-001",
+      "statement-BATCH-2026-006-002",
+      "statement-BATCH-2026-006-012",
+      "statement-BATCH-2026-006-017"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [
+      "statement-BATCH-2026-006-003"
+    ],
+    "refining_statement_ids": [
+      "statement-BATCH-2026-006-014",
+      "statement-BATCH-2026-006-044"
+    ],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-005-001",
+      "source-BATCH-2026-005-003",
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-009"
+    ],
+    "proposition_status": "candidate_pending_human_review",
+    "ambiguity_notes": "The control lists are normative and architectural; deployment maturity, costs, and comparative effectiveness remain unmeasured.",
+    "source_diversity_metrics": {
+      "independent_people": 47,
+      "independent_organizations": 4,
+      "publishers": 4,
+      "source_types": [
+        "research_report",
+        "working_paper"
+      ],
+      "intellectual_sources": 4,
+      "off_owned_source_share": 0,
+      "consulting_source_share": 0,
+      "vendor_source_share": 0.25,
+      "geographic_contexts": [
+        "United States",
+        "global issues discussed",
+        "global policy context",
+        "global standards context",
+        "global technology standards context"
+      ],
+      "role_contexts": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "geographic_concentration": {
+        "status": "high_or_not_measurable",
+        "basis": "Normative records use United States or global contexts; benchmark records have no human geography. No region-comparative evidence is present."
+      },
+      "role_concentration": {
+        "coded_roles": 5,
+        "direct_role_specific_position_sources": 0,
+        "status": "not_measurable_from_shared_relevance_tags",
+        "basis": "The same executive-relevance tags apply to all supplied statements; the corpus does not measure positions by role."
+      },
+      "leading_source_id": "source-BATCH-2026-005-001",
+      "leading_source_statement_share": 0.429,
+      "high_concentration": true,
+      "concentration_basis": "Share of this proposition’s mapped statement relationships attributable to the leading intellectual source; warning threshold > 0.40."
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": null,
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.nist.gov/publications/summary-analysis-responses-request-information-regarding-security-considerations-ai",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-001, statement-BATCH-2026-006-002, statement-BATCH-2026-006-003",
+        "content_hash": "32c07aeeb8f49694dd407080eab757c905dc4395871b52edd46a113208064a03",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-012, statement-BATCH-2026-006-014",
+        "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-017",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-044",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T23:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created normalized, scope-preserving staging proposition from independently checked statements.",
+        "batch_id": "BATCH-2026-008"
+      }
+    ]
+  },
+  {
+    "proposition_id": "proposition-BATCH-2026-008-008",
+    "neutral_formulation": "Governance for agentic systems should preserve a path from agent actions and direct harms to at least one accountable human legal entity.",
+    "aliases": [],
+    "definition": "An accountability proposition connecting lifecycle-role allocation with traceable principal and agent context for consequential actions.",
+    "scope": "Normative governance of direct harms and high-stakes exchanges; it is not a statement of current law and does not resolve liability allocation among multiple entities.",
+    "time_period": "Indexed source publications dated 2024-06-02 through 2026-06-01; normative claims are not treated as time-invariant facts.",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "relevant_role_ids": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_geographies": [
+      "global standards context",
+      "global technology standards context",
+      "global policy context"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-006-013",
+      "statement-BATCH-2026-006-018",
+      "statement-BATCH-2026-006-041",
+      "statement-BATCH-2026-006-045"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [],
+    "refining_statement_ids": [
+      "statement-BATCH-2026-006-040"
+    ],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-005-003",
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-009"
+    ],
+    "proposition_status": "candidate_pending_human_review",
+    "ambiguity_notes": "Legal doctrines, jurisdictional differences, privacy constraints, and multi-party allocation remain outside the evidence supplied.",
+    "source_diversity_metrics": {
+      "independent_people": 42,
+      "independent_organizations": 3,
+      "publishers": 3,
+      "source_types": [
+        "research_report",
+        "working_paper"
+      ],
+      "intellectual_sources": 3,
+      "off_owned_source_share": 0,
+      "consulting_source_share": 0,
+      "vendor_source_share": 0.3333333333333333,
+      "geographic_contexts": [
+        "global policy context",
+        "global standards context",
+        "global technology standards context"
+      ],
+      "role_contexts": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "geographic_concentration": {
+        "status": "high_or_not_measurable",
+        "basis": "Normative records use United States or global contexts; benchmark records have no human geography. No region-comparative evidence is present."
+      },
+      "role_concentration": {
+        "coded_roles": 5,
+        "direct_role_specific_position_sources": 0,
+        "status": "not_measurable_from_shared_relevance_tags",
+        "basis": "The same executive-relevance tags apply to all supplied statements; the corpus does not measure positions by role."
+      },
+      "leading_source_id": "source-BATCH-2026-005-009",
+      "leading_source_statement_share": 0.6,
+      "high_concentration": true,
+      "concentration_basis": "Share of this proposition’s mapped statement relationships attributable to the leading intellectual source; warning threshold > 0.40."
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": null,
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-013",
+        "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-018",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-040, statement-BATCH-2026-006-041, statement-BATCH-2026-006-045",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T23:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created normalized, scope-preserving staging proposition from independently checked statements.",
+        "batch_id": "BATCH-2026-008"
+      }
+    ]
+  },
+  {
+    "proposition_id": "proposition-BATCH-2026-008-009",
+    "neutral_formulation": "Multi-agent coordination can change both system capability and the control surface, requiring controls to extend across delegation chains and spawned subagents.",
+    "aliases": [],
+    "definition": "A multi-agent proposition connecting empirical coordination effects with prospective delegation attenuation and recursive shutdown coverage.",
+    "scope": "Sandboxed multi-agent security experiments and prospective governed deployments; the capability evidence does not establish production prevalence.",
+    "time_period": "Indexed source publications dated 2024-06-02 through 2026-06-01; normative claims are not treated as time-invariant facts.",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "relevant_role_ids": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "relevant_geographies": [
+      "synthetic sandbox; no human geography",
+      "global technology standards context",
+      "global policy context"
+    ],
+    "supporting_statement_ids": [
+      "statement-BATCH-2026-006-020",
+      "statement-BATCH-2026-006-034",
+      "statement-BATCH-2026-006-036",
+      "statement-BATCH-2026-006-037"
+    ],
+    "challenging_statement_ids": [],
+    "qualifying_statement_ids": [
+      "statement-BATCH-2026-006-035"
+    ],
+    "refining_statement_ids": [
+      "statement-BATCH-2026-006-046"
+    ],
+    "superseding_statement_ids": [],
+    "evidence_source_ids": [
+      "source-BATCH-2026-005-004",
+      "source-BATCH-2026-005-008",
+      "source-BATCH-2026-005-009"
+    ],
+    "proposition_status": "candidate_pending_human_review",
+    "ambiguity_notes": "The empirical evidence is limited to one small web-vulnerability benchmark, while the governance recommendations are prospective.",
+    "source_diversity_metrics": {
+      "independent_people": 44,
+      "independent_organizations": 3,
+      "publishers": 3,
+      "source_types": [
+        "academic_paper",
+        "research_report"
+      ],
+      "intellectual_sources": 3,
+      "off_owned_source_share": 0,
+      "consulting_source_share": 0,
+      "vendor_source_share": 0.3333333333333333,
+      "geographic_contexts": [
+        "global policy context",
+        "global technology standards context",
+        "synthetic sandbox; no human geography"
+      ],
+      "role_contexts": [
+        "role-ciso",
+        "role-cio",
+        "role-cto",
+        "role-general-counsel",
+        "role-board-director"
+      ],
+      "geographic_concentration": {
+        "status": "high_or_not_measurable",
+        "basis": "Normative records use United States or global contexts; benchmark records have no human geography. No region-comparative evidence is present."
+      },
+      "role_concentration": {
+        "coded_roles": 5,
+        "direct_role_specific_position_sources": 0,
+        "status": "not_measurable_from_shared_relevance_tags",
+        "basis": "The same executive-relevance tags apply to all supplied statements; the corpus does not measure positions by role."
+      },
+      "leading_source_id": "source-BATCH-2026-005-008",
+      "leading_source_statement_share": 0.667,
+      "high_concentration": true,
+      "concentration_basis": "Share of this proposition’s mapped statement relationships attributable to the leading intellectual source; warning threshold > 0.40."
+    },
+    "ownership_concentration_warning": true,
+    "publication_status": null,
+    "workflow_status": "propositions_mapped",
+    "machine_review_status": "ready_for_human_review",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-020",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://arxiv.org/abs/2406.01637",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-034, statement-BATCH-2026-006-035, statement-BATCH-2026-006-036, statement-BATCH-2026-006-037",
+        "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      },
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "normalized from independently checked source statements and source/person records",
+        "exact_locator": "Mapped statement IDs: statement-BATCH-2026-006-046",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-008",
+        "prompt_id": "OEII-PROPOSITION-MAPPING",
+        "prompt_version": "2.0",
+        "notes": "Staging proposition candidate; named human review pending."
+      }
+    ],
+    "revision_history": [
+      {
+        "changed_at": "2026-08-15T23:30:00Z",
+        "changed_by": "OpenAI Codex",
+        "summary": "Created normalized, scope-preserving staging proposition from independently checked statements.",
+        "batch_id": "BATCH-2026-008"
+      }
+    ]
+  }
+]

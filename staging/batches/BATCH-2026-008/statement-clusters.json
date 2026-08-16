@@ -1,0 +1,164 @@
+{
+  "batch_id": "BATCH-2026-008",
+  "statements_reviewed": 46,
+  "clusters": [
+    {
+      "cluster_id": "cluster-BATCH-2026-008-001",
+      "label": "Distinguishable agent and principal traceability",
+      "outcome": "created",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-001"
+      ],
+      "statement_ids": [
+        "statement-BATCH-2026-006-009",
+        "statement-BATCH-2026-006-010",
+        "statement-BATCH-2026-006-013",
+        "statement-BATCH-2026-006-015",
+        "statement-BATCH-2026-006-016",
+        "statement-BATCH-2026-006-018",
+        "statement-BATCH-2026-006-045"
+      ]
+    },
+    {
+      "cluster_id": "cluster-BATCH-2026-008-002",
+      "label": "Identity and credential lifecycle",
+      "outcome": "created",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-002"
+      ],
+      "statement_ids": [
+        "statement-BATCH-2026-006-011",
+        "statement-BATCH-2026-006-012",
+        "statement-BATCH-2026-006-017",
+        "statement-BATCH-2026-006-019"
+      ]
+    },
+    {
+      "cluster_id": "cluster-BATCH-2026-008-003",
+      "label": "Risk-proportionate authority and intervention",
+      "outcome": "created",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-003"
+      ],
+      "statement_ids": [
+        "statement-BATCH-2026-006-011",
+        "statement-BATCH-2026-006-020",
+        "statement-BATCH-2026-006-021",
+        "statement-BATCH-2026-006-039",
+        "statement-BATCH-2026-006-043",
+        "statement-BATCH-2026-006-046"
+      ]
+    },
+    {
+      "cluster_id": "cluster-BATCH-2026-008-004",
+      "label": "Deployment-relevant lifecycle evaluation",
+      "outcome": "created",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-004"
+      ],
+      "statement_ids": [
+        "statement-BATCH-2026-006-006",
+        "statement-BATCH-2026-006-007",
+        "statement-BATCH-2026-006-008",
+        "statement-BATCH-2026-006-042"
+      ]
+    },
+    {
+      "cluster_id": "cluster-BATCH-2026-008-005",
+      "label": "Utility and adversarial resistance as separate measures",
+      "outcome": "created",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-005"
+      ],
+      "statement_ids": [
+        "statement-BATCH-2026-006-022",
+        "statement-BATCH-2026-006-024",
+        "statement-BATCH-2026-006-025",
+        "statement-BATCH-2026-006-026",
+        "statement-BATCH-2026-006-028",
+        "statement-BATCH-2026-006-029",
+        "statement-BATCH-2026-006-031",
+        "statement-BATCH-2026-006-032"
+      ]
+    },
+    {
+      "cluster_id": "cluster-BATCH-2026-008-006",
+      "label": "Synthetic benchmark inference limits",
+      "outcome": "created",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-006"
+      ],
+      "statement_ids": [
+        "statement-BATCH-2026-006-007",
+        "statement-BATCH-2026-006-023",
+        "statement-BATCH-2026-006-025",
+        "statement-BATCH-2026-006-027",
+        "statement-BATCH-2026-006-028",
+        "statement-BATCH-2026-006-030",
+        "statement-BATCH-2026-006-033",
+        "statement-BATCH-2026-006-035",
+        "statement-BATCH-2026-006-037",
+        "statement-BATCH-2026-006-038"
+      ]
+    },
+    {
+      "cluster_id": "cluster-BATCH-2026-008-007",
+      "label": "Integrated agent governance architecture",
+      "outcome": "created",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-007"
+      ],
+      "statement_ids": [
+        "statement-BATCH-2026-006-001",
+        "statement-BATCH-2026-006-002",
+        "statement-BATCH-2026-006-003",
+        "statement-BATCH-2026-006-012",
+        "statement-BATCH-2026-006-014",
+        "statement-BATCH-2026-006-017",
+        "statement-BATCH-2026-006-044"
+      ]
+    },
+    {
+      "cluster_id": "cluster-BATCH-2026-008-008",
+      "label": "Human legal-entity accountability path",
+      "outcome": "created",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-008"
+      ],
+      "statement_ids": [
+        "statement-BATCH-2026-006-013",
+        "statement-BATCH-2026-006-018",
+        "statement-BATCH-2026-006-040",
+        "statement-BATCH-2026-006-041",
+        "statement-BATCH-2026-006-045"
+      ]
+    },
+    {
+      "cluster_id": "cluster-BATCH-2026-008-009",
+      "label": "Multi-agent capability and recursive control surface",
+      "outcome": "created",
+      "proposition_ids": [
+        "proposition-BATCH-2026-008-009"
+      ],
+      "statement_ids": [
+        "statement-BATCH-2026-006-020",
+        "statement-BATCH-2026-006-034",
+        "statement-BATCH-2026-006-035",
+        "statement-BATCH-2026-006-036",
+        "statement-BATCH-2026-006-037",
+        "statement-BATCH-2026-006-046"
+      ]
+    },
+    {
+      "cluster_id": "cluster-BATCH-2026-008-010",
+      "label": "Broad generative-AI profile and data provenance",
+      "outcome": "held",
+      "proposition_ids": [],
+      "hold_reason": "Both records are valid, but their generative-AI profile and data-provenance scope is broader than the supplied agent-identity corpus and does not support a distinct multi-source proposition here.",
+      "statement_ids": [
+        "statement-BATCH-2026-006-004",
+        "statement-BATCH-2026-006-005"
+      ]
+    }
+  ]
+}
