@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /staging/
+Disallow: /review-tools/
+Sitemap: https://openfutureforum.github.io/executive-intelligence-index/sitemap-index.xml

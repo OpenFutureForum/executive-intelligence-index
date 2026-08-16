@@ -1,38 +1,86 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { idOf, labelOf, loadCatalog, publicRecords, type RecordMap } from '../../lib/catalog';
+import { idOf, labelOf, loadCatalog, publicPersonProfiles, publicRecords, type RecordMap } from '../../lib/catalog';
 
 export function getStaticPaths() {
   const catalog = loadCatalog();
   const routeConfig: Record<string, { directory: string; schemaType: string; sourceTypes?: string[] }> = {
-    people: { directory: 'people', schemaType: 'Person' }, books: { directory: 'book-works', schemaType: 'Book' },
+    people: { directory: 'people', schemaType: 'Person' }, books: { directory: 'book-works', schemaType: 'Book' }, sources: { directory: 'sources', schemaType: 'CreativeWork' },
     media: { directory: 'sources', schemaType: 'CreativeWork', sourceTypes: ['video','podcast_episode','keynote','panel','interview','conference_talk','event_recording','OFF_interview','OFF_video'] },
     research: { directory: 'sources', schemaType: 'Report', sourceTypes: ['research_report','academic_paper','working_paper','executive_survey','OFF_research','public_policy_document'] },
     statements: { directory: 'statements', schemaType: 'CreativeWork' },
     topics: { directory: 'topics', schemaType: 'DefinedTerm' }, propositions: { directory: 'propositions', schemaType: 'DefinedTerm' },
     debates: { directory: 'debates', schemaType: 'Article' }, dossiers: { directory: 'dossiers', schemaType: 'Article' }, signal: { directory: 'trends', schemaType: 'Dataset' }
   };
-  return Object.entries(routeConfig).flatMap(([collection, config]) => publicRecords(catalog[config.directory] ?? []).filter((record) => !config.sourceTypes || config.sourceTypes.includes(String(record.source_type))).map((record) => ({ params: { collection, id: idOf(record) }, props: { record, collection, schemaType: config.schemaType } })));
+  return Object.entries(routeConfig).flatMap(([collection, config]) => (collection === 'people' ? publicPersonProfiles(catalog[config.directory] ?? []) : publicRecords(catalog[config.directory] ?? [])).filter((record) => !config.sourceTypes || config.sourceTypes.includes(String(record.source_type))).map((record) => ({
+    params: { collection, id: idOf(record) },
+    props: {
+      record,
+      collection,
+      schemaType: config.schemaType,
+      relatedStatements: collection === 'sources' ? publicRecords(catalog.statements ?? []).filter((statement) => statement.source_id === record.source_id) : [],
+      relatedSource: collection === 'statements' ? publicRecords(catalog.sources ?? []).find((source) => source.source_id === record.source_id) ?? null : null,
+      relatedEditions: collection === 'books' ? publicRecords(catalog['book-editions'] ?? []).filter((edition) => edition.book_work_id === record.book_work_id) : []
+    }
+  })));
 }
-interface Props { record: RecordMap; collection: string; schemaType: string; }
-const { record, collection, schemaType } = Astro.props;
+interface Props { record: RecordMap; collection: string; schemaType: string; relatedStatements: RecordMap[]; relatedSource: RecordMap | null; relatedEditions: RecordMap[]; }
+const { record, collection, schemaType, relatedStatements = [], relatedSource = null, relatedEditions = [] } = Astro.props;
 const title = labelOf(record);
 const id = idOf(record);
 const description = String(record.original_abstract ?? record.definition ?? record.neutral_paraphrase ?? record.inclusion_rationale ?? `A reviewed ${collection} record in the Open Executive Intelligence Index.`);
 const relations = Object.entries(record).filter(([key, value]) => (key.endsWith('_ids') || key.endsWith('_references')) && Array.isArray(value) && value.length);
 const display = (value: unknown) => Array.isArray(value) ? value.join(', ') : value && typeof value === 'object' ? JSON.stringify(value) : String(value ?? 'Unknown');
+const sourceDate = record.published_at ?? record.event_date ?? record.recorded_at ?? record.accessed_at;
 ---
 <BaseLayout title={title} description={description} type={schemaType}>
   <article class="section" data-pagefind-body>
     <p class="eyebrow">{collection.replaceAll('-', ' ')} · {id}</p><h1>{title}</h1><p>{description}</p>
     {typeof record.embed_url === 'string' && <div class="media-embed"><iframe src={record.embed_url} title={`Embedded source: ${title}`} loading="lazy" allow="accelerometer; autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe></div>}
     {typeof record.original_url === 'string' && <p><a href={record.original_url} data-event={String(record.original_url).includes('youtube.com') || String(record.original_url).includes('youtu.be') ? 'youtube_outbound_click' : 'original_source_click'}>Open the canonical original source</a></p>}
-    <p><a class="button secondary" href={`/executive-intelligence-index/data/catalog.json`} data-event="citation_copy">Open machine-readable record</a></p>
-    <h2>Record and evidence context</h2>
-    <dl>{Object.entries(record).filter(([key]) => !['provenance','revision_history'].includes(key)).map(([key, value]) => <><dt>{key.replaceAll('_', ' ')}</dt><dd>{display(value)}</dd></>)}</dl>
-    <h2>Evidence lineage and relationships</h2>
-    {relations.length ? <table><thead><tr><th>Relationship field</th><th>Linked identifiers</th></tr></thead><tbody>{relations.map(([key, value]) => <tr><td>{key}</td><td>{display(value)}</td></tr>)}</tbody></table> : <p>No published relationship records are attached.</p>}
-    <h2>Editorial record</h2><p>Machine review: {display(record.machine_review_status)}. Human review: {display(record.human_review_status)}. Workflow: {display(record.workflow_status ?? record.publication_status)}.</p>
+    {collection === 'sources' && <>
+      <h2>Source at a glance</h2>
+      <dl class="summary-grid">
+        <dt>Source type</dt><dd>{display(record.source_type).replaceAll('_', ' ')}</dd>
+        <dt>Publisher</dt><dd>{display(record.publisher)}</dd>
+        <dt>Source or access date</dt><dd>{display(sourceDate)}</dd>
+        <dt>Analysis depth</dt><dd>{display(record.source_depth).replaceAll('_', ' ')}</dd>
+        <dt>Rights treatment</dt><dd>{display(record.rights_status).replaceAll('_', ' ')}</dd>
+        <dt>Human review</dt><dd>{display(record.reviewed_by)} · {String(record.reviewed_at).slice(0, 10)}</dd>
+      </dl>
+      {Array.isArray(record.findings) && record.findings.length > 0 && <><h2>What the source reports or argues</h2><ul>{record.findings.map((finding) => <li>{display(finding)}</li>)}</ul></>}
+      {Array.isArray(record.limitations) && record.limitations.length > 0 && <><h2>Important limitations</h2><ul>{record.limitations.map((limitation) => <li>{display(limitation)}</li>)}</ul></>}
+    </>}
+    {collection === 'statements' && <>
+      <h2>Statement context</h2>
+      <dl class="summary-grid">
+        <dt>Statement type</dt><dd>{display(record.statement_type).replaceAll('_', ' ')}</dd>
+        <dt>Exact source locator</dt><dd>{display(record.exact_locator)}</dd>
+        <dt>Source date</dt><dd>{display(record.source_date)}</dd>
+        <dt>Role at source time</dt><dd>{display(record.speaker_role_at_source_time)}</dd>
+        <dt>Evidence character</dt><dd>{display(record.evidence_character).replaceAll('_', ' ')}</dd>
+        <dt>Scope</dt><dd>{display(record.statement_scope)}</dd>
+      </dl>
+      {record.uncertainty && <p><strong>Recorded uncertainty:</strong> {display(record.uncertainty)}</p>}
+      {relatedSource && <p><strong>Indexed source:</strong> <a href={`/executive-intelligence-index/sources/${idOf(relatedSource)}/`}>{labelOf(relatedSource)}</a></p>}
+    </>}
+    {collection === 'books' && <>
+      <h2>Work and analysis</h2>
+      <dl class="summary-grid">
+        <dt>Analysis depth</dt><dd>{display(record.analysis_depth).replaceAll('_', ' ')}</dd>
+        <dt>First publication</dt><dd>{display(record.first_publication_date)}</dd>
+        <dt>Analysis basis</dt><dd>{display(record.analysis_basis).replaceAll('_', ' ')}</dd>
+        <dt>Authors</dt><dd>{display(record.authors)}</dd>
+      </dl>
+      {record.central_thesis && <><h2>Central thesis</h2><p>{display(record.central_thesis)}</p></>}
+      {relatedEditions.length > 0 && <><h2>Verified editions</h2><ul>{relatedEditions.map((edition) => <li><a href={`/executive-intelligence-index/books/editions/${idOf(edition)}/`}>{labelOf(edition)}</a></li>)}</ul></>}
+    </>}
+    {relatedStatements.length > 0 && <><h2>Source-located statements</h2><p>{relatedStatements.length} reviewed statement{relatedStatements.length === 1 ? '' : 's'} are indexed from this source.</p><ul>{relatedStatements.map((statement) => <li><a href={`/executive-intelligence-index/statements/${idOf(statement)}/`}>{String(statement.neutral_paraphrase)}</a> <span>({String(statement.exact_locator)})</span></li>)}</ul></>}
+    <h2>Evidence lineage and transparency</h2>
+    {relations.length ? <table><thead><tr><th>Relationship field</th><th>Linked identifiers</th></tr></thead><tbody>{relations.map(([key, value]) => <tr><td>{key.replaceAll('_', ' ')}</td><td>{display(value)}</td></tr>)}</tbody></table> : <p>No additional published relationship records are attached.</p>}
+    <p>Machine review: {display(record.machine_review_status).replaceAll('_', ' ')}. Human review: {display(record.human_review_status)}. Workflow: {display(record.workflow_status ?? record.publication_status)}.</p>
+    <details><summary>Complete structured record</summary><dl>{Object.entries(record).filter(([key]) => !['provenance','revision_history'].includes(key)).map(([key, value]) => <><dt>{key.replaceAll('_', ' ')}</dt><dd>{display(value)}</dd></>)}</dl></details>
     <details><summary>Provenance and revision history</summary><pre>{JSON.stringify({ provenance: record.provenance, revision_history: record.revision_history }, null, 2)}</pre></details>
+    <p><a class="button secondary" href={`/executive-intelligence-index/data/catalog.json`} data-event="citation_copy">Open machine-readable record</a></p>
   </article>
 </BaseLayout>

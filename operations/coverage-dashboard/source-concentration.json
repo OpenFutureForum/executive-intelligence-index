@@ -1,6 +1,23 @@
 {
   "generated_at": "2026-08-14",
-  "total": 0,
-  "publisher_shares": {},
+  "total": 20,
+  "publisher_shares": {
+    "Ascent Audio / O’Reilly": 0.05,
+    "Manning Publications": 0.1,
+    "Google Security Blog": 0.05,
+    "Google Cloud Blog": 0.05,
+    "O’Reilly Media, Inc.": 0.15,
+    "Google": 0.05,
+    "SPIFFE Project": 0.05,
+    "IDAC Corp. / Identity at the Center": 0.05,
+    "SailPoint Technologies": 0.05,
+    "National Institute of Standards and Technology": 0.1,
+    "Internet Engineering Task Force": 0.05,
+    "OpenID Foundation": 0.05,
+    "NeurIPS 2024 Datasets and Benchmarks Track": 0.05,
+    "ICLR 2025 / arXiv": 0.05,
+    "arXiv": 0.05,
+    "OpenAI": 0.05
+  },
   "warning_threshold": 0.4
 }

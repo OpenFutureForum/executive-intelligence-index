@@ -1,5 +1,5 @@
 export const primaryNavigation = [
-  ['Home', '/'], ['People', '/people/'], ['Books', '/books/'], ['Media', '/media/'],
+  ['Home', '/'], ['Sources', '/sources/'], ['People', '/people/'], ['Books', '/books/'], ['Media', '/media/'],
   ['Research & evidence', '/research/'], ['Topics', '/topics/'], ['Propositions', '/propositions/'],
   ['Debates', '/debates/'], ['Role lenses', '/roles/'], ['Regions', '/regions/'],
   ['Dossiers', '/dossiers/'], ['Executive Signal', '/signal/'], ['Data', '/data/'], ['Methodology', '/methodology/']

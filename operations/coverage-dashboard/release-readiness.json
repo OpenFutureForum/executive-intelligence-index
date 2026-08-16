@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14",
+  "generated_at": "2026-08-16",
   "ready": true,
-  "public_record_count": 0,
+  "public_record_count": 189,
   "issues": [],
-  "required_human_action": "Approve the framework; register a separate research protocol before ingestion.",
+  "required_human_action": "Named human approval is recorded; merge remains subject to passing checks.",
   "live_verification": "pending_until_deployment"
 }

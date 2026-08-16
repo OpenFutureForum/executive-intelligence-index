@@ -14,6 +14,12 @@ https://openfutureforum.github.io/executive-intelligence-index/
 
 Only named-human-approved production records appear on the public site, in exports, or in search. Candidate research remains in `staging/` and is not public evidence.
 
+## Current public release
+
+Release 0.2.0 is a narrowly scoped pilot on governed identities for AI agents. It publishes 8 verified works, 11 exact editions, 20 canonical sources, and 100 source-located statements. It also preserves 48 resolved identity records as data-only lineage; none currently meets the configured threshold for a public person profile page.
+
+The pilot is substantially English-language, source-concentrated, and not representative of all executives, roles, industries, regions, or markets. Inclusion does not imply endorsement, prevalence, adoption, consensus, or truth. Candidate propositions and all higher-order synthesis remain unpublished.
+
 ## Publication boundaries
 
 - Every public statement must be attributable to a reproducible source location.

@@ -4,8 +4,8 @@ title: Open Executive Intelligence Index
 type: dataset
 authors:
   - name: Open Future Forum
-version: 0.1.0
-date-released: 2026-08-14
+version: 0.2.0
+date-released: 2026-08-16
 url: https://openfutureforum.github.io/executive-intelligence-index/
 repository-code: https://github.com/OpenFutureForum/executive-intelligence-index
 license: CC-BY-4.0

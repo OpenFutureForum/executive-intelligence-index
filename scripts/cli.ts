@@ -189,6 +189,10 @@ function coverageAudit(): void {
 function generateExports(): void {
   const publicItems = published(records).sort((a, b) => recordId(a.record).localeCompare(recordId(b.record)));
   const grouped = Object.fromEntries(Object.keys(DIRECTORY_SCHEMA).map((directory) => [directory, publicItems.filter((item) => item.directory === directory).map((item) => item.record)]));
+  const publicWorks = grouped['book-works'] ?? [];
+  const publicSources = grouped.sources ?? [];
+  const release = publicItems.filter((item) => item.schema === 'release').map((item) => item.record).sort((a, b) => String(a.release_date).localeCompare(String(b.release_date))).at(-1);
+  if (!release) fail(['no published release record is available for export generation']);
   fs.mkdirSync(path.join(root, 'exports', 'json'), { recursive: true });
   fs.mkdirSync(path.join(root, 'exports', 'csv'), { recursive: true });
   fs.mkdirSync(path.join(root, 'exports', 'ndjson'), { recursive: true });
@@ -196,15 +200,19 @@ function generateExports(): void {
   fs.mkdirSync(path.join(root, 'exports', 'citations'), { recursive: true });
   fs.mkdirSync(path.join(root, 'exports', 'bibliographies'), { recursive: true });
   fs.mkdirSync(path.join(root, 'exports', 'release-manifests'), { recursive: true });
-  writeJson(path.join(root, 'exports', 'json', 'catalog.json'), { schema_version: '1.0.0', generated_for_release: '0.1.0', records: grouped });
+  writeJson(path.join(root, 'exports', 'json', 'catalog.json'), { schema_version: release.schema_version, generated_for_release: release.semantic_version, records: grouped });
   fs.writeFileSync(path.join(root, 'exports', 'ndjson', 'catalog.ndjson'), publicItems.map((item) => JSON.stringify({ entity_type: item.schema, ...item.record })).join('\n') + (publicItems.length ? '\n' : ''));
   for (const directory of Object.keys(DIRECTORY_SCHEMA)) fs.writeFileSync(path.join(root, 'exports', 'csv', `${directory}.csv`), toCsv(grouped[directory] ?? []));
   fs.writeFileSync(path.join(root, 'exports', 'graphml', 'graph.graphml'), graphml(publicItems));
-  fs.writeFileSync(path.join(root, 'exports', 'citations', 'records.bib'), '% No public research records in release 0.1.0.\n');
-  fs.writeFileSync(path.join(root, 'exports', 'bibliographies', 'README.md'), '# Bibliographies\n\nNo public research records are present in release 0.1.0.\n');
+  const bib = [
+    ...publicWorks.map((work: any) => `@book{${recordId(work)},\n  title = {${String(work.title).replace(/[{}]/g, '')}},\n  year = {${String(work.first_publication_date ?? '').slice(0, 4)}},\n  note = {Open Executive Intelligence Index record ${recordId(work)}}\n}`),
+    ...publicSources.map((source: any) => `@misc{${recordId(source)},\n  title = {${String(source.canonical_title).replace(/[{}]/g, '')}},\n  url = {${source.canonical_url}},\n  year = {${String(source.published_at ?? source.event_date ?? source.recorded_at ?? '').slice(0, 4)}},\n  note = {Open Executive Intelligence Index record ${recordId(source)}}\n}`)
+  ].join('\n\n');
+  fs.writeFileSync(path.join(root, 'exports', 'citations', 'records.bib'), `${bib}${bib ? '\n' : ''}`);
+  fs.writeFileSync(path.join(root, 'exports', 'bibliographies', 'README.md'), `# Bibliographies\n\nRelease ${release.semantic_version} includes ${publicWorks.length} verified work records and ${publicSources.length} canonical source records. Use \`../citations/records.bib\` as a convenience index, and cite the underlying source for substantive claims.\n`);
   const exportFiles = listFiles(path.join(root, 'exports')).filter((file) => !file.endsWith('release-manifest.json'));
   const checksums = Object.fromEntries(exportFiles.map((file) => [path.relative(root, file), sha256(fs.readFileSync(file))]));
-  const manifest = { release_id: 'release-0.1.0-framework', semantic_version: '0.1.0', schema_version: '1.0.0', data_version: '0.0.0', content_version: '0.1.0', release_date: '2026-08-14', public_record_counts: Object.fromEntries(Object.entries(grouped).map(([key, value]) => [key, value.length])), checksums, release_fingerprint: sha256(stable(checksums)), upstream_crosswalk_versions: YAML.parse(fs.readFileSync(path.join(root, 'config', 'external-projects.yml'), 'utf8')).projects.map((project: any) => ({ project_id: project.project_id, upstream_commit: project.upstream_commit })), limitations: ['Framework release contains no production research records.', 'No human editorial approval has occurred.', 'Live deployment has not been verified.'] };
+  const manifest = { release_id: release.release_id, semantic_version: release.semantic_version, schema_version: release.schema_version, data_version: release.data_version, content_version: release.content_version, release_date: release.release_date, included_batch_ids: release.included_batch_ids, reviewed_by: release.reviewed_by, approval_status: release.approval_status, public_record_counts: Object.fromEntries(Object.entries(grouped).map(([key, value]) => [key, value.length])), checksums, release_fingerprint: sha256(stable(checksums)), upstream_crosswalk_versions: YAML.parse(fs.readFileSync(path.join(root, 'config', 'external-projects.yml'), 'utf8')).projects.map((project: any) => ({ project_id: project.project_id, upstream_commit: project.upstream_commit })), limitations: release.known_limitations };
   writeJson(path.join(root, 'exports', 'release-manifests', 'release-manifest.json'), manifest);
   result('exports', `${publicItems.length} public record(s), fingerprint ${manifest.release_fingerprint}`);
 }
@@ -233,7 +241,8 @@ function rightsReport(): void {
 }
 function releaseReadiness(): void {
   const publicItems = published(records); const issues = records.flatMap(({ file, record }) => publicationIssues(record, file));
-  const report = { generated_at: '2026-08-14', ready: issues.length === 0, public_record_count: publicItems.length, issues, required_human_action: publicItems.length ? 'Confirm named approvals and release record.' : 'Approve the framework; register a separate research protocol before ingestion.', live_verification: 'pending_until_deployment' };
+  const approvedRelease = publicItems.find((item) => item.schema === 'release' && item.record.approval_status === 'APPROVE PILOT PROMOTION');
+  const report = { generated_at: currentUtcDate, ready: issues.length === 0 && Boolean(approvedRelease), public_record_count: publicItems.length, issues, required_human_action: approvedRelease ? 'Named human approval is recorded; merge remains subject to passing checks.' : 'Confirm named approvals and a release record.', live_verification: 'pending_until_deployment' };
   writeJson(path.join(root, 'operations', 'coverage-dashboard', 'release-readiness.json'), report);
   result('release readiness', `${issues.length} blocking record issue(s); live deployment pending`);
 }

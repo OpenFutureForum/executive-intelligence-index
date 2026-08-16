@@ -21,3 +21,16 @@ test('public discovery and release artifacts exist without fixtures', async ({ r
   const catalog = await (await request.get('data/catalog.json')).text();
   expect(catalog).not.toContain('fix-person-'); expect(catalog).not.toContain('staging/batches');
 });
+
+test('approved pilot counts and readable source evidence agree', async ({ request }) => {
+  const catalog = await (await request.get('data/catalog.json')).json();
+  expect(catalog.generated_for_release).toBe('0.2.0');
+  expect(catalog.records['book-works']).toHaveLength(8);
+  expect(catalog.records['book-editions']).toHaveLength(11);
+  expect(catalog.records.sources).toHaveLength(20);
+  expect(catalog.records.statements).toHaveLength(100);
+  expect(catalog.records.propositions).toHaveLength(0);
+  const sourcePage = await request.get('sources/source-BATCH-2026-005-009/');
+  expect(sourcePage.ok()).toBe(true);
+  expect(await sourcePage.text()).toContain('Source-located statements');
+});

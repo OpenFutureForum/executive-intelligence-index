@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import { loadCatalog, countPublicResearch, publicRecords, labelOf } from '../lib/catalog';
+import { loadCatalog, countPublicResearch, publicRecords, labelOf, sourceRoute } from '../lib/catalog';
 const catalog = loadCatalog();
 const counts = countPublicResearch(catalog);
 const recentSources = publicRecords(catalog.sources ?? []).slice(-5).reverse();
@@ -15,7 +15,7 @@ const release = (catalog.releases ?? []).at(-1);
     <p><a class="button" href="/executive-intelligence-index/search/" data-event="search_open">Search the index</a> <a class="button secondary" style="color:white;border-color:#cfe8dc" href="/executive-intelligence-index/data/" data-event="data_download_page">Download the data</a></p>
   </section>
   <section class="metrics" aria-label="Current release metrics">
-    <article><p class="eyebrow">Release</p><p class="metric">{String(release?.semantic_version ?? 'Pre-release')}</p><p>No production research records are implied before review.</p></article>
+    <article><p class="eyebrow">Release</p><p class="metric">{String(release?.semantic_version ?? 'Pre-release')}</p><p>Named-human-approved public corpus.</p></article>
     <article><p class="eyebrow">Sources</p><p class="metric">{counts.sources}</p><p>Published, provenance-checked sources.</p></article>
     <article><p class="eyebrow">Statements</p><p class="metric">{counts.statements}</p><p>Source-located neutral paraphrases.</p></article>
     <article><p class="eyebrow">Propositions</p><p class="metric">{counts.propositions}</p><p>Ideas mapped to supporting, challenging, qualifying, or refining evidence.</p></article>
@@ -31,12 +31,12 @@ const release = (catalog.releases ?? []).at(-1);
   <section class="section">
     <p class="eyebrow">Boundaries</p><h2>What this index does—and does not—claim</h2>
     <p>The current corpus documents selected public sources. It does not rank famous people, reproduce copyrighted transcripts, index private Forum Select conversations, or convert company claims into independently verified outcomes. OFF-owned sources and relationships are disclosed.</p>
-    <div class="notice"><strong>Current limitation:</strong> the framework is ready for controlled ingestion, but no unreviewed production research is used to make the site appear populated.</div>
+    <div class="notice"><strong>Current limitation:</strong> this first pilot is topic-limited, substantially English-language, source-concentrated, and not representative of all executives, roles, industries, regions, or markets.</div>
   </section>
   <section class="section">
     <p class="eyebrow">Latest public material</p><h2>Recently added sources and dossiers</h2>
     {recentSources.length + dossiers.length === 0 ? <p>No research batch has passed publication approval. Review the <a href="/executive-intelligence-index/research/">research and evidence empty state</a> or nominate a source.</p> : (
-      <div class="feature-grid">{[...recentSources, ...dossiers].map((record) => <article><h3>{labelOf(record)}</h3></article>)}</div>
+      <div class="feature-grid">{recentSources.map((record) => <article><h3><a href={sourceRoute(record)}>{labelOf(record)}</a></h3><p>{String(record.source_type).replaceAll('_', ' ')} · {String(record.publisher ?? 'Publisher recorded in source')}</p></article>)}{dossiers.map((record) => <article><h3>{labelOf(record)}</h3></article>)}</div>
     )}
   </section>
   <section class="section">

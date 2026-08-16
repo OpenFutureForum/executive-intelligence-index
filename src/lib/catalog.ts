@@ -33,13 +33,21 @@ export function publicRecords(records: RecordMap[]): RecordMap[] {
   });
 }
 
+export function publicPersonProfiles(records: RecordMap[]): RecordMap[] {
+  return publicRecords(records).filter((record) => record.public_profile_eligibility === true);
+}
+
+export function sourceRoute(record: RecordMap): string {
+  return `/executive-intelligence-index/sources/${idOf(record)}/`;
+}
+
 export function countPublicResearch(catalog: Record<string, RecordMap[]>) {
   const keys = ['people', 'book-works', 'sources', 'statements', 'propositions', 'debates', 'dossiers'];
   return Object.fromEntries(keys.map((key) => [key, publicRecords(catalog[key] ?? []).length]));
 }
 
 export function labelOf(record: RecordMap): string {
-  for (const key of ['canonical_name', 'title', 'canonical_title', 'neutral_formulation', 'preferred_label', 'neutral_question']) {
+  for (const key of ['canonical_name', 'title', 'canonical_title', 'edition_title', 'neutral_formulation', 'preferred_label', 'neutral_question']) {
     if (typeof record[key] === 'string') return record[key] as string;
   }
   return String(record.id ?? record.person_id ?? record.source_id ?? 'Untitled record');

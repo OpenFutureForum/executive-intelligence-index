@@ -1,0 +1,80 @@
+{
+  "release_id": "release-0.2.0-governed-identities-pilot",
+  "semantic_version": "0.2.0",
+  "schema_version": "1.0.0",
+  "data_version": "1.0.0",
+  "content_version": "0.2.0",
+  "release_date": "2026-08-16",
+  "included_batch_ids": [
+    "BUILD-2026-08-14-001",
+    "BATCH-2026-001",
+    "BATCH-2026-002",
+    "BATCH-2026-003",
+    "BATCH-2026-004",
+    "BATCH-2026-005",
+    "BATCH-2026-006",
+    "BATCH-2026-007"
+  ],
+  "included_record_counts": {
+    "people": 48,
+    "book_works": 8,
+    "book_editions": 11,
+    "sources": 20,
+    "statements": 100,
+    "propositions": 0,
+    "debates": 0,
+    "dossiers": 0,
+    "trends": 0,
+    "reviews": 1
+  },
+  "checksums": {
+    "data/people/governed-identities-pilot.json": "bc7b8ab77e350191c4895d38947dfa70f66a8c3b79f39b1d293f1dd365610bfd",
+    "data/book-works/governed-identities-pilot.json": "8fc8b239f79469c3fb14c1b84a1e82be857fd70c0fa3f97cb4b4da474ffdc07d",
+    "data/book-editions/governed-identities-pilot.json": "d8ebc3a21bf9258a107d82d840026f081505d34db1605fa0f1adcde85cdf9e92",
+    "data/sources/governed-identities-pilot.json": "98fc22e01020e73649c248907df4e3e0515b68d7eeb74809dd90355335bd7f12",
+    "data/statements/governed-identities-pilot.json": "dfc46a915058d0953b66381f1783a4474d30749fa8b0a1e11dcd3545e20a0f24",
+    "data/reviews/governed-identities-pilot.json": "16bb9c5e057372338415cb8afb7677b3a59fef543a2f4f65c43906064aef9e90"
+  },
+  "release_fingerprint": "11cd89598eb4f172e5477e1cc86fd139b70f97cea1a7a3ea3631db077b40ae40",
+  "upstream_crosswalk_versions": {},
+  "known_limitations": [
+    "This pilot is limited to governed identities for AI agents and is not representative of all executives, roles, industries, regions, or markets.",
+    "The corpus is substantially English-language and source-concentrated.",
+    "Inclusion does not imply endorsement, prevalence, adoption, consensus, or truth.",
+    "Person records are data-only identity and source-time-role records; no person meets the configured public-profile threshold in this release.",
+    "Candidate propositions, debates, dossiers, role comparisons, geographic generalizations, market generalizations, and trends remain unpublished.",
+    "Third-party full text, extensive quotations, transcripts, figures, tables, and private information are not republished."
+  ],
+  "changelog": [
+    "Published the first named-human-approved pilot corpus for governed identities for AI agents.",
+    "Published verified works, exact editions, canonical sources, source-located statements, and data-only resolved identity records.",
+    "Retained every reviewed exclusion and withheld all higher-order propositions and synthesis."
+  ],
+  "approval_status": "APPROVE PILOT PROMOTION",
+  "workflow_status": "published",
+  "machine_review_status": "ready_for_human_review",
+  "human_review_status": "approved",
+  "reviewed_by": "Murray Newlands",
+  "reviewed_at": "2026-08-16T23:17:22Z",
+  "provenance": [
+    {
+      "source_url": "https://github.com/OpenFutureForum/executive-intelligence-index/issues/18#issuecomment-5310177421",
+      "accessed_at": "2026-08-16",
+      "retrieval_method": "named human approval recorded in the repository issue tracker",
+      "exact_locator": "Comment containing approved batches, scope, exclusions, rights decision, limitations, and APPROVE PILOT PROMOTION",
+      "content_hash": null,
+      "batch_id": "PILOT-PROMOTION-2026-08-16",
+      "prompt_id": "OEII-HUMAN-REVIEW-PROMOTION",
+      "prompt_version": "1.0",
+      "notes": "The release is valid only for the enumerated production record IDs."
+    }
+  ],
+  "revision_history": [
+    {
+      "changed_at": "2026-08-16T23:17:22Z",
+      "changed_by": "Murray Newlands",
+      "summary": "Approved for the governed-identities pilot release under the exact scope, exclusions, rights treatment, and limitations recorded in issue #18.",
+      "batch_id": "PILOT-PROMOTION-2026-08-16"
+    }
+  ]
+}
