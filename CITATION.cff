@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: Cite the release and the original evidence source for substantive claims.
+title: Open Executive Intelligence Index
+type: dataset
+authors:
+  - name: Open Future Forum
+version: 0.1.0
+date-released: 2026-08-14
+url: https://openfutureforum.github.io/executive-intelligence-index/
+repository-code: https://github.com/OpenFutureForum/executive-intelligence-index
+license: CC-BY-4.0

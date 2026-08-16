@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "generated_for_release": "0.1.0",
+  "records": {
+    "people": [],
+    "organization-references": [],
+    "book-works": [],
+    "book-editions": [],
+    "sources": [],
+    "statements": [],
+    "propositions": [],
+    "stances": [],
+    "topics": [],
+    "debates": [],
+    "dossiers": [],
+    "trends": [],
+    "protocols": [],
+    "batches": [],
+    "reviews": [],
+    "corrections": [],
+    "releases": []
+  }
+}

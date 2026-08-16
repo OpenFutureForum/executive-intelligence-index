@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openfutureforum.github.io/executive-intelligence-index/schema/organization-reference.schema.json",
+  "title": "Organization Reference",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "local_reference_id",
+    "organization_name",
+    "match_status",
+    "provenance"
+  ],
+  "properties": {
+    "local_reference_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "canonical_cxo_ecosystem_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "organization_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "organization_aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "match_status": {
+      "type": "string",
+      "minLength": 1
+    },
+    "match_confidence": {
+      "type": [
+        "number",
+        "null"
+      ]
+    },
+    "upstream_release": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "upstream_commit": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "upstream_fingerprint": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "verification_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "unresolved_reason": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "last_synced_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "workflow_status": {
+      "$ref": "common.schema.json#/$defs/workflowStatus"
+    },
+    "machine_review_status": {
+      "$ref": "common.schema.json#/$defs/machineReviewStatus"
+    },
+    "human_review_status": {
+      "$ref": "common.schema.json#/$defs/humanReviewStatus"
+    },
+    "reviewed_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reviewed_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "provenance": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "common.schema.json#/$defs/provenance"
+      }
+    },
+    "revision_history": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/revision"
+      }
+    }
+  }
+}

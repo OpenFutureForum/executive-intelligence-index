@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://openfutureforum.github.io/executive-intelligence-index/sitemap.xml

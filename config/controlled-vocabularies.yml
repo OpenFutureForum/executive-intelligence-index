@@ -1,0 +1,65 @@
+schema_version: 1.0.0
+statement_types:
+  - factual_assertion
+  - empirical_finding
+  - recommendation
+  - prediction
+  - opinion
+  - warning
+  - definition
+  - reported_experience
+  - case_study
+  - strategic_framework
+  - interpretation
+  - counterargument
+  - methodological_claim
+  - company_reported_outcome
+  - policy_position
+source_types:
+  - book
+  - audiobook
+  - video
+  - podcast_episode
+  - keynote
+  - panel
+  - interview
+  - conference_talk
+  - essay
+  - newsletter
+  - public_letter
+  - research_report
+  - academic_paper
+  - working_paper
+  - executive_survey
+  - earnings_commentary
+  - event_recording
+  - OFF_research
+  - OFF_interview
+  - OFF_video
+  - public_policy_document
+  - other_approved
+stance_relationships: [supports, challenges, qualifies, narrows, broadens, refines, supersedes, provides_example, provides_evidence, disputes_evidence, unrelated_after_review]
+workflow_statuses: [candidate, protocol_approved, metadata_verified, source_access_verified, content_reviewed, statements_extracted, propositions_mapped, independently_checked, publication_recommended, publication_approved, published, revised, withdrawn]
+machine_review_statuses: [not_started, machine_drafted, machine_checked, second_agent_checked, issues_found, ready_for_human_review]
+human_review_statuses: [not_reviewed, pending, changes_requested, approved, rejected]
+book_depths: [catalogued, reviewed, deeply_analyzed]
+source_depths: [metadata_only, abstracted, statement_coded, proposition_mapped, dossier_source]
+person_depths: [identity_record, source_connected, public_profile_eligible, public_profile_published]
+rights_statuses: [unknown, metadata_only, link_and_paraphrase, openly_licensed, public_domain, permission_documented, OFF_owned, restricted, disputed]
+ownership_statuses: [third_party, OFF_owned, co_published, unknown]
+reviewer_types: [agent, researcher, editor, rights_reviewer, named_human]
+roles:
+  - { id: role-ceo, label: Chief executive officer, aliases: [CEO] }
+  - { id: role-cfo, label: Chief financial officer, aliases: [CFO] }
+  - { id: role-ciso, label: Chief information security officer, aliases: [CISO] }
+  - { id: role-cmo, label: Chief marketing officer, aliases: [CMO] }
+  - { id: role-cio, label: Chief information officer, aliases: [CIO] }
+  - { id: role-cto, label: Chief technology officer, aliases: [CTO] }
+  - { id: role-general-counsel, label: General counsel, aliases: [Chief legal officer, CLO] }
+  - { id: role-investor, label: Investor, aliases: [] }
+  - { id: role-founder, label: Founder, aliases: [] }
+  - { id: role-board-director, label: Board director, aliases: [] }
+languages:
+  - { id: lang-en, label: English, bcp47: en }
+geographies:
+  - { id: geo-global, label: Global, type: analytical_scope }

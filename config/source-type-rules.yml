@@ -1,0 +1,13 @@
+schema_version: 1.0.0
+third_party:
+  full_transcript_allowed: false
+  canonical_original_required: true
+  rights_note_for_quote: true
+OFF_owned:
+  human_edited_transcript_allowed: true
+  ownership_disclosure_required: true
+book:
+  edition_required_for_page_locator: true
+  complete_access_required_for_deep_analysis: true
+research_report:
+  methodology_fields: [study_design, sample, population, geography, date_range, funding, sponsor, peer_review_status]

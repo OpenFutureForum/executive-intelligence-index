@@ -1,0 +1,7 @@
+enabled: false
+provider: null
+site_id_environment_variable: PUBLIC_ANALYTICS_SITE_ID
+privacy:
+  collect_private_identifiers: false
+  append_tracking_parameters_to_sources: false
+events: [page_view, internal_search, search_result_click, filter_use, book_page_visit, source_page_visit, data_download, citation_copy, original_source_click, youtube_outbound_click, video_play, video_progress, related_source_click, dossier_engagement, correction_form_click]

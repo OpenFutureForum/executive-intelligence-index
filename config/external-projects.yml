@@ -1,0 +1,39 @@
+schema_version: 1.0.0
+verified_at: 2026-08-14
+projects:
+  - project_id: cxo-ecosystem-index
+    upstream_repository: https://github.com/OpenFutureForum/cxo-ecosystem-index
+    upstream_branch: main
+    upstream_commit: 45ca4066fc00
+    responsibility: Canonical organization identities, capabilities, audiences, offerings, research, events, and relationships.
+    local_use: Versioned organization-reference crosswalk only.
+  - project_id: executive-ai-research
+    upstream_repository: https://github.com/OpenFutureForum/executive-ai-research
+    upstream_branch: main
+    upstream_commit: d205a6b2e6f4
+    responsibility: OFF reports and research-library records.
+    local_use: Canonical report references and contextual links.
+  - project_id: executive-communities-index
+    upstream_repository: https://github.com/OpenFutureForum/executive-communities-index
+    upstream_branch: main
+    upstream_commit: ba9bab57a774
+    responsibility: Executive-community factual records and editorial rankings.
+    local_use: Reference only; rankings are not duplicated.
+  - project_id: executive-community-playbook
+    upstream_repository: https://github.com/OpenFutureForum/executive-community-playbook
+    upstream_branch: main
+    upstream_commit: 2a0936b00c75
+    responsibility: Practical community operating guidance and templates.
+    local_use: Cite selected frameworks without duplicating guides.
+  - project_id: openfutureforum-github-profile
+    upstream_repository: https://github.com/OpenFutureForum/.github
+    upstream_branch: main
+    upstream_commit: c3fe1e9e27cc
+    responsibility: Organization-level project descriptions.
+    local_use: Publisher context.
+  - project_id: openfutureforum-pages-root
+    upstream_repository: https://github.com/OpenFutureForum/OpenFutureForum.github.io
+    upstream_branch: main
+    upstream_commit: 12505350a4d9
+    responsibility: Root GitHub Pages directory.
+    local_use: Project discovery and shared deployment context.

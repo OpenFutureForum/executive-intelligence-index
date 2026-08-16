@@ -1,0 +1,26 @@
+name: Release artifact generation
+on:
+  workflow_dispatch:
+    inputs:
+      release_version:
+        description: Reviewed semantic release version
+        required: true
+permissions:
+  contents: read
+jobs:
+  release-artifacts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22, cache: npm }
+      - run: npm ci
+      - run: npm run check
+      - run: npm run generate:release
+      - uses: actions/upload-artifact@v4
+        with:
+          name: release-${{ inputs.release_version }}
+          path: |
+            exports/
+            docs/
+      - run: echo 'Artifact generation does not create or approve a GitHub Release; named human approval remains required.'

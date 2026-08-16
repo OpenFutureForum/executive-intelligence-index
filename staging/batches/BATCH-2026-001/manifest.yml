@@ -1,0 +1,67 @@
+batch_id: BATCH-2026-001
+protocol_id: protocol-BATCH-2026-001
+prompt_id: OEII-TOPIC-DISCOVERY
+prompt_version: "2.0"
+branch: research/discovery-governed-agent-identities-BATCH-2026-001
+pull_request: https://github.com/OpenFutureForum/executive-intelligence-index/pull/2
+execution_started_at: 2026-08-15T10:34:21Z
+execution_completed_at: 2026-08-15T10:53:35Z
+agent_or_researcher: OpenAI Codex; machine-assisted discovery; human review pending
+model_disclosure: AI-assisted discovery and metadata screening; no human selection approval and no publication approval occurred.
+tools_used: [repository inspection, public web search, official source pages, Node.js, AJV, git]
+research_question: How do public executive and institutional sources define governance requirements for AI-agent identities?
+protocol_registered_before_external_search: true
+protocol_changed_after_search: false
+sources_considered: 120
+accepted_count: 91
+held_count: 19
+rejected_count: 10
+duplicate_groups: 5
+candidate_acceptance_is_publication_approval: false
+production_records_created: 0
+statements_extracted: 0
+propositions_created: 0
+output_files:
+  - data/protocols/protocol-BATCH-2026-001.json
+  - operations/batch-registry.yml
+  - operations/research-roadmap.yml
+  - protocol.yml
+  - research-protocol.md
+  - search-log.yml
+  - candidate-source.schema.json
+  - candidate-sources.json
+  - accepted-candidates.json
+  - rejected-sources.json
+  - hold-queue.json
+  - duplicate-review.json
+  - coverage-analysis.md
+  - source-concentration.md
+  - research-gaps.md
+  - limitations.md
+  - next-batch-recommendations.yml
+  - validation-results.md
+validation_commands:
+  - node --import tsx scripts/cli.ts validate data
+  - node --import tsx scripts/cli.ts validate provenance
+  - node --import tsx scripts/validate-discovery-batch.ts BATCH-2026-001
+  - git diff --check
+validation_results:
+  - PASS; canonical protocol schema and provenance validation.
+  - PASS; 120 candidates conform to the batch-local candidate schema and partition into 91 accepted, 19 held, and 10 rejected.
+  - PASS; candidate IDs, URLs, source identities, rights, ownership, duplicate groups, query references, roles, concentration, batch size, and staging isolation.
+  - WARN; no accepted India or Japan candidate and English-only language coverage; recorded as research gaps, not silently filled.
+  - PASS; repository attribution, statement, proposition, book-edition, locator, rights, review-status, publication, content, duplicate, concentration, and coverage gates.
+  - PASS; TypeScript and targeted ESLint checks; 24 unit tests across four files.
+  - NOTE; npm script wrappers that use tsx IPC cannot run inside the local seatbelt, so equivalent non-IPC node --import tsx commands were used.
+workflow_status: candidate
+machine_review_status: machine_drafted
+human_review_status: pending
+reviewed_by: null
+reviewed_at: null
+limitations:
+  - English-only discovery because the active controlled vocabulary currently contains only lang-en.
+  - Search visibility favors US standards bodies, hyperscalers, identity vendors, and English-language academic preprints.
+  - Candidate acceptance records discovery-screening judgment only; source, rights, identity, and selection review remain pending.
+  - Books were screened primarily through official metadata; chapter-level relevance usually remains unverified.
+  - Several 2026 working papers and policy sources are too new for independent evaluation.
+next_action: Assign named reviewers to resolve the hold queue, verify candidate identities and dates, and select a balanced subset for source-record creation in a separate batch.

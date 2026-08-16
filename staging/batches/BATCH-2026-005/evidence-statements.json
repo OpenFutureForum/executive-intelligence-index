@@ -1,0 +1,1348 @@
+[
+  {
+    "statement_id": "statement-BATCH-2026-005-001",
+    "source_id": "source-BATCH-2026-005-001",
+    "person_id": null,
+    "institutional_author": "NIST Center for AI Standards and Innovation",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "National Institute of Standards and Technology",
+    "statement_type": "empirical_finding",
+    "neutral_paraphrase": "The NIST authors report broad agreement among RFI commenters that AI agents introduce novel security threats and that security concerns impede adoption.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "Official HTML publication page, Abstract, paragraphs 1-2, accessed 2026-08-15",
+    "locator_type": "html_section",
+    "source_date": "2026-05-18",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "United States",
+      "global issues discussed"
+    ],
+    "evidence_character": "qualitative observation reported by government authors",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Self-selected RFI commenters summarized by NIST, not a representative population.",
+    "uncertainty": "Response count, composition, coding method, and prevalence threshold for 'widely agreed' are not reported on the accessible page.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.nist.gov/publications/summary-analysis-responses-request-information-regarding-security-considerations-ai",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "Official HTML publication page, Abstract, paragraphs 1-2, accessed 2026-08-15",
+        "content_hash": "32c07aeeb8f49694dd407080eab757c905dc4395871b52edd46a113208064a03",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-002",
+    "source_id": "source-BATCH-2026-005-001",
+    "person_id": null,
+    "institutional_author": "NIST Center for AI Standards and Innovation",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "National Institute of Standards and Technology",
+    "statement_type": "interpretation",
+    "neutral_paraphrase": "The NIST authors identify implementation guidance, information sharing, and standards promotion as possible roles for government action.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "Official HTML publication page, Abstract, final sentence, accessed 2026-08-15",
+    "locator_type": "html_section",
+    "source_date": "2026-05-18",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "United States",
+      "global issues discussed"
+    ],
+    "evidence_character": "author interpretation and policy option",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Options synthesized from the RFI response corpus.",
+    "uncertainty": "The accessible page does not quantify support for each option.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.nist.gov/publications/summary-analysis-responses-request-information-regarding-security-considerations-ai",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "Official HTML publication page, Abstract, final sentence, accessed 2026-08-15",
+        "content_hash": "32c07aeeb8f49694dd407080eab757c905dc4395871b52edd46a113208064a03",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-003",
+    "source_id": "source-BATCH-2026-005-002",
+    "person_id": null,
+    "institutional_author": "National Institute of Standards and Technology",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "National Institute of Standards and Technology",
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "Organizations should establish policies for documenting the origin and history of training and generated data while balancing proprietary constraints.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "PDF file p. 18 (document p. 14), table GOVERN 1.2, Action GV-1.2-001, July 2024 version",
+    "locator_type": "pdf_page",
+    "source_date": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "United States",
+      "cross-sectoral global applicability"
+    ],
+    "evidence_character": "government standards recommendation",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Voluntary cross-sectoral generative-AI risk management.",
+    "uncertainty": "Normative guidance; effectiveness is not evaluated.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "PDF file p. 18 (document p. 14), table GOVERN 1.2, Action GV-1.2-001, July 2024 version",
+        "content_hash": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-004",
+    "source_id": "source-BATCH-2026-005-002",
+    "person_id": null,
+    "institutional_author": "National Institute of Standards and Technology",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "National Institute of Standards and Technology",
+    "statement_type": "methodological_claim",
+    "neutral_paraphrase": "NIST warns that laboratory benchmarks, in-silico tests, and prompt-jailbreak tests may fail to represent deployment contexts or real-world impacts.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "PDF file p. 53 (document p. 49), Appendix A.1.4, 'Limitations of Current Pre-deployment Test Approaches', July 2024 version",
+    "locator_type": "pdf_page",
+    "source_date": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "United States",
+      "cross-sectoral global applicability"
+    ],
+    "evidence_character": "methodological limitation",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Pre-deployment testing and evaluation for generative AI.",
+    "uncertainty": "The warning is qualitative and not tied to a measured generalization gap.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "PDF file p. 53 (document p. 49), Appendix A.1.4, 'Limitations of Current Pre-deployment Test Approaches', July 2024 version",
+        "content_hash": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-005",
+    "source_id": "source-BATCH-2026-005-003",
+    "person_id": null,
+    "institutional_author": "IETF Internet-Draft authors",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "Internet Engineering Task Force",
+    "statement_type": "definition",
+    "neutral_paraphrase": "The draft models an AI agent as a workload that requires an identifier and credentials for authentication by interacting systems and services.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "Revision 02 HTML, Section 3 'Agents are workloads', paragraphs following Figure 1",
+    "locator_type": "html_section",
+    "source_date": "2026-06-01",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global standards context"
+    ],
+    "evidence_character": "normative standards definition",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Internet-Draft revision 02 conceptual model.",
+    "uncertainty": "Work in progress; later revisions may change the model.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "Revision 02 HTML, Section 3 'Agents are workloads', paragraphs following Figure 1",
+        "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-006",
+    "source_id": "source-BATCH-2026-005-003",
+    "person_id": null,
+    "institutional_author": "IETF Internet-Draft authors",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "Internet Engineering Task Force",
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "The draft requires each participating agent to have exactly one WIMSE identifier and requires credentials that cryptographically bind to that identifier.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "Revision 02 HTML, Sections 5 'Agent Identifier' and 6 'Agent Credentials'",
+    "locator_type": "html_section",
+    "source_date": "2026-06-01",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global standards context"
+    ],
+    "evidence_character": "normative standards requirement",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Proposed interoperable identity framework in revision 02.",
+    "uncertainty": "Not yet an RFC and not validated by deployment evidence.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "Revision 02 HTML, Sections 5 'Agent Identifier' and 6 'Agent Credentials'",
+        "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-007",
+    "source_id": "source-BATCH-2026-005-003",
+    "person_id": null,
+    "institutional_author": "IETF Internet-Draft authors",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "Internet Engineering Task Force",
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "When an agent acts for a user or system, delegation context should inform authorization decisions and be preserved in audit trails.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "Revision 02 HTML, Section 3 'Agents are workloads', paragraph after Figure 1",
+    "locator_type": "html_section",
+    "source_date": "2026-06-01",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global standards context"
+    ],
+    "evidence_character": "normative standards recommendation",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Agent acting on behalf of a user or system.",
+    "uncertainty": "Proposed behavior in an expiring Internet-Draft.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "Revision 02 HTML, Section 3 'Agents are workloads', paragraph after Figure 1",
+        "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-008",
+    "source_id": "source-BATCH-2026-005-004",
+    "person_id": null,
+    "institutional_author": "OpenID Foundation",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "OpenID Foundation",
+    "statement_type": "interpretation",
+    "neutral_paraphrase": "The authors judge existing identity patterns strongest for synchronous agents inside one trust domain and less adequate for cross-domain, asynchronous, and recursive delegation.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "PDF file p. 15 (document p. 14), Section 2.14 'Summary of Immediate Solutions', October 2025 version",
+    "locator_type": "pdf_page",
+    "source_date": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global technology standards context"
+    ],
+    "evidence_character": "author interpretation",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Large foundation-model-based agent systems considered in the white paper.",
+    "uncertainty": "Conceptual assessment without comparative implementation testing.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "PDF file p. 15 (document p. 14), Section 2.14 'Summary of Immediate Solutions', October 2025 version",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-009",
+    "source_id": "source-BATCH-2026-005-004",
+    "person_id": null,
+    "institutional_author": "OpenID Foundation",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "OpenID Foundation",
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "The report recommends standard protocols, authenticated agent interactions, least privilege, automated lifecycle management, clear audit trails, and adaptable interoperability.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "PDF file p. 17 (document p. 16), 'Best Practices', October 2025 version",
+    "locator_type": "pdf_page",
+    "source_date": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global technology standards context"
+    ],
+    "evidence_character": "technical recommendation",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Enterprise agent identity and authorization programs.",
+    "uncertainty": "No outcomes study establishes relative effectiveness.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "PDF file p. 17 (document p. 16), 'Best Practices', October 2025 version",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-010",
+    "source_id": "source-BATCH-2026-005-004",
+    "person_id": null,
+    "institutional_author": "OpenID Foundation",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "OpenID Foundation",
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "For recursive delegation, the report recommends multi-hop chains that progressively narrow permissions at each step.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "PDF file p. 27 (document p. 26), Section 4.4 'Recursive Delegation in Dynamic Agent Networks', October 2025 version",
+    "locator_type": "pdf_page",
+    "source_date": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global technology standards context"
+    ],
+    "evidence_character": "technical recommendation",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Future multi-agent networks with delegated authority.",
+    "uncertainty": "Forward-looking architecture; implementation maturity is not established.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "PDF file p. 27 (document p. 26), Section 4.4 'Recursive Delegation in Dynamic Agent Networks', October 2025 version",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-011",
+    "source_id": "source-BATCH-2026-005-005",
+    "person_id": null,
+    "institutional_author": "Tobin South",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "arXiv",
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "The preprint proposes scope attenuation so that a subagent receives only a narrowed subset of its parent agent's authority.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "arXiv:2510.25819v1 PDF file p. 27 (document p. 26), Section 4.4",
+    "locator_type": "pdf_page",
+    "source_date": "2025-10-29",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global technology standards context"
+    ],
+    "evidence_character": "technical recommendation in preprint rendition",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Recursive delegation in future multi-agent networks.",
+    "uncertainty": "Same intellectual work as the OpenID rendition; do not count as independent evidence.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2510.25819",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "arXiv:2510.25819v1 PDF file p. 27 (document p. 26), Section 4.4",
+        "content_hash": "b019c9420565afe6a3f81fcd8e9b3375f546003cecab93ecfa25d965b2f68bb2",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-012",
+    "source_id": "source-BATCH-2026-005-006",
+    "person_id": null,
+    "institutional_author": "Edoardo Debenedetti",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "NeurIPS 2024 Datasets and Benchmarks Track",
+    "statement_type": "methodological_claim",
+    "neutral_paraphrase": "AgentDojo v3 contains 97 user tasks and 629 security test cases in four stateful simulated environments.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "arXiv:2406.13352v3 PDF p. 1, Abstract; environment counts visually checked in Table 1 on PDF p. 6",
+    "locator_type": "pdf_page",
+    "source_date": "2024-06-19",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "synthetic environments; no human geography"
+    ],
+    "evidence_character": "directly reported benchmark design",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Version 3 benchmark composition.",
+    "uncertainty": "Curated synthetic cases are not a probability sample of deployed agents.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "arXiv:2406.13352v3 PDF p. 1, Abstract; environment counts visually checked in Table 1 on PDF p. 6",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-013",
+    "source_id": "source-BATCH-2026-005-006",
+    "person_id": null,
+    "institutional_author": "Edoardo Debenedetti",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "NeurIPS 2024 Datasets and Benchmarks Track",
+    "statement_type": "empirical_finding",
+    "neutral_paraphrase": "For the listed GPT-4o experiments, Table 5 reports targeted attack success of 57.69% without a defense and 6.84% with tool filtering, with reported 95% confidence-interval half-widths of 3.9 and 2.0 percentage points respectively.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "arXiv:2406.13352v3 PDF p. 20, Table 5",
+    "locator_type": "pdf_page",
+    "source_date": "2024-06-19",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "synthetic environments; no human geography"
+    ],
+    "evidence_character": "direct empirical benchmark finding",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "GPT-4o in AgentDojo v3 security cases and the listed defense configurations.",
+    "uncertainty": "Raw numerators and interval construction are not reported in the table; values are not production incident rates.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "arXiv:2406.13352v3 PDF p. 20, Table 5",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-014",
+    "source_id": "source-BATCH-2026-005-006",
+    "person_id": null,
+    "institutional_author": "Edoardo Debenedetti",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "NeurIPS 2024 Datasets and Benchmarks Track",
+    "statement_type": "methodological_claim",
+    "neutral_paraphrase": "The authors report releasing code, model outputs, conversations, documentation, and exact dependencies for the benchmark.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "arXiv:2406.13352v3 PDF pp. 21-23, Appendix E 'Dataset-related supplementary material'",
+    "locator_type": "pdf_page",
+    "source_date": "2024-06-19",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "synthetic environments; no human geography"
+    ],
+    "evidence_character": "replicability statement",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "AgentDojo benchmark artifacts current to version 3.",
+    "uncertainty": "External artifact availability can change after the access date.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "arXiv:2406.13352v3 PDF pp. 21-23, Appendix E 'Dataset-related supplementary material'",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-015",
+    "source_id": "source-BATCH-2026-005-007",
+    "person_id": null,
+    "institutional_author": "Hanrong Zhang",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "ICLR 2025 / arXiv",
+    "statement_type": "methodological_claim",
+    "neutral_paraphrase": "ASB v4 spans 10 scenarios and agents, 400 tasks, more than 400 tools, 27 attack or defense methods, 13 LLM backbones, and seven evaluation metrics.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "arXiv:2410.02644v4 PDF pp. 1-2, Abstract and Introduction; Table 3 on PDF p. 8 visually checked",
+    "locator_type": "pdf_page",
+    "source_date": "2024-10-03",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "synthetic benchmark; no human geography"
+    ],
+    "evidence_character": "directly reported benchmark design",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "ASB version 4 benchmark composition.",
+    "uncertainty": "Researcher-constructed synthetic benchmark, not a sampled production population.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2410.02644",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "arXiv:2410.02644v4 PDF pp. 1-2, Abstract and Introduction; Table 3 on PDF p. 8 visually checked",
+        "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-016",
+    "source_id": "source-BATCH-2026-005-007",
+    "person_id": null,
+    "institutional_author": "Hanrong Zhang",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "ICLR 2025 / arXiv",
+    "statement_type": "empirical_finding",
+    "neutral_paraphrase": "The authors report a highest average attack success rate of 84.30% among evaluated ASB configurations.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "arXiv:2410.02644v4 PDF p. 1, Abstract",
+    "locator_type": "pdf_page",
+    "source_date": "2024-10-03",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "synthetic benchmark; no human geography"
+    ],
+    "evidence_character": "direct empirical benchmark finding",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Evaluated attacks, agents, and 13 LLM backbones in ASB v4.",
+    "uncertainty": "The abstract does not state a raw numerator, compact denominator, or confidence interval for the headline average.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2410.02644",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "arXiv:2410.02644v4 PDF p. 1, Abstract",
+        "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-017",
+    "source_id": "source-BATCH-2026-005-008",
+    "person_id": null,
+    "institutional_author": "Yuxuan Zhu",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "arXiv",
+    "statement_type": "methodological_claim",
+    "neutral_paraphrase": "The HPTSA study uses 14 recent, reproducible, manually exploitable open-source web vulnerabilities selected after the tested GPT-4 knowledge cutoff.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "arXiv:2406.01637v2 PDF p. 4, Section 4 and Tables 1-2",
+    "locator_type": "pdf_page",
+    "source_date": "2024-06-02",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "synthetic sandbox; no human geography"
+    ],
+    "evidence_character": "directly reported benchmark design",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Purposively selected sandboxed web vulnerabilities.",
+    "uncertainty": "Narrow, non-random sample of vulnerabilities.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2406.01637",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "arXiv:2406.01637v2 PDF p. 4, Section 4 and Tables 1-2",
+        "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-018",
+    "source_id": "source-BATCH-2026-005-008",
+    "person_id": null,
+    "institutional_author": "Yuxuan Zhu",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "arXiv",
+    "statement_type": "empirical_finding",
+    "neutral_paraphrase": "HPTSA with GPT-4 reports 42% pass@5 and 18% pass@1 on the 14-vulnerability benchmark.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "arXiv:2406.01637v2 PDF p. 5, Figure 2 and Section 5.2",
+    "locator_type": "pdf_page",
+    "source_date": "2024-06-02",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "synthetic sandbox; no human geography"
+    ],
+    "evidence_character": "direct empirical benchmark finding",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Fourteen sandboxed web vulnerabilities and the described HPTSA configuration.",
+    "uncertainty": "Rounded rates, raw numerators, and confidence intervals are not reported; no extrapolation to all vulnerabilities.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2406.01637",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "arXiv:2406.01637v2 PDF p. 5, Figure 2 and Section 5.2",
+        "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-019",
+    "source_id": "source-BATCH-2026-005-008",
+    "person_id": null,
+    "institutional_author": "Yuxuan Zhu",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "arXiv",
+    "statement_type": "methodological_claim",
+    "neutral_paraphrase": "The authors acknowledge that focusing on open-source web vulnerabilities may bias the study sample and that withheld code and prompts limit replication.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "arXiv:2406.01637v2 PDF pp. 8-9, Section 10 'Limitations, Ethical Considerations'",
+    "locator_type": "pdf_page",
+    "source_date": "2024-06-02",
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "synthetic sandbox; no human geography"
+    ],
+    "evidence_character": "author limitation",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "External validity and replicability of the HPTSA experiment.",
+    "uncertainty": "The direction and magnitude of bias are not quantified.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2406.01637",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "arXiv:2406.01637v2 PDF pp. 8-9, Section 10 'Limitations, Ethical Considerations'",
+        "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-020",
+    "source_id": "source-BATCH-2026-005-009",
+    "person_id": null,
+    "institutional_author": "Yonadav Shavit",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "OpenAI",
+    "statement_type": "policy_position",
+    "neutral_paraphrase": "The authors argue that at least one human legal entity should remain accountable for every uncompensated direct harm caused by an agentic AI system.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "Official PDF p. 3, Section 1 'Introduction', 2023 version",
+    "locator_type": "pdf_page",
+    "source_date": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global policy context"
+    ],
+    "evidence_character": "policy position",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Allocation of accountability for direct harms from agentic systems.",
+    "uncertainty": "Normative position, not a legal conclusion or empirical finding.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "Official PDF p. 3, Section 1 'Introduction', 2023 version",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-021",
+    "source_id": "source-BATCH-2026-005-009",
+    "person_id": null,
+    "institutional_author": "Yonadav Shavit",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "OpenAI",
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "For high-stakes interactions, the paper suggests that counterparties could require a unique agent identifier linked to a human principal and key accountability information.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "Official PDF pp. 13-14, Section 4.6 'Attributability', 2023 version",
+    "locator_type": "pdf_page",
+    "source_date": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global policy context"
+    ],
+    "evidence_character": "policy recommendation",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "High-stakes interactions such as private-data or financial transactions.",
+    "uncertainty": "The authors also identify surveillance, privacy, and spoofing risks; no implementation is evaluated.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "Official PDF pp. 13-14, Section 4.6 'Attributability', 2023 version",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "statement_id": "statement-BATCH-2026-005-022",
+    "source_id": "source-BATCH-2026-005-009",
+    "person_id": null,
+    "institutional_author": "Yonadav Shavit",
+    "speaker_role_at_source_time": null,
+    "organization_at_source_time": "OpenAI",
+    "statement_type": "recommendation",
+    "neutral_paraphrase": "The paper treats interruptibility as a critical backstop and proposes that user shutdown authority extend recursively to subagents.",
+    "direct_quote": null,
+    "direct_quote_rights_note": null,
+    "exact_locator": "Official PDF pp. 14-15, Section 4.7 'Interruptibility and Maintaining Control', 2023 version",
+    "locator_type": "pdf_page",
+    "source_date": null,
+    "topic_ids": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_role_context": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "industry_context": [
+      "cross-industry"
+    ],
+    "geographic_context": [
+      "global policy context"
+    ],
+    "evidence_character": "policy recommendation",
+    "factual_verification_status": "verified_against_exact_source_version",
+    "statement_scope": "Agent systems and subagents under user or deployer control.",
+    "uncertainty": "The paper notes safety-critical exceptions and implementation tradeoffs.",
+    "extraction_method": "manual reading assisted by text extraction and visual PDF verification",
+    "machine_extraction_confidence": 0.94,
+    "independent_agent_review_status": "not_started",
+    "publication_status": "staging_only",
+    "workflow_status": "statements_extracted",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "manual reading assisted by text extraction and visual PDF verification",
+        "exact_locator": "Official PDF pp. 14-15, Section 4.7 'Interruptibility and Maintaining Control', 2023 version",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  }
+]

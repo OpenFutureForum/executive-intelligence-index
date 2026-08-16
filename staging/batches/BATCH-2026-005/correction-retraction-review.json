@@ -1,0 +1,101 @@
+[
+  {
+    "source_id": "source-BATCH-2026-005-001",
+    "canonical_title": "Summary Analysis of Responses to the Request for Information Regarding Security Considerations for AI Agents",
+    "version_reviewed": "official HTML publication page accessed 2026-08-15",
+    "correction_status": "none_identified",
+    "retraction_status": "none_identified_on_canonical_page_as_of_2026-08-15",
+    "correction_or_retraction_locator": "canonical publisher or arXiv version page",
+    "substantive_effect": "none identified",
+    "checked_at": "2026-08-15",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-002",
+    "canonical_title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "version_reviewed": "July 2024; Editorial Review Board approval 2024-07-25; retrieved PDF SHA-256 recorded",
+    "correction_status": "no_correction_notice; PDF metadata modification noted",
+    "retraction_status": "none_identified_in_pdf_or_official_doi_resolution_as_of_2026-08-15",
+    "correction_or_retraction_locator": "PDF publication-history page and file metadata",
+    "substantive_effect": "none identified",
+    "checked_at": "2026-08-15",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-003",
+    "canonical_title": "AI Agent Authentication and Authorization",
+    "version_reviewed": "revision 02; expires 2026-12-03",
+    "correction_status": "none_identified",
+    "retraction_status": "active_work_in_progress_not_retracted_as_of_2026-08-15",
+    "correction_or_retraction_locator": "canonical publisher or arXiv version page",
+    "substantive_effect": "none identified",
+    "checked_at": "2026-08-15",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-004",
+    "canonical_title": "Identity Management for Agentic AI",
+    "version_reviewed": "October 2025",
+    "correction_status": "none_identified",
+    "retraction_status": "none_identified_on_official_pdf_or_publisher_url_as_of_2026-08-15",
+    "correction_or_retraction_locator": "canonical publisher or arXiv version page",
+    "substantive_effect": "none identified",
+    "checked_at": "2026-08-15",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-005",
+    "canonical_title": "Identity Management for Agentic AI: The new frontier of authorization, authentication, and security for an AI agent world",
+    "version_reviewed": "v1 submitted 2025-10-29",
+    "correction_status": "none_identified",
+    "retraction_status": "none_identified_on_arxiv_version_history_as_of_2026-08-15",
+    "correction_or_retraction_locator": "canonical publisher or arXiv version page",
+    "substantive_effect": "none identified",
+    "checked_at": "2026-08-15",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-006",
+    "canonical_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+    "version_reviewed": "v3; updated after a Llama implementation bug fix and travel-suite update",
+    "correction_status": "version_update_with_bug_fix",
+    "retraction_status": "no_retraction_identified;_v3_documents_bug_fix_update",
+    "correction_or_retraction_locator": "arXiv submission history comment for v3",
+    "substantive_effect": "v3 fixes a Llama implementation bug and updates the travel suite; earlier numerical results should not be used without version qualification",
+    "checked_at": "2026-08-15",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-007",
+    "canonical_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+    "version_reviewed": "v4; paper and arXiv page state accepted at ICLR 2025",
+    "correction_status": "none_identified",
+    "retraction_status": "none_identified_on_arxiv_version_history_as_of_2026-08-15",
+    "correction_or_retraction_locator": "canonical publisher or arXiv version page",
+    "substantive_effect": "none identified",
+    "checked_at": "2026-08-15",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-008",
+    "canonical_title": "Teams of LLM Agents can Exploit Zero-Day Vulnerabilities",
+    "version_reviewed": "v2 submitted 2025-03-30",
+    "correction_status": "none_identified",
+    "retraction_status": "none_identified_on_arxiv_version_history_as_of_2026-08-15",
+    "correction_or_retraction_locator": "canonical publisher or arXiv version page",
+    "substantive_effect": "none identified",
+    "checked_at": "2026-08-15",
+    "human_review_status": "pending"
+  },
+  {
+    "source_id": "source-BATCH-2026-005-009",
+    "canonical_title": "Practices for Governing Agentic AI Systems",
+    "version_reviewed": "2023; PDF metadata created 2023-12-18",
+    "correction_status": "none_identified",
+    "retraction_status": "none_identified_on_official_pdf_url_as_of_2026-08-15",
+    "correction_or_retraction_locator": "canonical publisher or arXiv version page",
+    "substantive_effect": "none identified",
+    "checked_at": "2026-08-15",
+    "human_review_status": "pending"
+  }
+]

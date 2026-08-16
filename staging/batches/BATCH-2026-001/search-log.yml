@@ -1,0 +1,53 @@
+batch_id: BATCH-2026-001
+executed_on: 2026-08-15
+searcher: OpenAI Codex; machine-assisted; human review pending
+search_policy: Every meaningful family is logged, including low-yield and failed searches. Search snippets were locators only; candidate metadata uses original or official sources.
+queries:
+  - {id: Q001, family: NIST agent identity, query: "site:nist.gov AI agent identity authorization governance", outcome: high-yield; official concept paper, initiative, RFI, and response analysis located}
+  - {id: Q002, family: OWASP, query: "site:owasp.org agentic AI identity privilege threat guide", outcome: high-yield; official threat taxonomy, multi-agent guide, Top 10, and governance report located}
+  - {id: Q003, family: Cloud Security Alliance, query: "site:cloudsecurityalliance.org AI agents non-human identity governance", outcome: high-yield; frameworks, surveys, and primary event material located}
+  - {id: Q004, family: IETF agent authorization, query: "site:ietf.org AI agent authentication authorization delegation draft", outcome: high-yield; four directly relevant Internet-Drafts located}
+  - {id: Q005, family: NIST general AI risk, query: "site:nist.gov AI RMF generative AI profile agent security", outcome: medium-yield; foundational risk documents located but identity specificity varies}
+  - {id: Q006, family: IETF workload identity, query: "site:datatracker.ietf.org WIMSE workload identity authorization", outcome: medium-yield; official meeting and draft materials located}
+  - {id: Q007, family: SPIFFE, query: "site:spiffe.io workload identity specification federation", outcome: high-yield; canonical specifications and open book located}
+  - {id: Q008, family: OpenID Foundation, query: "site:openid.net identity management agentic AI", outcome: high-yield; whitepaper, community page, slides, podcast, and workshop located}
+  - {id: Q009, family: European Union law, query: "site:europa.eu AI Act AI agents identity authorization", outcome: low-yield; authoritative AI Act context found, little identity-specific guidance}
+  - {id: Q010, family: United Kingdom policy, query: "site:gov.uk agentic AI identity authorization governance", outcome: medium-yield; consumer agent report located}
+  - {id: Q011, family: United States policy, query: "site:whitehouse.gov OR site:nist.gov AI agents security identity", outcome: medium-yield; NIST material strong, White House material screened as too general}
+  - {id: Q012, family: Singapore policy, query: "site:imda.gov.sg agentic AI governance identity", outcome: high-yield; national framework and sandbox insights located}
+  - {id: Q013, family: Australia policy, query: "site:gov.au agentic AI guidance identity access", outcome: high-yield; cross-agency guidance and policy addendum located}
+  - {id: Q014, family: Canada policy, query: "site:canada.ca agentic artificial intelligence guide identity", outcome: medium-yield; federal guide located}
+  - {id: Q015, family: Japan policy, query: "site:go.jp agentic AI governance identity English PDF", outcome: low-yield; one METI item held for language and relevance verification}
+  - {id: Q016, family: India policy, query: "site:gov.in agentic AI governance identity authorization", outcome: failed; no canonically identifiable, identity-specific English source met the protocol}
+  - {id: Q017, family: ENISA, query: "site:enisa.europa.eu autonomous agents frontier AI cybersecurity identity", outcome: low-yield; two contextual reports held rather than promoted}
+  - {id: Q018, family: academic identity, query: "site:arxiv.org AI agent identity authentication authorization", outcome: high-yield; direct identity and authorization preprints located}
+  - {id: Q019, family: academic governance, query: "site:arxiv.org agentic AI governance security architecture", outcome: high-yield; SAGA and runtime-governance work located}
+  - {id: Q020, family: ACM Digital Library, query: "site:dl.acm.org AI agent identity authorization", outcome: low-yield; discoverable items did not add a stronger canonical candidate than author preprints}
+  - {id: Q021, family: IEEE Xplore, query: "site:ieeexplore.ieee.org multi-agent authentication authorization AI", outcome: low-yield; results were paywalled, generic, or outside enterprise-agent scope}
+  - {id: Q022, family: agent security benchmarks, query: "LLM agent security benchmark prompt injection tools permissions", outcome: high-yield; AgentDojo, AgentSecBench, and related benchmarks located}
+  - {id: Q023, family: authorization benchmarks, query: "ASB comprehensive benchmark security LLM agents", outcome: medium-yield; canonical preprint located}
+  - {id: Q024, family: tool-use security, query: "ToolEmu ToolSandbox InjecAgent agent security", outcome: high-yield; primary papers located}
+  - {id: Q025, family: Google Cloud, query: "site:cloud.google.com AI agent identity IAM governance A2A", outcome: high-yield; documentation, architecture, and protocol sources located}
+  - {id: Q026, family: AWS, query: "site:aws.amazon.com agentic AI identity authorization AgentCore", outcome: high-yield; primary documentation and security guidance located}
+  - {id: Q027, family: Microsoft, query: "site:learn.microsoft.com Entra Agent ID agent identities", outcome: high-yield; five distinct documentation candidates located}
+  - {id: Q028, family: OpenAI, query: "site:openai.com agent governance safety permissions", outcome: medium-yield; governance and deployment-practice sources located}
+  - {id: Q029, family: Okta, query: "site:okta.com AI agent identity governance", outcome: medium-yield; one perspective accepted and one checklist held}
+  - {id: Q030, family: Ping Identity, query: "site:pingidentity.com agentic AI runtime identity", outcome: high-yield; specialist IAM perspectives located}
+  - {id: Q031, family: CyberArk, query: "site:cyberark.com AI agents identity security", outcome: medium-yield; one analytical perspective accepted and solution page held}
+  - {id: Q032, family: SailPoint, query: "site:sailpoint.com governing AI agent identity", outcome: high-yield; documentation, essay, and primary media located}
+  - {id: Q033, family: books, query: "books workload identity zero trust OAuth API security agentic AI governance", outcome: medium-yield; nine credible foundational or current books and one low-quality retail result screened}
+  - {id: Q034, family: primary media, query: "AI agent identity podcast conference talk webinar", outcome: medium-yield; seven primary media candidates located, two with unresolved episode-level metadata}
+  - {id: Q035, family: identity conferences, query: "OpenID Identiverse Authenticate RSA AI agent identity session", outcome: medium-yield; OpenID, Identiverse, CSA Summit, and SailPoint material located}
+  - {id: Q036, family: empirical surveys, query: "AI agent identity survey IAM registry credentials governance", outcome: high-yield; three CSA-sponsored surveys and one global F5 survey located}
+  - {id: Q037, family: executive and consulting research, query: "executive survey agentic AI trust least privilege identity", outcome: medium-yield; PwC item held pending method verification}
+  - {id: Q038, family: dissent and alternatives, query: "AI agents do not need new identity workload identity debate", outcome: low-yield; OpenID incremental-stack view, SPIFFE foundations, personhood credentials, and Identiverse identity-blur view retained as contrasting positions}
+supplementary_searches:
+  - query: "official YouTube AI agent identity"
+    outcome: failed; generic channel and promotional results lacked stable episode identity, so none were used
+  - query: "India public agentic AI identity guidance English"
+    outcome: failed; no qualifying primary source found
+  - query: "healthcare AI agent identity governance primary source"
+    outcome: low-yield; general health-AI governance results lacked agent-identity specificity
+  - query: "critical infrastructure AI agent identity governance primary source"
+    outcome: low-yield; no sector-specific source improved on cross-sector standards and government guidance
+stopping_rule_result: The pre-registered target of 120 was reached, every major family was searched, and the final sector-specific and country-specific supplementary searches produced fewer than three new credible candidates each.

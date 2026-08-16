@@ -1,0 +1,1189 @@
+[
+  {
+    "source_id": "source-BATCH-2026-005-001",
+    "canonical_title": "Summary Analysis of Responses to the Request for Information Regarding Security Considerations for AI Agents",
+    "alternate_titles": [],
+    "source_type": "research_report",
+    "series_or_parent_source": "NIST AI 800-5",
+    "publisher": "National Institute of Standards and Technology",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-005-jared-riggs",
+      "person-BATCH-2026-005-maia-hamin",
+      "person-BATCH-2026-005-neil-perry",
+      "person-BATCH-2026-005-benjamin-edelman",
+      "person-BATCH-2026-005-peter-cihon"
+    ],
+    "institutional_author": "NIST Center for AI Standards and Innovation",
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": "2026-05-18",
+    "updated_at": null,
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [],
+    "geography_discussed": [
+      "United States",
+      "global issues discussed"
+    ],
+    "study_geography": [
+      "United States",
+      "global issues discussed"
+    ],
+    "original_url": "https://www.nist.gov/publications/summary-analysis-responses-request-information-regarding-security-considerations-ai",
+    "canonical_url": "https://www.nist.gov/publications/summary-analysis-responses-request-information-regarding-security-considerations-ai",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": null,
+    "canonical_identity_status": "verified",
+    "repost_status": "original_or_authoritative_rendition",
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": "none_identified; Executive AI Research snapshot contains no matching production records",
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [],
+    "analysis_basis": "Official NIST publication page and its analytical abstract reviewed; no full report file was exposed by the canonical page.",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "original_abstract": null,
+    "inclusion_rationale": "Accepted discovery candidate candidate-BATCH-2026-001-005; contributes government report evidence or normative context to governed AI-agent identity.",
+    "source_quality_dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "low_for_accessible_version",
+      "independence": "government_publisher",
+      "bibliographic_stability": "high",
+      "evidence_strength": "moderate_for_describing_commenter_themes_not_population_prevalence",
+      "unresolved": "Full report body and response-level method were not available from the canonical page."
+    },
+    "methodology_quality": {
+      "design": "qualitative synthesis of responses to a U.S. government request for information",
+      "transparency": "low_for_accessible_version",
+      "human_review_required": true
+    },
+    "study_design": "qualitative synthesis of responses to a U.S. government request for information",
+    "sample": {
+      "size": "not reported on the canonical publication page",
+      "sampling_method": "self-selected RFI respondents; response recruitment and inclusion process not reported on the canonical page"
+    },
+    "population": "organizations and individuals responding to the CAISI RFI; composition not reported",
+    "date_range": {
+      "fieldwork": "not reported",
+      "version": "official HTML publication page accessed 2026-08-15"
+    },
+    "funding": "U.S. government publication; separate research funding not reported",
+    "sponsor": "National Institute of Standards and Technology",
+    "peer_review_status": "not applicable; government report",
+    "findings": [
+      "The authors report broad agreement among commenters that agent security creates adoption barriers and requires adaptation of established cybersecurity practice."
+    ],
+    "limitations": [
+      "No disclosed denominator, response composition, or qualitative coding method on the accessible page.",
+      "RFI respondents are self-selected and cannot be treated as a representative population."
+    ],
+    "correction_ids": [],
+    "retraction_status": "none_identified_on_canonical_page_as_of_2026-08-15",
+    "content_hash": "32c07aeeb8f49694dd407080eab757c905dc4395871b52edd46a113208064a03",
+    "accessed_at": "2026-08-15",
+    "verification_status": "metadata_content_and_version_machine_verified_human_review_pending",
+    "source_depth": "deeply_analyzed",
+    "publication_status": "staging_only",
+    "workflow_status": "content_reviewed",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.nist.gov/publications/summary-analysis-responses-request-information-regarding-security-considerations-ai",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official source retrieval and machine-assisted review",
+        "exact_locator": "official HTML publication page accessed 2026-08-15",
+        "content_hash": "32c07aeeb8f49694dd407080eab757c905dc4395871b52edd46a113208064a03",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "source_id": "source-BATCH-2026-005-002",
+    "canonical_title": "Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile",
+    "alternate_titles": [],
+    "source_type": "public_policy_document",
+    "series_or_parent_source": "NIST AI 600-1",
+    "publisher": "National Institute of Standards and Technology",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [],
+    "institutional_author": "National Institute of Standards and Technology",
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": null,
+    "updated_at": null,
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [],
+    "geography_discussed": [
+      "United States",
+      "cross-sectoral global applicability"
+    ],
+    "study_geography": [
+      "United States",
+      "cross-sectoral global applicability"
+    ],
+    "original_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "canonical_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": "10.6028/NIST.AI.600-1",
+    "canonical_identity_status": "verified",
+    "repost_status": "original_or_authoritative_rendition",
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": "none_identified; Executive AI Research snapshot contains no matching production records",
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [],
+    "analysis_basis": "Complete official 64-page PDF reviewed; governance action tables and Appendix A limitation text visually inspected.",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "original_abstract": null,
+    "inclusion_rationale": "Accepted discovery candidate candidate-BATCH-2026-001-007; contributes government standards profile evidence or normative context to governed AI-agent identity.",
+    "source_quality_dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "moderate_for_consensus_process",
+      "independence": "government_publisher",
+      "bibliographic_stability": "high_doi_resolved",
+      "evidence_strength": "strong_normative_reference_not_empirical_outcome_evidence",
+      "unresolved": "PDF metadata shows a 2025 modification date without a visible new edition statement."
+    },
+    "methodology_quality": {
+      "design": "non-empirical cross-sectoral risk-management profile informed by multistakeholder public working-group feedback and public comments",
+      "transparency": "moderate_for_consensus_process",
+      "human_review_required": true
+    },
+    "study_design": "non-empirical cross-sectoral risk-management profile informed by multistakeholder public working-group feedback and public comments",
+    "sample": {
+      "size": "not applicable for a normative profile; contributor and commenter counts not reported",
+      "sampling_method": "open multistakeholder process; selection details not reported"
+    },
+    "population": "organizations designing, developing, deploying, or using generative AI",
+    "date_range": {
+      "fieldwork": "not reported",
+      "version": "July 2024; Editorial Review Board approval 2024-07-25; retrieved PDF SHA-256 recorded"
+    },
+    "funding": "U.S. Department of Commerce/NIST publication; separate research funding not reported",
+    "sponsor": "National Institute of Standards and Technology",
+    "peer_review_status": "NIST Editorial Review Board; not a peer-reviewed academic study",
+    "findings": [
+      "The profile organizes suggested actions across governance, mapping, measurement, and management functions.",
+      "It explicitly warns that pre-deployment tests and benchmark results may not generalize to real-world contexts."
+    ],
+    "limitations": [
+      "No quantitative sample or outcome evaluation.",
+      "Public-input synthesis method and denominator are not disclosed."
+    ],
+    "correction_ids": [],
+    "retraction_status": "none_identified_in_pdf_or_official_doi_resolution_as_of_2026-08-15",
+    "content_hash": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+    "accessed_at": "2026-08-15",
+    "verification_status": "metadata_content_and_version_machine_verified_human_review_pending",
+    "source_depth": "deeply_analyzed",
+    "publication_status": "staging_only",
+    "workflow_status": "content_reviewed",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.600-1.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official source retrieval and machine-assisted review",
+        "exact_locator": "July 2024; Editorial Review Board approval 2024-07-25; retrieved PDF SHA-256 recorded",
+        "content_hash": "6e73620ab6b64e90ef2c04bf0e0d6246185a2f4b1b13cab0df494496cff89b6a",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "source_id": "source-BATCH-2026-005-003",
+    "canonical_title": "AI Agent Authentication and Authorization",
+    "alternate_titles": [],
+    "source_type": "working_paper",
+    "series_or_parent_source": "draft-klrc-aiagent-auth-02",
+    "publisher": "Internet Engineering Task Force",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-005-pieter-kasselman",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-yaron-rosomakho",
+      "person-BATCH-2026-005-brian-campbell",
+      "person-BATCH-2026-005-nick-steele",
+      "person-BATCH-2026-005-aaron-parecki"
+    ],
+    "institutional_author": "IETF Internet-Draft authors",
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": "2026-06-01",
+    "updated_at": null,
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [],
+    "geography_discussed": [
+      "global standards context"
+    ],
+    "study_geography": [
+      "global standards context"
+    ],
+    "original_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+    "canonical_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": null,
+    "canonical_identity_status": "verified",
+    "repost_status": "original_or_authoritative_rendition",
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": "none_identified; Executive AI Research snapshot contains no matching production records",
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [],
+    "analysis_basis": "Complete official IETF HTML rendition reviewed with stable section and paragraph locators.",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "original_abstract": null,
+    "inclusion_rationale": "Accepted discovery candidate candidate-BATCH-2026-001-009; contributes standards document; Internet-Draft evidence or normative context to governed AI-agent identity.",
+    "source_quality_dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "not_applicable_non_empirical",
+      "independence": "multi_vendor_author_group",
+      "bibliographic_stability": "medium_due_to_expiring_draft",
+      "evidence_strength": "strong_for_current_proposal_weak_for_interoperability_outcomes",
+      "unresolved": "Future revisions may change normative language or identifier choices."
+    },
+    "methodology_quality": {
+      "design": "non-empirical technical standards proposal",
+      "transparency": "not_applicable_non_empirical",
+      "human_review_required": true
+    },
+    "study_design": "non-empirical technical standards proposal",
+    "sample": {
+      "size": "not applicable",
+      "sampling_method": "not applicable"
+    },
+    "population": "AI-agent workloads and the tools, services, models, systems, and users that interact with them",
+    "date_range": {
+      "fieldwork": "not applicable",
+      "version": "revision 02; expires 2026-12-03"
+    },
+    "funding": "not reported",
+    "sponsor": "not reported",
+    "peer_review_status": "working document; not an RFC and not peer reviewed",
+    "findings": [
+      "The draft models an agent as a workload that requires a stable identifier and cryptographically bound credentials.",
+      "It proposes preserving user or system delegation context in authorization decisions and audit trails."
+    ],
+    "limitations": [
+      "Revision 02 is an expiring work in progress.",
+      "No interoperability tests or deployment outcomes are reported."
+    ],
+    "correction_ids": [],
+    "retraction_status": "active_work_in_progress_not_retracted_as_of_2026-08-15",
+    "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+    "accessed_at": "2026-08-15",
+    "verification_status": "metadata_content_and_version_machine_verified_human_review_pending",
+    "source_depth": "deeply_analyzed",
+    "publication_status": "staging_only",
+    "workflow_status": "content_reviewed",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://www.ietf.org/archive/id/draft-klrc-aiagent-auth-02.html",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official source retrieval and machine-assisted review",
+        "exact_locator": "revision 02; expires 2026-12-03",
+        "content_hash": "e34f335c56546a6d91d88d43159c9f80d4dcfbbad020d41c31607fc56848befa",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "source_id": "source-BATCH-2026-005-004",
+    "canonical_title": "Identity Management for Agentic AI",
+    "alternate_titles": [],
+    "source_type": "research_report",
+    "series_or_parent_source": "official OpenID Foundation PDF",
+    "publisher": "OpenID Foundation",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-005-tobin-south",
+      "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+      "person-BATCH-2026-005-ayesha-dissanayaka",
+      "person-BATCH-2026-005-sarah-cecchetti",
+      "person-BATCH-2026-005-george-fletcher",
+      "person-BATCH-2026-005-victor-lu",
+      "person-BATCH-2026-005-aldo-pietropaolo",
+      "person-BATCH-2026-005-dean-h-saxe",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-abhishek-shivalingaiah",
+      "person-BATCH-2026-005-stan-bounev",
+      "person-BATCH-2026-005-alex-keisner",
+      "person-BATCH-2026-005-andor-kesselman",
+      "person-BATCH-2026-005-zack-proser",
+      "person-BATCH-2026-005-ginny-fahs",
+      "person-BATCH-2026-005-andrew-bunyea",
+      "person-BATCH-2026-005-ben-moskowitz",
+      "person-BATCH-2026-005-atul-tulshibagwale",
+      "person-BATCH-2026-005-dazza-greenwood",
+      "person-BATCH-2026-005-jiaxin-pei",
+      "person-BATCH-2026-005-alex-pentland"
+    ],
+    "institutional_author": "OpenID Foundation",
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": null,
+    "updated_at": null,
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [],
+    "geography_discussed": [
+      "global technology standards context"
+    ],
+    "study_geography": [
+      "global technology standards context"
+    ],
+    "original_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+    "canonical_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": null,
+    "canonical_identity_status": "verified",
+    "repost_status": "original_or_authoritative_rendition",
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": "none_identified; Executive AI Research snapshot contains no matching production records",
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [],
+    "analysis_basis": "Complete official 33-page PDF reviewed; identity, delegation, auditability, and use-case sections inspected visually.",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "original_abstract": null,
+    "inclusion_rationale": "Accepted discovery candidate candidate-BATCH-2026-001-027; contributes nonprofit/company white paper evidence or normative context to governed AI-agent identity.",
+    "source_quality_dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "appropriate_for_white_paper_but_source_selection_not_reported",
+      "independence": "standards_community_publisher",
+      "bibliographic_stability": "high_official_pdf",
+      "evidence_strength": "moderate_normative_synthesis_not_empirical",
+      "unresolved": "Substantially the same intellectual work appears as arXiv:2510.25819v1."
+    },
+    "methodology_quality": {
+      "design": "non-empirical technical white paper and standards synthesis",
+      "transparency": "appropriate_for_white_paper_but_source_selection_not_reported",
+      "human_review_required": true
+    },
+    "study_design": "non-empirical technical white paper and standards synthesis",
+    "sample": {
+      "size": "not applicable",
+      "sampling_method": "not applicable"
+    },
+    "population": "AI-agent systems interacting with protected resources and other agents",
+    "date_range": {
+      "fieldwork": "not applicable",
+      "version": "October 2025"
+    },
+    "funding": "not reported",
+    "sponsor": "OpenID Foundation publisher; separate sponsorship not reported",
+    "peer_review_status": "not reported; not treated as peer reviewed",
+    "findings": [
+      "The authors argue that current mechanisms are strongest for synchronous, single-trust-domain patterns and weaker for cross-domain or recursive delegation.",
+      "The paper distinguishes agent identity from user identity and calls for lifecycle management and enriched audit trails."
+    ],
+    "limitations": [
+      "No implementation benchmark or comparative test.",
+      "Formal source-selection, funding, conflicts, and review process are not reported."
+    ],
+    "correction_ids": [],
+    "retraction_status": "none_identified_on_official_pdf_or_publisher_url_as_of_2026-08-15",
+    "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+    "accessed_at": "2026-08-15",
+    "verification_status": "metadata_content_and_version_machine_verified_human_review_pending",
+    "source_depth": "deeply_analyzed",
+    "publication_status": "staging_only",
+    "workflow_status": "content_reviewed",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official source retrieval and machine-assisted review",
+        "exact_locator": "October 2025",
+        "content_hash": "e6a0e5909fcb2486568180f69d511ae2af8d20a1bfb3028b39b3d1072846f4f3",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "source_id": "source-BATCH-2026-005-005",
+    "canonical_title": "Identity Management for Agentic AI: The new frontier of authorization, authentication, and security for an AI agent world",
+    "alternate_titles": [],
+    "source_type": "academic_paper",
+    "series_or_parent_source": "arXiv:2510.25819v1",
+    "publisher": "arXiv",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-005-tobin-south",
+      "person-BATCH-2026-005-subramanya-nagabhushanaradhya",
+      "person-BATCH-2026-005-ayesha-dissanayaka",
+      "person-BATCH-2026-005-sarah-cecchetti",
+      "person-BATCH-2026-005-george-fletcher",
+      "person-BATCH-2026-005-victor-lu",
+      "person-BATCH-2026-005-aldo-pietropaolo",
+      "person-BATCH-2026-005-dean-h-saxe",
+      "person-BATCH-2026-005-jeff-lombardo",
+      "person-BATCH-2026-005-abhishek-shivalingaiah",
+      "person-BATCH-2026-005-stan-bounev",
+      "person-BATCH-2026-005-alex-keisner",
+      "person-BATCH-2026-005-andor-kesselman",
+      "person-BATCH-2026-005-zack-proser",
+      "person-BATCH-2026-005-ginny-fahs",
+      "person-BATCH-2026-005-andrew-bunyea",
+      "person-BATCH-2026-005-ben-moskowitz",
+      "person-BATCH-2026-005-atul-tulshibagwale",
+      "person-BATCH-2026-005-dazza-greenwood",
+      "person-BATCH-2026-005-jiaxin-pei",
+      "person-BATCH-2026-005-alex-pentland"
+    ],
+    "institutional_author": null,
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": "2025-10-29",
+    "updated_at": null,
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [],
+    "geography_discussed": [
+      "global technology standards context"
+    ],
+    "study_geography": [
+      "global technology standards context"
+    ],
+    "original_url": "https://arxiv.org/abs/2510.25819",
+    "canonical_url": "https://arxiv.org/abs/2510.25819",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": "10.48550/arXiv.2510.25819",
+    "canonical_identity_status": "verified",
+    "repost_status": "original_or_authoritative_rendition",
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": "none_identified; Executive AI Research snapshot contains no matching production records",
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [],
+    "analysis_basis": "Complete arXiv v1 PDF reviewed and compared with the OpenID rendition; the content is substantially the same intellectual work with rendition-level differences.",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "original_abstract": null,
+    "inclusion_rationale": "Accepted discovery candidate candidate-BATCH-2026-001-045; contributes preprint evidence or normative context to governed AI-agent identity.",
+    "source_quality_dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "appropriate_for_preprint_synthesis",
+      "independence": "multi_author_preprint",
+      "bibliographic_stability": "high_arxiv_doi_resolved",
+      "evidence_strength": "moderate_normative_synthesis_not_empirical",
+      "unresolved": "Treat as a related rendition, not an independent evidentiary replication of the OpenID report."
+    },
+    "methodology_quality": {
+      "design": "non-empirical technical preprint and standards synthesis",
+      "transparency": "appropriate_for_preprint_synthesis",
+      "human_review_required": true
+    },
+    "study_design": "non-empirical technical preprint and standards synthesis",
+    "sample": {
+      "size": "not applicable",
+      "sampling_method": "not applicable"
+    },
+    "population": "AI-agent systems",
+    "date_range": {
+      "fieldwork": "not applicable",
+      "version": "v1 submitted 2025-10-29"
+    },
+    "funding": "not reported",
+    "sponsor": "not reported",
+    "peer_review_status": "not peer reviewed; preprint",
+    "findings": [
+      "The same identity, delegation, auditability, and lifecycle claims appear in this rendition."
+    ],
+    "limitations": [
+      "Preprint, not peer reviewed.",
+      "Not independent evidence from the OpenID rendition."
+    ],
+    "correction_ids": [],
+    "retraction_status": "none_identified_on_arxiv_version_history_as_of_2026-08-15",
+    "content_hash": "b019c9420565afe6a3f81fcd8e9b3375f546003cecab93ecfa25d965b2f68bb2",
+    "accessed_at": "2026-08-15",
+    "verification_status": "metadata_content_and_version_machine_verified_human_review_pending",
+    "source_depth": "deeply_analyzed",
+    "publication_status": "staging_only",
+    "workflow_status": "content_reviewed",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2510.25819",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official source retrieval and machine-assisted review",
+        "exact_locator": "v1 submitted 2025-10-29",
+        "content_hash": "b019c9420565afe6a3f81fcd8e9b3375f546003cecab93ecfa25d965b2f68bb2",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "source_id": "source-BATCH-2026-005-006",
+    "canonical_title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+    "alternate_titles": [],
+    "source_type": "academic_paper",
+    "series_or_parent_source": "arXiv:2406.13352v3; NeurIPS 2024 proceedings record",
+    "publisher": "NeurIPS 2024 Datasets and Benchmarks Track",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-005-edoardo-debenedetti",
+      "person-BATCH-2026-005-jie-zhang",
+      "person-BATCH-2026-005-mislav-balunovic",
+      "person-BATCH-2026-005-luca-beurer-kellner",
+      "person-BATCH-2026-005-marc-fischer",
+      "person-BATCH-2026-005-florian-tramer"
+    ],
+    "institutional_author": null,
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": "2024-06-19",
+    "updated_at": "2024-11-24",
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [],
+    "geography_discussed": [
+      "synthetic environments; no human geography"
+    ],
+    "study_geography": [
+      "synthetic environments; no human geography"
+    ],
+    "original_url": "https://arxiv.org/abs/2406.13352",
+    "canonical_url": "https://arxiv.org/abs/2406.13352",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": "10.48550/arXiv.2406.13352",
+    "canonical_identity_status": "verified",
+    "repost_status": "original_or_authoritative_rendition",
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": "none_identified; Executive AI Research snapshot contains no matching production records",
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [],
+    "analysis_basis": "Complete 26-page v3 conference paper reviewed; benchmark composition, figures, Tables 1 and 3-5, confidence intervals, limitations, and funding inspected visually.",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "original_abstract": null,
+    "inclusion_rationale": "Accepted discovery candidate candidate-BATCH-2026-001-050; contributes peer-reviewed conference paper evidence or normative context to governed AI-agent identity.",
+    "source_quality_dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "high",
+      "independence": "academic_with_disclosed_industry_affiliations",
+      "bibliographic_stability": "high_arxiv_and_neurips_records",
+      "evidence_strength": "strong_for_benchmark_conditions_not_real_world_incidence",
+      "unresolved": "Confidence-interval construction and raw row numerators are not stated in the reviewed tables."
+    },
+    "methodology_quality": {
+      "design": "controlled benchmark experiments in stateful synthetic tool environments",
+      "transparency": "high",
+      "human_review_required": true
+    },
+    "study_design": "controlled benchmark experiments in stateful synthetic tool environments",
+    "sample": {
+      "size": "97 user tasks; 27 injection tasks; 629 security test cases; seven listed agent/model configurations in Table 3",
+      "sampling_method": "researcher-curated realistic tasks and synthetic data; compatible task cross-product"
+    },
+    "population": "LLM agents executing tools over simulated workspace, Slack, travel, and banking environments",
+    "date_range": {
+      "fieldwork": "not reported; v3 results reflect the paper's 2024 model/API versions",
+      "version": "v3; updated after a Llama implementation bug fix and travel-suite update"
+    },
+    "funding": "Edoardo Debenedetti supported by armasuisse Science and Technology; Jie Zhang funded by Swiss National Science Foundation grant 214838; benchmark funding statement says no institution explicitly funded benchmark creation",
+    "sponsor": "no benchmark sponsor reported",
+    "peer_review_status": "verified conference publication in official NeurIPS 2024 proceedings",
+    "findings": [
+      "The benchmark exposes substantial utility and security tradeoffs.",
+      "Table 5 reports targeted attack success of 57.69% with no defense and 6.84% with tool filtering for the listed GPT-4o setup, with reported intervals."
+    ],
+    "limitations": [
+      "Synthetic environments and versioned APIs limit external validity.",
+      "Raw numerators and interval-construction method are not reported in the reviewed table.",
+      "v3 replaced earlier results after a bug fix and travel-suite update."
+    ],
+    "correction_ids": [
+      "correction-BATCH-2026-005-001"
+    ],
+    "retraction_status": "no_retraction_identified;_v3_documents_bug_fix_update",
+    "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+    "accessed_at": "2026-08-15",
+    "verification_status": "metadata_content_and_version_machine_verified_human_review_pending",
+    "source_depth": "deeply_analyzed",
+    "publication_status": "staging_only",
+    "workflow_status": "content_reviewed",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2406.13352",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official source retrieval and machine-assisted review",
+        "exact_locator": "v3; updated after a Llama implementation bug fix and travel-suite update",
+        "content_hash": "349884fffbf43282591c5accffd57bb651632f38e412fe303114941bdd111b05",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "source_id": "source-BATCH-2026-005-007",
+    "canonical_title": "Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents",
+    "alternate_titles": [],
+    "source_type": "academic_paper",
+    "series_or_parent_source": "arXiv:2410.02644v4",
+    "publisher": "ICLR 2025 / arXiv",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-005-hanrong-zhang",
+      "person-BATCH-2026-005-jingyuan-huang",
+      "person-BATCH-2026-005-kai-mei",
+      "person-BATCH-2026-005-yifei-yao",
+      "person-BATCH-2026-005-zhenting-wang",
+      "person-BATCH-2026-005-chenlu-zhan",
+      "person-BATCH-2026-005-hongwei-wang",
+      "person-BATCH-2026-005-yongfeng-zhang"
+    ],
+    "institutional_author": null,
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": "2024-10-03",
+    "updated_at": "2025-05-30",
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [],
+    "geography_discussed": [
+      "synthetic benchmark; no human geography"
+    ],
+    "study_geography": [
+      "synthetic benchmark; no human geography"
+    ],
+    "original_url": "https://arxiv.org/abs/2410.02644",
+    "canonical_url": "https://arxiv.org/abs/2410.02644",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": "10.48550/arXiv.2410.02644",
+    "canonical_identity_status": "verified",
+    "repost_status": "original_or_authoritative_rendition",
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": "none_identified; Executive AI Research snapshot contains no matching production records",
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [],
+    "analysis_basis": "Complete 36-page v4 paper reviewed; attack/defense definitions, scenario tables, metric table, result tables, and reproducibility appendix inspected visually.",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "original_abstract": null,
+    "inclusion_rationale": "Accepted discovery candidate candidate-BATCH-2026-001-054; contributes conference paper; acceptance marker verified in version, venue record not independently retrieved evidence or normative context to governed AI-agent identity.",
+    "source_quality_dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "high_for_benchmark_structure",
+      "independence": "academic",
+      "bibliographic_stability": "high_arxiv_doi_resolved",
+      "evidence_strength": "moderate_to_strong_for_benchmark_conditions",
+      "unresolved": "Venue acceptance is author/arXiv-reported; OpenReview verification was unavailable in this run. Headline average lacks uncertainty and a compact denominator statement."
+    },
+    "methodology_quality": {
+      "design": "multi-scenario controlled security benchmark",
+      "transparency": "high_for_benchmark_structure",
+      "human_review_required": true
+    },
+    "study_design": "multi-scenario controlled security benchmark",
+    "sample": {
+      "size": "400 tasks; 10 scenarios; 10 agents; more than 400 tools; 27 attack/defense methods; 13 LLM backbones",
+      "sampling_method": "researcher-constructed scenarios, tasks, tools, and attacks; selection procedure not probabilistic"
+    },
+    "population": "LLM-agent configurations under synthetic attacks and defenses",
+    "date_range": {
+      "fieldwork": "not reported; model versions correspond to experiments before v4 dated 2025-05-30",
+      "version": "v4; paper and arXiv page state accepted at ICLR 2025"
+    },
+    "funding": "not reported",
+    "sponsor": "not reported",
+    "peer_review_status": "conference acceptance reported in the paper and arXiv metadata; independent OpenReview record retrieval returned access denied, so peer-review verification remains qualified",
+    "findings": [
+      "The authors report a highest average attack success rate of 84.30% for a benchmark configuration.",
+      "Current defenses vary and often trade security against task performance."
+    ],
+    "limitations": [
+      "No production population or human sample.",
+      "The headline average does not disclose a raw numerator or confidence interval.",
+      "Funding and conflicts are not reported."
+    ],
+    "correction_ids": [],
+    "retraction_status": "none_identified_on_arxiv_version_history_as_of_2026-08-15",
+    "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+    "accessed_at": "2026-08-15",
+    "verification_status": "metadata_content_and_version_machine_verified_human_review_pending",
+    "source_depth": "deeply_analyzed",
+    "publication_status": "staging_only",
+    "workflow_status": "content_reviewed",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2410.02644",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official source retrieval and machine-assisted review",
+        "exact_locator": "v4; paper and arXiv page state accepted at ICLR 2025",
+        "content_hash": "e20155df01b3a1f6c0a947c4e9e4871957cff2e507939f7ea21a5fe967d84504",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "source_id": "source-BATCH-2026-005-008",
+    "canonical_title": "Teams of LLM Agents can Exploit Zero-Day Vulnerabilities",
+    "alternate_titles": [],
+    "source_type": "academic_paper",
+    "series_or_parent_source": "arXiv:2406.01637v2",
+    "publisher": "arXiv",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-005-yuxuan-zhu",
+      "person-BATCH-2026-005-antony-kellermann",
+      "person-BATCH-2026-005-akul-gupta",
+      "person-BATCH-2026-005-philip-li",
+      "person-BATCH-2026-005-richard-fang",
+      "person-BATCH-2026-005-rohan-bindu",
+      "person-BATCH-2026-005-daniel-kang"
+    ],
+    "institutional_author": null,
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": "2024-06-02",
+    "updated_at": "2025-03-30",
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [],
+    "geography_discussed": [
+      "synthetic sandbox; no human geography"
+    ],
+    "study_geography": [
+      "synthetic sandbox; no human geography"
+    ],
+    "original_url": "https://arxiv.org/abs/2406.01637",
+    "canonical_url": "https://arxiv.org/abs/2406.01637",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": "10.48550/arXiv.2406.01637",
+    "canonical_identity_status": "verified",
+    "repost_status": "original_or_authoritative_rendition",
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": "none_identified; Executive AI Research snapshot contains no matching production records",
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [],
+    "analysis_basis": "Complete 10-page v2 preprint reviewed; Tables 1-2, Figures 2-3, methods, results, and limitation text inspected visually.",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "original_abstract": null,
+    "inclusion_rationale": "Accepted discovery candidate candidate-BATCH-2026-001-058; contributes preprint evidence or normative context to governed AI-agent identity.",
+    "source_quality_dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "moderate",
+      "independence": "academic_with_platform_coordination_disclosed",
+      "bibliographic_stability": "high_arxiv_doi_resolved",
+      "evidence_strength": "moderate_for_selected_sandbox_cases",
+      "unresolved": "Nonrelease of code/prompts limits replication; funding and conflict disclosures are absent."
+    },
+    "methodology_quality": {
+      "design": "controlled cybersecurity benchmark experiment in sandboxed reproductions",
+      "transparency": "moderate",
+      "human_review_required": true
+    },
+    "study_design": "controlled cybersecurity benchmark experiment in sandboxed reproductions",
+    "sample": {
+      "size": "14 vulnerabilities; pass@1 and pass@5 trials; exact total run count not summarized",
+      "sampling_method": "purposive selection of recent, reproducible web vulnerabilities with clear success triggers and manual exploitability"
+    },
+    "population": "reproducible open-source web vulnerabilities; not all vulnerabilities or deployed systems",
+    "date_range": {
+      "fieldwork": "not reported",
+      "version": "v2 submitted 2025-03-30"
+    },
+    "funding": "not reported",
+    "sponsor": "not reported; authors state OpenAI requested code and prompts remain confidential",
+    "peer_review_status": "not peer reviewed; preprint",
+    "findings": [
+      "The authors report 42% pass@5 and 18% pass@1 for HPTSA with GPT-4 on the 14-vulnerability benchmark.",
+      "Open-source scanners and listed open-source models report 0% on this benchmark."
+    ],
+    "limitations": [
+      "Only 14 selected web vulnerabilities.",
+      "No confidence intervals.",
+      "Code and prompts are withheld, limiting replication.",
+      "Results are capability demonstrations, not estimates of incident prevalence."
+    ],
+    "correction_ids": [],
+    "retraction_status": "none_identified_on_arxiv_version_history_as_of_2026-08-15",
+    "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+    "accessed_at": "2026-08-15",
+    "verification_status": "metadata_content_and_version_machine_verified_human_review_pending",
+    "source_depth": "deeply_analyzed",
+    "publication_status": "staging_only",
+    "workflow_status": "content_reviewed",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://arxiv.org/abs/2406.01637",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official source retrieval and machine-assisted review",
+        "exact_locator": "v2 submitted 2025-03-30",
+        "content_hash": "f4fc06040f0856d99d2009042b4c6fa0c01206da8ca61cb39a94d52b9867cf71",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  },
+  {
+    "source_id": "source-BATCH-2026-005-009",
+    "canonical_title": "Practices for Governing Agentic AI Systems",
+    "alternate_titles": [],
+    "source_type": "research_report",
+    "series_or_parent_source": "official OpenAI PDF",
+    "publisher": "OpenAI",
+    "channel": null,
+    "speaker_ids": [],
+    "author_ids": [
+      "person-BATCH-2026-005-yonadav-shavit",
+      "person-BATCH-2026-005-sandhini-agarwal",
+      "person-BATCH-2026-005-miles-brundage",
+      "person-BATCH-2026-005-steven-adler",
+      "person-BATCH-2026-005-cullen-o-keefe",
+      "person-BATCH-2026-005-rosie-campbell",
+      "person-BATCH-2026-005-teddy-lee",
+      "person-BATCH-2026-005-pamela-mishkin",
+      "person-BATCH-2026-005-tyna-eloundou",
+      "person-BATCH-2026-005-alan-hickey",
+      "person-BATCH-2026-005-katarina-slama",
+      "person-BATCH-2026-005-lama-ahmad",
+      "person-BATCH-2026-005-paul-mcmillan",
+      "person-BATCH-2026-005-alex-beutel",
+      "person-BATCH-2026-005-alexandre-passos",
+      "person-BATCH-2026-005-david-g-robinson"
+    ],
+    "institutional_author": null,
+    "organization_references": [],
+    "recorded_at": null,
+    "event_date": null,
+    "published_at": null,
+    "updated_at": null,
+    "duration_seconds": null,
+    "language": "lang-en",
+    "translated_title": null,
+    "translation_method": null,
+    "geography_of_speaker": [],
+    "geography_of_organization": [],
+    "geography_discussed": [
+      "global policy context"
+    ],
+    "study_geography": [
+      "global policy context"
+    ],
+    "original_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+    "canonical_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+    "archived_url": null,
+    "embed_url": null,
+    "doi": null,
+    "canonical_identity_status": "verified",
+    "repost_status": "original_or_authoritative_rendition",
+    "original_source_id": null,
+    "rights_status": "link_and_paraphrase",
+    "ownership_status": "third_party",
+    "relationship_to_off": "none_identified; Executive AI Research snapshot contains no matching production records",
+    "transcript_status": null,
+    "transcript_source": null,
+    "transcript_republication_permission": null,
+    "chapter_markers": [],
+    "analysis_basis": "Complete official 23-page PDF reviewed; definition, accountability, monitoring, attribution, interruptibility, indirect impacts, and acknowledgements inspected visually.",
+    "topics": [
+      "topic-ai-agents",
+      "topic-ai-governance",
+      "topic-cybersecurity",
+      "topic-non-human-identity"
+    ],
+    "executive_roles": [
+      "role-ciso",
+      "role-cio",
+      "role-cto",
+      "role-general-counsel",
+      "role-board-director"
+    ],
+    "original_abstract": null,
+    "inclusion_rationale": "Accepted discovery candidate candidate-BATCH-2026-001-085; contributes company white paper and policy analysis evidence or normative context to governed AI-agent identity.",
+    "source_quality_dimensions": {
+      "attribution_strength": "high",
+      "methodological_transparency": "appropriate_for_policy_analysis",
+      "independence": "company_published",
+      "bibliographic_stability": "high_official_pdf",
+      "evidence_strength": "moderate_normative_policy_analysis_not_empirical",
+      "unresolved": "Publication day, funding, affiliations, conflicts, and external review status are not reported in the PDF."
+    },
+    "methodology_quality": {
+      "design": "non-empirical company white paper and policy analysis",
+      "transparency": "appropriate_for_policy_analysis",
+      "human_review_required": true
+    },
+    "study_design": "non-empirical company white paper and policy analysis",
+    "sample": {
+      "size": "not applicable",
+      "sampling_method": "not applicable"
+    },
+    "population": "model developers, system deployers, users, and third parties in agentic-system lifecycles",
+    "date_range": {
+      "fieldwork": "not applicable",
+      "version": "2023; PDF metadata created 2023-12-18"
+    },
+    "funding": "not reported",
+    "sponsor": "OpenAI publisher; separate sponsor involvement not reported",
+    "peer_review_status": "not reported; not treated as peer reviewed",
+    "findings": [
+      "The authors propose evaluation, action-space constraints, default behaviors, legibility, monitoring, attributability, and interruptibility as building blocks.",
+      "They argue that at least one human legal entity should remain accountable for uncompensated direct harm."
+    ],
+    "limitations": [
+      "No empirical outcome evaluation.",
+      "Company-published and funding/conflicts are not reported.",
+      "Many recommendations are explicitly preliminary."
+    ],
+    "correction_ids": [],
+    "retraction_status": "none_identified_on_official_pdf_url_as_of_2026-08-15",
+    "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+    "accessed_at": "2026-08-15",
+    "verification_status": "metadata_content_and_version_machine_verified_human_review_pending",
+    "source_depth": "deeply_analyzed",
+    "publication_status": "staging_only",
+    "workflow_status": "content_reviewed",
+    "machine_review_status": "machine_checked",
+    "human_review_status": "pending",
+    "reviewed_by": null,
+    "reviewed_at": null,
+    "provenance": [
+      {
+        "source_url": "https://cdn.openai.com/papers/practices-for-governing-agentic-ai-systems.pdf",
+        "accessed_at": "2026-08-15",
+        "retrieval_method": "official source retrieval and machine-assisted review",
+        "exact_locator": "2023; PDF metadata created 2023-12-18",
+        "content_hash": "22b3a8607ed781a848b82b0bfe8e638b16cd027aac90a19b2aecf236063d0e7c",
+        "batch_id": "BATCH-2026-005",
+        "prompt_id": "OEII-EVIDENCE-RESEARCH",
+        "prompt_version": "2.0",
+        "notes": "Human review pending."
+      }
+    ],
+    "revision_history": []
+  }
+]

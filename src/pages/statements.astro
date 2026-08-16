@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ExplorePage from '../components/ExplorePage.astro';
+import { loadCatalog, publicRecords } from '../lib/catalog';
+const catalog = loadCatalog();
+---
+<BaseLayout title="Source statements" description="Attributed, precisely located, neutrally paraphrased statements separated from propositions and synthesis.">
+  <ExplorePage path="statements" eyebrow="Layer one" title="Source statements" noun="source statements" description="Each statement identifies who or which institution expressed it, the source date, role at source time, statement type, exact locator, evidence character, scope, and review state." records={publicRecords(catalog.statements ?? [])} filters={['Topic','Role','Geography','Source type','Publication period']} />
+</BaseLayout>

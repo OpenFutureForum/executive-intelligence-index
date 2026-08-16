@@ -1,0 +1,59 @@
+---
+import { primaryNavigation, policyNavigation } from '../config/navigation';
+import '../styles/global.css';
+
+interface Props { title: string; description: string; type?: string; }
+const { title, description, type = 'WebSite' } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+const pageTitle = title === 'Open Executive Intelligence Index' ? title : `${title} | Open Executive Intelligence Index`;
+const structured = {
+  '@context': 'https://schema.org',
+  '@type': type,
+  name: title,
+  description,
+  url: canonical.toString(),
+  isPartOf: { '@type': 'Dataset', name: 'Open Executive Intelligence Index', url: new URL('/executive-intelligence-index/', Astro.site).toString() },
+  publisher: { '@type': 'Organization', name: 'Open Future Forum', url: 'https://openfutureforum.com/' }
+};
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="canonical" href={canonical} />
+    <link rel="alternate" type="application/atom+xml" title="Open Executive Intelligence Index updates" href="/executive-intelligence-index/feed.xml" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content={type} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:image" content="https://openfutureforum.github.io/executive-intelligence-index/social-preview.svg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script is:inline type="application/ld+json" set:html={JSON.stringify(structured)} />
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="brand"><a href="/executive-intelligence-index/">Open Future Forum <span>Intelligence Index</span></a></div>
+      <nav aria-label="Primary navigation">
+        {primaryNavigation.map(([label, href]) => <a href={`/executive-intelligence-index${href}`}>{label}</a>)}
+      </nav>
+    </header>
+    <main id="main"><slot /></main>
+    <footer>
+      <div><strong>Open Executive Intelligence Index</strong><p>A cited map of executive ideas, evidence, and sources.</p></div>
+      <nav aria-label="Policies">{policyNavigation.map(([label, href]) => <a href={`/executive-intelligence-index${href}`}>{label}</a>)}</nav>
+      <p>Published by <a href="https://openfutureforum.com/">Open Future Forum</a>. Inclusion does not imply endorsement.</p>
+    </footer>
+    <script is:inline>
+      document.addEventListener('click', (event) => {
+        const target = event.target.closest('[data-event]');
+        if (!target) return;
+        window.dispatchEvent(new CustomEvent('oeii:analytics', { detail: { name: target.dataset.event, value: target.dataset.eventValue || '' } }));
+      });
+    </script>
+  </body>
+</html>

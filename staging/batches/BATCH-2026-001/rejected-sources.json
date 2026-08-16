@@ -1,0 +1,575 @@
+[
+  {
+    "candidate_id": "candidate-BATCH-2026-001-111",
+    "title": "Concept paper PDF rendition: Accelerating the Adoption of Software and AI Agent Identity and Authorization",
+    "source_type": "public_policy_document",
+    "work_or_episode_identity": "Concept paper PDF rendition: Accelerating the Adoption of Software and AI Agent Identity and Authorization",
+    "author_or_speaker": "NIST NCCoE",
+    "publisher": "NIST NCCoE",
+    "publication_date": "2026-02",
+    "event_date": null,
+    "original_url": "https://www.nccoe.nist.gov/sites/default/files/2026-02/accelerating-the-adoption-of-software-and-ai-agent-identity-and-authorization-concept-paper.pdf",
+    "canonical_url": "https://www.nccoe.nist.gov/sites/default/files/2026-02/accelerating-the-adoption-of-software-and-ai-agent-identity-and-authorization-concept-paper.pdf",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "United States",
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cto"
+    ],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "high",
+    "evidence_contribution": "Exact rendition duplicate of the accepted NIST concept-paper work.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": true,
+    "existing_related_records": [
+      "See duplicate-review.json for the retained candidate identity."
+    ],
+    "decision": "reject",
+    "reason": "Exact rendition duplicate of the accepted NIST concept-paper work.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-112",
+    "title": "State of Agentic AI Security and Governance direct download",
+    "source_type": "research_report",
+    "work_or_episode_identity": "State of Agentic AI Security and Governance direct download",
+    "author_or_speaker": "OWASP GenAI Security Project",
+    "publisher": "OWASP GenAI Security Project",
+    "publication_date": "2026-06",
+    "event_date": null,
+    "original_url": "https://genai.owasp.org/download/50592/?tmstv=1754459367",
+    "canonical_url": "https://genai.owasp.org/download/50592/?tmstv=1754459367",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cto"
+    ],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "moderate",
+    "evidence_contribution": "Direct-download duplicate of the accepted canonical report landing page.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": true,
+    "existing_related_records": [
+      "See duplicate-review.json for the retained candidate identity."
+    ],
+    "decision": "reject",
+    "reason": "Direct-download duplicate of the accepted canonical report landing page.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-113",
+    "title": "Multi-Agentic System Threat Modeling Guide direct download",
+    "source_type": "research_report",
+    "work_or_episode_identity": "Multi-Agentic System Threat Modeling Guide direct download",
+    "author_or_speaker": "OWASP Agentic Security Initiative",
+    "publisher": "OWASP GenAI Security Project",
+    "publication_date": "2025-04",
+    "event_date": null,
+    "original_url": "https://genai.owasp.org/download/46950/?tmstv=1745459605",
+    "canonical_url": "https://genai.owasp.org/download/46950/?tmstv=1745459605",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cto"
+    ],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "moderate",
+    "evidence_contribution": "Direct-download duplicate of the accepted canonical guide landing page.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": true,
+    "existing_related_records": [
+      "See duplicate-review.json for the retained candidate identity."
+    ],
+    "decision": "reject",
+    "reason": "Direct-download duplicate of the accepted canonical guide landing page.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-114",
+    "title": "Model AI Governance Framework for Agentic AI PDF rendition",
+    "source_type": "public_policy_document",
+    "work_or_episode_identity": "Model AI Governance Framework for Agentic AI PDF rendition",
+    "author_or_speaker": "IMDA Singapore",
+    "publisher": "IMDA Singapore",
+    "publication_date": "2026",
+    "event_date": null,
+    "original_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+    "canonical_url": "https://www.imda.gov.sg/-/media/imda/files/about/emerging-tech-and-research/artificial-intelligence/mgf-for-agentic-ai.pdf",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "Singapore",
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cto"
+    ],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "high",
+    "evidence_contribution": "PDF rendition duplicate of the accepted official framework landing page.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": true,
+    "existing_related_records": [
+      "See duplicate-review.json for the retained candidate identity."
+    ],
+    "decision": "reject",
+    "reason": "PDF rendition duplicate of the accepted official framework landing page.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-115",
+    "title": "Pre-IIW workshop slide deck as a whitepaper duplicate",
+    "source_type": "research_report",
+    "work_or_episode_identity": "Pre-IIW workshop slide deck as a whitepaper duplicate",
+    "author_or_speaker": "OpenID Foundation",
+    "publisher": "OpenID Foundation",
+    "publication_date": "2025-10-20",
+    "event_date": null,
+    "original_url": "https://openid.net/wp-content/uploads/2025/10/Pre-IIW-Workshop-October-2025-1.pdf#page=1",
+    "canonical_url": "https://openid.net/wp-content/uploads/2025/10/Pre-IIW-Workshop-October-2025-1.pdf#page=1",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [
+      "role-ciso",
+      "role-cto"
+    ],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "AI-agent identity",
+      "authorization",
+      "delegation",
+      "auditability",
+      "accountability"
+    ],
+    "primary_or_secondary": "primary_or_original_publisher",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "moderate",
+    "evidence_contribution": "Same event artifact as the accepted conference-talk candidate; not a separate research work.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": true,
+    "existing_related_records": [
+      "See duplicate-review.json for the retained candidate identity."
+    ],
+    "decision": "reject",
+    "reason": "Same event artifact as the accepted conference-talk candidate; not a separate research work.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-116",
+    "title": "Generic passwordless authentication paper surfaced by agent-authentication search",
+    "source_type": "academic_paper",
+    "work_or_episode_identity": "Generic passwordless authentication paper surfaced by agent-authentication search",
+    "author_or_speaker": "Unresolved",
+    "publisher": "arXiv search",
+    "publication_date": null,
+    "event_date": null,
+    "original_url": "https://arxiv.org/search/?query=passwordless+authentication&searchtype=all",
+    "canonical_url": "https://arxiv.org/search/?query=passwordless+authentication&searchtype=all",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "screened adjacent topic"
+    ],
+    "primary_or_secondary": "locator_only",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "low",
+    "evidence_contribution": "Search-result page and generic human authentication topic; no canonical agent-identity work.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "reject",
+    "reason": "Search-result page and generic human authentication topic; no canonical agent-identity work.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q018",
+      "Q019",
+      "Q020",
+      "Q021",
+      "Q022",
+      "Q023",
+      "Q024"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-117",
+    "title": "Blockchain autonomous-weapons identity paper surfaced by autonomous-agent search",
+    "source_type": "academic_paper",
+    "work_or_episode_identity": "Blockchain autonomous-weapons identity paper surfaced by autonomous-agent search",
+    "author_or_speaker": "Unresolved",
+    "publisher": "arXiv search",
+    "publication_date": null,
+    "event_date": null,
+    "original_url": "https://arxiv.org/search/?query=blockchain+autonomous+weapons+identity&searchtype=all",
+    "canonical_url": "https://arxiv.org/search/?query=blockchain+autonomous+weapons+identity&searchtype=all",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "screened adjacent topic"
+    ],
+    "primary_or_secondary": "locator_only",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "low",
+    "evidence_contribution": "Outside enterprise-agent identity governance and lacks a canonically selected work.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "reject",
+    "reason": "Outside enterprise-agent identity governance and lacks a canonically selected work.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q018",
+      "Q019",
+      "Q020",
+      "Q021",
+      "Q022",
+      "Q023",
+      "Q024"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-118",
+    "title": "Privacy and security for humanoid robots search result",
+    "source_type": "academic_paper",
+    "work_or_episode_identity": "Privacy and security for humanoid robots search result",
+    "author_or_speaker": "Unresolved",
+    "publisher": "arXiv search",
+    "publication_date": null,
+    "event_date": null,
+    "original_url": "https://arxiv.org/search/?query=privacy+security+humanoid+robots&searchtype=all",
+    "canonical_url": "https://arxiv.org/search/?query=privacy+security+humanoid+robots&searchtype=all",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "screened adjacent topic"
+    ],
+    "primary_or_secondary": "locator_only",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "low",
+    "evidence_contribution": "Robotics-hardware scope and search-page identity fail the protocol.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "reject",
+    "reason": "Robotics-hardware scope and search-page identity fail the protocol.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q018",
+      "Q019",
+      "Q020",
+      "Q021",
+      "Q022",
+      "Q023",
+      "Q024"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-119",
+    "title": "ARIA mobile DevOps agent result",
+    "source_type": "academic_paper",
+    "work_or_episode_identity": "ARIA mobile DevOps agent result",
+    "author_or_speaker": "Unresolved",
+    "publisher": "arXiv search",
+    "publication_date": null,
+    "event_date": null,
+    "original_url": "https://arxiv.org/search/?query=ARIA+mobile+DevOps+agent&searchtype=all",
+    "canonical_url": "https://arxiv.org/search/?query=ARIA+mobile+DevOps+agent&searchtype=all",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "screened adjacent topic"
+    ],
+    "primary_or_secondary": "locator_only",
+    "analysis_access_status": "public_full_text_or_official_page",
+    "rights_status": "link_and_metadata_only_no_text_copied",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "perspective_not_empirical",
+    "source_identity_stability": "low",
+    "evidence_contribution": "Name collision with agentic terminology; no relevant identity contribution.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "reject",
+    "reason": "Name collision with agentic terminology; no relevant identity contribution.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q018",
+      "Q019",
+      "Q020",
+      "Q021",
+      "Q022",
+      "Q023",
+      "Q024"
+    ]
+  },
+  {
+    "candidate_id": "candidate-BATCH-2026-001-120",
+    "title": "The Agentic AI Bible retail listing",
+    "source_type": "book",
+    "work_or_episode_identity": "The Agentic AI Bible retail listing",
+    "author_or_speaker": "Unresolved",
+    "publisher": "Retail marketplace",
+    "publication_date": null,
+    "event_date": null,
+    "original_url": "https://www.amazon.com/s?k=The+Agentic+AI+Bible",
+    "canonical_url": "https://www.amazon.com/s?k=The+Agentic+AI+Bible",
+    "language": "lang-en",
+    "relevant_geographies": [
+      "geo-global"
+    ],
+    "relevant_roles": [],
+    "relevant_industries": [],
+    "relevant_topics": [
+      "screened adjacent topic"
+    ],
+    "primary_or_secondary": "locator_only",
+    "analysis_access_status": "official_metadata_only",
+    "rights_status": "metadata_and_link_only",
+    "ownership_status": "external_not_OFF_owned",
+    "OFF_relationship": "none_identified",
+    "methodological_transparency": "not_applicable_metadata_only",
+    "source_identity_stability": "low",
+    "evidence_contribution": "Retail search listing, unstable work identity, promotional positioning, and insufficient scholarly or practitioner authority.",
+    "diversity_contribution": [
+      "institutional or standards perspective"
+    ],
+    "likely_duplicate": false,
+    "existing_related_records": [],
+    "decision": "reject",
+    "reason": "Retail search listing, unstable work identity, promotional positioning, and insufficient scholarly or practitioner authority.",
+    "next_research_action": "Do not advance; retain this record as an auditable search and screening outcome.",
+    "search_query_ids": [
+      "Q001",
+      "Q002",
+      "Q003",
+      "Q004",
+      "Q005",
+      "Q006",
+      "Q007",
+      "Q008",
+      "Q009",
+      "Q010",
+      "Q011",
+      "Q012",
+      "Q013",
+      "Q014",
+      "Q015",
+      "Q016",
+      "Q017",
+      "Q038"
+    ]
+  }
+]

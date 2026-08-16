@@ -1,0 +1,45 @@
+name: "Person correction"
+description: "Submit one evidence-backed person correction for editorial review."
+title: "Person correction: "
+labels: [correction]
+body:
+  - type: markdown
+    attributes:
+      value: "Submission does not guarantee inclusion. Do not include private source material, personal contact details, or copyrighted full text."
+  - type: textarea
+    id: field_1
+    attributes:
+      label: "Person record or page"
+    validations:
+      required: true
+  - type: textarea
+    id: field_2
+    attributes:
+      label: "Field to correct"
+    validations:
+      required: true
+  - type: textarea
+    id: field_3
+    attributes:
+      label: "Proposed correction"
+    validations:
+      required: true
+  - type: textarea
+    id: field_4
+    attributes:
+      label: "Primary evidence"
+    validations:
+      required: true
+  - type: textarea
+    id: field_5
+    attributes:
+      label: "Role date or effective date"
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: Submission confirmation
+      options:
+        - label: I have provided public evidence and disclosed relevant relationships.
+          required: true

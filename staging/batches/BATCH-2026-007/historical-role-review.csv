@@ -1,0 +1,18 @@
+person_id,canonical_name,source_id,relationship,author_order,organization_at_source_time,role_at_source_time,verification_status,current_role_backfilled,human_review_status
+person-BATCH-2026-005-tobin-south,Tobin South,source-BATCH-2026-005-004,lead_editor,1,not reported,Lead editor,relationship_verified_affiliation_not_reported,false,pending
+person-BATCH-2026-005-alex-pentland,Alex Pentland,source-BATCH-2026-005-004,contributor,21,not reported,Contributor,relationship_verified_affiliation_not_reported,false,pending
+person-BATCH-2026-005-tobin-south,Tobin South,source-BATCH-2026-005-005,author,1,not reported,Author,relationship_verified_affiliation_not_reported,false,pending
+person-BATCH-2026-005-alex-pentland,Alex Pentland,source-BATCH-2026-005-005,author,21,not reported,Author,relationship_verified_affiliation_not_reported,false,pending
+person-BATCH-2026-005-edoardo-debenedetti,Edoardo Debenedetti,source-BATCH-2026-005-006,author,1,ETH Zurich,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-jie-zhang,Jie Zhang,source-BATCH-2026-005-006,author,2,ETH Zurich,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-mislav-balunovic,Mislav Balunović,source-BATCH-2026-005-006,author,3,ETH Zurich; Invariant Labs,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-luca-beurer-kellner,Luca Beurer-Kellner,source-BATCH-2026-005-006,author,4,ETH Zurich; Invariant Labs,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-marc-fischer,Marc Fischer,source-BATCH-2026-005-006,author,5,ETH Zurich; Invariant Labs,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-florian-tramer,Florian Tramèr,source-BATCH-2026-005-006,author,6,ETH Zurich,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-hanrong-zhang,Hanrong Zhang,source-BATCH-2026-005-007,author,1,Zhejiang University,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-jingyuan-huang,Jingyuan Huang,source-BATCH-2026-005-007,author,2,Rutgers University,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-kai-mei,Kai Mei,source-BATCH-2026-005-007,author,3,Rutgers University,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-yongfeng-zhang,Yongfeng Zhang,source-BATCH-2026-005-007,author,8,Rutgers University,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-yuxuan-zhu,Yuxuan Zhu,source-BATCH-2026-005-008,author,1,University of Illinois Urbana-Champaign,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-richard-fang,Richard Fang,source-BATCH-2026-005-008,author,5,University of Illinois Urbana-Champaign,Author,verified_from_source_byline_and_affiliation,false,pending
+person-BATCH-2026-005-daniel-kang,Daniel Kang,source-BATCH-2026-005-008,author,7,University of Illinois Urbana-Champaign,Author,verified_from_source_byline_and_affiliation,false,pending

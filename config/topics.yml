@@ -1,0 +1,39 @@
+schema_version: 1.0.0
+status: machine_drafted_for_human_review
+instruction: Researchers must use these IDs. Proposed additions belong in staging/proposed-taxonomy.
+topics:
+  - { id: topic-enterprise-ai-adoption, label: Enterprise AI adoption, parent: topic-ai }
+  - { id: topic-ai-agents, label: AI agents, parent: topic-ai }
+  - { id: topic-ai-governance, label: AI governance, parent: topic-ai }
+  - { id: topic-cybersecurity, label: Cybersecurity, parent: null }
+  - { id: topic-non-human-identity, label: Non-human identity, parent: topic-cybersecurity }
+  - { id: topic-finance-transformation, label: Finance transformation, parent: topic-finance }
+  - { id: topic-ai-economics, label: AI economics, parent: topic-ai }
+  - { id: topic-ai-return-on-investment, label: AI return on investment, parent: topic-ai-economics }
+  - { id: topic-marketing-measurement, label: Marketing measurement, parent: topic-marketing }
+  - { id: topic-customer-acquisition, label: Customer acquisition, parent: topic-marketing }
+  - { id: topic-attribution, label: Attribution, parent: topic-marketing-measurement }
+  - { id: topic-legal-leadership, label: Legal leadership, parent: topic-leadership }
+  - { id: topic-ai-liability, label: AI liability, parent: topic-ai-governance }
+  - { id: topic-regulation, label: Regulation, parent: null }
+  - { id: topic-executive-leadership, label: Executive leadership, parent: topic-leadership }
+  - { id: topic-organizational-change, label: Organizational change, parent: topic-leadership }
+  - { id: topic-private-equity-value-creation, label: Private equity value creation, parent: topic-investment }
+  - { id: topic-venture-capital, label: Venture capital, parent: topic-investment }
+  - { id: topic-company-formation, label: Company formation, parent: topic-enterprise }
+  - { id: topic-data, label: Data, parent: topic-enterprise-technology }
+  - { id: topic-enterprise-infrastructure, label: Enterprise infrastructure, parent: topic-enterprise-technology }
+  - { id: topic-architecture, label: Architecture, parent: topic-enterprise-technology }
+  - { id: topic-executive-communities, label: Executive communities, parent: topic-executive-networks }
+  - { id: topic-executive-networks, label: Executive networks, parent: topic-leadership }
+  - { id: topic-convening, label: Convening, parent: topic-executive-networks }
+  - { id: topic-board-governance, label: Board governance, parent: topic-leadership }
+  - { id: topic-decision-making, label: Decision-making, parent: topic-leadership }
+parents:
+  - { id: topic-ai, label: Artificial intelligence }
+  - { id: topic-finance, label: Finance }
+  - { id: topic-marketing, label: Marketing }
+  - { id: topic-leadership, label: Leadership and governance }
+  - { id: topic-investment, label: Investment }
+  - { id: topic-enterprise, label: Enterprise development }
+  - { id: topic-enterprise-technology, label: Enterprise technology }

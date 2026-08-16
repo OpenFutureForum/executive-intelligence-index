@@ -1,0 +1,204 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://openfutureforum.github.io/executive-intelligence-index/schema/person.schema.json",
+  "title": "Person",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "person_id",
+    "canonical_name",
+    "display_name",
+    "public_profile_eligibility",
+    "verification_status",
+    "provenance"
+  ],
+  "properties": {
+    "person_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "canonical_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "display_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "alternate_names": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "name_disambiguation_note": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "external_identifiers": {
+      "type": "object"
+    },
+    "current_role": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "current_organization_reference": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "current_role_source": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "current_role_verified_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "current_role_freshness_status": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "historical_roles": {
+      "type": "array",
+      "items": {}
+    },
+    "role_at_source_time": {
+      "type": "array",
+      "items": {}
+    },
+    "professional_geographies": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "operating_markets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "expertise_topics": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "authored_book_work_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "contributed_work_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "source_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "statement_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "proposition_relationships": {
+      "type": "array",
+      "items": {}
+    },
+    "relationship_to_off": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "disclosure": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "public_profile_eligibility": {
+      "type": "boolean"
+    },
+    "verification_status": {
+      "type": "string",
+      "minLength": 1
+    },
+    "person_depth": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "workflow_status": {
+      "$ref": "common.schema.json#/$defs/workflowStatus"
+    },
+    "machine_review_status": {
+      "$ref": "common.schema.json#/$defs/machineReviewStatus"
+    },
+    "human_review_status": {
+      "$ref": "common.schema.json#/$defs/humanReviewStatus"
+    },
+    "reviewed_by": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "reviewed_at": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date-time"
+    },
+    "provenance": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "common.schema.json#/$defs/provenance"
+      }
+    },
+    "revision_history": {
+      "type": "array",
+      "items": {
+        "$ref": "common.schema.json#/$defs/revision"
+      }
+    }
+  }
+}

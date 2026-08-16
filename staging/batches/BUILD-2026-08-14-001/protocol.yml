@@ -1,0 +1,31 @@
+protocol_id: protocol-BUILD-2026-08-14-001
+research_question: Which existing Open Future Forum repository conventions should the new source-statement intelligence index reuse while preserving a distinct unit of analysis?
+scope: Architecture and public-repository conventions in the six repositories named by the master build prompt; no production research ingestion.
+time_period: Repositories as inspected on 2026-08-14.
+target_roles: []
+target_geographies: []
+target_languages: [English]
+included_source_types: [Official public GitHub repository, repository policy, repository configuration, repository source tree]
+excluded_source_types: [Search snippets as evidence, third-party commentary, private repositories, confidential OFF material]
+inclusion_criteria:
+  - Repository is one of the six OFF projects named in the master build prompt.
+  - Public files are directly accessible and relevant to architecture, data ownership, publishing, governance, licensing, or methodology.
+exclusion_criteria:
+  - Search result does not resolve to a named OFF repository.
+  - Material is unrelated to repository architecture or risks duplicating source content.
+source_priority: [Official repository files at pinned commit, official repository page]
+diversity_objectives: [Compare data index, research library, ranked index, practical playbook, organization profile, and Pages root conventions.]
+expected_limitations:
+  - GitHub authentication is invalid, so write permissions and CODEOWNER eligibility cannot be verified.
+  - This is a framework inspection, not a research-corpus selection protocol.
+planned_search_queries:
+  - site:github.com/OpenFutureForum cxo-ecosystem-index
+  - site:github.com/OpenFutureForum executive-ai-research
+  - site:github.com/OpenFutureForum executive-communities-index executive-community-playbook
+  - site:github.com/OpenFutureForum OpenFutureForum.github.io .github
+planned_batch_size: 6
+created_at: 2026-08-14T23:08:01-07:00
+created_by: OpenAI Codex agent
+prompt_id: OEII-MASTER-BUILD
+prompt_version: "2.0"
+registration_note: The master build prompt itself fixed all six repositories before inspection. This local protocol record was materialized after initial access and is not misrepresented as a prospective research pre-registration.
