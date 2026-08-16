@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { publicationIssues } from '../../scripts/lib/publication';
+import { publicRecords } from '../../src/lib/catalog';
 
 describe('publication gates', () => {
   it('rejects agent-assigned human approval', () => {
@@ -10,5 +11,8 @@ describe('publication gates', () => {
   });
   it('allows non-public machine drafts to await review', () => {
     expect(publicationIssues({ workflow_status: 'candidate', human_review_status: 'pending', reviewed_by: null, reviewed_at: null })).toEqual([]);
+  });
+  it('keeps a pending release candidate out of public release selection', () => {
+    expect(publicRecords([{ workflow_status: 'publication_recommended', human_review_status: 'pending', reviewed_by: null, reviewed_at: null, semantic_version: '9.9.9' }])).toEqual([]);
   });
 });

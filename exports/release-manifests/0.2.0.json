@@ -1,0 +1,95 @@
+{
+  "release_id": "release-0.2.0-candidate",
+  "semantic_version": "0.2.0",
+  "release_status": "blocked_candidate_not_public",
+  "schema_version": "1.0.0",
+  "data_version": "0.0.0",
+  "content_version": "0.1.0",
+  "release_date": null,
+  "approved_batch_ids": [],
+  "included_record_counts": {
+    "people": 0,
+    "books": 0,
+    "editions": 0,
+    "media_sources": 0,
+    "evidence_sources": 0,
+    "statements": 0,
+    "propositions": 0,
+    "stance_relationships": 0,
+    "debates": 0,
+    "dossiers": 0,
+    "roles": 0,
+    "regions": 0,
+    "languages": 0
+  },
+  "source_metrics": {
+    "off_owned_share": null,
+    "external_share": null,
+    "source_concentration": null,
+    "reason": "No eligible production sources; denominator is zero."
+  },
+  "records_by_review_status": {
+    "approved": 0,
+    "pending_canonical_records": 2,
+    "published": 0
+  },
+  "checksums": {
+    "exports/bibliographies/README.md": "9234346ea9b10467ff36dc51f97ea54591049fd84e1fd610aa754243b6462fb8",
+    "exports/citations/records.bib": "b129952ae22cf77632660b28b1a59008a5a4b0557f485a202dc7c83bef0a9514",
+    "exports/csv/batches.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/book-editions.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/book-works.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/corrections.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/debates.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/dossiers.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/organization-references.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/people.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/propositions.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/protocols.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/releases.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/reviews.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/sources.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/stances.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/statements.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/topics.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/csv/trends.csv": "8c7784e06705eeb046533c177c7c6af5a7eb89d6b0b912f82808e3a4ab1995e4",
+    "exports/graphml/graph.graphml": "37776c7d8e5ad090874effed8b195d2f85b5f19d3e270f17e95dc889ab2cbb96",
+    "exports/json/catalog.json": "df12f7c90bcf89843b398888cee241b61103ccdd67d389bea0e1a1a9ce46abd2",
+    "exports/ndjson/catalog.ndjson": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "release_fingerprint": "3527bda659346bd2f07569f394d14bc43f2065ef4e5dc800d6c10ca7ea747d3b",
+  "excluded_batches": [
+    "BATCH-2026-001",
+    "BATCH-2026-002",
+    "BATCH-2026-003",
+    "BATCH-2026-004",
+    "BATCH-2026-005",
+    "BATCH-2026-006",
+    "BATCH-2026-007",
+    "BATCH-2026-008",
+    "BATCH-2026-009",
+    "BATCH-2026-010",
+    "BATCH-2026-011",
+    "BATCH-2026-012",
+    "BATCH-2026-013"
+  ],
+  "approval_gate": {
+    "named_human_release_approval": "missing",
+    "explicit_approved_batch_set": "missing",
+    "records_moved_to_production": 0,
+    "decision": "hold"
+  },
+  "upstream_crosswalk_versions": [
+    { "project_id": "cxo-ecosystem-index", "upstream_commit": "45ca4066fc00" },
+    { "project_id": "executive-ai-research", "upstream_commit": "d205a6b2e6f4" },
+    { "project_id": "executive-communities-index", "upstream_commit": "ba9bab57a774" },
+    { "project_id": "executive-community-playbook", "upstream_commit": "2a0936b00c75" },
+    { "project_id": "openfutureforum-github-profile", "upstream_commit": "c3fe1e9e27cc" },
+    { "project_id": "openfutureforum-pages-root", "upstream_commit": "12505350a4d9" }
+  ],
+  "limitations": [
+    "Candidate only; not an approved or frozen production release.",
+    "No release tag, GitHub release, deployment, or live verification is claimed.",
+    "The public 0.1.0 framework manifest remains authoritative."
+  ]
+}
